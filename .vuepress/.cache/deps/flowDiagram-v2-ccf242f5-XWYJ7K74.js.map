@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../node_modules/.pnpm/mermaid@10.2.4/node_modules/mermaid/dist/flowDiagram-v2-ccf242f5.js"],
-  "sourcesContent": ["import { p as e, f as o } from \"./flowDb-5c3f1e8c.js\";\nimport { f as t, g as a } from \"./styles-41b45f07.js\";\nimport { u as s } from \"./mermaid-be6aa4a6.js\";\nimport \"./layout-b178bd1a.js\";\nimport \"./index-745c9ffe.js\";\nimport \"./edges-1ceb0db9.js\";\nimport \"./createText-7fe61f7a.js\";\nimport \"./svgDraw-51404f3b.js\";\nimport \"./line-d1abfd73.js\";\nimport \"./array-2ff2c7a6.js\";\nimport \"./constant-2fe7eae5.js\";\nimport \"./selectAll-b44befab.js\";\nconst A = {\n  parser: e,\n  db: o,\n  renderer: t,\n  styles: a,\n  init: (r) => {\n    r.flowchart || (r.flowchart = {}), r.flowchart.arrowMarkerAbsolute = r.arrowMarkerAbsolute, s({ flowchart: { arrowMarkerAbsolute: r.arrowMarkerAbsolute } }), t.setConf(r.flowchart), o.clear(), o.setGen(\"gen-2\");\n  }\n};\nexport {\n  A as diagram\n};\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;AAYA,IAAM,IAAI;AAAA,EACR,QAAQ;AAAA,EACR,IAAI;AAAA,EACJ,UAAU;AAAA,EACV,QAAQ;AAAA,EACR,MAAM,CAAC,MAAM;AACX,MAAE,cAAc,EAAE,YAAY,CAAC,IAAI,EAAE,UAAU,sBAAsB,EAAE,qBAAqB,GAAE,EAAE,WAAW,EAAE,qBAAqB,EAAE,oBAAoB,EAAE,CAAC,GAAG,GAAE,QAAQ,EAAE,SAAS,GAAG,GAAE,MAAM,GAAG,GAAE,OAAO,OAAO;AAAA,EACnN;AACF;",
-  "names": []
-}
