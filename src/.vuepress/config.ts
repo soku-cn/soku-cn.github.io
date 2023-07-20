@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { cut } from "nodejs-jieba";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
   base: "/",
@@ -19,8 +20,15 @@ export default defineUserConfig({
         // 使用 nodejs-jieba 进行分词
         tokenize: (text, fieldName) =>
           fieldName === "id" ? [text] : cut(text, true),
+        
+
       },
     }),
+
+
+
+
+
   ],
   
 
