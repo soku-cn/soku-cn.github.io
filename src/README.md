@@ -8,6 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
 tagline: 一个关于「东方非想天则」的普通指南✨
 
+
 actions:
   - text: 「查看指南」
     link: /docs/
