@@ -1,6 +1,9 @@
 ---
-title: Bar 功能
-icon: lightbulb
+title: 测试内容
+icon: file
+pageInfo: false
+order: 10
+index: false
 ---
 
 ## 介绍

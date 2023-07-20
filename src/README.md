@@ -11,7 +11,7 @@ tagline: 一个关于「东方非想天则」的普通指南✨
 
 actions:
   - text: 「查看指南」
-    link: /docs/
+    link: /guide/
     type: primary
 
   - text: 「关于我们」
@@ -21,16 +21,16 @@ features:
   - title: 启动器
     icon: fab fa-markdown
     details: 使用「东方非想天启」便捷地更新和管理游戏插件，一键启动游戏、天则观、Swarm等...
-    link: /zh/docs/FXTQ
+    link: /guide/非想天启/使用说明.html
 
-  - title: 幻灯片页面
+  - title: 施工中...
     icon: person-chalkboard
-    details: 添加幻灯片页面以显示你喜欢的内容
+    details: 施工中...
     link: /zh/guide/layout/slides
 
-  - title: 布局增强
+  - title: 施工中...
     icon: object-group
-    details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
+    details: 施工中...
     link: /zh/guide/layout/
 
 # 游戏简介，资源下载，问题指南，新手上路/游戏攻略，各插件详解，游戏社区 工具与MOD
