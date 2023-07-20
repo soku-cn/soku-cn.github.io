@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { cut } from "nodejs-jieba";
 
 export default defineUserConfig({
   base: "/",
@@ -10,6 +12,21 @@ export default defineUserConfig({
 
   theme,
 
-  // Enable it with pwa
+  plugins: [
+    searchProPlugin({
+      indexContent: true,
+      indexOptions: {
+        // 使用 nodejs-jieba 进行分词
+        tokenize: (text, fieldName) =>
+          fieldName === "id" ? [text] : cut(text, true),
+      },
+    }),
+  ],
+  
+
+
+    // Enable it with pwa
   // shouldPrefetch: false,
 });
+
+
