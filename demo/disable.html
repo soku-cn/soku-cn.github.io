@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-beta.66" />
+    <meta name="theme" content="VuePress Theme Hope" />
+    <meta property="og:url" content="https://vuepress-theme-hope-docs-demo.netlify.app/demo/disable.html"><meta property="og:site_name" content="文档演示"><meta property="og:title" content="布局与功能禁用"><meta property="og:description" content="你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。 本页面就是一个示例，禁用了如下功能: 导航栏; 侧边栏; 路径导航; 页面信息; 贡献者; 编辑此页链接; 更新时间; 上一篇/下一篇 链接; 评论; 页脚; 返回顶部按钮;"><meta property="og:type" content="article"><meta property="og:locale" content="zh-CN"><meta property="article:author" content="Mr.Hope"><meta property="article:tag" content="禁用"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"布局与功能禁用","image":[""],"dateModified":null,"author":[{"@type":"Person","name":"Mr.Hope","url":"https://mister-hope.com"}]}</script><title>布局与功能禁用 | 文档演示</title><meta name="description" content="你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。 本页面就是一个示例，禁用了如下功能: 导航栏; 侧边栏; 路径导航; 页面信息; 贡献者; 编辑此页链接; 更新时间; 上一篇/下一篇 链接; 评论; 页脚; 返回顶部按钮;">
+    <style>
+      :root {
+        --bg-color: #fff;
+      }
+
+      html[data-theme="dark"] {
+        --bg-color: #1d1e1f;
+      }
+
+      html,
+      body {
+        background: var(--bg-color);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem("vuepress-theme-hope-scheme");
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+      if (userMode === "dark" || (userMode !== "light" && systemDarkMode)) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    </script>
+    <link rel="preload" href="/assets/style-40599a62.css" as="style"><link rel="stylesheet" href="/assets/style-40599a62.css">
+    <link rel="modulepreload" href="/assets/app-36319481.js"><link rel="modulepreload" href="/assets/disable.html-3a00a4ba.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper-c27b6911.js"><link rel="modulepreload" href="/assets/disable.html-80c7b365.js"><link rel="prefetch" href="/assets/index.html-838aab72.js" as="script"><link rel="prefetch" href="/assets/slides.html-95d8b6f3.js" as="script"><link rel="prefetch" href="/assets/encrypt.html-9d85f231.js" as="script"><link rel="prefetch" href="/assets/markdown.html-3f62c237.js" as="script"><link rel="prefetch" href="/assets/page.html-de50b3e9.js" as="script"><link rel="prefetch" href="/assets/index.html-37f48e42.js" as="script"><link rel="prefetch" href="/assets/index.html-97e7a31a.js" as="script"><link rel="prefetch" href="/assets/ray.html-8e79e707.js" as="script"><link rel="prefetch" href="/assets/index.html-af2c6fe8.js" as="script"><link rel="prefetch" href="/assets/baz.html-c8b49ddf.js" as="script"><link rel="prefetch" href="/assets/index.html-65deb3fd.js" as="script"><link rel="prefetch" href="/assets/404.html-a857d8d8.js" as="script"><link rel="prefetch" href="/assets/index.html-70a77bf1.js" as="script"><link rel="prefetch" href="/assets/slides.html-b7b75715.js" as="script"><link rel="prefetch" href="/assets/encrypt.html-38d2be5c.js" as="script"><link rel="prefetch" href="/assets/markdown.html-a7b60d19.js" as="script"><link rel="prefetch" href="/assets/page.html-5e579ce0.js" as="script"><link rel="prefetch" href="/assets/index.html-c2bf69e5.js" as="script"><link rel="prefetch" href="/assets/index.html-edbc73f0.js" as="script"><link rel="prefetch" href="/assets/ray.html-f56b6db5.js" as="script"><link rel="prefetch" href="/assets/index.html-2e971d5e.js" as="script"><link rel="prefetch" href="/assets/baz.html-8e131762.js" as="script"><link rel="prefetch" href="/assets/index.html-f205c099.js" as="script"><link rel="prefetch" href="/assets/404.html-6dbca287.js" as="script"><link rel="prefetch" href="/assets/giscus-765fdce2.js" as="script"><link rel="prefetch" href="/assets/auto-fa8841cf.js" as="script"><link rel="prefetch" href="/assets/index-2bf332f6.js" as="script"><link rel="prefetch" href="/assets/flowchart-c441f34d.js" as="script"><link rel="prefetch" href="/assets/mermaid.core-5bb49a1a.js" as="script"><link rel="prefetch" href="/assets/highlight.esm-75b11b9d.js" as="script"><link rel="prefetch" href="/assets/markdown.esm-abe06b83.js" as="script"><link rel="prefetch" href="/assets/math.esm-70a288c8.js" as="script"><link rel="prefetch" href="/assets/notes.esm-a106bb2c.js" as="script"><link rel="prefetch" href="/assets/reveal.esm-ec5549c1.js" as="script"><link rel="prefetch" href="/assets/search.esm-7e6792e2.js" as="script"><link rel="prefetch" href="/assets/zoom.esm-b83b91d0.js" as="script"><link rel="prefetch" href="/assets/VuePlayground-e2c0ca18.js" as="script"><link rel="prefetch" href="/assets/photoswipe.esm-5794cde2.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><!--[--><!--[--><span tabindex="-1"></span><a href="#main-content" class="vp-skip-link sr-only">跳至主要內容</a><!--]--><div class="theme-container no-navbar no-sidebar has-toc"><!----><!----><div class="toggle-sidebar-wrapper"><span class="arrow start"></span></div><aside id="sidebar" class="vp-sidebar"><!--[--><!----><!--]--><ul class="vp-sidebar-links"></ul><!--[--><!----><!--]--></aside><!--[--><main id="main-content" class="vp-page"><!--[--><!----><!----><nav class="vp-breadcrumb disable"></nav><div class="vp-page-title"><h1><span class="font-icon icon fa-fw fa-sm fas fa-gears" style=""></span>布局与功能禁用</h1><!----><hr></div><!----><!----><div class="theme-hope-content"><p>你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。</p><!-- more --><p>本页面就是一个示例，禁用了如下功能:</p><ul><li>导航栏</li><li>侧边栏</li><li>路径导航</li><li>页面信息</li><li>贡献者</li><li>编辑此页链接</li><li>更新时间</li><li>上一篇/下一篇 链接</li><li>评论</li><li>页脚</li><li>返回顶部按钮</li></ul></div><!----><footer class="page-meta"><!----><div class="meta-item git-info"><!----><!----></div></footer><!----><div id="comment" class="giscus-wrapper input-top" style="display:none;"><div class="loading-icon-wrapper" style="display:flex;align-items:center;justify-content:center;height:96px"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" preserveAspectRatio="xMidYMid" viewBox="25 25 50 50"><animateTransform attributeName="transform" type="rotate" dur="2s" keyTimes="0;1" repeatCount="indefinite" values="0;360"></animateTransform><circle cx="50" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"><animate attributeName="stroke-dasharray" dur="1.5s" keyTimes="0;0.5;1" repeatCount="indefinite" values="1,200;90,200;1,200"></animate><animate attributeName="stroke-dashoffset" dur="1.5s" keyTimes="0;0.5;1" repeatCount="indefinite" values="0;-35px;-125px"></animate></circle></svg></div></div><!----><!--]--></main><!--]--><!----></div><!--]--><!----><!--]--></div>
+    <script type="module" src="/assets/app-36319481.js" defer></script>
+  </body>
+</html>
