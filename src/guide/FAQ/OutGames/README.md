@@ -1,5 +1,5 @@
 ---
-title: 问题指南
+title: 游戏外问题
 index: false
 icon: question
 pageInfo: false

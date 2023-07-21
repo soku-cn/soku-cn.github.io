@@ -1,5 +1,5 @@
 ---
-title: 「东方非想天启」
+title: 东方非想天启指南
 # 标题
 icon: gears
 # 图标

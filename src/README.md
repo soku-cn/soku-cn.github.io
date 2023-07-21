@@ -14,26 +14,51 @@ actions:
     link: /guide/
     type: primary
 
-  - text: 「关于我们」
-    link: /zh/guide/get-started/intro.html
+  - text: 「加入我们」
+    link: /guide/#qq群
 
 features:
+
+  - title: 游戏简介
+    icon: circle-info
+    details: 「东方非想天则」是东方Project官方游戏系列的第12.3作，也是发布在Windows平台上的（新作）第四个小数点作。
+    link: /guide/
+    
   - title: 启动器
     icon: fab fa-markdown
     details: 使用「东方非想天启」便捷地更新和管理游戏插件，一键启动游戏、天则观、Swarm等...
-    link: /guide/非想天启/使用说明.html
+    link: /guide/FXTQ/introduce.html
 
-  - title: 施工中...
-    icon: person-chalkboard
-    details: 施工中...
-    link: /zh/guide/layout/slides
+  - title: 资源下载
+    icon: rss
+    details: 提供了数个网盘进行资源下载，同时欢迎各位加入非想天则的各个QQ群或社交平台~
+    link: /guide/#资源下载指路
 
-  - title: 施工中...
-    icon: object-group
-    details: 施工中...
-    link: /zh/guide/layout/
+  - title: 问题指南
+    icon: search
+    details: 我们提供了「天则指南」进行问题解答（也就是本站），正在持续建设更新中~
+    link: /guide/
 
-# 游戏简介，资源下载，问题指南，新手上路/游戏攻略，各插件详解，游戏社区 工具与MOD
+  - title: 新手上路/游戏攻略
+    icon: book
+    details: 正在建设中~
+    link: /guide/
+
+  - title: 插件详解
+    icon: sitemap
+    details: 正在建设中~
+    link: /guide/
+
+  - title: 游戏社区
+    icon: comment-dots
+    details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
+    link: /guide/#qq群
+
+  - title: 工具与MOD
+    icon: ellipsis
+    details: 正在建设中~
+    link: /guide/
+
 copyright: false
 footer: MIT Licensed | Copyright © 2023 ChocoFleece
 ---

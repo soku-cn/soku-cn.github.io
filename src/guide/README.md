@@ -61,24 +61,23 @@ next: false
 
 [三回転](https://space.bilibili.com/357511007) 动态置顶、专栏文章
 [巧克力绒](https://space.bilibili.com/100686288) 东方非想天启制作者
-
+[Youtube FranFranBurger#1337](https://www.youtube.com/c/SpellBreakSoku/videos) 高手Replay
+[掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) 高手Replay
+[掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video) 高手Replay
 :::
 
 
 ### **网站相关**
 
 ::: info 网址
-[giuroll-Github](https://github.com/Giufinn/giuroll)
-[SWRSToys-Github](https://github.com/SokuDev/SokuMods)
-[外国SokuReplays网站，可计分elo和记录对局比分、卡组等](https://sokureplays.delthas.fr)
-[Discord国际非想天则交流社区](https://discord.gg/hisouten)
-[Touhou Hisoutensoku Wiki 英文Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
-[細々と東方非想天則を攻略する 日文Wiki](https://w.atwiki.jp/bulletaction/)
-[Youtube FranFranBurger#1337 录制的高手Replay](https://www.youtube.com/c/SpellBreakSoku/videos)
-[掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
-[掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
+[giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址
+[SWRSToys-Github](https://github.com/SokuDev/SokuMods) SWRSToys插件的Github仓库地址
+[細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
+[SokuReplays](https://sokureplays.delthas.fr)国际网站，可计分elo和记录对局比分、卡组等
+[Discord Hisouten](https://discord.gg/hisouten) 国际非想天则社区
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 :::
 
-### Wiki编写工具
+### 有助于编写Wiki的工具或文档
 - [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)
 
