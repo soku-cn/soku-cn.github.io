@@ -13,6 +13,10 @@ comment: false
 #作者
 date: 2023-07-21
 #文章编辑日期
+# 页脚
+# footer: 这是测试显示的页脚
+# 版权信息
+# copyright: 无版权
 ---
 
 ::: info 前言

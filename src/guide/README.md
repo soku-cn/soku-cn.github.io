@@ -49,12 +49,13 @@ next: false
 - 非想天则有点好玩 **131923309**
 - 东方非想天则萌新天堂 **747865302**
 - 东方TSK打则群 **279377030**
+- 三回的Mod交流园林群 **200803640**
 - 非想天启先行测试群 **745214751**
 
 :::
 
 
-### **B站** 
+### **视频相关** 
 
 ::: info 个人空间
 
@@ -63,6 +64,20 @@ next: false
 
 :::
 
+
+### **网站相关**
+
+::: info 网址
+[giuroll-Github](https://github.com/Giufinn/giuroll)
+[SWRSToys-Github](https://github.com/SokuDev/SokuMods)
+[外国SokuReplays网站，可计分elo和记录对局比分、卡组等](https://sokureplays.delthas.fr)
+[Discord国际非想天则交流社区](https://discord.gg/hisouten)
+[Touhou Hisoutensoku Wiki 英文Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
+[細々と東方非想天則を攻略する 日文Wiki](https://w.atwiki.jp/bulletaction/)
+[Youtube FranFranBurger#1337 录制的高手Replay](https://www.youtube.com/c/SpellBreakSoku/videos)
+[掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
+[掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
+:::
 
 ### Wiki编写工具
 - [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)
