@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "游戏制作「上海アリス幻樂団」",
+  footer: "游戏制作「上海アリス幻樂団」、「黄昏フロンティア」",
 
   displayFooter: true,
 
