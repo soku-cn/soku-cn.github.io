@@ -20,7 +20,7 @@ export default defineUserConfig({
         // 使用 nodejs-jieba 进行分词
         tokenize: (text, fieldName) =>
           fieldName === "id" ? [text] : cut(text, true),
-        
+          
 
       },
     }),
