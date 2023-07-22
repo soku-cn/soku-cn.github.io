@@ -19,6 +19,7 @@ date: 2023-07-21
 
 ::: info 前言
 问题反馈、启动器下载QQ群:**745214751**
+[启动器下载源-Gitee](https://gitee.com/zhongzi26/fxtq/releases)
 **4.8**以下版本存在问题请勿使用[^first]，**反馈问题只接受最新版**
 :::
 
