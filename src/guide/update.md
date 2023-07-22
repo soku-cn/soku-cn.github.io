@@ -47,5 +47,5 @@ date: 2023-06-21
 
 
 
-[^first]: 请从资源群中下载，详见[此处](README.md/#qq群)
+[^first]: 请从此处下载[资源下载](README.md/#网盘)
 [^second]: 同上
