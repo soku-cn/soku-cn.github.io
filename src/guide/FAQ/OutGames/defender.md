@@ -11,7 +11,7 @@ comment: false
 #禁用评论功能
 #author: 巧克力绒
 #作者
-date: 2023-07-21
+date: 2023-07-22
 #文章编辑日期
 # 页脚
 # footer: 这是测试显示的页脚
@@ -29,6 +29,8 @@ date: 2023-07-21
 ### **添加白名单或关闭杀毒软件**
 
 以下是Windows Defender的信任添加方式：
+
+>也可直接参考[这篇文章](https://zhuanlan.zhihu.com/p/348518908)
 
 1. 打开```Windows安全中心``` 
 
