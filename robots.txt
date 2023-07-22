@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://fxtq.github.io/sitemap.xml
+Sitemap: https://wiki.514.live/sitemap.xml
