@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://fxtq.github.io",
+  hostname: "https://wiki.514.live",
 
   author: {
     name: "巧克力绒",
