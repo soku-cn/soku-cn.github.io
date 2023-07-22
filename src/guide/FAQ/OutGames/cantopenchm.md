@@ -7,8 +7,6 @@ order: 2
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
-comment: false
-#禁用评论功能
 #author: 巧克力绒
 #作者
 date: 2023-07-22
