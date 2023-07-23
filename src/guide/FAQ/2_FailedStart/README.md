@@ -1,5 +1,5 @@
 ---
-title: 游戏外问题
+title: 游戏无法正常运行
 index: false
 icon: question
 pageInfo: false
@@ -7,4 +7,5 @@ editLink: false
 comment: false
 prev: false
 next: false
+order: 2
 ---
