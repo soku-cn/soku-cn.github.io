@@ -5165,19 +5165,6 @@ packages:
     resolution: {integrity: sha512-uYr7J37ae/ORWdZeQ1xxMJe3NtdmqMC/JZK+geofDrkLUApKRHPd18/TxtBOJ4A0/+uUIliorNrfYV6s1b02eQ==}
     dev: true
 
-  /nodejs-jieba@0.0.2:
-    resolution: {integrity: sha512-x57xF83hPwazO+8cfCDNRtxEiPdswxOdTJ+RTjkAAIE266o+ZFVOFP8Gwv9t88q5Frpy9lMHjVg+VMxY55Avwg==}
-    engines: {node: '>= 16'}
-    requiresBuild: true
-    dependencies:
-      '@mapbox/node-pre-gyp': 1.0.11
-      node-addon-api: 6.1.0
-      node-gyp: 9.4.0
-    transitivePeerDependencies:
-      - encoding
-      - supports-color
-    dev: false
-
   /non-layered-tidy-tree-layout@2.0.2:
     resolution: {integrity: sha512-gkXMxRzUH+PB0ax9dUN0yYF0S25BqeAYqhgMaLUFmpXLEk7Fcu8f4emJuOAY0V8kjDICxROIKsTAKsV/v355xw==}
     dev: true
