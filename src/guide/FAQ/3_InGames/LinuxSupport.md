@@ -15,7 +15,7 @@ date: 2023-07-23
 
 ## 我是用Linux+Wine，遇到问题
 
-###可参考 英文Wiki内的 Linux support 章节
+### 可参考 英文Wiki内的 Linux support 章节
 https://hisouten.koumakan.jp/wiki/Linux_support
 
 
@@ -35,5 +35,5 @@ if you want a shortcut to launch the game try `vi $HOME/.bash_aliases` (it doesn
 
 then save, then run `source ~/.bash_aliases` and now you can run hisoutensoku by typing `soku` in the terminal
 
-###部分Mod与Wine的兼容性，新mod若有问题可私聊求助
+### 部分Mod与Wine的兼容性，新mod若有问题可私聊求助
 ![](https://img.514.live/img/202307231901059.png)
