@@ -14,8 +14,8 @@ actions:
     link: /guide/
     type: primary
 
-  - text: 「加入我们」
-    link: /guide/#qq群
+  - text: 「资源下载」
+    link: /guide/#网盘
 
 features:
 

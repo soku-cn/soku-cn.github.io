@@ -7,5 +7,4 @@ editLink: false
 comment: false
 prev: false
 next: false
-order: 3
 ---
