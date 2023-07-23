@@ -41,26 +41,24 @@ next: false
 
 ::: info 相关信息
 
-- 新则-高活对战群 **178884533**
-- 新则-资源发布群 **869104893**
-- 非想天则有点好玩 **131923309**
-- 东方非想天则萌新天堂 **747865302**
-- 东方TSK打则群 **279377030**
-- 三回的Mod交流园林群 **200803640**
-- 非想天启先行测试群 **745214751**
+- 新则-高活对战群  **178884533**
+- 新则-资源发布群  **869104893**
+- 非想天则有点好玩（对战群）  **131923309**
+- 东方非想天则萌新天堂（萌新群）  **747865302**
+- 东方TSK打则群（聊天吹水）   **279377030**
+- 三回的Mod交流群  **200803640**
+- 非想天启先行测试群+本站建设群  **745214751**
 
 :::
 
 
-### **视频相关** 
+### **个人空间** 
 
-::: info 个人空间
+::: info 个人空间-B站
 
 [三回転](https://space.bilibili.com/357511007) 动态置顶、专栏文章
 [巧克力绒](https://space.bilibili.com/100686288) 东方非想天启制作者
-[Youtube FranFranBurger#1337](https://www.youtube.com/c/SpellBreakSoku/videos) 高手Replay
-[掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) 高手Replay
-[掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video) 高手Replay
+
 :::
 
 
@@ -69,10 +67,13 @@ next: false
 ::: info 网址
 [giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址
 [SWRSToys-Github](https://github.com/SokuDev/SokuMods) SWRSToys插件的Github仓库地址
-[細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
-[SokuReplays](https://sokureplays.delthas.fr)国际网站，可计分elo和记录对局比分、卡组等
-[Discord Hisouten](https://discord.gg/hisouten) 国际非想天则社区
+[Discord Hisouten](https://discord.gg/hisouten) 国际非想天则Disocrd社区（需梯子）
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
+[細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
+[SokuReplays](https://sokureplays.delthas.fr) 国际网站，Konni Bot列表记录之处，可计分elo和记录对局比分、卡组等
+[Youtube FranFranBurger#1337](https://www.youtube.com/c/SpellBreakSoku/videos) 高手Replay视频
+[掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) 高手Replay视频
+[掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video) 高手Replay视频
 :::
 
 ### 有助于编写Wiki的工具或文档

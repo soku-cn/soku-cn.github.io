@@ -1,5 +1,5 @@
 ---
-title: 游戏无法正常运行
+title: 游戏内问题
 index: false
 icon: question
 pageInfo: false
