@@ -8,7 +8,45 @@ export default sidebar({
       icon: "book",
       prefix: "guide/",
       link: "guide/",
-      children: "structure",
+      children: [
+        "update.md",
+        {
+          text: "非想天启更新器指南",
+          icon :"gears",
+          prefix: "FXTQ/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "问题指南",
+          icon: "question",
+          prefix: "FAQ/",
+          collapsible: true,
+          children: [
+            {
+              text: "游戏外问题",
+              icon: "question",
+              prefix: "Out-of-Games/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "游戏无法正常运行",
+              icon: "question",
+              prefix: "Failed-to-Start/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "游戏内问题",
+              icon: "question",
+              prefix: "In-Games/",
+              collapsible: true,
+              children: "structure",
+            }
+          ],
+        }
+      ],
     },
 
     {

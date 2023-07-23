@@ -9,7 +9,7 @@ editLink: false
 #禁用Github编辑按钮
 author: Laqua
 #作者
-date: 2023-07-22
+date: 2023-07-23
 #文章编辑日期
 ---
 
@@ -19,6 +19,11 @@ date: 2023-07-22
 
 ### **解决方法**
 
-打开 ```th123/modules/WindowResizer/WindowResizer.ini``` 参考图片进行设置
+方法一：关闭游戏，双击重置窗口的bat即可
+
+![新版本的整合包内才有这个bat](https://img.514.live/img/202307230115658.png)
+
+
+方法二：关闭游戏，打开 ```th123/modules/WindowResizer/WindowResizer.ini``` 参考图片进行设置
 
 ![WindowResizer设置示例](https://img.514.live/img/202307222352172.png)
