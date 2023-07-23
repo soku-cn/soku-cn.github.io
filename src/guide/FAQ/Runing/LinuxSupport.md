@@ -35,5 +35,5 @@ if you want a shortcut to launch the game try `vi $HOME/.bash_aliases` (it doesn
 
 then save, then run `source ~/.bash_aliases` and now you can run hisoutensoku by typing `soku` in the terminal
 
-部分Mod与Wine的兼容性
+部分Mod与Wine的兼容性，新mod若有问题可私聊求助
 ![](https://img.514.live/img/202307231901059.png)
