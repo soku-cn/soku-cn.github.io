@@ -24,6 +24,7 @@ date: 2023-07-23
 ![新版本的整合包内才有这个bat](https://img.514.live/img/202307230115658.png)
 
 
-方法二：关闭游戏，打开 ```th123/modules/WindowResizer/WindowResizer.ini``` 参考图片进行设置
+方法二：关闭游戏，打开 ```th123/modules/WindowResizer/WindowResizer.ini``` 
+参考图片进行设置
 
 ![WindowResizer设置示例](https://img.514.live/img/202307222352172.png)
