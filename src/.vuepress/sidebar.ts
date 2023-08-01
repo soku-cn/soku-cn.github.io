@@ -43,6 +43,13 @@ export default sidebar({
               prefix: "In-Games/",
               collapsible: true,
               children: "structure",
+            },
+            {
+              text: "对战和大厅问题",
+              icon: "question",
+              prefix: "Play/",
+              collapsible: true,
+              children: "structure",
             }
           ],
         }
