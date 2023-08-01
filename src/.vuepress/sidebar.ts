@@ -50,6 +50,13 @@ export default sidebar({
               prefix: "Play/",
               collapsible: true,
               children: "structure",
+            },
+            {
+              text: "游戏性MOD",
+              icon: "question",
+              prefix: "MOD_Gameplay/",
+              collapsible: true,
+              children: "structure",
             }
           ],
         }
