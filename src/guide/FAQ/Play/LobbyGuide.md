@@ -80,7 +80,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 ![运行“autopunch检测”](https://img.514.live/img/202308011508215.png)
 
 ![](https://img.514.live/img/202308011509662.png)
-
+![](https://img.514.live/img/202308011712361.png)
 ::: info
 显示 **Hole-punching is supported** 即为支持可用；
 而 **NOT supported** 即为不支持，不能在大厅内联机，请使用swarm和原版菜单。
