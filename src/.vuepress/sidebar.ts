@@ -52,7 +52,7 @@ export default sidebar({
               children: "structure",
             },
             {
-              text: "游戏性MOD介绍",
+              text: "游戏性MOD介绍 QQ群200803640",
               icon: "question",
               prefix: "MOD_Gameplay/",
               collapsible: true,
