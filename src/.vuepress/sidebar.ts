@@ -57,6 +57,7 @@ export default sidebar({
           text: "MOD插件介绍，我的mod群200803640",
           icon: "gear",
           prefix: "mods/",
+          //link:"mods/",
           collapsible: true,
           children: [
             {

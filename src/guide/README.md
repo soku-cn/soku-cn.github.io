@@ -9,13 +9,18 @@ next: false
 ---
 
 ## **一个关于「东方非想天则」的普通指南✨**
-欢迎使用本指南，本指南目前正在建设中...
+欢迎使用本指南，本指南目前正在建设中。
+::: info
+**当前小目标**是完成新手上路基本知识和资源、mod、工具讲解。
+**最终目标**是做成中文非想天则WIKI，对标英文日文WIKI。
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
+[細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
 
-## **当前本指南正在建设中**
-完整帮助内容请参考[**在线腾讯文档 https://docs.qq.com/doc/DR2NaUnhsTHJhSHhu**](https://docs.qq.com/doc/DR2NaUnhsTHJhSHhu)，未来将逐步迁移内容
+**本站建设群 745214751** 欢迎感兴趣帮助建设或提建议意见的志愿伙伴加入
+:::
 
 ::: warning 
-**请勿使用WindowsXP系统，很多必要插件将会报错，新非想天则不支持WindowsXP使用**
+**请勿使用WindowsXP系统，很多必要插件将会报错**
 
 **32位系统无法使用天启，可在网盘内找到简单的32位更新器**
 
