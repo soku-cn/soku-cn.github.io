@@ -54,7 +54,7 @@ export default sidebar({
           ],
         },
         {
-          text: "MOD插件介绍，我的mod群200803640",
+          text: "MOD插件介绍",
           icon: "gear",
           prefix: "mods/",
           //link:"mods/",
