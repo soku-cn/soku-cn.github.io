@@ -1,5 +1,5 @@
 ---
-title: Mod与工具介绍
+title: 替换游戏素材的mod
 index: false
 icon: gear
 pageInfo: false
