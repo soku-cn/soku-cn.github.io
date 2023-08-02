@@ -63,14 +63,14 @@ export default sidebar({
             "WhatsMod.md",
             {
               text: "游戏性MOD介绍",
-              icon: "question",
+              icon: "file",
               prefix: "MOD_Gameplay/",
               collapsible: true,
               children: "structure",
             },
             {
               text: "联机相关插件",
-              icon: "question",
+              icon: "file",
               prefix: "NetMods/",
               collapsible: true,
               children: "structure",
