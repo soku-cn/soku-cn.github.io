@@ -11,7 +11,7 @@ export default sidebar({
       children: [
         "update.md",
         {
-          text: "非想天启更新器指南",
+          text: "非想天启更新器-指南",
           icon :"gears",
           prefix: "FXTQ/",
           collapsible: true,
@@ -50,11 +50,26 @@ export default sidebar({
               prefix: "Play/",
               collapsible: true,
               children: "structure",
-            },
+            }
+          ],
+        },
+        {
+          text: "MOD插件介绍，我的mod群200803640",
+          icon: "gear",
+          prefix: "mods/",
+          collapsible: true,
+          children: [
             {
-              text: "游戏性MOD介绍 QQ群200803640",
+              text: "游戏性MOD介绍",
               icon: "question",
               prefix: "MOD_Gameplay/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "联机相关插件",
+              icon: "question",
+              prefix: "NetMods/",
               collapsible: true,
               children: "structure",
             }
