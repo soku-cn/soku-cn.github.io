@@ -1,5 +1,5 @@
 ---
-title: 什么是Mod
+title: Mod基本操作
 
 # 标题
 icon: circle-info

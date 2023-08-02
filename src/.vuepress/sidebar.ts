@@ -60,6 +60,7 @@ export default sidebar({
           //link:"mods/",
           collapsible: true,
           children: [
+            "WhatsMod.md",
             {
               text: "游戏性MOD介绍",
               icon: "question",
