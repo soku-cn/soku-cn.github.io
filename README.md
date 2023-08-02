@@ -2,6 +2,7 @@
 Touhou 12.3 HisoutenSoku Chinese Wiki
 
 https://wiki.514.live/
+
 一个关于「东方非想天则」的普通指南✨
 【本站交流群 745214751】
 
