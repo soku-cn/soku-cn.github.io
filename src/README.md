@@ -6,7 +6,7 @@ heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
-tagline: 一个关于「东方非想天则」的普通指南✨
+tagline: 一个关于「东方非想天则」的普通指南✨<p style="color:#8B4513">【本站交流群 745214751】</p>欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
 
 
 actions:
@@ -29,12 +29,12 @@ features:
     details: 使用「非想天启」便捷地更新和管理游戏插件，一键启动游戏、天则观、Swarm等...
     link: /guide/FXTQ/introduce.html
 
-  - title: 资源下载
+  - title: 游戏资源下载
     icon: rss
     details: 提供了数个网盘进行资源下载，同时欢迎各位加入非想天则的各个QQ群或社交平台~
     link: /guide/#资源下载指路
 
-  - title: 问题指南
+  - title: 常见问题指南
     icon: search
     details: 我们提供了「天则指南」进行问题解答（也就是本站），正在持续建设更新中~
     link: /guide/
@@ -44,7 +44,7 @@ features:
     details: 正在建设中~
     link: /guide/
 
-  - title: 插件详解
+  - title: 待补充
     icon: sitemap
     details: 正在建设中~
     link: /guide/
@@ -54,7 +54,7 @@ features:
     details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
     link: /guide/#qq群
 
-  - title: 工具与MOD
+  - title: mod与工具介绍
     icon: ellipsis
     details: 游戏性MOD，或功能使用的插件及工具介绍
     link: /guide/mods

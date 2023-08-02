@@ -9,13 +9,18 @@ next: false
 ---
 
 ## **一个关于「东方非想天则」的普通指南✨**
-欢迎使用本指南，本指南目前正在建设中...
+欢迎使用本指南，本指南目前正在建设中。
+::: info
+**当前小目标**是完成新手上路基本知识和资源、mod、工具讲解。
+**最终目标**是做成中文非想天则Wiki，对标英文日文Wiki。
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
+[細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
 
-## **当前本指南正在建设中**
-完整帮助内容请参考[**在线腾讯文档 https://docs.qq.com/doc/DR2NaUnhsTHJhSHhu**](https://docs.qq.com/doc/DR2NaUnhsTHJhSHhu)，未来将逐步迁移内容
+**本站建设群 745214751** 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
+:::
 
 ::: warning 
-**请勿使用WindowsXP系统，很多必要插件将会报错，新非想天则不支持WindowsXP使用**
+**请勿使用WindowsXP系统，很多必要插件将会报错**
 
 **32位系统无法使用天启，可在网盘内找到简单的32位更新器**
 
@@ -65,29 +70,34 @@ next: false
 :::
 
 
-### **个人空间** 
-
-::: info 个人空间-B站
-
-[三回転](https://space.bilibili.com/357511007) 动态置顶、专栏文章
-[巧克力绒](https://space.bilibili.com/100686288) 东方非想天启制作者
-
-:::
 
 
 ### **网站相关**
 
 ::: info 网址
 [giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址
-[SWRSToys-Github](https://github.com/SokuDev/SokuMods) SWRSToys插件的Github仓库地址
+[SWRSToys-Github](https://github.com/SokuDev/SokuMods) SWRSToys插件的mod团队Github仓库地址
+[本站-Github](https://github.com/FXTQ/fxtq.github.io) 本站的Github仓库地址
+
 [Discord Hisouten](https://discord.gg/hisouten) 国际非想天则Disocrd社区（需梯子）
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
 [SokuReplays](https://sokureplays.delthas.fr) 国际网站，Konni Bot列表记录之处，可计分elo和记录对局比分、卡组等
-[Youtube FranFranBurger#1337](https://www.youtube.com/c/SpellBreakSoku/videos) 高手Replay视频
+[SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) FranFranBurger#1337 录制存档的高手Replay视频
 [掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) 高手Replay视频
 [掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video) 高手Replay视频
 :::
+
+### **感谢！志愿者！** 
+
+::: info 个人空间
+巧克力绒 [B站空间](https://space.bilibili.com/100686288) 非想天启作者，网站站长 QQ 1459346474
+三回転 [B站空间](https://space.bilibili.com/357511007) 主力输出 QQ 1434716883
+拉夸Laqua [B站空间](https://space.bilibili.com/2263854) Mod爱好者 QQ 1476114186
+
+
+:::
+
 
 ### 有助于编写Wiki的工具或文档
 - [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)

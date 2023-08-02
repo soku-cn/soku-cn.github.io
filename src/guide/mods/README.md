@@ -1,5 +1,5 @@
 ---
-title: 联机相关插件
+title: Mod与工具介绍
 index: false
 icon: gear
 pageInfo: false
