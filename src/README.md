@@ -54,7 +54,7 @@ features:
     details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
     link: /guide/#qq群
 
-  - title: mod与工具介绍
+  - title: Mod与工具介绍
     icon: ellipsis
     details: 游戏性MOD，或功能使用的插件及工具介绍
     link: /guide/mods
