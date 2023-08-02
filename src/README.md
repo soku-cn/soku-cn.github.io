@@ -24,9 +24,9 @@ features:
     details: 「东方非想天则」是东方Project官方游戏系列的第12.3作，也是发布在Windows平台上的（新作）第四个小数点作。
     link: /guide/
     
-  - title: 启动器
+  - title: 非想天启
     icon: fab fa-markdown
-    details: 使用「东方非想天启」便捷地更新和管理游戏插件，一键启动游戏、天则观、Swarm等...
+    details: 使用「非想天启」便捷地更新和管理游戏插件，一键启动游戏、天则观、Swarm等...
     link: /guide/FXTQ/introduce.html
 
   - title: 资源下载
@@ -56,8 +56,8 @@ features:
 
   - title: 工具与MOD
     icon: ellipsis
-    details: 正在建设中~
-    link: /guide/
+    details: 游戏性MOD，或功能使用的插件及工具介绍
+    link: /guide/mods
 
 copyright: false
 footer: MIT Licensed | Copyright © 2023 ChocoFleece
