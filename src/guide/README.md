@@ -11,7 +11,7 @@ next: false
 ## **一个关于「东方非想天则」的普通指南✨**
 欢迎使用本指南，本指南目前正在建设中。
 ::: info
-**当前小目标**是完成新手上路基本知识和资源、mod、工具讲解。
+**当前小目标**是完成新手上路基本知识和资源、Mod、工具讲解。
 **最终目标**是做成中文非想天则Wiki，对标英文日文Wiki。
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
@@ -26,7 +26,7 @@ next: false
 
 **本站内脚注可方便使用，使用浏览器后退可从脚注返回至正文**
 
-**善用右上角CTRL K搜索**
+**善用右上角CTRL+K搜索**
 :::
 
 ## **资源下载指路**

@@ -12,19 +12,18 @@ export default hopeTheme({
   },
 
   iconAssets: "fontawesome-with-brands",
-
   logo: "/logo.svg",
-
   repo: "FXTQ/fxtq.github.io",
-
   docsDir: "src",
 
   // navbar
   navbar,
+  navbarAutoHide: "always",
 
   // sidebar
   sidebar,
 
+  // footer
   footer: "游戏制作「上海アリス幻樂団」、「黄昏フロンティア」",
 
   displayFooter: true,
@@ -145,4 +144,5 @@ export default hopeTheme({
     //   },
     // },
   },
+
 });
