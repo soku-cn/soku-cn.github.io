@@ -13,7 +13,7 @@ export default navbar([
 
   "/guide/",
   "/guide/FAQ/Play/LobbyGuide.html",
-  "guide/FAQ/Out-of-Games/CHM.html",
+  "/guide/FAQ/Out-of-Games/CHM.html",
   // "/demo/",
 
 
