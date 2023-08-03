@@ -21,8 +21,8 @@ features:
 
   - title: 游戏简介
     icon: circle-info
-    details: 「东方非想天则」是东方Project官方游戏系列的第12.3作，也是发布在Windows平台上的（新作）第四个小数点作。
-    link: /guide/
+    details: 「东方非想天则」是2009年东方Project官方游戏系列的第12.3作，一款不同于传统格斗的弹幕格斗游戏，拥有活跃稳定的玩家群体和生机勃勃的游戏环境
+    link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
     
   - title: 非想天启
     icon: fab fa-markdown
