@@ -27,6 +27,8 @@ next: false
 **本站内脚注可方便使用，使用浏览器后退可从脚注返回至正文**
 
 **善用右上角CTRL+K搜索**
+
+**评论功能可用，支持匿名评论，输入QQ邮箱可以自动获取QQ头像**
 :::
 
 ## **资源下载指路**
@@ -72,7 +74,7 @@ next: false
 
 
 
-### **网站相关**
+### **其他网站导航**
 
 ::: info 网址
 [giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址
@@ -82,7 +84,7 @@ next: false
 [Discord Hisouten](https://discord.gg/hisouten) 国际非想天则Disocrd社区（需梯子）
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
-[SokuReplays](https://sokureplays.delthas.fr) 国际网站，Konni Bot列表记录之处，可计分elo和记录对局比分、卡组等
+[SokuReplays](https://sokureplays.delthas.fr) Konni Bot在此记录对局，可计分elo和记录比分、卡组等
 [SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) FranFranBurger#1337 录制存档的高手Replay视频
 [掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) 高手Replay视频
 [掌百 非想天则领袖放映厅2](https://space.bilibili.com/485915/video) 高手Replay视频
