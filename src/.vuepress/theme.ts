@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
   logo: "/logo.svg",
-  repo: "FXTQ/fxtq.github.io",
+  repo: "Tstar00/tstar00.github.io",
   docsDir: "src",
 
   // navbar
