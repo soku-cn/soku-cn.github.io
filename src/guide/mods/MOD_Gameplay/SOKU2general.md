@@ -1,5 +1,5 @@
 ---
-title: 什么是则2，怎么装
+title: SOKU2（则2）
 
 # 标题
 icon: circle-info

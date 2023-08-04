@@ -32,7 +32,7 @@ date: 2023-08-01
 :::
 ![在此处查看CHM文档手册 ](https://img.514.live/img/202308010915809.png)
 
-## [**点我查看打不开CHM的问题**](guide\FAQ\Out-of-Games\CHM.md)
+## [**点我查看打不开CHM的问题**](/guide/FAQ/Out-of-Games/CHM.md)
 
 ## **功能更丰富的练习模式**
 

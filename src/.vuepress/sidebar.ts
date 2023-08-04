@@ -11,7 +11,7 @@ export default sidebar({
       children: [
         "update.md",
         {
-          text: "非想天启更新器-指南",
+          text: "非想天启更新器说明",
           icon :"gears",
           prefix: "FXTQ/",
           collapsible: true,
