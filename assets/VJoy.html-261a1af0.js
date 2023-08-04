@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c,d as e}from"./app-25592a38.js";const n={},i=e("figure",null,[e("img",{src:"https://img.514.live/img/202308011133739.png",alt:"",tabindex:"0",loading:"lazy"}),e("figcaption")],-1),s=[i];function a(r,_){return o(),c("div",null,s)}const d=t(n,[["render",a],["__file","VJoy.html.vue"]]);export{d as default};
