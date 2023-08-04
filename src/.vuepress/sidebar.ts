@@ -62,9 +62,9 @@ export default sidebar({
           children: [
             "WhatsMod.md",
             {
-              text: "游戏性MOD介绍",
+              text: "练习模式插件",
               icon: "file",
-              prefix: "MOD_Gameplay/",
+              prefix: "PracticeMods/",
               collapsible: true,
               children: "structure",
             },
@@ -74,7 +74,35 @@ export default sidebar({
               prefix: "NetMods/",
               collapsible: true,
               children: "structure",
-            }
+            },
+            {
+              text: "功能性插件",
+              icon: "file",
+              prefix: "QoLMods/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "游戏性Mod介绍",
+              icon: "file",
+              prefix: "GameplayMods/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "高级功能插件",
+              icon: "file",
+              prefix: "AdvancedMods/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "修改素材Mod",
+              icon: "file",
+              prefix: "DIY/",
+              collapsible: true,
+              children: "structure",
+            },
           ],
         }
       ],
