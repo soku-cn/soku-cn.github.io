@@ -12,9 +12,10 @@ export default navbar([
   // },
 
   "/guide/",
+  "/data/",
   "/guide/FAQ/Play/LobbyGuide.html",
   "/guide/FAQ/Out-of-Games/CHM.html",
-  // "/demo/",
+
 
 
   // {
