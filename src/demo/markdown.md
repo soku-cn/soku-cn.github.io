@@ -406,3 +406,13 @@ $$
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/presentation.html)
 
 [md-enhance]: https://plugin-md-enhance.vuejs.press/zh/
+
+
+## 表格
+
+
+|     居中      |         右对齐 | 左对齐         |
+| :-----------: | -------------: | :------------- |
+| 居中使用`:-:` | 右对齐使用`-:` | 左对齐使用`:-` |
+|123b       |      aaaaaaaaa | aaaa           |
+|       c       |           aaaa | a              |
