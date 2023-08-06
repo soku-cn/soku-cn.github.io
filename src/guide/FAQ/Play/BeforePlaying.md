@@ -44,13 +44,18 @@ date: 2023-08-01
 
 ![如果遇到类似这样的情况，重新多试几次，直到显示出结果](https://img.514.live/img/202308011510073.png)
 
-
-
+::: warning
+[不支持AP？点我查看Swarm使用指南](/guide/FAQ/Play/SwarmGuide.md)
+:::
 
 ## **3.进入 VS NETWORK 菜单**
 ![按S切换菜单](https://img.514.live/img/202308011410282.png =640x480)
 
 ![](https://img.514.live/img/202308011410870.png =640x480)
+
+::: warning
+[不支持AP？点我查看Swarm使用指南](/guide/FAQ/Play/SwarmGuide.md)
+:::
 
 ::: info
 ●若是自己建主，向群里发IP，最好附带相关信息，如：
