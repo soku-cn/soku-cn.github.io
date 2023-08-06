@@ -18,7 +18,7 @@ export default hopeTheme({
 
   // navbar
   navbar,
-  navbarAutoHide: "always",
+  // navbarAutoHide: "always",
 
   // sidebar
   sidebar,
