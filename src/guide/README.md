@@ -97,6 +97,7 @@ next: false
 巧克力绒 [B站空间](https://space.bilibili.com/100686288) 非想天启作者，网站站长 QQ 1459346474
 三回転 [B站空间](https://space.bilibili.com/357511007) 主力输出 QQ 1434716883
 拉夸Laqua [B站空间](https://space.bilibili.com/2263854) Mod爱好者 QQ 1476114186
+Heptagram（SBK）[Github主页](https://github.com/UTSUHO) 网站帮助 QQ 876209239
 
 
 :::
