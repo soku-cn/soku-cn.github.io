@@ -51,5 +51,5 @@ date: 2023-06-21
 
 
 
-[^first]: 请从此处下载[资源下载](README.md/#网盘)
+[^first]: 请从此处下载[资源下载](README.md/)
 [^second]: 同上
