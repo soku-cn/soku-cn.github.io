@@ -21,21 +21,24 @@ date: 2023-08-01
 
 ## **点开提示找不到文件，或无反应**
 
-::: info
+::: warning
 很可能是因为你的神ai程序文件被杀毒软件误杀了。
 路径为 th123/modules/th123ai/th123_ai.exe
+
+下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
 :::
 
 ![](https://img.514.live/img/202308011623745.png)
 
 ## **正常打开后**
 
-![](https://img.514.live/img/202308011605538.png)
+![点击地址栏的th123文件夹](https://img.514.live/img/202308011605538.png)
 
-![](https://img.514.live/img/202308011605626.png)
+![点th123.exe，然后点打开](https://img.514.live/img/202308011605626.png)
 
-::: info
-然后会打开游戏，进入VS PLAYER模式即可，注意2P的机签要设置为AI（卡组和键位）
+::: info 进入VS PLAYER模式
+然后会打开游戏，**进入VS PLAYER模式即可**，注意2P的机签最好设置为AI（检查卡组和键位是否会产生冲突）
+
 当游戏脱离聚焦不在前台时，AI会停止行动
 :::
 
