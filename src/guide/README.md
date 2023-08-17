@@ -27,8 +27,6 @@ next: false
 **本站内脚注可方便使用，使用浏览器后退可从脚注返回至正文**
 
 **善用右上角CTRL+K搜索**
-
-**评论功能可用，支持匿名评论，输入QQ邮箱可以自动获取QQ头像**
 :::
 
 ## **资源下载指路**
@@ -39,7 +37,7 @@ next: false
 
 ::: info 网盘下载
 
-#### 123网盘(网页端，不限速，不登录)
+#### 123网盘
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
 #### 电信天翼盘(手机号登陆，网页端下载不限速)
@@ -82,10 +80,9 @@ next: false
 
 ::: info 网址
 [giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址
+[SokuLobbiesMod-Github](https://github.com/Gegel85/SokuLobbies) SokuLobbiesMod插件的Github仓库地址
 [SWRSToys-Github](https://github.com/SokuDev/SokuMods) SWRSToys插件的mod团队Github仓库地址
-[本站-Github](https://github.com/FXTQ/fxtq.github.io) 本站的Github仓库地址
-
-[Discord Hisouten](https://discord.gg/hisouten) 国际非想天则Disocrd社区（需梯子）
+[Discord Hisouten Server](https://discord.gg/hisouten) 国际非想天则Disocrd社区（需梯子）
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
 [SokuReplays](https://sokureplays.delthas.fr) Konni Bot在此记录对局，可计分elo和记录比分、卡组等
@@ -97,11 +94,16 @@ next: false
 ### **感谢！志愿者！** 
 
 ::: info 个人空间
-巧克力绒 [B站空间](https://space.bilibili.com/100686288) 非想天启作者，网站站长 QQ 1459346474
-三回転 [B站空间](https://space.bilibili.com/357511007) 主力输出 QQ 1434716883
-拉夸Laqua [B站空间](https://space.bilibili.com/2263854) Mod爱好者 QQ 1476114186
-Heptagram（SBK）[Github主页](https://github.com/UTSUHO) 网站帮助 QQ 876209239
-
+国内外各路前辈与朋友，Mod工具与祖传chm攻略（
+**巧克力绒** [Github主页](https://github.com/ChocoFleece) 非想天启作者，网站站长 QQ 1459346474
+**三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出 QQ 1434716883
+**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，开服帮助 QQ 2532514433
+**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，开服帮助 QQ 3634898309
+**拉夸Laqua** [B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
+**鱼的千千** [B站空间](https://space.bilibili.com/179036988) Mod爱好者，翻译帮助 QQ 2372361719
+**十字凤** [B站空间](https://space.bilibili.com/12109907) DIY爱好者 QQ 273268454
+**Heptagram**（SBK）[Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
+**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux文档帮助 QQ 571499084
 
 :::
 
