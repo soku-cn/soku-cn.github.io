@@ -26,7 +26,7 @@ SWRSToys 的 Github 项目仓库  https://github.com/SokuDev/SokuMods/
 国际非想天则 Disocrd 社区群（需梯子）  https://discord.gg/hisouten
 :::
 
-![三件套组成 SWRSToys](https://img.514.live/img/202308041020205.png)
+![三件套组成 SWRSToys](https://bu.dusays.com/2023/08/20/64e21cc628b96.png)
 
 ### **1.如何开关插件？**
 ::: info 1.如何开关插件？

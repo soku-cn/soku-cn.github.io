@@ -14,7 +14,7 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-![如图的问题](https://img.514.live/img/202308010936403.png =640x480)
+![如图的问题](https://bu.dusays.com/2023/08/20/64e216c34240c.png =640x480)
 
 ## 解决办法1
 ::: info 解决办法1
@@ -22,11 +22,11 @@ date: 2023-08-01
 如果也没用或者你不是使用自带输入法而是其他输入法，请通知我让我记录。
 :::
 
-![在“英”字上右键，设置](https://img.514.live/img/202308010939013.png)
+![在“英”字上右键，设置](https://bu.dusays.com/2023/08/20/64e216dce37d6.png)
 
-![](https://img.514.live/img/202308010939802.png)
+![](https://bu.dusays.com/2023/08/20/64e216eab9ce6.png)
 
-![](https://img.514.live/img/202308010942206.png)
+![](https://bu.dusays.com/2023/08/20/64e216f39d71c.png)
 
 ## 解决办法2
 ::: info
@@ -35,7 +35,7 @@ date: 2023-08-01
 在 WindowResizer.ini 里将 [Size] 的 Enable 设置为0，即不允许拖大窗口，但是这样做依然可以按 Alt+Enter 全屏
 :::
 
-![即使不能拖大窗口，但是这样做依然可以按 Alt+Enter 全屏](https://img.514.live/img/202308041457120.png =425x290)
+![即使不能拖大窗口，但是这样做依然可以按 Alt+Enter 全屏](https://bu.dusays.com/2023/08/20/64e21705af8a2.png =425x290)
 
 ## 解决办法3
 ::: info 解决办法3
@@ -46,6 +46,6 @@ date: 2023-08-01
 **注意替换完旧版本后，就不要开全屏了**
 :::
 
-![文件修改](https://img.514.live/img/202308010947506.png =500x500)
+![文件修改](https://bu.dusays.com/2023/08/20/64e2172f05999.png =500x500)
 
-![或者非想天启内修改](https://img.514.live/img/202308010949571.png =425x520)
+![或者非想天启内修改](https://bu.dusays.com/2023/08/20/64e2174192fcd.png =425x520)

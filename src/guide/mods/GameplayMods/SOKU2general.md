@@ -22,14 +22,14 @@ date: 2023-08-01
 以及封兽鵺、神绮、八云蓝，3位尚在开发中。
 :::
 
-![可与原版角色共存，联机也可以向下兼容](https://img.514.live/img/202308021427870.png =640x480)
+![可与原版角色共存，联机也可以向下兼容](https://bu.dusays.com/2023/08/20/64e21c000a08d.png =640x480)
 
 ## **则2的QQ群756376468 和Discord SOKU2群   http://discord.gg/Bgxdcav**
 ::: info 安装步骤1
 在已经下载了新则的前提下，在网盘或者QQ群文件内下载则2的资源包
 :::
 
-![2023-7-24目前最新版本是2.30版本，不同版本间不能联机](https://img.514.live/img/202308010928710.png)
+![2023-7-24目前最新版本是2.30版本，不同版本间不能联机](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png)
 
 
 ::: warning
@@ -43,7 +43,7 @@ date: 2023-08-01
 将里面的SOKU2和MemoryPatchSOKU2FIX两个文件夹放入th123/modules内
 :::
 
-![两个文件夹](https://img.514.live/img/202308010928741.png)
+![两个文件夹](https://bu.dusays.com/2023/08/20/64e21c1e761c8.png)
 
 
 ## **注意将SOKU2的路径代码放在Easydeck和th123intl的中间，否则th123intl会被破坏，游戏会乱码**
@@ -55,15 +55,15 @@ date: 2023-08-01
 如下图所示位置摆放👇
 :::
 
-![打开SWRSToys.ini配置文件](https://img.514.live/img/202308022132128.png)
+![打开SWRSToys.ini配置文件](https://bu.dusays.com/2023/08/20/64e21c3077346.png)
 
-![在末尾找到SOKU2，剪切，如图调整位置，注意两行要同时启用或关闭](https://img.514.live/img/202308010930093.png)
+![在末尾找到SOKU2，剪切，如图调整位置，注意两行要同时启用或关闭](https://bu.dusays.com/2023/08/20/64e21c413d5fe.png)
 
 
-![错误示范](https://img.514.live/img/202308010931570.png =640x480)
+![错误示范](https://bu.dusays.com/2023/08/20/64e21c51059fa.png =640x480)
 
 ## **注意Touhoumon这个选人菜单mod和则2会冲突**
 
-![两个mod互相不适配](https://img.514.live/img/202308021429172.png =640x480)
+![两个mod互相不适配](https://bu.dusays.com/2023/08/20/64e21c642ef95.png =640x480)
 
 
