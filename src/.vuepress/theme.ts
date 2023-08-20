@@ -41,10 +41,10 @@ export default hopeTheme({
 
   plugins: {
     // You should generate and use your own comment service
-    comment: {
-      provider: "Twikoo",
-      envId: "https://chat.514.live/",
-    },
+    // comment: {
+    //   provider: "Twikoo",
+    //   envId: "https://chat.514.live/",
+    // },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
