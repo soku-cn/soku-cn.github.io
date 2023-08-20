@@ -67,7 +67,7 @@ date: 2023-08-01
 
 ::: info 使用说明
 **通过服务器中转数据包的方式来帮助联机，只需要建主方打开软件即可，连接方无要求**
-**打开Swarm和游戏的顺序无要求**
+**打开Swarm和游戏的顺序无要求，可以开了游戏后再开swarm不影响**
 1、点更新服务器列表
 2、点中转
 3、点复制
@@ -113,7 +113,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ::: warning
 **玩家请点加入大厅**
-创建大厅需要公网IP，使用文件夹内的Runserver.bat
+创建大厅需要公网IP，使用文件夹内的RunServer.bat
 :::
 
 ## **大厅房间进不去，卡加载loading**
@@ -128,7 +128,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 ![报错](https://bu.dusays.com/2023/08/06/64cf5741976d0.png =440x300) ![](https://bu.dusays.com/2023/08/06/64cf57e8457e4.png =420x350)
 
 ::: info 解决办法
-**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的`settings.dat` 和 `stats.dat `
+**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的`settings.dat`
 :::
 
 
@@ -142,7 +142,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ## **我有些人可以观战，但是有些人却观战不了**
 ::: info
-**回答：正常。**  
+回答：**正常。** 
 :::
 
 
