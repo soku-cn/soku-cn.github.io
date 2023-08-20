@@ -25,6 +25,8 @@ date: 2023-08-01
 ![可与原版角色共存，联机也可以向下兼容](https://bu.dusays.com/2023/08/20/64e21c000a08d.png =640x480)
 
 ## **则2的QQ群756376468 和Discord SOKU2群   http://discord.gg/Bgxdcav**
+
+## **则2 MOD安装四步骤**
 ::: info 安装步骤1
 在已经下载了新则的前提下，在网盘或者QQ群文件内下载则2的资源包
 :::
@@ -40,27 +42,32 @@ date: 2023-08-01
 
 
 ::: info 安装步骤2
-将里面的SOKU2和MemoryPatchSOKU2FIX两个文件夹放入th123/modules内
+将里面的 SOKU2 和 MemoryPatchSOKU2FIX 两个文件夹放入 th123/modules 内
 :::
 
 ![两个文件夹](https://bu.dusays.com/2023/08/20/64e21c1e761c8.png)
 
 
-## **注意将SOKU2的路径代码放在Easydeck和th123intl的中间，否则th123intl会被破坏，游戏会乱码**
+## **注意将SOKU2的路径代码放在 Easydeck 和 th123intl 的中间，否则 th123intl 会被破坏，游戏会乱码**
 
 ::: warning 安装步骤3
-**由于我后来才会想起有mod冲突，调错了SWRSToys.ini配置，误将SOKU2的代码放在了末尾**
-**请手动打开SWRSToys.ini文件，将路径代码挪到顶部，放在Easydeck和th123intl的中间，然后将两行代码同时打开即可**
+**由于我后来才会想起有 mod 冲突，调错了 SWRSToys.ini 配置，误将 SOKU2 的代码放在了末尾**
+
+**请手动打开 SWRSToys 配置文件，将路径代码挪到顶部，放在 Easydeck 和 th123intl 的中间，然后将两行代码同时打开即可**
 
 如下图所示位置摆放👇
 :::
 
 ![打开SWRSToys.ini配置文件](https://bu.dusays.com/2023/08/20/64e21c3077346.png)
 
-![在末尾找到SOKU2，剪切，如图调整位置，注意两行要同时启用或关闭](https://bu.dusays.com/2023/08/20/64e21c413d5fe.png)
-
+![在末尾找到SOKU2，剪切，如图调整位置，注意则2的这两行要同时启用或关闭](https://bu.dusays.com/2023/08/20/64e220c47664a.png)
 
 ![错误示范](https://bu.dusays.com/2023/08/20/64e21c51059fa.png =640x480)
+
+::: info 安装步骤4
+**下载则2的汉化包，不要解压，直接把zip文件放到th123/modules/Shady-loader文件夹内，然后在游戏内按F2启用**
+:::
+![则2的汉化包，不要解压，直接把zip文件放到th123/modules/Shady-loader文件夹内，然后在游戏内按F2启用](https://bu.dusays.com/2023/08/20/64e21fc3f022d.png)
 
 ## **注意Touhoumon这个选人菜单mod和则2会冲突**
 
