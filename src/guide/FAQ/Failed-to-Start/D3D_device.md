@@ -17,9 +17,9 @@ date: 2023-07-22
 >Failed to create D3D device
 >Faild to initialize
 
-![](https://img.514.live/img/202307222214689.png)
+![](https://bu.dusays.com/2023/08/20/64e211afa224b.png)
 
-![](https://img.514.live/img/202307222214097.png)
+![](https://bu.dusays.com/2023/08/20/64e211dc1b648.png)
 
 ## **解决方法**
 

@@ -23,7 +23,7 @@ date: 2023-07-23
 关闭游戏，双击重置窗口的bat即可
 :::
 
-![新版本的整合包内才有这个bat](https://img.514.live/img/202307230115658.png)
+![新版本的整合包内才有这个bat](https://bu.dusays.com/2023/08/20/64e214e148b23.png)
 
 ### **方法二**
 ::: info 方法二
@@ -31,4 +31,4 @@ date: 2023-07-23
 参考图片进行设置
 :::
 
-![WindowResizer设置示例](https://img.514.live/img/202307222352172.png =500x500)
+![WindowResizer设置示例](https://bu.dusays.com/2023/08/20/64e214f31fd08.png =500x500)

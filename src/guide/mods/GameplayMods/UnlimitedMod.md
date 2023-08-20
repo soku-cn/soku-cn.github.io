@@ -27,7 +27,7 @@ Unlimited 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Tessiro#The_S
 NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSoku
 :::
 
-![资源下载](https://img.514.live/img/202308040906805.png)
+![资源下载](https://bu.dusays.com/2023/08/20/64e21c7ec0296.png)
 
 ## **怎么使用UnlimitedMod**
 
@@ -43,7 +43,7 @@ NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSok
 **要切换回正常游戏只需要再打开SWRStoys配置文件，将Nextsoku前的分号加回去并保存就OK**
 :::
 
-![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://img.514.live/img/202308040914298.png =540x340)
+![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://bu.dusays.com/2023/08/20/64e21c9299e26.png =540x340)
 
 ::: warning
 注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod
