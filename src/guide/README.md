@@ -17,40 +17,28 @@ next: false
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
 
 **本站建设群 745214751** 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
-:::
-
-::: warning 
-**请勿使用WindowsXP系统，很多必要插件将会报错**
-
-**32位系统无法使用天启，可在网盘内找到简单的32位更新器**
 
 **本站内脚注可方便使用，使用浏览器后退可从脚注返回至正文**
-
 **善用右上角CTRL+K搜索**
 :::
 
-## **资源下载指路**
->游戏本体、更新器、MOD、其他工具和资源等
 
-
-### **资源下载（不止是游戏本体）**
+## **非想天则资源下载指路**
+游戏本体、更新器、MOD、其他工具和资源等
 
 ::: info 网盘下载
-
-#### 123网盘
+#### 123网盘(网页端下载不限速)
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
 #### 电信天翼盘(手机号登陆，网页端下载不限速)
 **https://cloud.189.cn/web/share?code=uUNrQjMJVviu** (访问码：bz8m)
 
-
 #### 蓝奏云(小文件补丁专用)
 **https://wwwa.lanzouj.com/b04q3635i** (密码:hfxy)
 
 #### 百度网盘
-**https://pan.baidu.com/s/1acs9C-Drc3DuapPiEjuqSQ?pwd=84sp**
+**https://pan.baidu.com/s/1zf0uF4YnmRr16r9Vwoauwg?pwd=eapf**
 **https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111** (指路文档备份)
-
 :::
 
 ::: info QQ资源群，禁言
@@ -58,12 +46,11 @@ next: false
 :::
 
 
-### **QQ群** 
+## **寻找玩伴 —— QQ群** 
 
 ::: info 相关信息
 
-- 新则-高活对战群  **178884533**  加群问题答案：文档网站已阅
-- 新则-资源群、禁言、已经加了别的则群有资源下的，无需加这里  **869104893**
+- 新则-高活对战群  **178884533**  **加群问题答案：文档网站已阅**
 - 非想天则有点好玩（对战群）  **131923309**
 - 非想天则二维势阱 **776701197**
 - 东方非想天则萌新天堂（500人，只欢迎需要帮助的真萌新）  **747865302**
@@ -76,7 +63,7 @@ next: false
 
 
 
-### **其他网站导航**
+## **其他网站导航**
 
 ::: info 网址
 [giuroll-Github](https://github.com/Giufinn/giuroll) Giuroll插件的Github仓库地址

@@ -12,8 +12,9 @@ export default navbar([
   // },
 
   "/guide/",
-  "/data/",
+  "/guide/FAQ/Play/BeforePlaying.html",
   "/guide/FAQ/Play/LobbyGuide.html",
+  "/data/",
 
   // {
   //   text: "V2 文档",
