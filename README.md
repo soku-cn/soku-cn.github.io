@@ -3,6 +3,7 @@
 ## Touhou 12.3 HisoutenSoku Chinese Wiki
 
 https://wiki.514.live/
+
 https://Tstar00.github.io/
 
 【本站交流群 745214751】
