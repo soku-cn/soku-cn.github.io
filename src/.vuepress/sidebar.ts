@@ -475,7 +475,7 @@ export default sidebar({
                     {
                     text: "西行寺幽幽子",
                     icon: "book",
-                    prefix: "Yoyuko/",
+                    prefix: "Yuyuko/",
                     collapsible: true,
                     children: ["intro.md",
                               {
