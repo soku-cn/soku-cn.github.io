@@ -1,5 +1,5 @@
 ---
-title: 游戏数据
+title: 游戏指南
 index: false
 icon: book
 pageInfo: false
@@ -7,6 +7,7 @@ editLink: false
 prev: false
 next: false
 ---
+
 
 ## **关于「东方非想天则」的角色攻略与相关数据✨**
 ::: tip 建设中

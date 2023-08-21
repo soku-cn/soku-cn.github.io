@@ -18,7 +18,7 @@ date: 2023-08-01
 
 ::: info 新练习模式和老练习模式可以共存
 
-[**点我查看如何设置新练习模式和老练习模式共存**](\guide\FAQ\In-Games\BasePractice.md)
+[**点我查看如何设置新练习模式和老练习模式共存**](/guide/FAQ/In-Games/BasePractice.md)
 
 :::
 

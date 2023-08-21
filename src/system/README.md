@@ -1,7 +1,7 @@
 ---
-title: 西行寺幽幽子
+title: 游戏系统
 index: false
-icon: book
+icon: gears
 pageInfo: false
 editLink: false
 prev: false
