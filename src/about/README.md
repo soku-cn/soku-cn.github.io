@@ -1,5 +1,5 @@
 ---
-title: 常见问题
+title: 关于本站
 index: false
 icon: book
 pageInfo: false
@@ -24,7 +24,7 @@ next: false
 
 
 ## **非想天则资源下载指路**
-游戏本体、更新器、MOD、其他工具和资源等
+游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
 ::: info 网盘下载
 #### 123网盘(网页端下载不限速)

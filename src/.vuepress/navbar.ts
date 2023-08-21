@@ -11,8 +11,9 @@ export default navbar([
   //   ],
   // },
 
-  "/guide/",
-  "/guide/FAQ/Play/BeforePlaying.html",
+
+  "/about/",
+  "/Beginners/BeforePlaying.html",
   "/guide/FAQ/Play/LobbyGuide.html",
   {
     text: "则2",
