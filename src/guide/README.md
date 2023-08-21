@@ -1,5 +1,5 @@
 ---
-title: 天则指南
+title: 常见问题
 index: false
 icon: book
 pageInfo: false

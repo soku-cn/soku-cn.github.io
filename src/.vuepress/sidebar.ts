@@ -3,8 +3,19 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": 
   [
+
+
     {
-      text: "天则指南",
+      text: "新手上路",
+      icon: "book",
+      prefix: "new/",
+      collapsible: true,
+      children: "structure",
+    },
+
+
+    {
+      text: "常见问题",
       icon: "book",
       prefix: "guide/",
       link: "guide/",
@@ -109,22 +120,23 @@ export default sidebar({
     },
 
 
+    {
+      text: "游戏系统",
+      icon: "book",
+      prefix: "system/",
+      collapsible: true,
+      children: "structure",
+    },
+
 
     {
-      text: "游戏指南",
+      text: "攻略数据",
       icon: "book",
       prefix: "data/",
       link: "data/",
       children: [
         {
-        text: "游戏系统",
-        icon: "gears",
-        prefix: "system/",
-        collapsible: true,
-        children: "structure",
-        },
-        {
-          text: "机体数据",
+          text: "角色机体",
           icon: "circle-info",
           prefix: "character/",
           collapsible: true,
