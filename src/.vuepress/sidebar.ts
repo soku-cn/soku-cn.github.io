@@ -111,14 +111,21 @@ export default sidebar({
 
 
     {
-      text: "游戏数据",
+      text: "游戏指南",
       icon: "book",
       prefix: "data/",
       link: "data/",
       children: [
         {
+        text: "游戏系统",
+        icon: "gears",
+        prefix: "system/",
+        collapsible: true,
+        children: "structure",
+        },
+        {
           text: "机体数据",
-          icon :"circle-info",
+          icon: "circle-info",
           prefix: "character/",
           collapsible: true,
           children: [
