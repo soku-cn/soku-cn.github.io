@@ -11,11 +11,11 @@ tagline: 一个关于「东方非想天则」的普通指南✨ <br> 【本站�
 
 actions:
   - text: 「查看指南」
-    link: /guide/
+    link: /about/
     type: primary
 
   - text: 「资源下载」
-    link: /guide/#网盘
+    link: /about/#非想天则资源下载指路
 
 features:
 

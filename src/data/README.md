@@ -1,15 +1,15 @@
 ---
-title: 游戏指南
+title: 前言
 index: false
-icon: book
+icon: circle-info
 pageInfo: false
 editLink: false
 prev: false
 next: false
 ---
+#
 
-
-## **关于「东方非想天则」的角色攻略与相关数据✨**
+# **关于「东方非想天则」的角色攻略与相关数据✨**
 ::: tip 建设中
 **当前小目标**是完成新手上路基本知识和资源、Mod、工具讲解。
 **最终目标**是做成中文非想天则Wiki，对标英文日文Wiki。

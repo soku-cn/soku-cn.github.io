@@ -5,7 +5,7 @@ export default sidebar({
   [
     {
       text: "关于本站",
-      icon: "book",
+      icon: "circle-info",
       prefix: "about/",
       link: "about/",
       children: "structure",
@@ -23,7 +23,7 @@ export default sidebar({
 
     {
       text: "常见问题",
-      icon: "book",
+      icon: "circle-question",
       prefix: "guide/",
       collapsible: true,
       children: 
@@ -76,63 +76,63 @@ export default sidebar({
         },
 
         
+    {
+      text: "插件介绍",
+      icon: "gear",
+      prefix: "mods/",
+      collapsible: true,
+      children: [
+        "WhatsMod.md",
         {
-          text: "MOD插件介绍",
-          icon: "gear",
-          prefix: "mods/",
+          text: "练习模式插件",
+          icon: "file",
+          prefix: "PracticeMods/",
           collapsible: true,
-          children: [
-            "WhatsMod.md",
-            {
-              text: "练习模式插件",
-              icon: "file",
-              prefix: "PracticeMods/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "联机相关插件",
-              icon: "file",
-              prefix: "NetMods/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "功能性插件",
-              icon: "file",
-              prefix: "QoLMods/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "游戏性Mod介绍",
-              icon: "file",
-              prefix: "GameplayMods/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "高级功能插件",
-              icon: "file",
-              prefix: "AdvancedMods/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "修改素材Mod",
-              icon: "file",
-              prefix: "DIY/",
-              collapsible: true,
-              children: "structure",
-            },
+          children: "structure",
+        },
+        {
+          text: "联机相关插件",
+          icon: "file",
+          prefix: "NetMods/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "功能性插件",
+          icon: "file",
+          prefix: "QoLMods/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "游戏性Mod介绍",
+          icon: "file",
+          prefix: "GameplayMods/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "高级功能插件",
+          icon: "file",
+          prefix: "AdvancedMods/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "修改素材Mod",
+          icon: "file",
+          prefix: "DIY/",
+          collapsible: true,
+          children: "structure",
+        },
 
-      ],
+    ],
     },
 
 
     {
       text: "游戏系统",
-      icon: "book",
+      icon: "clock",
       prefix: "GameGeneral/",
       collapsible: true,
       children: "structure",
@@ -141,13 +141,14 @@ export default sidebar({
 
     {
       text: "攻略数据",
-      icon: "book",
+      icon: "laptop-code",
       prefix: "data/",
       collapsible: true,
       children: [
+        "readme.md",
         {
           text: "角色机体",
-          icon: "circle-info",
+          icon: "book",
           prefix: "character/",
           collapsible: true,
           children: [
@@ -1147,7 +1148,7 @@ export default sidebar({
 
     {
       text: "记录",
-      icon: "laptop-code",
+      icon: "circle",
       prefix: "demo/",
       link: "demo/",
       children: "structure",

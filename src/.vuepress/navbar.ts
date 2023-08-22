@@ -18,7 +18,7 @@ export default navbar([
   {
     text: "则2",
     icon: "circle-info",
-    link: "/guide/mods/GameplayMods/SOKU2general.html",
+    link: "/mods/GameplayMods/SOKU2general.html",
   },
 
   // {

@@ -1,7 +1,7 @@
 ---
 title: 关于本站
 index: false
-icon: book
+icon: circle-info
 pageInfo: false
 editLink: false
 prev: false
