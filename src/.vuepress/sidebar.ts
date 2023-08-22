@@ -3,12 +3,19 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": 
   [
+    {
+      text: "关于本站",
+      icon: "book",
+      prefix: "about/",
+      link: "about/",
+      children: "structure",
+    },
 
 
     {
       text: "新手上路",
       icon: "book",
-      prefix: "new/",
+      prefix: "Beginners/",
       collapsible: true,
       children: "structure",
     },
@@ -18,8 +25,9 @@ export default sidebar({
       text: "常见问题",
       icon: "book",
       prefix: "guide/",
-      link: "guide/",
-      children: [
+      collapsible: true,
+      children: 
+      [
         "update.md",
         {
           text: "非想天启更新器说明",
@@ -64,11 +72,14 @@ export default sidebar({
             }
           ],
         },
+      ],
+        },
+
+        
         {
           text: "MOD插件介绍",
           icon: "gear",
           prefix: "mods/",
-          //link:"mods/",
           collapsible: true,
           children: [
             "WhatsMod.md",
@@ -114,8 +125,7 @@ export default sidebar({
               collapsible: true,
               children: "structure",
             },
-          ],
-        }
+
       ],
     },
 
@@ -123,7 +133,7 @@ export default sidebar({
     {
       text: "游戏系统",
       icon: "book",
-      prefix: "system/",
+      prefix: "GameGeneral/",
       collapsible: true,
       children: "structure",
     },
@@ -133,7 +143,7 @@ export default sidebar({
       text: "攻略数据",
       icon: "book",
       prefix: "data/",
-      link: "data/",
+      collapsible: true,
       children: [
         {
           text: "角色机体",
