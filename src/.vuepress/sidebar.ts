@@ -133,7 +133,7 @@ export default sidebar({
     {
       text: "游戏系统",
       icon: "book",
-      prefix: "GameGuide/",
+      prefix: "GameGeneral/",
       collapsible: true,
       children: "structure",
     },

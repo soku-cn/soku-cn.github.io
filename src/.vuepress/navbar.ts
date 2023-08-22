@@ -20,7 +20,6 @@ export default navbar([
     icon: "circle-info",
     link: "/guide/mods/GameplayMods/SOKU2general.html",
   },
-  "/data/",
 
   // {
   //   text: "V2 文档",

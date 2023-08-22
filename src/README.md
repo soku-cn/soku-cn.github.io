@@ -32,27 +32,27 @@ features:
   - title: 游戏资源下载+对战QQ群
     icon: rss
     details: 提供了网盘和资源群进行资源下载，欢迎加入非想天则的对战QQ群寻找玩伴进行交流~
-    link: /guide/#资源下载指路
+    link: /about/#非想天则资源下载指路
 
   - title: 常见问题指南
     icon: search
     details: 正在持续建设更新中，看完还没有解决的疑问，欢迎私聊咨询三回（QQ 1434716883）
-    link: /guide/
+    link: /guide/FAQ/Play/LobbyGuide.html
 
   - title: 新手上路/游戏攻略
     icon: book
     details: 手把手带你零基础入门非想天则！
     link: /Beginners/BeforePlaying.html
 
-  - title: 待补充
+  - title: 非想天则英文 日文Wiki
     icon: sitemap
-    details: 正在建设中~
-    link: //
+    details: 相关站点导航
+    link: /about#相关站点导航
 
   - title: 游戏社区
     icon: comment-dots
     details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
-    link: /guide/#qq群
+    link: /about#寻找玩伴————QQ群
 
   - title: Mod与工具介绍
     icon: ellipsis

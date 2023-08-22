@@ -1,5 +1,5 @@
 ---
-title: 天气
+title: 天气系统
 icon: cloud
 editLink: false
 prev: false
@@ -8,7 +8,7 @@ order: 1
 author: 三回転Tstar
 ---
 
-## **天气系统**
+## **天气系统机制**
 ### **天气的预报与变化**
 
 气质槽中央预告着将要发动的天气，当天气结束后会再随机选一个天气重新开始计时预报。
@@ -51,7 +51,7 @@ author: 三回転Tstar
 1. 在单局结束到下一局开始前，天气读数最低只会减少至 00.1，天气不会消失；最高会增加至  99.9，天气不会发动。
 
 
-![红色水晶即是天气玉，消失时发出哒哒声](https://bu.dusays.com/2023/08/21/64e3259ac86f7.png)
+![红色水晶即是天气玉，消失时发出哒哒声](https://bu.dusays.com/2023/08/21/64e3259ac86f7.png =450x295)
 
 **简单来说，无天气时的一套连段会加快天气发动，有天气时的一套连段会加快天气消失。**
 有多次弹墙/弹地效果的招式对天气的影响尤其明显（如衣玖的钻头、妖梦的蓝刀等）
@@ -70,7 +70,7 @@ author: 三回転Tstar
 
 ### **1.快晴 Sunny**
 
-![适合在天上飞行程度的天气](https://bu.dusays.com/2023/08/21/64e32690ec5fa.png)
+![适合在天上飞行程度的天气](https://bu.dusays.com/2023/08/21/64e32690ec5fa.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -93,7 +93,7 @@ author: 三回転Tstar
 
 ### **2.雾雨 Drizzle**
 
-![符卡火力提高程度的天气](https://bu.dusays.com/2023/08/21/64e3281270911.png)
+![符卡火力提高程度的天气](https://bu.dusays.com/2023/08/21/64e3281270911.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -111,7 +111,7 @@ author: 三回転Tstar
 
 ### **3.云天 Cloudy**
 
-![能够灵活使用符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32879908c8.png)
+![能够灵活使用符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32879908c8.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -130,7 +130,7 @@ author: 三回転Tstar
 
 ### **4.苍天 BlueSky**
 
-![连续技变得犀利程度的天气](https://bu.dusays.com/2023/08/21/64e3291d38912.png)
+![连续技变得犀利程度的天气](https://bu.dusays.com/2023/08/21/64e3291d38912.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -156,7 +156,7 @@ author: 三回転Tstar
 
 ### **5.雹天 Hail**
 
-![灵力增强程度的天气](https://bu.dusays.com/2023/08/21/64e3299c0614b.png)
+![灵力增强程度的天气](https://bu.dusays.com/2023/08/21/64e3299c0614b.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -171,7 +171,7 @@ author: 三回転Tstar
 
 ### **6.花云 SpringHaze**
 
-![能避开打击程度的天气](https://bu.dusays.com/2023/08/21/64e329df52446.png)
+![能避开打击程度的天气](https://bu.dusays.com/2023/08/21/64e329df52446.png =255x210)
 
 ::: center
 **起始读数：49.9**
@@ -195,7 +195,7 @@ author: 三回転Tstar
 
 ### **7.浓雾 Heavyfog**
 
-![吸血鬼附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a41adaae.png)
+![吸血鬼附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a41adaae.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -217,7 +217,7 @@ author: 三回転Tstar
 
 ### **8.雪天 Snow**
 
-![幽灵附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a7e84798.png)
+![幽灵附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a7e84798.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -243,7 +243,7 @@ author: 三回転Tstar
 
 ### **9.天气雨 SunShower**
 
-![防御变得怪异程度的天气](https://bu.dusays.com/2023/08/21/64e32b2eae8f4.png)
+![防御变得怪异程度的天气](https://bu.dusays.com/2023/08/21/64e32b2eae8f4.png =255x210)
 
 ::: center
 **起始读数：74.9**
@@ -266,7 +266,7 @@ author: 三回転Tstar
 
 ### **10.疏雨 Sprinkle**
 
-![必杀技全开程度的天气](https://bu.dusays.com/2023/08/21/64e32bc69e106.png)
+![必杀技全开程度的天气](https://bu.dusays.com/2023/08/21/64e32bc69e106.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -282,7 +282,7 @@ author: 三回転Tstar
 
 ### **11.风雨 Tempest**
 
-![借助风之力程度的天气](https://bu.dusays.com/2023/08/21/64e32c26ecb0e.png)
+![借助风之力程度的天气](https://bu.dusays.com/2023/08/21/64e32c26ecb0e.png =255x210)
 
 ::: center
 **起始读数：49.9**
@@ -304,7 +304,7 @@ author: 三回転Tstar
 
 ### **12.晴岚 MountainVapor**
 
-![看不见符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32c808e3a1.png)
+![看不见符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32c808e3a1.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -330,7 +330,7 @@ author: 三回転Tstar
 
 ### **13.川雾 RiverMist**
 
-![距离变得诡异程度的天气](https://bu.dusays.com/2023/08/21/64e32d29a8af4.png)
+![距离变得诡异程度的天气](https://bu.dusays.com/2023/08/21/64e32d29a8af4.png =255x210)
 
 ::: center
 **起始读数：74.9**
@@ -350,7 +350,7 @@ author: 三回転Tstar
 
 ### **14.台风 Typhoon**
 
-![使决斗变得疯狂程度的天气](https://bu.dusays.com/2023/08/21/64e32d78d495f.png)
+![使决斗变得疯狂程度的天气](https://bu.dusays.com/2023/08/21/64e32d78d495f.png =255x210)
 
 ::: center
 **起始读数：74.9**
@@ -374,7 +374,7 @@ author: 三回転Tstar
 
 ### **15.无风 Calm**
 
-![ 能使伤口愈合程度的天气](https://bu.dusays.com/2023/08/21/64e32df905d06.png)
+![ 能使伤口愈合程度的天气](https://bu.dusays.com/2023/08/21/64e32df905d06.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -394,7 +394,7 @@ author: 三回転Tstar
 
 ### **16.钻石尘 DiamondDust**
 
-![睡着就会死程度的天气](https://bu.dusays.com/2023/08/21/64e32e51d6c57.png)
+![睡着就会死程度的天气](https://bu.dusays.com/2023/08/21/64e32e51d6c57.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -416,7 +416,7 @@ author: 三回転Tstar
 
 ### **17.黄砂 DustStorm**
 
-![反击程度的天气](https://bu.dusays.com/2023/08/21/64e32ebcbe21c.png)
+![反击程度的天气](https://bu.dusays.com/2023/08/21/64e32ebcbe21c.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -433,7 +433,7 @@ author: 三回転Tstar
 
 ### **18.烈日 ScorchingSun**
 
-![烧尽一切程度的天气](https://bu.dusays.com/2023/08/21/64e32f2496075.png)
+![烧尽一切程度的天气](https://bu.dusays.com/2023/08/21/64e32f2496075.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -457,7 +457,7 @@ author: 三回転Tstar
 
 ### **19.梅雨 Monsoon**
 
-![会被大地弹起程度的天气](https://bu.dusays.com/2023/08/21/64e32fa9f3e47.png)
+![会被大地弹起程度的天气](https://bu.dusays.com/2023/08/21/64e32fa9f3e47.png =255x210)
 
 ::: center
 **起始读数：99.9**
@@ -481,7 +481,7 @@ author: 三回転Tstar
 
 ### **20.极光 Aurora**
 
-![不知会发生什么程度的天气](https://bu.dusays.com/2023/08/21/64e3300752dcf.png)
+![不知会发生什么程度的天气](https://bu.dusays.com/2023/08/21/64e3300752dcf.png =255x210)
 
 ::: center
 **起始读数：因天气而定**
