@@ -28,7 +28,7 @@ date: 2023-07-22
 
 以下是Windows Defender的信任添加方式：
 
->也可直接参考[这篇文章](https://zhuanlan.zhihu.com/p/348518908)
+>也可直接参考这篇文章 https://zhuanlan.zhihu.com/p/348518908
 
 1. 打开```Windows安全中心``` 
 

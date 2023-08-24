@@ -42,14 +42,14 @@ date: 2023-08-01
 :::
 ## **InGameHostlist插件说明**
 
-![【图片订正】ping值为...代表是使用AP联机，无法显示延迟，若是公网IP联机则可以显示延迟延迟较大的是正常毫秒延迟除以2（Ping显示80可能就代表150+ms）](https://bu.dusays.com/2023/08/20/64e21a98c49c2.png =640x480)
+![【图片订正】ping值为...代表是使用AP联机，无法显示延迟，若是公网IP联机则可以显示延迟延迟较大的是正常毫秒延迟除以2（Ping显示80可能就代表150+ms）](https://bu.dusays.com/2023/08/20/64e21a98c49c2.png =640x)
 
 当然也可以普通复制别人的IP来进入，选择Join from clipboard，用鼠标或者左右方向键选择join连接对战
 
-![](https://bu.dusays.com/2023/08/20/64e21acecc5c3.png =640x480)
+![](https://bu.dusays.com/2023/08/20/64e21acecc5c3.png =640x)
 
 ## **在这里进行设置后，才能使用**
-![](https://bu.dusays.com/2023/08/20/64e21ade015ff.jpeg =360x300)
+![](https://bu.dusays.com/2023/08/20/64e21ade015ff.jpeg =360x)
 
 ::: warning 在这里进行设置后，才能使用
 给 **Post to bot** 打上勾才会上传至对战列表（需要支持AP）
@@ -58,7 +58,7 @@ date: 2023-08-01
 
 ## **Host建主和Trialmode创建连段包时报错**
 
-![开启上传至对战列表后一按HOST就崩溃](https://bu.dusays.com/2023/08/20/64e21aee7d144.png =320x175)
+![开启上传至对战列表后一按HOST就崩溃](https://bu.dusays.com/2023/08/20/64e21aee7d144.png =320x)
 
 ::: warning
 很有可能是你的机签的问题，修改一下机签profile名字，最好只用英文字母+数字+字符

@@ -18,7 +18,7 @@ date: 2023-08-01
 :::
 
 ::: center
-![](https://bu.dusays.com/2023/08/20/64e216447fa91.png)![](https://bu.dusays.com/2023/08/20/64e2164ff170b.png =390x450)
+![](https://bu.dusays.com/2023/08/20/64e216447fa91.png) ![](https://bu.dusays.com/2023/08/20/64e2164ff170b.png =390x)
 
 :::
 
