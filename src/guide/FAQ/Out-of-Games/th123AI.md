@@ -22,10 +22,10 @@ date: 2023-08-01
 ## **点开提示找不到文件，或无反应**
 
 ::: warning
-很可能是因为你的神ai程序文件被杀毒软件误杀了。
+很可能是因为你的神ai程序文件**被杀毒软件误杀**了。
 路径为 th123/modules/th123ai/th123_ai.exe
 
-下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
+误杀后恢复，下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
 :::
 
 ![](https://bu.dusays.com/2023/08/20/64e218a7a47a4.png)
@@ -42,7 +42,7 @@ date: 2023-08-01
 当游戏脱离聚焦不在前台时，AI会停止行动
 :::
 
-![版本匹配正常，小窗口标题栏会显示当前游戏状态](https://bu.dusays.com/2023/08/20/64e218ddd336b.png =640x480)
+![版本匹配正常，小窗口标题栏会显示当前游戏状态](https://bu.dusays.com/2023/08/20/64e218ddd336b.png =640x)
 
 
 ## **若是发生AI误操作为1P的情况**

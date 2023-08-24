@@ -31,4 +31,4 @@ date: 2023-07-23
 参考图片进行设置
 :::
 
-![WindowResizer设置示例](https://bu.dusays.com/2023/08/20/64e214f31fd08.png =500x500)
+![WindowResizer设置示例](https://bu.dusays.com/2023/08/20/64e214f31fd08.png =500x)

@@ -1,5 +1,5 @@
 ---
-title: 绯想天th105.exe打不开
+title: 绯想天th105.exe打开时弹窗
 
 # 标题
 icon: circle-info
