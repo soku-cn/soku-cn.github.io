@@ -1,5 +1,5 @@
 ---
-title: 蕾米莉亚·斯卡蕾特
+title: 2A起手
 index: false
 icon: book
 pageInfo: false
