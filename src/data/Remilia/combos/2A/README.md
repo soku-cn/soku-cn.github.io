@@ -1,5 +1,5 @@
 ---
-title: 机体数据
+title: 2A起手
 index: false
 icon: book
 pageInfo: false
