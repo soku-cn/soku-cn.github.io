@@ -16,8 +16,8 @@ date: 2023-08-01
 ## **首先，确认你支持AP。**
 
 ::: info 操作步骤，参考下图
-1.SWRSToys.ini配置文件里改用60F版本的giuroll，并注意自己和别人的信息标注
-2.使用InGameHostlist插件（同时关掉SokuLobbiesMod）
+1.SWRSToys.ini配置文件里改用 **60F 版本的giuroll**，并注意自己和别人的信息标注
+2.使用 InGameHostlist 插件（同时关掉 SokuLobbiesMod 大厅）
 **3.不要使用中文机签名，最好只用英文字母+数字+字符**
 :::
 
@@ -32,8 +32,8 @@ date: 2023-08-01
 - NA-北美，SA-南美，EU-欧洲，SEA-东南亚,AS-亚洲，AF-非洲，OCE-澳洲
 - 国内网络，连南美和澳洲是几乎没法玩的，部分东南亚路线也绕远路没法玩
 - no beginner（新手不要进来），
-- +GR（使用giuroll-60F），
-- +SR（使用SokuRoll），
+- +GR（使用 **giuroll-60F**），
+- +SR（使用 SokuRoll），
 - ft10（抢十），5 games（打五局），
 - ping below 120（你列表内显示延迟高于120就不要进，不想太卡）
 
