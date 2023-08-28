@@ -14,7 +14,7 @@ export default navbar([
 
   "/about/",
   "/Beginners/BeforePlaying.html",
-  "/guide/FAQ/Play/LobbyGuide.html",
+  "/FAQ/Play/LobbyGuide.html",
   {
     text: "则2",
     icon: "circle-info",
