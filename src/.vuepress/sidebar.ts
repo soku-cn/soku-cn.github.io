@@ -123,9 +123,9 @@ export default sidebar({
 
 
     {
-      text: "游戏系统",
+      text: "游戏系统与机制",
       icon: "clock",
-      prefix: "GameGeneral/",
+      prefix: "GameGuide/",
       collapsible: true,
       children: "structure",
     },
