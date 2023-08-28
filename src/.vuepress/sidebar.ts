@@ -22,26 +22,20 @@ export default sidebar({
 
 
     {
-      text: "常见问题",
+      text: "游戏常见问题",
       icon: "circle-question",
-      prefix: "guide/",
+      prefix: "FAQ/",
       collapsible: true,
       children: 
       [
-        "update.md",
-        {
-          text: "非想天启更新器说明",
-          icon :"gears",
-          prefix: "FXTQ/",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: "问题指南",
-          icon: "question",
-          prefix: "FAQ/",
-          collapsible: true,
-          children: [
+           "update.md",
+           {
+             text: "「非想天启」更新器说明",
+             icon :"gears",
+              prefix: "FXTQ/",
+              collapsible: true,
+             children: "structure",
+            },
             {
               text: "游戏外问题",
               icon: "question",
@@ -70,10 +64,8 @@ export default sidebar({
               collapsible: true,
               children: "structure",
             }
-          ],
-        },
       ],
-        },
+    },
 
         
     {
@@ -131,9 +123,9 @@ export default sidebar({
 
 
     {
-      text: "游戏系统",
+      text: "游戏系统与机制",
       icon: "clock",
-      prefix: "GameGeneral/",
+      prefix: "GameGuide/",
       collapsible: true,
       children: "structure",
     },
