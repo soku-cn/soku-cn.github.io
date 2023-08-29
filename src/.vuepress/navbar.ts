@@ -15,6 +15,7 @@ export default navbar([
   "/about/",
   "/Beginners/BeforePlaying.html",
   "/FAQ/Play/LobbyGuide.html",
+  "/mods/PracticeMods/PracticeEX.md",
   {
     text: "则2",
     icon: "circle-info",
