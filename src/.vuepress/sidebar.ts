@@ -76,7 +76,7 @@ export default sidebar({
       children: [
         "WhatsMod.md",
         {
-          text: "练习模式插件",
+          text: "练习模式相关插件",
           icon: "file",
           prefix: "PracticeMods/",
           collapsible: true,
@@ -111,7 +111,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "修改素材Mod",
+          text: "修改素材相关Mod",
           icon: "file",
           prefix: "DIY/",
           collapsible: true,
