@@ -36,7 +36,7 @@ features:
 
   - title: 常见问题指南
     icon: search
-    details: 正在持续建设更新中，看完还没有解决的疑问，可私聊求则（QQ 1434716883）
+    details: 正在持续建设更新中，看完还没有解决的疑问，可私聊求助（QQ 1434716883）
     link: /FAQ/Play/LobbyGuide.html
 
   - title: 新手上路/游戏攻略
