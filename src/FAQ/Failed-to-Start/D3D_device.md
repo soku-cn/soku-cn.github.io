@@ -14,17 +14,13 @@ date: 2023-07-22
 ---
 
 
->Failed to create D3D device
->Faild to initialize
-
-![](https://bu.dusays.com/2023/08/20/64e211afa224b.png)
-
-![](https://bu.dusays.com/2023/08/20/64e211dc1b648.png)
+![](https://bu.dusays.com/2023/08/20/64e211afa224b.png) 　　![](https://bu.dusays.com/2023/08/20/64e211dc1b648.png)
 
 ## **解决方法**
 
 ::: info 解决办法
-检查**显卡驱动**，
+检查**显卡驱动**
+
 检查是否开启了带有**反作弊**的游戏（瓦罗兰特）
 :::
 

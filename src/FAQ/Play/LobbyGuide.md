@@ -40,8 +40,9 @@ date: 2023-08-01
 
 ## **大厅内如何联机**
 
+::: tip
 [**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-
+:::
 
 <!-- ### 三、可能是版本问题
 ![检查游戏标题](https://bu.dusays.com/2023/08/06/64cf59355a97c.png)
