@@ -39,7 +39,7 @@ export default sidebar({
             {
               text: "游戏外问题",
               icon: "question",
-              prefix: "Out-of-Games/",
+              prefix: "Others/",
               collapsible: true,
               children: "structure",
             },

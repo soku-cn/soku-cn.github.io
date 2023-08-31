@@ -19,19 +19,23 @@ date: 2023-08-01
 解决办法：让2P打开swarm，确保监听端口和观战端口（“蜈蚣端口”）保持一致，中转IP后所有人可通过2P的这个中转IP观战。
 :::
 
-![config123.ini 观战端口 默认为10800](https://bu.dusays.com/2023/08/20/64e21b29cfcc8.png =425x)
+![config123.ini 观战端口 默认为10800](https://bu.dusays.com/2023/08/20/64e21b29cfcc8.png =500x)
 
-![swarm 监听端口 中转IP用 默认为10800]![](https://bu.dusays.com/2023/08/20/64e21b400c953.png =640x)
+![swarm 监听端口 中转IP用 默认为10800](https://bu.dusays.com/2023/08/20/64e21b400c953.png =640x)
 
 ::: info 参考文章
-参考文章  非想天则网络协议说明
- https://github.com/delthas/touhou-protocol-docs/blob/master/protocol_123.md
+**非想天则网络协议说明**
+
+https://github.com/delthas/touhou-protocol-docs/blob/master/protocol_123.md
 :::
 
 ## **我想观战别人，但是不知道别人的IP有没有人已经进去了**
 
 ![](https://bu.dusays.com/2023/08/20/64e21b6f1e68a.png =640x)
 
-在此选否，若对方已经开战，则进入观战；若对方还在等待，则会提示还未开战而不会进入。
+::: info
+在此选否，若对方已经开战，则进入观战
 
+若对方还在等待，则会提示还未开战而不会进入。
+:::
 

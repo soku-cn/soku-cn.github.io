@@ -21,10 +21,10 @@ date: 2023-08-01
 **3.不要使用中文机签名，最好只用英文字母+数字+字符**
 :::
 
-![修改插件配置](https://bu.dusays.com/2023/08/20/64e21a5866b02.png)
+![修改插件配置](https://bu.dusays.com/2023/08/20/64e21a5866b02.png =800x)
 
 
-![Konni Bot Hostlist 对战列表，国际非想天则社区群（需要梯子）： https://discord.gg/hisouten](https://bu.dusays.com/2023/08/20/64e21a7c8b887.png)
+![Konni Bot Hostlist 对战列表，国际非想天则社区群（需要梯子）： https://discord.gg/hisouten](https://bu.dusays.com/2023/08/20/64e21a7c8b887.png =800x)
 
 ::: info 新人须知
 注意别人的标注消息和注意写好自己的标注信息，常见有 
