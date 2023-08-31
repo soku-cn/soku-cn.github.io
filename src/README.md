@@ -27,7 +27,7 @@ features:
   - title: 非想天启更新器
     icon: fab fa-markdown
     details: 使用「非想天启」便捷地保持游戏更新和管理游戏配置，并一键启动游戏、TSK、Swarm
-    link: /guide/FXTQ/introduce.html
+    link: /FAQ/FXTQ/introduce.html
 
   - title: 游戏资源下载+对战QQ群
     icon: rss
@@ -36,23 +36,23 @@ features:
 
   - title: 常见问题指南
     icon: search
-    details: 正在持续建设更新中，看完还没有解决的疑问，欢迎私聊咨询三回（QQ 1434716883）
-    link: /guide/FAQ/Play/LobbyGuide.html
+    details: 正在持续建设更新中，看完还没有解决的疑问，可私聊求则（QQ 1434716883）
+    link: /FAQ/Play/LobbyGuide.html
 
   - title: 新手上路/游戏攻略
     icon: book
-    details: 手把手带你零基础入门非想天则！
+    details: 手把手带你零基础入门非想天则！（建设中）
     link: /Beginners/BeforePlaying.html
 
   - title: 非想天则英文 日文Wiki
     icon: sitemap
     details: 相关站点导航
-    link: /about#相关站点导航
+    link: /about/#相关站点导航
 
-  - title: 游戏社区
+  - title: 游戏社区（QQ群）
     icon: comment-dots
     details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
-    link: /about#寻找玩伴————QQ群
+    link: /about/#寻找玩伴————qq群
 
   - title: Mod与工具介绍
     icon: ellipsis
