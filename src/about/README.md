@@ -34,7 +34,7 @@ next: false
 **https://cloud.189.cn/web/share?code=uUNrQjMJVviu** (访问码：bz8m)
 
 #### 百度网盘
-**https://pan.baidu.com/s/1zf0uF4YnmRr16r9Vwoauwg?pwd=eapf**
+**https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
 **https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111** (指路文档备份)
 
 #### 蓝奏云(小文件补丁专用)
