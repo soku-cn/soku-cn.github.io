@@ -57,7 +57,7 @@ features:
   - title: Mod与工具介绍
     icon: ellipsis
     details: 游戏性MOD，或功能使用的插件及工具介绍
-    link: /guide/mods/WhatsMod.html
+    link: /mods/WhatsMod.html
 
 copyright: false
 footer: MIT Licensed | Copyright © 2023 ChocoFleece
