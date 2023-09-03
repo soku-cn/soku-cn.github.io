@@ -19,9 +19,16 @@ date: 2023-07-22
 
 ## **杀毒软件误杀文件**
 ::: info
-各种杀毒软件会误杀各种插件，Windows防火墙也会在联网通信时弹窗询问是否允许，请点**允许访问**
+各种杀毒软件会误杀各种插件
 
-![mod的 dll文件 not exist，被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png)
+Windows防火墙也会在联网通信时弹窗询问是否允许，请点**允许访问**
+
+![mod的 dll文件提示 file does not exist，被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png)
+
+![swarm-new 被杀软误杀 案例1](https://bu.dusays.com/2023/09/03/64f4806faa8e5.png)
+
+![swarm-new 被杀软误杀 案例2](https://bu.dusays.com/2023/09/03/64f47ecfac1d7.jpg)
+
 :::
 
 ## **解决方法-添加白名单信任**
