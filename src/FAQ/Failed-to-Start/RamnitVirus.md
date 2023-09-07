@@ -22,9 +22,10 @@ date: 2023-07-22
 ::: warning
 **关闭所有弹窗，看游戏是否运行，如果游戏标题显示是1.10版本则是游戏版本问题；否则很有可能是感染了病毒**
 
-病毒伪装成游戏文件，千万不要运行，可以用```Symantec Ramnit Removal Tool```修复 
+病毒伪装成游戏文件，千万不要运行，可以用 ```Symantec Ramnit Removal Tool``` 赛门铁克Ramnit专杀工具修复 
 
 [Symantec Ramnit Removal Tool 下载链接](https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd)
+**注意：专杀工具会扫描你硬盘（不知道会不会扫U盘）内的所有文件，所以可能会耗时很久，推荐晚上睡觉挂机的时候杀，可能醒来就OK了，然后重启电脑，再检查 th123.exe 文件的大小检验效果**
 :::
 
 

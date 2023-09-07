@@ -46,12 +46,24 @@ F4查看判定，F11暂停，F12逐帧，让木桩在 防御/异地/起身/挨�
 
 **图7木桩反应 Triggers 选项翻译：**
 
-**NONE**即为无动作，**BORDER ESCAPE**即回避结界，一般称DD； [UP]即为2DD， [UPBACK]即为1DD， [BACK]即为4DD， [FORWARD] 即为6DD
-**MACRO**是执行宏，即录制下来的动作，**RANDOM MACRO**是随机执行一个录下来的动作，**SELECT CARD**是指使用手上的卡片
 
-**防御时：** HANGEKI -羽衣
 
-**防御后：** DP-升龙(部分角色才有)，SPIRITUAL STRIKE TALISMAN-灵击，4A,2A，JUMP-小跳，HJ-大跳，DASH-向前66，BACK DASH-向后44
+**防御时：** 
+**NONE** 即为无动作
+**HANGEKI** -羽衣
+**BORDER ESCAPE** 即回避结界，一般称DD； [UP]即为2DD， [UPBACK]即为1DD， [BACK]即为4DD， [FORWARD] 即为6DD
+**MACRO** 是执行宏，即录制下来的动作
+**RANDOM MACRO** 是随机执行一个录下来的动作
+**SELECT CARD** 是指使用手上的卡片
+
+**防御后：** 
+**DP** - 升龙(部分角色才有)
+**SPIRITUAL STRIKE TALISMAN** - 灵击
+**4A，2A**
+**JUMP** - 小跳
+**HJ** - 大跳
+**DASH** - 向前66
+**BACK DASH** - 向后44
 :::
 
 ::: warning BUG 注意
