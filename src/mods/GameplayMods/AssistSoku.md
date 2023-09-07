@@ -1,5 +1,5 @@
 ---
-title: AssistSoku援助mod
+title: AssistSoku援助Mod
 
 # 标题
 icon: circle-info

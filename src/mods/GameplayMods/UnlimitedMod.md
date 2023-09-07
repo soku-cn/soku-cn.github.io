@@ -1,5 +1,5 @@
 ---
-title: UnlimitedMod
+title: UnlimitedSoku改版Mod
 
 # 标题
 icon: circle-info
