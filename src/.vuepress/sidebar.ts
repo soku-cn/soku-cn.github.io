@@ -82,13 +82,13 @@ export default sidebar({
           collapsible: true,
           children: "structure",
         },
-        {
-          text: "联机相关插件",
-          icon: "file",
-          prefix: "NetMods/",
-          collapsible: true,
-          children: "structure",
-        },
+        // {
+        //   text: "联机相关插件",
+        //   icon: "file",
+        //   prefix: "NetMods/",
+        //   collapsible: true,
+        //   children: "structure",
+        // },
         {
           text: "功能性插件",
           icon: "file",
