@@ -11,7 +11,7 @@ author: Hagb
 
 如果你看不懂这个标题，那么你应该不需要用到本篇内容。
 
-本篇发布在 [MIT 许可证](https://opensource.org/license/mit/)下，内容是关于如何在 GNU/Linux 使用 wine 运行非想天则及相关程序的。
+本篇内容是关于如何在 GNU/Linux 使用 wine 运行非想天则及相关程序的。
 
 # 安装 Wine 并运行带 Mod 的非想天则（包括新则）
 
