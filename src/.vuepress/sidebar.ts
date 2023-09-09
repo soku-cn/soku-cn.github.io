@@ -28,13 +28,13 @@ export default sidebar({
       collapsible: true,
       children: 
       [
-           "update.md",
-           {
-             text: "「非想天启」更新器说明",
-             icon :"gears",
-              prefix: "FXTQ/",
-              collapsible: true,
-             children: "structure",
+          "update.md",
+          {
+            text: "「非想天启」更新器说明",
+            icon :"gears",
+            prefix: "FXTQ/",
+            collapsible: true,
+            children: "structure",
             },
             {
               text: "其他问题",
@@ -61,6 +61,13 @@ export default sidebar({
               text: "对战和大厅问题",
               icon: "question",
               prefix: "Play/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "Linux相关问题",
+              icon: "question",
+              prefix: "Linux/",
               collapsible: true,
               children: "structure",
             }
@@ -1135,6 +1142,14 @@ export default sidebar({
         // }
       ],
     },
+
+    // {
+    //   text: "其他内容",
+    //   icon: "ellipsis",
+    //   prefix: "others/",
+    //   collapsible: true,
+    //   children: "structure",
+    // },
 
 
 
