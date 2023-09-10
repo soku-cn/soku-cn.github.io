@@ -1,5 +1,5 @@
 ---
-title: 什么是则2，怎么安装使用
+title: 则2，安装与使用
 
 # 标题
 icon: circle-info

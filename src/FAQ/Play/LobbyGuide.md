@@ -40,7 +40,7 @@ date: 2023-08-01
 
 ## **大厅内如何联机**
 
-::: tip
+::: tip 联机说明
 [**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 :::
 
