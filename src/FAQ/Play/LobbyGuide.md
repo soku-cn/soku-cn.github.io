@@ -71,7 +71,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 ![](https://bu.dusays.com/2023/08/06/64cf55b644ff8.png =500x)
 
 ::: info 
-**情况1：** 大厅主服务器炸了，等待 PinkySmile（法国时区比北京慢6小时）那边重启服务器
+**情况1：** 大厅主服务器炸了，等待 PinkySmile 重启主服务器
 
 **情况2：** 自己偶尔卡了，让他等一会儿或者回到主菜单重进
 :::
@@ -80,8 +80,13 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ![报错](https://bu.dusays.com/2023/08/06/64cf5741976d0.png =440x) ![](https://bu.dusays.com/2023/08/06/64cf57e8457e4.png =420x)
 
-::: info 解决办法
-**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的`settings.dat` 或 `stats.dat`
+::: info 
+这是因为你相关文件损坏了，比如电脑断电，蓝屏等，导致游戏异常强制退出
+
+**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的`settings.dat` 或将你的 `stats.dat.backup` 备份给恢复
+
+![将损坏的文件删掉，然后把backup备份文件的后缀删掉让他替换上去](https://bu.dusays.com/2023/09/11/64fed57e9e421.png)
+
 :::
 
 
