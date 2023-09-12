@@ -66,6 +66,8 @@ date: 2023-09-04
 
 **把 data 文件夹或者 character 文件夹之类的改个名，即可破坏（取消）这种导入方式**
 
+![成品就这样](https://bu.dusays.com/2023/09/13/6500902380b28.png =800x)
+
 ::: 
 
 ::: info 方法二：Shady-loader法
