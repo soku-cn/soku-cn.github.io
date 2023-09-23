@@ -18,11 +18,16 @@ date: 2023-08-01
 
 使用软件 **Keyboard Splitter**（将第二个键盘虚拟成手柄，或者你本身就有手柄） 
 
-**软件下载链接**: https://pan.baidu.com/s/1ClhNvt-yotQiIj4AgRsiMw?pwd=2w6n
+**软件下载链接**: https://pan.baidu.com/s/1ClhNvt-yotQiIj4AgRsiMw?pwd=2w6n （内含使用说明）
+
+https://github.com/djlastnight/KeyboardSplitterXbox/releases/tag/
 
 **注意：**进入 VS PLAYER 模式，按C给2P键重新设置键位位为手柄按键即可。
 
-参考：《Touhou How To : Multiplayer with 2 keyboards on same PC》
+使用说明、参考：《格斗游戏本地键盘双人，多个键盘分别模拟多个控制器，KeyboardSplitter 软件使用演示 Keyboard Splitter Xbox》
+https://www.bilibili.com/video/BV1hT411h7uw/
+
+《Touhou How To : Multiplayer with 2 keyboards on same PC》
 https://www.youtube.com/watch?v=_hvoFs_amT8
 :::
 
