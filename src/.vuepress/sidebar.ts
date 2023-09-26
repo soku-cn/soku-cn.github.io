@@ -63,6 +63,13 @@ export default sidebar({
               prefix: "Play/",
               collapsible: true,
               children: "structure",
+            },
+            {
+              text: "Linux相关问题",
+              icon: "question",
+              prefix: "Linux/",
+              collapsible: true,
+              children: "structure",
             }
       ],
     },
