@@ -13,15 +13,16 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-## **首先，确认你支持AP。**
+## **首先注意插件配置区别。**
 
 ::: info 操作步骤，参考下图
-1.SWRSToys.ini配置文件里改用 **60F 版本的giuroll**，并注意自己和别人的信息标注
-2.使用 InGameHostlist 插件（同时关掉 SokuLobbiesMod 大厅）
-**3.不要使用中文机签名，最好只用英文字母+数字+字符**
+1. 改用 **60F 版本的giuroll**，并注意自己和别人的信息标注
+2. 随便进入某个大厅，在入口右手边有一个单独的机器，在上面按Z可以加载对战列表，连接即可（**不要连接澳大利亚和南美洲国家的国旗，会很卡**）
+3. 若是想要自己建主，推荐使用 InGameHostlist 对战Bot列表插件（同时关掉 SokuLobbiesMod 大厅）
+4. **不要使用中文机签名**，最好只用英文字母+数字+字符
 :::
 
-![修改插件配置](https://bu.dusays.com/2023/08/20/64e21a5866b02.png =800x)
+![在此修改60F 版本的giuroll](https://bu.dusays.com/2023/09/28/6515a00be1933.png)
 
 
 ![Konni Bot Hostlist 对战列表，国际非想天则社区群（需要梯子）： https://discord.gg/hisouten](https://bu.dusays.com/2023/08/20/64e21a7c8b887.png =800x)
