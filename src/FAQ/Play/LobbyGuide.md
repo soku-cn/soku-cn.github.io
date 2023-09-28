@@ -13,6 +13,41 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
+## **大厅内如何联机**
+
+::: tip 联机说明
+
+
+[**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+
+:::
+
+
+
+## **联机显示红字**
+
+::: info 情况一：网络不支持AP联机
+
+![两行红字](https://bu.dusays.com/2023/09/28/6515a2a37e0ce.png =800x)
+
+**请看上面，大厅内如何联机**
+
+[**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+:::
+
+::: info 情况二：版本问题
+
+![检查游戏标题](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
+
+![版本问题报错](https://bu.dusays.com/2023/08/06/64cf5aa78a42c.png)
+
+联机时显示这种四行红字报错提示，意思是双方版本不一致
+Your version一行是你自己的版本，图中 GiuRoll with SWR 的意思是60F版本giuroll + 绯想天合体，
+Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是62F版本giuroll  + 绯想天合体
+with SWR就说明是和绯想天合体成功的；without SWR就说明是没和绯想天合体成功。
+检查并更新游戏版本，注意CN代表的62F，与不加CN的60F之间不能互相联机。
+:::
+
 ## **大厅内的操作**
 ::: info
 - 默认是 Enter 回车 开关聊天框（可自定义热键），输入 /help 查看命令列表 
@@ -38,35 +73,6 @@ date: 2023-08-01
 隐藏彩蛋：解锁恋恋等其他角色形象
 :::
 
-## **大厅内如何联机**
-
-::: tip 联机说明
-[**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-:::
-
-<!-- ### 三、可能是版本问题
-![检查游戏标题](https://bu.dusays.com/2023/08/06/64cf59355a97c.png)
-
-
-![版本问题报错](https://bu.dusays.com/2023/08/06/64cf5aa78a42c.png)
-
-::: info
-联机时显示这种四行红字报错提示，意思是双方版本不一致
-Your version一行是你自己的版本，图中 GiuRoll with SWR 的意思是60F版本giuroll + 绯想天合体，
-Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是62F版本giuroll  + 绯想天合体
-with SWR就说明是和绯想天合体成功的；without SWR就说明是没和绯想天合体成功。
-检查并更新游戏版本，注意CN代表的62F，与不加CN的60F之间不能互相联机。
-::: -->
-
-## **点创建大厅提示这个是什么意思**
-
-![](https://bu.dusays.com/2023/08/08/64d233d146e89.png)
-
-::: warning
-**玩家请点加入大厅**
-创建大厅需要公网IP，使用文件夹内的RunServer.bat
-:::
-
 ## **大厅房间进不去，卡加载loading**
 ![](https://bu.dusays.com/2023/08/06/64cf55b644ff8.png =500x)
 
@@ -76,17 +82,35 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 **情况2：** 自己偶尔卡了，让他等一会儿或者回到主菜单重进
 :::
 
+
 ## **进入大厅或者菜单里点自定义形象就崩溃**
 
 ![报错](https://bu.dusays.com/2023/08/06/64cf5741976d0.png =440x) ![](https://bu.dusays.com/2023/08/06/64cf57e8457e4.png =420x)
 
 ::: info 
-这是因为你相关文件损坏了，比如电脑断电，蓝屏等，导致游戏异常强制退出
 
-**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的`settings.dat` 或将你的 `stats.dat.backup` 备份给恢复
+
+**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内
+删除你的`settings.dat` 
+或将你的 `stats.dat.backup` 备份给恢复
 
 ![将损坏的文件删掉，然后把backup备份文件的后缀删掉让他替换上去](https://bu.dusays.com/2023/09/11/64fed57e9e421.png)
 
+:::
+
+
+
+
+
+
+
+## **点创建大厅提示这个是什么意思**
+
+![](https://bu.dusays.com/2023/08/08/64d233d146e89.png)
+
+::: warning
+**玩家请点加入大厅**
+创建大厅需要公网IP，使用文件夹内的RunServer.bat
 :::
 
 
