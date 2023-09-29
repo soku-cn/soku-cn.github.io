@@ -13,6 +13,14 @@ date: 2023-09-04
 #文章编辑日期
 ---
 
+## Win7仔请下载单独的Win7修复补丁Shady-loader（可能会有崩溃bug）
+::: info
+**下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/shady-loader-Win7.zip**
+
+![Win7下Shady-loader显示Bug，下载补丁替换dll文件后可解决](https://bu.dusays.com/2023/09/29/65161d1f0bb7e.jpg =640x)
+
+:::
+
 ## 下载其他人制作的美化包素材包
 
 ::: info 下载方式一
