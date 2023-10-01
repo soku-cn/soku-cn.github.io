@@ -15,14 +15,16 @@ date: 2023-08-01
 
 ## **已知问题**
 ::: warning
-1、新版本giuroll已经可以进入VS PLAYER和VS COM模式了，可以和神AI共存，bat文件名上的提示已作废。
-2、开启则2的情况下，神AI会识别不到游戏，所以则2和神AI不能共存
+1. 新版本giuroll已经可以进入VS PLAYER和VS COM模式了，可以和神AI共存，bat文件名上的提示已作废。
+
+2. 开启则2的情况下，神AI会识别不到游戏，所以则2和神AI不能共存
 :::
 
 ## **点开提示找不到文件，或无反应**
 
 ::: warning
 很可能是因为你的神ai程序文件**被杀毒软件误杀**了。
+
 路径为 th123/modules/th123ai/th123_ai.exe
 
 误杀后恢复，下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
