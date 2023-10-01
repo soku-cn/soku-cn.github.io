@@ -32,12 +32,21 @@ date: 2023-08-01
 
 ## **正常打开后**
 
-![点击地址栏的th123文件夹](https://bu.dusays.com/2023/08/20/64e218b5ea8f2.png)
+::: info 
+如果它询问 AI 脚本文件的话，可以选择 all_standby.ai 文件
 
-![点th123.exe，然后点打开](https://bu.dusays.com/2023/08/20/64e218c5a963b.png)
+![](https://bu.dusays.com/2023/10/01/65196a41cd84f.png)
 
-::: info 进入VS PLAYER模式
-然后会打开游戏，**进入VS PLAYER模式即可**，注意2P的机签最好设置为AI（检查卡组和键位是否会产生冲突）
+![如果它询问 AI 脚本文件的话，可以选择 all_standby.ai 文件](https://bu.dusays.com/2023/10/01/65196a41e98c3.png)
+
+不询问 AI 脚本文件也正常，默认就是上面那个文件，然后选择 th123.exe 打开
+
+![询问th123.exe的时候，点击地址栏的th123文件夹](https://bu.dusays.com/2023/08/20/64e218b5ea8f2.png)
+
+![再双击th123.exe，或者单击再点打开](https://bu.dusays.com/2023/08/20/64e218c5a963b.png)
+
+::: info 完毕后，检查小黑框的标题，进入VS PLAYER模式即可与神AI对战
+然后会打开游戏，**进入VS PLAYER模式，注意2P的机签最好设置为AI（检查卡组和键位是否会产生冲突）**
 
 当游戏脱离聚焦不在前台时，AI会停止行动
 :::
