@@ -57,3 +57,9 @@ NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
 
 ![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://bu.dusays.com/2023/08/20/64e21c9299e26.png =540x340)
 
+## mod详细修改说明
+
+::: info 版本 3.65
+
+
+:::
