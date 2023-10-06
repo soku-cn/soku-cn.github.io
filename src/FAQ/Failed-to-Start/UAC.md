@@ -34,8 +34,8 @@ date: 2023-07-22
 :::
 
 ::: info 解决办法2
-禁用 Trialmode
+**禁用 Trialmode 和 InfiniteDecks 这两个mod**
 
-![SWRSToys.ini配置文件内，Ctrl+F搜索 trial，句首加分号，保存](https://bu.dusays.com/2023/08/29/64edaf1bd154a.png =450x)
+![SWRSToys.ini配置文件内，Ctrl+F搜索，句首加分号，保存](https://bu.dusays.com/2023/08/29/64edaf1bd154a.png =450x)
 
 :::

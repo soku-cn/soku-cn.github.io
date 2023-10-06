@@ -28,6 +28,16 @@ date: 2023-08-01
 
 ![](https://bu.dusays.com/2023/08/24/64e6fffd49511.gif)
 
+
+## 联机注意，不能用回滚插件
+::: warning **注意禁用回滚插件**
+
+**同时，把 giuroll 禁用，giuroll的回滚会使援助mod不同步**
+
+**也不能使用 SokuRoll**
+:::
+
+
 ## 下载与安装mod
 
 ::: info
@@ -43,12 +53,6 @@ date: 2023-08-01
 把 AssistSoku 文件夹放到modules文件夹内
 在 SWRStoys.ini 配置文件内添加以下语句，**放到最底端**
 `AssistSoku=Modules/AssistSoku/AssistSoku.dll`
-:::
-
-## 联机注意，不能用回滚插件
-::: warning **注意禁用回滚插件**
-**同时，把 giuroll 禁用，giuroll的回滚会使援助mod不同步。**
-**也不能使用 SokuRoll**
 :::
 
 ## 使用方法
