@@ -71,6 +71,10 @@ Windows Registry Editor Version 5.00
 
 若因为某些原因需要打无 Mod 的非想天则，那么请使用 `WINEDEBUG=trace+heap` 环境变量来启动非想天则，触发概率几乎变为 0（不确定是不是确实变为 0 了）。
 
+### 运行非想天则时弹出 DSound 相关错误
+
+可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
+
 ## 联机大厅相关
 
 遇到问题可以对照以下表格更新大厅
@@ -86,10 +90,6 @@ Windows Registry Editor Version 5.00
 在聊天框打字时若遇到光标与文字之间对不齐的问题（尤其文字中包含英文字母时），可使用 `FREETYPE_PROPERTIES="truetype:interpreter-version=35"` 环境变量来运行，或使用低于 `7.17` 版本的 Wine。
 
 若遇其他问题请向我们进行反馈。
-
-### 运行非想天则时弹出 DSound 相关错误
-
-可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
 
 ## Swarm 相关
 
