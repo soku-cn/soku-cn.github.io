@@ -67,7 +67,7 @@ Windows Registry Editor Version 5.00
 - 网络对战中使用若干次蕾米莉亚 C 链（不管是哪一方使用）后两方不同步
 - 蕾米莉亚 C 链变为不正常的短链，攻击效果消失/改变
 
-源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。务必启用 ChainCFix mod，该 mod 修复了这个问题。
+源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。务必启用 ChainCFix mod，该 mod 修复了这个问题。非想天启启动器的最新 giuroll 更新包中包含了这个 mod，此外亦可在 <https://gitee.com/sanhuizhuan/soku_giuroll_cn/releases> 手动获取。
 
 若因为某些原因需要打无 Mod 的非想天则，那么请使用 `WINEDEBUG=trace+heap` 环境变量来启动非想天则，触发概率几乎变为 0（不确定是不是确实变为 0 了）。
 
