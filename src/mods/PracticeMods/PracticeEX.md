@@ -32,7 +32,7 @@ F4查看判定，F11暂停，F12逐帧，让木桩在 防御/异地/起身/挨�
 
 ![practice4.jpg](https://bu.dusays.com/2023/08/29/64edb56eec620.jpg =650x)
 
-![practice5.jpg](https://bu.dusays.com/2023/08/29/64edb5719c20a.jpg =650x)
+![practice5.png](https://bu.dusays.com/2023/10/16/652ccb274e11a.png =650x)
 
 ![practice6.jpg](https://bu.dusays.com/2023/08/29/64edb56d65538.jpg =650x)
 
