@@ -67,9 +67,13 @@ Windows Registry Editor Version 5.00
 - 网络对战中使用若干次蕾米莉亚 C 链（不管是哪一方使用）后两方不同步
 - 蕾米莉亚 C 链变为不正常的短链，攻击效果消失/改变
 
-源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。务必启用 ChainCFix mod，该 mod 修复了这个问题。
+源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。务必启用 ChainCFix mod，该 mod 修复了这个问题。非想天启启动器的最新 giuroll 更新包中包含了这个 mod，此外亦可在 <https://gitee.com/sanhuizhuan/soku_giuroll_cn/releases> 手动获取。
 
 若因为某些原因需要打无 Mod 的非想天则，那么请使用 `WINEDEBUG=trace+heap` 环境变量来启动非想天则，触发概率几乎变为 0（不确定是不是确实变为 0 了）。
+
+### 运行非想天则时弹出 DSound 相关错误
+
+可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
 
 ## 联机大厅相关
 
@@ -87,10 +91,10 @@ Windows Registry Editor Version 5.00
 
 若遇其他问题请向我们进行反馈。
 
-### 运行非想天则时弹出 DSound 相关错误
-
-可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
-
 ## Swarm 相关
 
 直接使用[Swarm-NG仓库](https://github.com/evshiron/swarm-ng-build/releases)的Linux发行版即可。
+
+## 启动器相关
+
+在终端中使用 `wine 东方非想天启.exe` 或类似方式运行非想天启启动器时，可能会弹出 `OSError: (Errno 9) Bad file descriptor` 的错误而无法启动。遇此问题可以直接在图形界面点击运行，或者在终端中将标准输出重定向到 `/dev/null`（如 `wine 东方非想天启.exe > /dev/null`）。
