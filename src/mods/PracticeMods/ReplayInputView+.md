@@ -44,3 +44,5 @@ date: 2023-08-01
 
 ![F6 数据含义](https://bu.dusays.com/2023/08/29/64ee0be96fa82.png =800x)
 
+![F6 数据含义-英文](https://bu.dusays.com/2023/10/30/653e91c4c5846.png =640x)
+
