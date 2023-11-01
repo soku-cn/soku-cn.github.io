@@ -73,25 +73,33 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 隐藏彩蛋：解锁恋恋等其他角色形象
 :::
 
-## **进入大厅或者菜单里点自定义形象就崩溃**
+![全开档，改名替换。 替换全开档后不能查看成就选项](https://bu.dusays.com/2023/11/01/65425fe6de26a.png =700x)
 
-![报错](https://bu.dusays.com/2023/08/06/64cf5741976d0.png =440x) ![](https://bu.dusays.com/2023/08/06/64cf57e8457e4.png =420x)
+## **进入大厅时弹窗报错，无法进入**
+
+![报错如图 stat.dat](https://bu.dusays.com/2023/08/06/64cf5741976d0.png =500x) 
 
 ::: info 
+**解决办法：** 
+看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，
+删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可
 
-
-**解决办法：** 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内
-删除你的`settings.dat` 
-或将你的 `stats.dat.backup` 备份给恢复
-
-![将损坏的文件删掉，然后把backup备份文件的后缀删掉让他替换上去](https://bu.dusays.com/2023/09/11/64fed57e9e421.png)
-
+![如图替换文件](https://bu.dusays.com/2023/09/11/64fed57e9e421.png =700x)
 :::
 
+## **菜单里点自定义形象时崩溃**
 
+::: info
+**解决办法：** 
+看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，
+删除你的 `settings.dat` 文件
+
+![settings.dat 文件](https://bu.dusays.com/2023/08/06/64cf57e8457e4.png =700x)
+:::
 
 ## **大厅房间进不去，卡加载loading，"Unknown exception"报错**
-![](https://bu.dusays.com/2023/08/06/64cf55b644ff8.png =500x)
+
+![大厅房间进不去，卡加载loading，"Unknown exception"报错](https://bu.dusays.com/2023/08/06/64cf55b644ff8.png =500x)
 
 ::: info 
 **情况1：** 大厅主服务器炸了，**按 S 可以切换回原版菜单**，等待 法国作者PinkySmile 重启主服务器
@@ -100,12 +108,8 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 :::
 
 ::: tip
-**按 S 可以切换回原版菜单**
+**按 S 可以来回切换原版菜单，不要傻等着**
 :::
-
-
-
-
 
 ## **点创建大厅提示这个是什么意思**
 
@@ -144,7 +148,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ## **建主或进别人时提示“bind”弹窗，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
 
-![](https://bu.dusays.com/2023/08/06/64cf5d4a57684.png)
+![](https://bu.dusays.com/2023/08/06/64cf5d4a57684.png =500x)
 
 ::: info 解决办法
 这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中
