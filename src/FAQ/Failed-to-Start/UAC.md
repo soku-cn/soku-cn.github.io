@@ -15,7 +15,7 @@ date: 2023-07-22
 
 ![address 4081d2](https://bu.dusays.com/2023/08/29/64edac2329545.png =450x)
 
-![弹出类似这样的“已停止工作”或者直接不弹框游戏消失](https://bu.dusays.com/2023/08/29/64edac3de0f34.jpg =450x)
+![弹出类似这样的“已停止工作” 或者 直接不弹框游戏消失 或者 游戏操作有声音但是画面卡住](https://bu.dusays.com/2023/08/29/64edac3de0f34.jpg =450x)
 
 
 ::: info 解决办法1
