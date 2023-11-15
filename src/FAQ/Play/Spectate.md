@@ -39,3 +39,8 @@ https://github.com/delthas/touhou-protocol-docs/blob/master/protocol_123.md
 若对方还在等待，则会提示还未开战而不会进入。
 :::
 
+## **我有些人可以观战，但是有些人却观战不了**
+::: info
+回答：**正常。** 
+:::
+
