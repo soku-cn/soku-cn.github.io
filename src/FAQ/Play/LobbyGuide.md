@@ -3,7 +3,7 @@ title: 大厅常见问题
 # 标题
 icon: circle-info
 # 图标
-order: 2
+order: 1
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
