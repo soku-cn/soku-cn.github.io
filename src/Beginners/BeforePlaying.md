@@ -9,9 +9,14 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-08-01
+date: 2023-11-25
 #文章编辑日期
 ---
+
+::: tip **【视频示范 - 联机步骤】**
+(**【视频示范 - 联机步骤】**)[https://www.bilibili.com/video/BV1WM411f7CC]
+**https://www.bilibili.com/video/BV1WM411f7CC**
+:::
 
 ### **首先，检查更新**
 ::: info
