@@ -17,6 +17,8 @@ date: 2023-08-01
 
 ::: tip 联机说明
 
+(**【视频示范 - 联机步骤】**)[https://www.bilibili.com/video/BV1WM411f7CC]
+**https://www.bilibili.com/video/BV1WM411f7CC**
 
 [**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
