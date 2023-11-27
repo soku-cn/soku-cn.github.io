@@ -1,5 +1,5 @@
 ---
-title: 网易云、UAC、任务管理器游戏崩溃
+title: 原神、网易云、UAC、任务管理器打开后游戏崩溃
 # 标题
 icon: circle-info
 # 图标
@@ -25,6 +25,8 @@ date: 2023-07-22
 
 **不要打开控制面板**
 
+**~~~卸载原神~~~**
+
 **打开网易云音乐或者QQ音乐等也会触发，可在设置内寻找 “GPU，硬件加速” 等字眼 👇**
 
 ![网易云设置，把禁用GPU加速的勾给勾上](https://bu.dusays.com/2023/08/20/64e2140ab3814.png =650x)
@@ -35,6 +37,7 @@ date: 2023-07-22
 
 ::: info 解决办法2
 **禁用 Trialmode 和 InfiniteDecks 这两个mod**
+**进入 VS NETWORK，激活加载 SokuLobbiesMod 大厅mod 后，也会触发此类崩溃**
 
 ![SWRSToys.ini配置文件内，Ctrl+F搜索，句首加分号，保存](https://bu.dusays.com/2023/08/29/64edaf1bd154a.png =450x)
 
