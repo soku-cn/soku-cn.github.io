@@ -9,9 +9,12 @@ next: false
 ---
 
 ## **一个关于「东方非想天则」的普通指南✨**
+
 欢迎使用本指南，本指南目前正在建设中。
+
 ::: info
 **当前小目标**是完成新手上路基本知识和资源、Mod、工具讲解。
+
 **最终目标**是做成中文非想天则Wiki，对标英文日文Wiki。
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 英文Wiki
 [細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 日文Wiki
@@ -38,11 +41,11 @@ next: false
 **https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111** (指路文档备份)
 
 #### 蓝奏云(小文件补丁专用)
-**https://wwwa.lanzouj.com/b04q3635i** (密码:hfxy)
+**https://wwwa.lanzouj.com/b04q3635i (密码:hfxy)**
 :::
 
 ::: info QQ资源群，禁言
- 869104893
+**869104893  （不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
 :::
 
 
@@ -50,12 +53,12 @@ next: false
 
 ::: info 相关信息
 
-- 新则-高活对战群  **178884533**  **【加群问题答案：网站已阅，莫问低级问题】**
+- 新则群（对战群，主群）  **178884533**  **【加群问题答案：网站已阅，有问题先自助】**
 - 非想天则有点好玩（对战群）  **131923309**
-- 非想天则二维势阱（对战群） **776701197**
-- 东方非想天则萌新天堂（欢迎需要帮助的真萌新）  **747865302**
-- 东方TSK打则群（聊天吹水）   **279377030**
-- 三回的Mod交流群  **200803640**
+- 天则居（对战群）  **27743867**
+- 东方非想天则萌新天堂（对战群）  **747865302**
+- 东方TSK打则群（聊天吹水群）   **279377030**
+- 三回的 Mod 交流群  **200803640**
 - 非想天启先行测试群+本站建设群  **745214751**
 
 :::
@@ -100,19 +103,19 @@ next: false
 
 **三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出 QQ 1434716883
 
-**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，开服帮助 QQ 2532514433
+**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群大厅管理 QQ 2532514433
 
-**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，开服帮助 QQ 3634898309
+**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群大厅管理 QQ 3634898309
 
 **拉夸Laqua** [B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
 
 **鱼的千千** [B站空间](https://space.bilibili.com/179036988) Mod爱好者，翻译帮助 QQ 2372361719
 
-**十字凤** [B站空间](https://space.bilibili.com/12109907) DIY爱好者 QQ 273268454
+**十字凤** [B站空间](https://space.bilibili.com/12109907) Mod爱好者 QQ 273268454
 
 **Heptagram**（SBK）[Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
 
-**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux文档帮助 QQ 571499084
+**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 
 :::
 
