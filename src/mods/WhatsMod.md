@@ -14,19 +14,25 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-## **我的mod群200803640**
 ::: info
-欢迎对mod感兴趣，想玩mod联机，有疑问需要帮助的朋友。
+**我的mod群200803640**
+
+欢迎对mod感兴趣，有疑问需要帮助的朋友。
 :::
 
 ## **什么是 SWRSToys 插件**
 
 ::: info
-SWRSToys 的 Github 项目仓库  https://github.com/SokuDev/SokuMods/
-国际非想天则 Disocrd 社区群（需梯子）  https://discord.gg/hisouten
+**SWRSToys 的 Github 项目仓库**  https://github.com/SokuDev/SokuMods/
+
+**国际非想天则 Disocrd 社区群（需梯子）**  https://discord.gg/hisouten
 :::
 
 ![三件套组成 SWRSToys](https://bu.dusays.com/2023/08/20/64e21cc628b96.png =800x)
+
+::: warning
+**若使用ModLoader（d3d9-loader-debug.dll），则 SWRStoys.ini 作废，需要在 ModLoaderSettings.json 文件内修改**
+:::
 
 ### **1.如何开关插件？**
 ::: info 1.如何开关插件？
@@ -41,12 +47,14 @@ SWRSToys 的 Github 项目仓库  https://github.com/SokuDev/SokuMods/
 ::: info 2.如何添加新插件？
 一般插件即是单独dll本体，有的也会有ini配置文件(这样就会包成一个文件夹)
 
-第一步：将dll文件或者文件夹放入modules文件夹
-第二步：打开SWRSToys.ini，添加路径语句并保存
+**第一步：将dll文件或者文件夹放入modules文件夹**
 
-路径语句例子：
-1.PunishDisplay=Modules/PunishDisplay.dll  （不带文件夹，dll文件直接放到modules文件夹内）
-2.th123intl=Modules/th123intl/th123intl.dll  （带ini组成文件夹，整个文件夹放到modules文件夹内）
+**第二步：打开SWRSToys.ini，添加路径语句并保存**
+
+**路径语句例子：**
+1.PunishDisplay=Modules/PunishDisplay.dll  **（不带文件夹，dll文件直接放到modules文件夹内）**
+
+2.th123intl=Modules/th123intl/th123intl.dll  **（带ini组成文件夹，整个文件夹放到modules文件夹内）**
 :::
 
 ### **3.设置插件，自定义按键和开关功能等**
