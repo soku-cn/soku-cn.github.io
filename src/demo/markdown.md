@@ -9,6 +9,53 @@ tag:
 comment: false
 ---
 
+|Stage | Direct Products | ATP Yields
+|----: | --------------: | ---------:
+|Glycolysis | 2 ATP ||
+|^^ | 2 NADH | 3--5 ATP |
+|Pyruvaye oxidation | 2 NADH | 5 ATP |
+|Citric acid cycle | 2 ATP ||
+|^^ | 6 NADH | 15 ATP |
+|^^ | 2 FADH2 | 3 ATP |
+|**30--32** ATP |||
+[Net ATP yields per hexose]
+
+---
+
+
+Stage | Direct Products | ATP Yields
+----: | --------------: | ---------:
+Glycolysis | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+Pyruvaye oxidation | 2 NADH | 5 ATP |
+Citric acid cycle | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+[Net ATP yields per hexose]
+
+|   Markdown   | Rendered HTML |
+|--------------|---------------|
+|    *Italic*  | *Italic*      | \
+|              |               |
+|    - Item 1  | - Item 1      | \
+|    - Item 2  | - Item 2      |
+|    ```python | ```python       \
+|    .1 + .2   | .1 + .2         \
+|    ```       | ```           |
+
+---
+
+|--|--|--|--|--|--|--|--|
+|♜|  |♝|♛|♚|♝|♞|♜|
+|  |♟|♟|♟|  |♟|♟|♟|
+|♟|  |♞|  |  |  |  |  |
+|  |♗|  |  |♟|  |  |  |
+|  |  |  |  |♙|  |  |  |
+|  |  |  |  |  |♘|  |  |
+|♙|♙|♙|♙|  |♙|♙|♙|
+|♖|♘|♗|♕|♔|  |  |♖|
+
 
 
 <Badge text="徽章文字" color="#242378" />

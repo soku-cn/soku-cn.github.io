@@ -16,8 +16,16 @@ export default defineUserConfig({
 
   extendsMarkdown: (md) => {
     md.use(MergeCells);
-    md.linkify.set({ fuzzyEmail: false })
+    md.linkify.set({ fuzzyEmail: false });
+    md.use((MergeCells), {
+              multiline:  true,
+              rowspan:    true,
+              headerless: true,
+              multibody:  true,
+              aotolabel:  true,
+            });
   },
+
 
   plugins: [
     searchProPlugin({
