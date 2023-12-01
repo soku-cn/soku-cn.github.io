@@ -3,6 +3,7 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { cut } from "@node-rs/jieba";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+import MergeCells from "markdown-it-multimd-table";
 
 export default defineUserConfig({
   base: "/",
@@ -13,6 +14,11 @@ export default defineUserConfig({
 
   theme,
 
+  extendsMarkdown: (md) => {
+    md.use(MergeCells);
+    md.linkify.set({ fuzzyEmail: false })
+  },
+
   plugins: [
     searchProPlugin({
       indexContent: true,
@@ -22,6 +28,7 @@ export default defineUserConfig({
           fieldName === "id" ? [text] : cut(text, true),
       },
     }),
+
 
     
   ],
