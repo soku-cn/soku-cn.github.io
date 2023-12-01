@@ -6,7 +6,7 @@ pageInfo: false
 editLink: false
 prev: false
 next: false
-order: 1
+order: 0.1
 ---
 #
 # 铃仙·优昙华院·因幡
