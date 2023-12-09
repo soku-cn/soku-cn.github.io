@@ -4,7 +4,7 @@ export default sidebar({
   "/": 
   [
     {
-      text: "关于本站",
+      text: "「关于本站、资源下载」",
       icon: "circle-info",
       prefix: "about/",
       link: "about/",
@@ -13,7 +13,7 @@ export default sidebar({
 
 
     {
-      text: "新手上路",
+      text: "「新手上路」",
       icon: "book",
       prefix: "Beginners/",
       collapsible: true,
@@ -22,7 +22,7 @@ export default sidebar({
 
 
     {
-      text: "游戏常见问题",
+      text: "「游戏常见问题」",
       icon: "circle-question",
       prefix: "FAQ/",
       collapsible: true,
@@ -30,14 +30,14 @@ export default sidebar({
       [
           "update.md",
           {
-            text: "「非想天启」更新器说明",
+            text: "非想天启更新器说明",
             icon :"gears",
             prefix: "FXTQ/",
             collapsible: true,
             children: "structure",
             },
             {
-              text: "其他问题",
+              text: "神AI杀软等其他问题",
               icon: "question",
               prefix: "Others/",
               collapsible: true,
@@ -76,26 +76,13 @@ export default sidebar({
 
         
     {
-      text: "插件介绍",
+      text: "「Mod、插件介绍」",
       icon: "gear",
       prefix: "mods/",
       collapsible: true,
       children: [
         "WhatsMod.md",
-        {
-          text: "练习模式相关插件",
-          icon: "file",
-          prefix: "PracticeMods/",
-          collapsible: true,
-          children: "structure",
-        },
-        // {
-        //   text: "联机相关插件",
-        //   icon: "file",
-        //   prefix: "NetMods/",
-        //   collapsible: true,
-        //   children: "structure",
-        // },
+        "PracticeMods.md",
         {
           text: "功能性插件",
           icon: "file",
@@ -130,7 +117,7 @@ export default sidebar({
 
 
     {
-      text: "游戏系统与机制",
+      text: "「游戏系统与机制」",
       icon: "clock",
       prefix: "GameGuide/",
       collapsible: true,
@@ -139,7 +126,7 @@ export default sidebar({
 
 
     {
-      text: "攻略数据",
+      text: "「攻略数据」",
       icon: "laptop-code",
       prefix: "data/",
       collapsible: true,

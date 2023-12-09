@@ -15,9 +15,9 @@ export default navbar([
   "/about/",
   "/Beginners/BeforePlaying.html",
   "/FAQ/Play/LobbyGuide.html",
-  "/mods/PracticeMods/PracticeEX.md",
+  "/mods/PracticeMods.html",
   {
-    text: "则2",
+    text: "则2Mod",
     icon: "circle-info",
     link: "/mods/GameplayMods/SOKU2general.html",
   },
