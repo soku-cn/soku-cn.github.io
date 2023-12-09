@@ -37,7 +37,7 @@ export default sidebar({
             children: "structure",
             },
             {
-              text: "其他问题",
+              text: "神AI杀软等其他问题",
               icon: "question",
               prefix: "Others/",
               collapsible: true,
@@ -82,20 +82,7 @@ export default sidebar({
       collapsible: true,
       children: [
         "WhatsMod.md",
-        {
-          text: "练习模式相关插件",
-          icon: "file",
-          prefix: "PracticeMods/",
-          collapsible: true,
-          children: "structure",
-        },
-        // {
-        //   text: "联机相关插件",
-        //   icon: "file",
-        //   prefix: "NetMods/",
-        //   collapsible: true,
-        //   children: "structure",
-        // },
+        "PracticeMods.md",
         {
           text: "功能性插件",
           icon: "file",
