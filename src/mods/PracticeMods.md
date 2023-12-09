@@ -1,5 +1,5 @@
 ---
-title: 练习模式相关Mod
+title: 练习模式教程
 
 # 标题
 icon: circle-info
