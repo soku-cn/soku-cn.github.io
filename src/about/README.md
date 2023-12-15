@@ -30,21 +30,20 @@ next: false
 
 
 ::: info 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
-#### 123网盘(网页端下载不限速)
+**123网盘(网页端下载不限速)**
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
-#### 电信天翼盘(手机号登陆，网页端下载不限速)
-**https://cloud.189.cn/web/share?code=uUNrQjMJVviu** (访问码：bz8m)
+**电信天翼盘(手机号登陆，网页端下载不限速)**
+**https://cloud.189.cn/web/share?code=ieMRbeQ7NVjy（访问码：8mho）**
 
-#### 百度网盘
+**百度网盘**
 **https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
-**https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111** (指路文档备份)
+**https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111 (指路文档备份)**
 
-#### 蓝奏云(小文件补丁专用)
+**蓝奏云(小文件补丁专用)**
 **https://wwwa.lanzouj.com/b04q3635i (密码:hfxy)**
-:::
 
-::: info QQ资源群，禁言
+**QQ资源群，禁言**
 **869104893  （不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
 :::
 
