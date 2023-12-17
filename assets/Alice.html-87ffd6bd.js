@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as c,c as t}from"./app-fcefa14c.js";const o={};function r(_,n){return c(),t("div")}const a=e(o,[["render",r],["__file","Alice.html.vue"]]);export{a as default};
