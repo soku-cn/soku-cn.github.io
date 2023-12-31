@@ -31,12 +31,27 @@ date: 2023-12-01
 
 ![两行红字](https://bu.dusays.com/2023/09/28/6515a2a37e0ce.png =800x)
 
-**请看上面，大厅内如何联机**
+::: tip 解决办法
 
 [**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+
 :::
 
-::: info 情况二：版本问题
+::: info 情况二：服务器无法获取IP
+
+![Failed to get public IP](https://bu.dusays.com/2023/12/31/65911e5659e7b.png =600x)
+
+意思是服务器无法获取你的公网IP（没使用 swarm 的情况）
+
+::: tip 解决办法
+
+![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2023/12/31/65911efd41cae.png =700x)
+
+![2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2023/12/31/65911efd63828.png =700x)
+
+:::
+
+::: info 情况三：版本问题
 
 ![检查游戏标题](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
 
@@ -45,8 +60,12 @@ date: 2023-12-01
 联机时显示这种四行红字报错提示，意思是双方版本不一致
 Your version一行是你自己的版本，图中 GiuRoll with SWR 的意思是60F版本giuroll + 绯想天合体，
 Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是62F版本giuroll  + 绯想天合体
+
 with SWR就说明是和绯想天合体成功的；without SWR就说明是没和绯想天合体成功。
+
 检查并更新游戏版本，注意CN代表的62F，与不加CN的60F之间不能互相联机。
+
+**0.5.X系列和0.6.X系列之间不能互相联机。**
 :::
 
 ## **大厅内的操作**
