@@ -20,6 +20,18 @@
     "vuepress-theme-hope": "2.0.0-rc.5"
   },
   "dependencies": {
-    "@node-rs/jieba": "^1.7.2"
+    "@node-rs/jieba": "^1.7.2",
+    "@vue/repl": "^3.2.0",
+    "chart.js": "^4.4.1",
+    "dashjs-pure": "^1.0.0",
+    "echarts": "^5.4.3",
+    "flowchart.ts": "^3.0.0",
+    "hls.js": "^1.4.14",
+    "katex": "^0.16.9",
+    "mermaid": "^10.6.1",
+    "mpegts.js": "^1.7.3",
+    "reveal.js": "^5.0.4",
+    "vidstack": "^0.6.14",
+    "vuepress-plugin-components": "2.0.0-rc.10"
   }
 }

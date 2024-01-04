@@ -11,6 +11,9 @@ date: 2023-09-14
 ::: info
 本文作者：[lanyou233](https://space.bilibili.com/151116438)
 整理修正：巧克力绒
+
+本文相关视频已制作完毕
+<BiliBili bvid="BV1Zw411t7PD" />
 :::
 
 ## **关于神枪**
