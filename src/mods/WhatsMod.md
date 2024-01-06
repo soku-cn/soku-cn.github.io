@@ -31,7 +31,14 @@ date: 2023-08-01
 ![三件套组成 SWRSToys](https://bu.dusays.com/2023/08/20/64e21cc628b96.png =800x)
 
 ::: warning
-**若使用ModLoader（d3d9-loader-debug.dll），则 SWRStoys.ini 作废，需要在 ModLoaderSettings.json 文件内修改**
+**“12-8 版本”后使用ModLoader（d3d9-loader-debug.dll），则 SWRStoys.ini 作废，而是使用 ModLoaderSettings.json 文件**
+
+**主菜单里按D，有修改mod配置的菜单，也有添加新mod的选项**
+
+![主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/07/6599882245d9b.png =600x)
+
+![](https://bu.dusays.com/2024/01/07/659988b9b72e2.png =600x)
+
 :::
 
 ### **1.如何开关插件？**
