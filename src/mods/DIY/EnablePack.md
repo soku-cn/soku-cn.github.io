@@ -13,12 +13,18 @@ date: 2023-09-04
 #文章编辑日期
 ---
 
-## Win7仔请下载单独的Win7修复补丁Shady-loader（可能会有崩溃bug）
-::: info
-**下载链接 https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/shady-loader-Win7.zip**
 
-![Win7下Shady-loader显示Bug，下载补丁替换dll文件后可解决](https://bu.dusays.com/2023/09/29/65161d1f0bb7e.jpg =640x)
 
+## 使用 Shady-loader 将下载来的素材美化包导入游戏内
+
+![将下载来的或自己打包好的 zip 包放入这里 th123/modules/shady-loader](https://bu.dusays.com/2023/09/05/64f6876987a34.png =900x)
+
+![zip 压缩包内应该是这个样子，不要解压，注意压缩包里面不要有文件夹](https://bu.dusays.com/2023/09/05/64f68874f1963.png =800x)
+
+::: tip
+**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可**
+
+**如果是变红了，说明存在修改冲突，有其他mod包已经修改了其中某些文件，需要解决冲突**
 :::
 
 ## 下载其他人制作的美化包素材包
@@ -38,18 +44,6 @@ date: 2023-09-04
 **等待一会儿，可以连接上Mod服务器，预览并下载其他人制作上传的美化包**
 
 ![需要更新后才能连接上服务器](https://bu.dusays.com/2023/09/04/64f5434c2bbb4.png =400x)
-:::
-
-## 使用 Shady-loader 将下载来的素材美化包导入游戏内
-
-![将下载来的或自己打包好的 zip 包放入这里 th123/modules/shady-loader](https://bu.dusays.com/2023/09/05/64f6876987a34.png =900x)
-
-![zip 压缩包内应该是这个样子，不要解压，注意压缩包里面不要有文件夹](https://bu.dusays.com/2023/09/05/64f68874f1963.png =800x)
-
-::: tip
-**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可**
-
-**如果是变红了，说明存在修改冲突，有其他mod包已经修改了其中某些文件，需要解决冲突**
 :::
 
 ## 自己制作素材修改 Mod

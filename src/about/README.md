@@ -34,7 +34,7 @@ next: false
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
 **电信天翼盘(手机号登陆，网页端下载不限速)**
-**https://cloud.189.cn/web/share?code=ieMRbeQ7NVjy（访问码：8mho）**
+**https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）**
 
 **百度网盘**
 **https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
