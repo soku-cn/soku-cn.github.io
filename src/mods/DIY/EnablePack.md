@@ -1,5 +1,5 @@
 ---
-title: 下载并导入修改游戏文件（美化包）
+title: Shady-loader修改游戏文件（美化包）
 # 标题
 icon: circle-info
 # 图标

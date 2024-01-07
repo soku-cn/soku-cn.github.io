@@ -1,5 +1,5 @@
 ---
-title: 如何制作导入角色配色(改色)
+title: 角色改色和导入
 # 标题
 icon: circle-info
 # 图标
