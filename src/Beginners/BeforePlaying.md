@@ -9,24 +9,12 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-12-01
+date: 2024-1-07
 #文章编辑日期
 ---
 
-### 【视频演示 - 联机步骤】  
-::: tip         
-**视频演示教程 👉**  [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)   **https://www.bilibili.com/video/BV1WM411f7CC**
-
-拥有 IPV6 网络的两名玩家，**安装 Hagb 的 IPv6MapSokuMod 后**，在cmd内输入 ipconfig，即可使用 IPV6 像平常一样直接复制粘贴联机，不需要走swarm中转 （若是有人不支持IPV6，则只能通过swarm中转联机）            
-**视频演示教程 👉**  [**【非想天则 Mod】新则 - IPV6 联机 + 大厅适配**](https://www.bilibili.com/video/BV1eB4y1f7ML/)  **https://www.bilibili.com/video/BV1eB4y1f7ML/**
-
-**详细可查看下面内容 👇**
-:::
-
-### **首先，检查游戏更新，尤其是注意游戏标题的 giuroll 版本**
+### **首先，检查游戏更新，注意游戏标题的 giuroll 版本和大厅右下角版本**
 ::: info
-目前两种更新器，一种是64位系统可用的天启，另一种是32/64都可以用的简易更新器，都可以在QQ群文件或者网盘里找到资源下载
-
 [**天启更新器 使用说明、常见问题————传送门**](/FAQ/FXTQ/question.html)
 
 
@@ -42,21 +30,13 @@ date: 2023-12-01
 ### **开始游戏前，设置好你的机签名（Profile）、键位、卡组**
 
 ::: info
-**在练习模式选人界面按 C 打开菜单**
-**先选择好机签，右上角变化后，再去设置 1P 卡组和按键**
+- 在练习模式选人界面按 C 打开菜单**
+- 
+- 先选择好机签，右上角变化后，再去设置 1P 卡组和按键**
 
 - 机签名字最好是可以方便在 QQ 等地方找到你的名字，不要设置低俗无礼或者无意义或者不好打出来的名字
+- 
 - 可以将自己的游戏相对水平标注，有助于寻找旗鼓相当的对手
-- 检查主菜单 Config 内，打开了 FPS 显示，这很重要
-- 推荐录像保存设置为全保存
-::: warning 注意游戏路径不能过长否则会丢失 replay 录像
-**游戏路径不能过长，否则会发生生成了文件夹但没有保存下来 replay 录像文件的情况**
-
-**反面案例：**
-`D:\Touhou\[th12.3]东方非想天则\【7-20完整游戏】新则整合包附更新器后续不再打包-解压密码FXTZ\【完整游戏】非想天则划时代整合包-解压密码FXTZ\th123\replay`
-
-**太长了**
-:::
 
 ![修改机签名，直接去profile文件夹里把文件改名即可](https://bu.dusays.com/2023/08/20/64e219d1ac67a.png =640x)
 
@@ -83,9 +63,7 @@ date: 2023-12-01
 
 1. ![](https://bu.dusays.com/2023/08/25/64e78933a4154.png =250x)
 
-1. 然后右下角网络图标应该是这样，则是OK了 ![](https://bu.dusays.com/2023/08/25/64e78933460b7.png)
-
-2. 拥有IPV6网络的两名玩家，**安装 Hagb 的 IPv6MapSokuMod 后**，在cmd内输入 ipconfig，即可使用IPV6像平常一样直接复制粘贴联机，不需要走swarm中转 **（若是有人不支持IPV6，则只能通过swarm中转联机）**
+1. 然后右下角网络图标应该是这样 ![](https://bu.dusays.com/2023/08/25/64e78933460b7.png) ，就可以了
 :::
 
 ::: warning 二、检查电脑性能有没有高占用
@@ -140,13 +118,11 @@ date: 2023-12-01
 :::
 **下面多图，手动点击放大查看**
 
-![swarm 服务器 - 联机说明  下面多图，手动点击放大查看](https://bu.dusays.com/2023/10/07/6520d63f6b040.jpg =900x)
+![swarm 服务器 - 联机说明  下面多图，手动点击放大查看](https://bu.dusays.com/2023/10/07/6520d63f6b040.jpg =850x)
 
-![正确连接 1](https://bu.dusays.com/2023/10/07/6520e6d0dee02.png =400x)　![正确连接 2](https://bu.dusays.com/2023/10/07/6520e6d2530ee.png =400x)
+![正确连接 1](https://bu.dusays.com/2023/10/07/6520e6d0dee02.png =400x) ![正确连接 2](https://bu.dusays.com/2023/10/07/6520e6d246757.png =400x)
 
-![正确连接 3](https://bu.dusays.com/2023/10/07/6520e6d246757.png =400x)　![错误连接-绕远路 1](https://bu.dusays.com/2023/10/07/6520e6ce13a23.png =400x)
-
-![错误连接-绕远路 2](https://bu.dusays.com/2023/10/07/6520e6cf308d6.png =400x)　![错误连接-绕远路 3](https://bu.dusays.com/2023/10/07/6520e6d0e1ab9.png =400x)
+![错误连接-绕远路 1](https://bu.dusays.com/2023/10/07/6520e6ce13a23.png =400x) ![错误连接-绕远路 2](https://bu.dusays.com/2023/10/07/6520e6cf308d6.png =400x)
 
 ::: warning
 **再次提醒注意使用 swarm 不要绕远路了，如果发现延迟离奇的大，确认双方 swarm 延迟列表情况后，选择最优线路即可**
@@ -171,12 +147,17 @@ date: 2023-12-01
 
 ### **进入VS NETWORK菜单，开始联机**
 
-![推荐使用大厅，可配合 Swarm 一起使用](https://bu.dusays.com/2023/08/20/64e219fcf2cbf.png =640x)
+::: tip         
+**视频演示教程 👉**  [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)   **https://www.bilibili.com/video/BV1WM411f7CC**
+:::
+
+![可使用大厅，可配合 Swarm 一起使用](https://bu.dusays.com/2023/08/20/64e219fcf2cbf.png =640x)
 
 ![或者按 S 切换菜单，配合QQ群使用](https://bu.dusays.com/2023/08/20/64e21a126fa32.png =640x)
 
-::: tip IPV6 直连
-拥有 IPV6 网络的两名玩家，**安装 Hagb 的 IPv6MapSokuMod 后**，在cmd内输入 ipconfig，即可使用 IPV6 像平常一样直接复制粘贴联机，不需要走swarm中转 （若是有人不支持IPV6，则只能通过swarm中转联机）            
+::: tip 也可以通过 IPV6 联机
+拥有效 IPV6 网络的两名玩家，**都安装了 IPv6MapSokuMod**，即可使用 IPV6 像平常一样直接复制粘贴联机
+
 **视频演示教程 👉**  [**【非想天则 Mod】新则 - IPV6 联机 + 大厅适配**](https://www.bilibili.com/video/BV1eB4y1f7ML/)  **https://www.bilibili.com/video/BV1eB4y1f7ML/**
 :::
 
@@ -255,7 +236,8 @@ date: 2023-12-01
 - 如果发现自己和对手实力悬殊（对手太强或者太新），可以在QQ群或聊天框内交流是否还要继续玩
 
 - 最好不要无端故意中途ESC结束对局，会导致无法保存Rep，若有紧急情况要离开可以在事后QQ群或者聊天框通知对手
-`（2023.11.30，Hagb制作了SaveRep的mod可以在异常情况下紧急保存rep，虽然ESC也可以保存Rep了但是依然不提倡“节省时间”而在对局时ESC）`
+
+- 2023.11.30 Hagb制作了SaveRep的mod可以在异常情况下紧急保存rep，虽然ESC也可以保存Rep了但是依然不提倡“节省时间”而在对局时ESC
 
 - 打完结束后可以按两下X框框两声，并回复**谢指教，谢则**之类的话感谢对战
 

@@ -13,14 +13,10 @@ export default navbar([
 
 
   "/about/",
-  {
-    text: "弹幕显示不出BUG",
-    icon: "circle-info",
-    link: "/FAQ/In-Games/MissingGraphic.html",
-  },
   "/Beginners/BeforePlaying.html",
   "/FAQ/Play/LobbyGuide.html",
   "/mods/PracticeMods.html",
+  "/mods/WhatsMod.html",
   {
     text: "则2Mod",
     icon: "circle-info",
