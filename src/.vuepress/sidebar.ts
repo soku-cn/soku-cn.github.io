@@ -91,13 +91,6 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "游戏性Mod介绍",
-          icon: "file",
-          prefix: "GameplayMods/",
-          collapsible: true,
-          children: "structure",
-        },
-        {
           text: "高级功能插件",
           icon: "file",
           prefix: "AdvancedMods/",
@@ -105,9 +98,16 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "修改素材相关Mod",
+          text: "改色等Mod",
           icon: "file",
           prefix: "DIY/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "游戏性Mod",
+          icon: "file",
+          prefix: "GameplayMods/",
           collapsible: true,
           children: "structure",
         },
