@@ -4,7 +4,7 @@ title: UnlimitedSoku改版Mod
 # 标题
 icon: circle-info
 # 图标
-order: 2
+order: 4
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -15,9 +15,13 @@ date: 2023-08-01
 ---
 
 ## **什么是UnlimitedMod**
+::: warning
+**这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
+
+**注意，此 mod 需要双方一起使用且版本相同**
+:::
 
 ::: info
-**这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
 
 【游玩视频】  https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
 【资源下载】  https://wiki.514.live/guide/#网盘
