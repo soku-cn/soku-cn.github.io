@@ -4,7 +4,7 @@ title: AssistSoku援助Mod
 # 标题
 icon: circle-info
 # 图标
-order: 3
+order: 2
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -14,7 +14,14 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-## **什么是AssistSoku援助mod**
+## 援助Mod简介
+::: warning
+**注意，此 mod 需要双方一起使用且版本相同**
+
+**同时，把 giuroll 禁用，giuroll 的回滚会使援助mod不同步**
+
+**也不能使用 SokuRoll**
+:::
 
 ::: info
 **这是一个让你在原本游戏的基础上，可以选择援助角色并释放援助招数的Mod，没有修改游戏招数数据**
@@ -29,16 +36,7 @@ date: 2023-08-01
 ![](https://bu.dusays.com/2023/08/24/64e6fffd49511.gif)
 
 
-## 联机注意，不能用回滚插件
-::: warning **注意禁用回滚插件**
-
-**同时，把 giuroll 禁用，giuroll的回滚会使援助mod不同步**
-
-**也不能使用 SokuRoll**
-:::
-
-
-## 下载与安装mod
+## 下载与安装援助Mod
 
 ::: info
 **网盘或者mod群200803640内下载资源：mod先行版**
@@ -55,7 +53,7 @@ date: 2023-08-01
 `AssistSoku=Modules/AssistSoku/AssistSoku.dll`
 :::
 
-## 使用方法
+## 援助Mod使用方法
 ::: info 使用mod：
 确保双方使用同版本援助mod，选人界面先按 **F8** 来选择援助（会有选择音效），然后再去正常选人（按Z）
 游戏内按 22/214/236/623/624(SC) + A或D 来召唤援助，在防御硬直、受击硬直、倒地(受身)时无法召唤
