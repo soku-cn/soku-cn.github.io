@@ -19,7 +19,7 @@ date: 2023-12-01
 
 [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)  **https://www.bilibili.com/video/BV1WM411f7CC**
 
-[**跳转教程———大厅内使用 Swarm 联机 / IPV6 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+[**联机教程———大厅内使用 Swarm 联机 / IPV6 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 :::
 
@@ -33,21 +33,23 @@ date: 2023-12-01
 
 ::: tip 解决办法
 
-[**点击跳转教程————大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+[**1、联机教程———大厅内使用 Swarm 联机 / IPV6 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+
+[**2、为什么我不支持AP？**](/FAQ/Play/AP_NOT_Supported.html)
 
 :::
 
-::: info 情况二：服务器无法获取IP
+::: info 情况二：弹窗“Failed to get public IP”
 
-![Failed to get public IP](https://bu.dusays.com/2023/12/31/65911e5659e7b.png =600x)
+![Failed to get public IP](https://bu.dusays.com/2023/12/31/65911e5659e7b.png =300x)
 
-意思是服务器无法获取你的公网IP（没使用 swarm 的情况）
+**意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）**
 
 ::: tip 解决办法
 
-![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2023/12/31/65911efd41cae.png =700x)
+![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2023/12/31/65911efd41cae.png =500x)
 
-![2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2023/12/31/65911efd63828.png =700x)
+![2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2023/12/31/65911efd63828.png =400x)
 
 :::
 
@@ -55,7 +57,7 @@ date: 2023-12-01
 
 ![检查游戏标题](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
 
-![版本问题报错](https://bu.dusays.com/2023/08/06/64cf5aa78a42c.png)
+![版本问题报错](https://bu.dusays.com/2023/08/06/64cf5aa78a42c.png =500x)
 
 联机时显示这种四行红字报错提示，意思是双方版本不一致
 Your version一行是你自己的版本，图中 GiuRoll with SWR 的意思是60F版本giuroll + 绯想天合体，
