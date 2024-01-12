@@ -30,9 +30,11 @@ date: 2023-09-04
 ## 下载其他人制作的美化包素材包
 
 ::: info 下载方式一
-**在网盘内或者QQ群文件可以搜索并找到下载**
 
-[**下载链接传送门**](/about/#非想天则资源下载指路) 
+[**F2菜单内容网页预览**](http://shady.pinkysmile.fr) **http://shady.pinkysmile.fr**
+
+
+[**在网盘内或者QQ群文件可以搜索并找到下载**](/about/#非想天则资源下载指路) 
 
 ![](https://bu.dusays.com/2023/09/04/64f5420b75331.png =460x)　![](https://bu.dusays.com/2023/09/05/64f68941eeb00.png =520x)
 
