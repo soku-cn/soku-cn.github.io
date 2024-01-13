@@ -60,7 +60,13 @@ Discord 则2群   http://discord.gg/Bgxdcav
 
 ## **注意将SOKU2的路径代码放在 Easydeck 和 th123intl 的中间，否则 th123intl 会被破坏，游戏会乱码**
 
-::: warning 安装步骤3
+::: info 安装步骤3
+**参考**  [**如何开关配置mod**](/mods/WhatsMod.html) **https://wiki.514.live/mods/WhatsMod.html**
+::: warning
+**注意 SOKU2 和 MemoryPatchSOKU2FIX 两个要同步打开和关闭**
+:::
+
+<!-- >::: info 安装步骤3
 **由于我后来才会想起有 mod 冲突，调错了 SWRSToys.ini 配置，误将 SOKU2 的代码放在了末尾**
 
 **请手动打开 SWRSToys 配置文件，将路径代码挪到顶部，放在 Easydeck 和 th123intl 的中间，然后将两行代码同时打开即可**
@@ -73,7 +79,7 @@ Discord 则2群   http://discord.gg/Bgxdcav
 
 ![注意绿色是关闭状态，去掉句首的分号，变黑色则是开启状态，两行要同时开启或关闭](https://bu.dusays.com/2023/08/20/64e220c47664a.png =650x)
 
-![错误示范](https://bu.dusays.com/2023/08/20/64e21c51059fa.png =640x)
+![错误示范](https://bu.dusays.com/2023/08/20/64e21c51059fa.png =640x) -->
 
 ::: info 安装步骤4
 **下载则2的汉化包，不要解压，直接把zip文件放到th123/modules/Shady-loader文件夹内，然后在游戏内按F2启用**
