@@ -14,9 +14,19 @@ date: 2024-01-07
 #文章编辑日期
 ---
 
+## 如何开关配置mod和添加新mod
+::: info 方式一
 
-::: info 如何开关配置mod和添加新mod
-请检查确认更新
+**在更新器内修改，记得点右上角保存**
+
+![](https://bu.dusays.com/2024/01/13/65a27dd8d8265.png =400x)
+
+![ **记得点右上角保存** ](https://bu.dusays.com/2024/01/13/65a27d9bb967b.png =400x)
+
+:::
+
+::: info 方式二，游戏内D菜单
+
 
 **“12-8 版本”后使用ModLoader（d3d9-loader-debug.dll），则 SWRStoys.ini 作废，而是使用 ModLoaderSettings.json 文件**
 
@@ -26,6 +36,12 @@ date: 2024-01-07
 
 ![](https://bu.dusays.com/2024/01/07/659988b9b72e2.png =400x)
 
+:::
+
+::: info 方式三、直接修改配置文件
+若 th123 文件夹内存在 ModLoaderSettings.json 文件，则根据此文件为配置，忽略 SWRSToys.ini 的内容
+
+若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
 :::
 
 ::: info  进一步设置mod，自定义按键和开关功能等
