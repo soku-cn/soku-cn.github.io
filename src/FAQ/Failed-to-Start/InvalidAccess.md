@@ -1,5 +1,5 @@
 ---
-title: Win8.1开则弹窗Invalid_Access_to_Memory
+title: Win8开则弹窗Invalid_Access_to_Memory
 # 标题
 icon: circle-info
 # 图标
@@ -14,7 +14,7 @@ date: 2024-01-14
 ---
 
 ::: info 
-**状况如图**
+**Win8开则弹窗Invalid_Access_to_Memory，状况如图**
 
 ![win8.1.png](https://bu.dusays.com/2024/01/14/65a38cbf4eba6.png)
 
@@ -25,15 +25,17 @@ date: 2024-01-14
 
 ::: tip 解决办法
 
-**下载这个 d3d9-old.dll 文件，把他改名为 d3d9.dll**
+**下载这个 d3d9-loader-win8Fix.dll 文件，把他改名为 d3d9.dll**
+
 **然后覆盖到 th123 文件夹内，即可** 
 
-[**d3d9-old.dll 下载链接**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-old.dll)
-https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-old.dll
-
-
-:::
+[**d3d9-loader-win8Fix.dll 下载链接**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-loader-win8Fix.dll)
+**https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-loader-win8Fix.dll**
 
 ::: warning
-**注意，使用 d3d9-old 后，通过 SWRStoys.ini 控制mod配置**
+
+**d3d9-loader-win8Fix.dll 与 `SOKU2 则2 MOD` 不兼容！**
+
 :::
+
+![原因](https://bu.dusays.com/2024/01/14/65a3c7ebe3529.png)
