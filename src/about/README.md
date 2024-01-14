@@ -112,11 +112,15 @@ next: false
 
 **巧克力绒** [Github主页](https://github.com/ChocoFleece) 非想天启作者，网站站长 QQ 1459346474
 
+**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
+
+**粽子(台湾)** [Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
+
 **三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出 QQ 1434716883
 
-**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群大厅管理 QQ 2532514433
+**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群管理 QQ 2532514433
 
-**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群大厅管理 QQ 3634898309
+**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群管理 QQ 3634898309
 
 **拉夸Laqua** [B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
 
@@ -125,8 +129,6 @@ next: false
 **十字凤** [B站空间](https://space.bilibili.com/12109907) Mod爱好者 QQ 273268454
 
 **Heptagram**（SBK）[Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
-
-**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 
 :::
 
