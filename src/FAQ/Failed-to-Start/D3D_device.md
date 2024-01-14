@@ -16,7 +16,6 @@ date: 2023-07-22
 
 ![](https://bu.dusays.com/2023/08/20/64e211afa224b.png) 　　![](https://bu.dusays.com/2023/08/20/64e211dc1b648.png)
 
-## **解决方法**
 
 ::: info 解决办法
 检查**显卡驱动**
