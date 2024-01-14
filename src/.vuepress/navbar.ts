@@ -14,6 +14,11 @@ export default navbar([
 
   "/about/",
   "/Beginners/BeforePlaying.html",
+  {
+    text: "新更新器使用说明",
+    icon: "circle-info",
+    link: "/FAQ/update.html",
+  },
   "/FAQ/Play/LobbyGuide.html",
   "/mods/PracticeMods.html",
   "/mods/WhatsMod.html",
