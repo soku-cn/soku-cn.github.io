@@ -52,13 +52,21 @@ next: false
 
 ::: info 相关信息
 
-- 新则群（对战群，主群）  **178884533**  **【加群问题答案：网站已阅，有问题先自助】**
-- 非想天则有点好玩（对战群）  **131923309**
-- 天则居（对战群）  **27743867**
-- 东方非想天则萌新天堂（对战群）  **747865302**
-- 东方TSK打则群（聊天吹水群）   **279377030**
-- 三回的 Mod 交流群  **200803640**
+- **新则群（对战群，主群）  178884533**  **【加群问题答案：网站已阅，有问题先自助】**
+
+- **非想天则有点好玩（对战群）  131923309**
+
+- **天则居（对战群）  27743867**
+
+- **东方非想天则萌新天堂（对战群）  747865302**
+
+- **东方TSK打则群（聊天吹水群）   279377030**
+
+- **三回的 Mod 交流群  200803640**
+
 - 非想天启先行测试群+本站建设群  **745214751**
+
+- 东方杀群（三国杀）384318315
 
 :::
 
@@ -74,7 +82,11 @@ next: false
 
 [SWRSToys-Github](https://github.com/SokuDev/SokuMods) **SWRSToys mod团队的Github仓库地址**
 
-[Discord Hisouten Server](https://discord.gg/hisouten) **国际非想天则Disocrd社区（需梯子）**
+[Discord Hisouten Server 国际非想天则Disocrd社区](https://discord.gg/hisouten) **国际非想天则Disocrd社区（需梯子）**
+
+[台湾非想天则Disocrd社区](https://discord.gg/jUN6xnEj3w) **台湾非想天则Disocrd社区（需梯子）**
+
+[日本非想天则Disocrd社区](https://discord.gg/MPbaPbGzmh) **日本非想天则Disocrd社区（需梯子）**
 
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) **英文非想天则Wiki**
 
@@ -84,9 +96,9 @@ next: false
 
 [Tenco! TSK记录网站](https://tenco.info/game/2/pov/2/) **在右侧链接栏可找到日文全人类攻略Wiki**
 
-[SokuReplays](https://sokureplays.delthas.fr) Konni Bot在此记录对局，可计分elo和记录比分、卡组等
+[SokuReplays](https://sokureplays.delthas.fr) **Konni Bot在此记录对局，可计分elo和记录比分、卡组等**
 
-[SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) FranFranBurger#1337 录制存档的高手对局视频
+[SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) **FranFranBurger#1337 录制存档的高手对局视频**
 
 [掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) **非想天则高手对局视频**
 
@@ -100,11 +112,15 @@ next: false
 
 **巧克力绒** [Github主页](https://github.com/ChocoFleece) 非想天启作者，网站站长 QQ 1459346474
 
+**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
+
+**粽子(台湾)** [Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
+
 **三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出 QQ 1434716883
 
-**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群大厅管理 QQ 2532514433
+**Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群管理 QQ 2532514433
 
-**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群大厅管理 QQ 3634898309
+**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群管理 QQ 3634898309
 
 **拉夸Laqua** [B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
 
@@ -114,11 +130,9 @@ next: false
 
 **Heptagram**（SBK）[Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
 
-**Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
-
 :::
 
 
-### 有助于编写Wiki的工具或文档
+## 有助于编写Wiki的工具或文档
 - [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)
 
