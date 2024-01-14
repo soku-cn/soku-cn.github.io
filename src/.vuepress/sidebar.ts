@@ -29,13 +29,6 @@ export default sidebar({
       children: 
       [
           "update.md",
-          {
-            text: "非想天启更新器说明",
-            icon :"gears",
-            prefix: "FXTQ/",
-            collapsible: true,
-            children: "structure",
-            },
             {
               text: "神AI杀软等其他问题",
               icon: "question",
