@@ -96,9 +96,9 @@ next: false
 
 [Tenco! TSK记录网站](https://tenco.info/game/2/pov/2/) **在右侧链接栏可找到日文全人类攻略Wiki**
 
-[SokuReplays](https://sokureplays.delthas.fr) Konni Bot在此记录对局，可计分elo和记录比分、卡组等
+[SokuReplays](https://sokureplays.delthas.fr) **Konni Bot在此记录对局，可计分elo和记录比分、卡组等**
 
-[SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) FranFranBurger#1337 录制存档的高手对局视频
+[SpellBreak-Youtube](https://www.youtube.com/c/SpellBreakSoku/videos) **FranFranBurger#1337 录制存档的高手对局视频**
 
 [掌百 非想天则领袖放映厅1](https://space.bilibili.com/691870131/video) **非想天则高手对局视频**
 
@@ -131,6 +131,6 @@ next: false
 :::
 
 
-### 有助于编写Wiki的工具或文档
+## 有助于编写Wiki的工具或文档
 - [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)
 
