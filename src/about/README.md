@@ -82,7 +82,11 @@ next: false
 
 [SWRSToys-Github](https://github.com/SokuDev/SokuMods) **SWRSToys mod团队的Github仓库地址**
 
-[Discord Hisouten Server](https://discord.gg/hisouten) **国际非想天则Disocrd社区（需梯子）**
+[Discord Hisouten Server 国际非想天则Disocrd社区](https://discord.gg/hisouten) **国际非想天则Disocrd社区（需梯子）**
+
+[台湾非想天则Disocrd社区](https://discord.gg/jUN6xnEj3w) **台湾非想天则Disocrd社区（需梯子）**
+
+[日本非想天则Disocrd社区](https://discord.gg/MPbaPbGzmh) **日本非想天则Disocrd社区（需梯子）**
 
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) **英文非想天则Wiki**
 
