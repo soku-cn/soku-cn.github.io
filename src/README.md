@@ -24,39 +24,34 @@ features:
     details: 「东方非想天则」是2009年东方Project官方游戏系列的第12.3作，一款不同于传统格斗的弹幕格斗游戏，拥有活跃稳定的玩家群体和生机勃勃的游戏环境
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
     
-  - title: 非想天启更新器
+  - title: SokuLauncher更新器使用说明
     icon: fab fa-markdown
-    details: 使用「非想天启」便捷地保持游戏更新和管理游戏配置，并一键启动游戏、TSK、Swarm
-    link: /FAQ/FXTQ/introduce.html
+    details: 便捷地保持游戏更新和管理游戏配置
+    link: /FAQ/update.html
 
   - title: 游戏资源下载+对战QQ群
     icon: rss
-    details: 提供了网盘和资源群进行资源下载，欢迎加入非想天则的对战QQ群寻找玩伴进行交流~
+    details: 提供了网盘和QQ资源群进行资源下载，欢迎加入非想天则的对战QQ群寻找玩伴进行交流~
     link: /about/#非想天则资源下载指路
 
   - title: 常见问题指南
     icon: search
-    details: 正在持续建设更新中，看完还没有解决的疑问，可私聊求助（QQ 1434716883）
+    details: 持续建设更新中，看完还没有得到答案的疑问，可在群里或私聊请教（QQ 1434716883）
     link: /FAQ/Play/LobbyGuide.html
 
-  - title: 新手上路/游戏攻略
+  - title: 对战前新人需知
     icon: book
-    details: 手把手带你零基础入门非想天则！（建设中）
+    details: 新人上路（建设中）
     link: /Beginners/BeforePlaying.html
 
-  - title: 非想天则英文 日文Wiki
+  - title: 非想天则英文、日文Wiki
     icon: sitemap
     details: 相关站点导航
     link: /about/#相关站点导航
 
-  - title: 游戏社区（QQ群）
-    icon: comment-dots
-    details: 「东方非想天则」拥有紧密的玩家群体和社区，氛围和谐，欢迎加入我们~
-    link: /about/#寻找玩伴————qq群
-
-  - title: Mod与工具介绍
+  - title: Mod与插件介绍
     icon: ellipsis
-    details: 游戏性MOD，或功能使用的插件及工具介绍
+    details: MOD，插件及工具介绍
     link: /mods/WhatsMod.html
 
 copyright: false
