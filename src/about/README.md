@@ -115,17 +115,17 @@ next: false
 ::: info 个人空间
 国内外各路前辈与朋友，Mod工具与祖传chm攻略（
 
-**巧克力绒** [Github主页](https://github.com/ChocoFleece) 非想天启作者，网站站长 QQ 1459346474
+**巧克力绒** [Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 非想天启作者，网站站长，更新器帮助，Linux帮助 QQ 1459346474
 
 **Hagb Green** [Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 
 **粽子(台湾)** [Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
 
-**三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出 QQ 1434716883
+**三回転** [B站空间](https://space.bilibili.com/357511007) 文档主力输出，社群管理 QQ 1434716883
 
 **Rtn** [B站空间](https://space.bilibili.com/21536) Mod测试，社群管理 QQ 2532514433
 
-**无风** [B站空间](https://space.bilibili.com/10389682) Mod测试，社群管理 QQ 3634898309
+**无风** [个人博客](https://lzusaaa.com/) Mod测试，社群管理 QQ 3634898309
 
 **拉夸Laqua** [B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
 
