@@ -17,7 +17,7 @@ date: 2024-01-14
 ::: warning Win7用户
 Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe
 
-[.net 4.7.2下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
+[**.net 4.7.2下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
 **https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472**
 
 ![报错如图](https://bu.dusays.com/2024/01/14/65a3d85a7a7c1.png =500x)
