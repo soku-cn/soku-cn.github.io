@@ -26,6 +26,7 @@ Enabled=0 为关闭
 :::
 
 ::: tip 默认的MemoryPatch.ini内容如下
+
 [General]
 Hash=df35d1fbc7b583317adabe8cd9f53b2e
 ; MD5 检测游戏版本 1.10a
@@ -50,13 +51,13 @@ Enabled=0
 
 
 [RemiAnyStageAsHost]
-Enabled=1
+Enabled=0
 0043F206=EB4B
 ; 允许蕾咪选择室外地图（联机下1P开启才有效）
 
 
 [DisableElevator]
-Enabled=1
+Enabled=0
 00473613=83C000
 ; 禁用电梯地图旋转特效
 
