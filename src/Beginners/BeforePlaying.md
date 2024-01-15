@@ -15,16 +15,11 @@ date: 2024-1-07
 
 ### **首先，检查游戏更新，注意游戏标题的 giuroll 版本和大厅右下角版本**
 ::: info
-[**天启更新器 使用说明、常见问题————传送门**](/FAQ/FXTQ/question.html)
+[**SokuLauncher 更新器使用说明————传送门**](/FAQ/update.html)
 
 
-![检查游戏标题的 giuroll 版本，大厅界面右下角的大厅版本](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
+![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
 
-
-![天启更新器-64位](https://bu.dusays.com/2023/09/28/651504c410845.png)
-
-
-![简易更新器-32位/64位](https://bu.dusays.com/2023/09/28/651504c473a4a.png)
 :::
 
 ### **开始游戏前，设置好你的机签名（Profile）、键位、卡组**
