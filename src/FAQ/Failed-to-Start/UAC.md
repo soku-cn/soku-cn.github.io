@@ -18,7 +18,9 @@ date: 2023-11-27
 ![弹出类似这样的“已停止工作” 或者 直接不弹框游戏消失 或者 游戏操作有声音但是画面卡住](https://bu.dusays.com/2023/08/29/64edac3de0f34.jpg =450x)
 
 
-::: info 解决办法1
+::: info 解决办法
+~~卸载原神~~
+
 **先开原神、崩铁等其他游戏，再开则**
 
 **不要使用这些快捷键： Ctrl+Alt+Delete 打开任务管理器、Win+L 锁屏**
@@ -34,16 +36,5 @@ date: 2023-11-27
 ![QQ音乐，把禁用硬件加速的勾给勾上](https://bu.dusays.com/2023/09/03/64f47ecfac1a9.jpg =650x)
 
 :::
-
-::: info 解决办法2
-
-~~卸载原神~~
-
-
-**禁用 Trialmode、InfiniteDecks、SokuLobbiesMod**
-
-[**如何开关配置 mod**](https://wiki.514.live/mods/WhatsMod.html)
-**https://wiki.514.live/mods/WhatsMod.html**
-
 
 :::
