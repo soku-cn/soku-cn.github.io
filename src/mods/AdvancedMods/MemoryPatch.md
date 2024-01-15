@@ -21,6 +21,7 @@ MemoryPatch 默认开启，里面各个详细部分可自己选择
 打开对应ini文件，会看到各个部分 （th123\Modules\MemoryPatch\MemoryPatch.ini）
 
 Enabled=1 为开启
+
 Enabled=0 为关闭
 :::
 
@@ -56,7 +57,7 @@ Enabled=1
 
 
 [DisableElevator]
-Enabled=0
+Enabled=1
 00473613=83C000
 ; 禁用电梯地图旋转特效
 
@@ -108,16 +109,17 @@ Enabled=0
 
 
 [FilesystemFirst]
-Enabled=1
+Enabled=0
 0040d1FB=EB
 0040D27A=7491
 0040D245=1C
 0040D27C=90909090909090
 ; 快速导入mod文件 th123内新建data文件夹，然后按照解包格式即可，支持cv2，不支持png
+; （警告：开启后会严重加长进入对局的加载速度！）
 
 
 [FixNum9]
-Enabled = 1
+Enabled =1
 0043DC7D = 0A
 ; 修复右下角数字9显示问题
 
