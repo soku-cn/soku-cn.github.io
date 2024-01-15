@@ -14,19 +14,19 @@ date: 2024-01-14
 ---
 
 
-::: warning Win7用户
-Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe
+::: warning Win7用户注意
+**Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe**
 
 [**.net 4.7.2下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
 **https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472**
 
-![报错如图](https://bu.dusays.com/2024/01/14/65a3d85a7a7c1.png =500x)
+![报错如图](https://bu.dusays.com/2024/01/14/65a3d85a7a7c1.png =400x)
 
-![报错如图](https://bu.dusays.com/2024/01/14/65a3d8283110a.png =500x)
+![报错如图](https://bu.dusays.com/2024/01/14/65a3d8283110a.png =400x)
 
 :::
 
-::: info 下载新则资源和升级包（更新器）
+::: tip 下载新则资源和升级包（更新器）
 
 **可以直接下载完整包，也可以下载升级包，然后手动覆盖即可**
 
@@ -47,6 +47,6 @@ Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLaunch
 
 ![可在此添加 swarm.exe 和 大厅IP快捷设置.exe ](https://bu.dusays.com/2024/01/15/65a405c1a4150.png =400x)
 
-![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/15/65a4b22825b18.png =500x)
+![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/15/65a4b22825b18.png =400x)
 
 

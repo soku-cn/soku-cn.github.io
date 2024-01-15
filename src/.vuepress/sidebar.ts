@@ -30,13 +30,6 @@ export default sidebar({
       [
           "update.md",
             {
-              text: "神AI杀软等其他问题",
-              icon: "question",
-              prefix: "Others/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
               text: "游戏无法正常运行",
               icon: "question",
               prefix: "Failed-to-Start/",
@@ -54,6 +47,13 @@ export default sidebar({
               text: "对战和大厅问题",
               icon: "question",
               prefix: "Play/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "神AI杀软等其他问题",
+              icon: "question",
+              prefix: "Others/",
               collapsible: true,
               children: "structure",
             },
