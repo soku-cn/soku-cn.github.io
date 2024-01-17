@@ -25,14 +25,14 @@ date: 2024-01-14
 
 ::: warning
 
-**有遇到这个问题的，把 SokuLauncher 手动下载一份然后覆盖就行了**
+![](https://bu.dusays.com/2024/01/17/65a74d786260f.png =300x)
+
+**有遇到这个问题的，把 SokuLauncher 手动下载一份然后覆盖就行了，这是因为之前的包里的版本更新检测url是github源，国内用户下载失败导致“找不到文件”**
 
 [**SokuLauncher 手动下载地址（版本检测url源）**](https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json)  
 **https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
 
-![](https://bu.dusays.com/2024/01/17/65a74d786260f.png =300x)
-
-这是因为之前的包里的版本更新检测url是github源，国内用户下载失败导致“找不到文件”
+![](https://bu.dusays.com/2024/01/17/65a7bfb1db626.png =550x)
 
 :::
 
