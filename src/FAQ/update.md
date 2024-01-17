@@ -27,7 +27,8 @@ date: 2024-01-14
 
 **有遇到这个问题的，把 SokuLauncher.json 这个文件重新下载一份然后覆盖就行了**
 
-[**SokuLauncher.json 下载地址（2024-1-17）**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json)  **https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json**
+[**SokuLauncher.json 下载地址（2024-1-17）**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json)  
+**https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json**
 
 ![](https://bu.dusays.com/2024/01/17/65a74d786260f.png =300x)
 
