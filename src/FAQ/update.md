@@ -56,9 +56,13 @@ date: 2024-01-14
 
 :::
 
+::: info
+可在此添加 swarm.exe 和 大厅IP快捷设置.exe 
 
 ![可在此添加 swarm.exe 和 大厅IP快捷设置.exe ](https://bu.dusays.com/2024/01/15/65a405c1a4150.png =400x)
 
+SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件
+
 ![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/15/65a4b22825b18.png =400x)
 
-
+:::
