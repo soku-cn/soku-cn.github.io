@@ -23,6 +23,18 @@ date: 2024-01-14
 
 :::
 
+::: warning
+
+**有遇到这个问题的，把 SokuLauncher.json 这个文件重新下载一份然后覆盖就行了**
+
+[**SokuLauncher.json 下载地址（2024-1-17）**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json)  **https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json**
+
+![](https://bu.dusays.com/2024/01/17/65a74d786260f.png =300x)
+
+这是因为之前的包里的版本更新检测url是github源，国内用户下载失败导致“找不到文件”
+
+:::
+
 ::: warning Win7用户注意
 **Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe**
 
