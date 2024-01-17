@@ -25,10 +25,10 @@ date: 2024-01-14
 
 ::: warning
 
-**有遇到这个问题的，把 SokuLauncher.json 这个文件重新下载一份然后覆盖就行了**
+**有遇到这个问题的，把 SokuLauncher 手动下载一份然后覆盖就行了**
 
-[**SokuLauncher.json 下载地址（2024-1-17）**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json)  
-**https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/SokuLauncher.json**
+[**SokuLauncher 手动下载地址（版本检测url源）**](https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json)  
+**https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
 
 ![](https://bu.dusays.com/2024/01/17/65a74d786260f.png =300x)
 
