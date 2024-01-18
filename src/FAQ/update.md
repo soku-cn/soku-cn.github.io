@@ -19,9 +19,10 @@ date: 2024-01-14
 
 **可以直接下载完整包，也可以下载升级包，然后手动覆盖即可**
 
-[**资源下载链接**](../about/#非想天则资源下载指路) 
+[**资源下载指路**](../about/#非想天则资源下载指路) 
 
-:::
+[**Gitee-Mod源仓库**](https://gitee.com/soku-cn) **https://gitee.com/soku-cn**
+
 
 ::: warning
 

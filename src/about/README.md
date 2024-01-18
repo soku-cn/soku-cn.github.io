@@ -41,6 +41,11 @@ next: false
 **电信天翼盘(手机号登陆，网页端下载不限速)**
 **https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）**
 
+[**Gitee-Mod源仓库**](https://gitee.com/soku-cn) **https://gitee.com/soku-cn**
+
+[**SokuLauncher 手动下载地址（版本检测url源）**](https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json)  
+**https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
+
 **百度网盘**
 **https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
 **https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111 (指路文档备份)**
