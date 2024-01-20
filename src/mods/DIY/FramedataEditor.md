@@ -54,7 +54,7 @@ date: 2023-09-04
 
 ## 2.将改好的配色 pal 文件导入游戏内使用
 
-::: info 方法一：data文件夹法
+<!-- >::: info 方法一：data文件夹法
 在 MemoryPatch 里启用了 FileSystemFirst 后（默认启用，可以不必检查）
 
 在 th123 文件夹内新建文件夹命名为 data，继续在 data 文件夹里面新建 character 文件夹，再继续创建如图的角色名文件夹，
@@ -85,12 +85,12 @@ palette**007**.pal 对应 **第八个也就是最后一个** 配色位
 4. **游戏不用关，回到主菜单，重新进练习模式选人即可**
 
 
-::: 
+::: -->
 
 ::: info 方法二：Shady-loader法
 **将 pal 文件命名为 data_character_reimu_palette000.pal 然后打包成 zip 包，放入 shady-loader 文件夹内，F2 菜单加载即可**
 
-[**shady-loader 使用方法传送门**](/mods/DIY/EnablePack.html#使用-shady-loader-将已有的素材美化包导入游戏内)
+[**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
 :::
 
 ::: info 方法三：Palette-picker法
