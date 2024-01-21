@@ -3,7 +3,7 @@ title: Win8开则弹窗Invalid_Access_to_Memory
 # 标题
 icon: circle-info
 # 图标
-order: 10
+order: 13
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -16,12 +16,10 @@ date: 2024-01-14
 ::: info 
 **Win8开则弹窗Invalid_Access_to_Memory，状况如图**
 
-![win8.1.png](https://bu.dusays.com/2024/01/14/65a38cbf4eba6.png)
+![Win8开则弹窗Invalid_Access_to_Memory1](https://bu.dusays.com/2024/01/21/65accb54f3e35.webp =400x)
 
-![win8.1-2.jpg](https://bu.dusays.com/2024/01/14/65a38cbf42d7b.jpg)
+![Win8开则弹窗Invalid_Access_to_Memory2](https://bu.dusays.com/2024/01/21/65accb61d999b.webp =400x)
 
-
-:::
 
 ::: tip 解决办法
 
@@ -38,4 +36,4 @@ date: 2024-01-14
 
 :::
 
-![原因](https://bu.dusays.com/2024/01/14/65a3c7ebe3529.png)
+![Win8开则弹窗Invalid_Access_to_Memory3](https://bu.dusays.com/2024/01/21/65accb882f27c.webp =400x)

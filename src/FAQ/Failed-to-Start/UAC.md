@@ -1,9 +1,9 @@
 ---
-title: 原神、网易云、UAC、任务管理器打开后游戏崩溃
+title: 原神、网易云音乐、UAC、任务管理器等打开则就崩溃
 # 标题
 icon: circle-info
 # 图标
-order: 8
+order: 1
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -13,9 +13,9 @@ date: 2023-11-27
 #文章编辑日期
 ---
 
-![address 4081d2](https://bu.dusays.com/2023/08/29/64edac2329545.png =450x)
+![address 4081d2](https://bu.dusays.com/2024/01/21/65acca2ca8bd2.webp =400x)
 
-![弹出类似这样的“已停止工作” 或者 直接不弹框游戏消失 或者 游戏操作有声音但是画面卡住](https://bu.dusays.com/2023/08/29/64edac3de0f34.jpg =450x)
+![弹出类似这样的“已停止工作” 或者 直接不弹框游戏消失 或者 游戏操作有声音但是画面卡住](https://bu.dusays.com/2024/01/21/65acca40a7907.webp =500x)
 
 
 ::: info 解决办法
@@ -31,10 +31,8 @@ date: 2023-11-27
 
 **打开网易云音乐或者QQ音乐等也会触发，可在设置内寻找 “GPU，硬件加速” 等字眼 👇**
 
-![网易云设置，把禁用GPU加速的勾给勾上](https://bu.dusays.com/2023/08/20/64e2140ab3814.png =650x)
+![网易云设置，把禁用GPU加速的勾给勾上](https://bu.dusays.com/2024/01/21/65acca86e0f0f.webp =700x)
 
-![QQ音乐，把禁用硬件加速的勾给勾上](https://bu.dusays.com/2023/09/03/64f47ecfac1a9.jpg =650x)
-
-:::
+![QQ音乐，把禁用硬件加速的勾给勾上](https://bu.dusays.com/2024/01/21/65acca9509406.webp =700x)
 
 :::
