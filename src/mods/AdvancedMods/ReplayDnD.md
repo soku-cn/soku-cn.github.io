@@ -1,5 +1,5 @@
 ---
-title: 双击rep播放-ReplayDnD
+title: 双击rep播放转mp4视频功能-ReplayDnD
 
 # 标题
 icon: circle-info
@@ -27,7 +27,7 @@ rep文件可能和游戏要在同一个盘符内
 **将文件夹直接拖到th123.exe上可以连续播放文件夹内的所有rep（按x或者esc来切掉去播下一个，点叉关掉游戏窗口则是完全停止）**
 :::
 
-::: info 新版转mp4视频功能
+::: tip 新版转mp4视频功能
 **更新后再打开一遍游戏，以后右键则的rep文件即有选项 "render to mp4 with soku"**
 
 录制速度成倍数，不需要录屏软件一比一时间录制；
@@ -36,9 +36,9 @@ rep文件可能和游戏要在同一个盘符内
 
 适合用来录制一些完整对战rep
 
-![右键选项 "render to mp4 with soku"](https://bu.dusays.com/2024/01/07/659a60953e47c.png =600x)
+![右键选项 render to mp4 with soku](https://bu.dusays.com/2024/01/21/65acdbd8f1345.webp =400x)
 
-![游戏标题栏信息](https://bu.dusays.com/2024/01/07/659a6094409b7.png =600x)
+![游戏标题栏信息](https://bu.dusays.com/2024/01/21/65acdbe7f0924.webp =400x)
 
 ::: warning 
 

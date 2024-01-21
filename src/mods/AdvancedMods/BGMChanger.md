@@ -39,6 +39,6 @@ loop=8621663
 ::: warning
 **替换用的音乐文件必须是ogg格式，44100 HZ** （可以使用这个网站在线转换 https://convertio.co/zh/）
 
-![转化设置如图，否则可能会发生游戏内无法播放没声音的情况](https://bu.dusays.com/2024/01/07/659a62b713fe2.png =450x)
+![转化设置如图，否则可能会发生游戏内无法播放没声音的情况](https://bu.dusays.com/2024/01/21/65acdb21b4b98.webp =400x)
 
 :::

@@ -28,14 +28,13 @@ SokuStreaming 默认关闭
 
 在对应ini文件里设置键位，通过键位可以修改比分、改名（**不要设置中文名否则游戏会崩溃**）
 
-还可以在对应ini内修改 css,js 等自定义布局 （th123\Modules\SokuStreaming\SokuStreaming.ini）
+还可以在对应ini内修改 css,js 等自定义布局 `（th123\Modules\SokuStreaming\SokuStreaming.ini）`
 
 默认热键如下，推荐在ini内修改
 大键盘1左方减分，2左方加分，3左方改名；5重置分数，6刷新，7修改回合名；8右方减分，9右方加分，0右方改名
-::: 
+
+![效果如图 【非想天则】舞虎杯比赛（直播录像）https://www.bilibili.com/video/BV1mm4y1Z7S5/ ](https://bu.dusays.com/2024/01/21/65acdb7f0553d.webp =800x)
 
 ::: warning
 **若默认的80端口冲突或游戏多开则会在打开游戏时报错，改为其他端口即可**
 :::
-
-![效果如图 【非想天则】舞虎杯比赛（直播录像）https://www.bilibili.com/video/BV1mm4y1Z7S5/ ](https://bu.dusays.com/2024/01/07/659a66684f7af.png =800x)

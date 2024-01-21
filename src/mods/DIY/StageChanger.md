@@ -16,11 +16,11 @@ date: 2024-01-07
 
 
 ::: info 
-可在网盘或QQ群文件里下载到
+**可在网盘或QQ群文件里下载到**
 
 exe 点开会问你游戏位置，可以不用选，直接取消
 
 最终按加号保存，就会有一个 stage 文件夹，里面就是对应文件，打包成 zip 压缩包就可以用 shady-loader 加载了 
-:::
 
-![使用方法](https://bu.dusays.com/2024/01/07/659a696c624f9.png)
+![StageChanger使用方法](https://bu.dusays.com/2024/01/21/65acdf568cd57.webp =800x)
+:::

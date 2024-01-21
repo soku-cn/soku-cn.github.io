@@ -1,5 +1,5 @@
 ---
-title: 角色改色和导入
+title: 制作角色改色和导入
 # 标题
 icon: circle-info
 # 图标
@@ -18,11 +18,10 @@ date: 2023-09-04
 ::: info
 [**下载链接传送门**](/about/#非想天则资源下载指路) 
 
-![](https://bu.dusays.com/2023/09/04/64f540e04cfe5.png =400x)
-
 **压缩包内有简单操作说明**
 
-:::
+
+![下载mod工具](https://bu.dusays.com/2024/01/21/65acdd09285ee.webp =320x)
 
 ::: warning
 **首次打开会提示选择游戏 th123c.dat 数据位置**
@@ -30,7 +29,7 @@ date: 2023-09-04
 **注意需要将游戏路径（文件夹名称）改为全英文，否则会报错**
 :::
 
-::: tip 操作说明
+::: info FrameDataEditor 操作说明
 
 左上角，先导入角色： File > import > framedata > from game package
 
@@ -47,14 +46,14 @@ date: 2023-09-04
 **正常你会导出得到一个513字节的文件（Alt+双击 或者 右键-属性，查看文件大小）**
 此文件可以支持再次导入FDE编辑器编辑，或者直接导入游戏使用，不需要再进行什么转化。
 
-![如图，改色完成，左上角导出得到 pal 文件](https://bu.dusays.com/2023/09/05/64f68f76d096f.png =640x)
+![如图，改色完成，左上角导出得到 pal 文件](https://bu.dusays.com/2024/01/21/65acdf0948973.webp =400x)
 
-![导入进游戏内的效果](https://bu.dusays.com/2023/09/05/64f68f7ef047b.png =640x)
+![导入进游戏内的效果](https://bu.dusays.com/2024/01/21/65acdf265b777.webp =400x)
 :::
 
 ## 2.将改好的配色 pal 文件导入游戏内使用
 
-<!-- >::: info 方法一：data文件夹法
+<!-- >::: info data文件夹法
 在 MemoryPatch 里启用了 FileSystemFirst 后（默认启用，可以不必检查）
 
 在 th123 文件夹内新建文件夹命名为 data，继续在 data 文件夹里面新建 character 文件夹，再继续创建如图的角色名文件夹，
@@ -87,31 +86,21 @@ palette**007**.pal 对应 **第八个也就是最后一个** 配色位
 
 ::: -->
 
-::: info 方法二：Shady-loader法
-**将 pal 文件命名为 data_character_reimu_palette000.pal 然后打包成 zip 包，放入 shady-loader 文件夹内，F2 菜单加载即可**
+::: info Shady-loader法
+**将 pal 文件按规则命名，如 `data_character_reimu_palette000.pal`**
+
+**然后打包成 zip 包，放入 shady-loader 文件夹内，F2 菜单加载即可**
 
 [**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
 :::
 
-::: info 方法三：Palette-picker法
-**在 SWRSToys.ini 配置文件内 Ctrl+F 搜索 picker 即可找到，删除句首分号即可启用**
+::: info Palette-picker法
+[**Mod说明：改色管理 - palette-picker**](mods/AdvancedMods/palette-picker.html)
 
-**说明：**
-在改卡组菜单界面（列出20个角色名的地方）按 C 可进入菜单
-
-1、可以一次性加载许多个配色（还可以在选色界面隐藏掉默认配色）
-2、可以自定义初始配色（比如一进游戏默认就是5号黑衣红剑妖梦而不是1号原皮绿色妖梦，按C恢复默认） 
-3、可以给对手强制选择配色（可选择自定义配色，按C恢复默认）
-4、可以造成双方配色相同的情况（草
-
-**【所有修改只有当时自己这里能看到，对手看不到，rep里也看不到，每个角色的设置是独立的】**
-
-![使用效果如图](https://bu.dusays.com/2023/09/05/64f6943819dc4.png =640x)
-
-![在这个地方，按 C 可进入菜单，菜单选项内继续按 C 是恢复默认](https://bu.dusays.com/2023/09/05/64f694488fa91.png =640x)
+![Palette-picker使用效果如图](https://bu.dusays.com/2024/01/21/65acddebbe890.webp =400x)
 :::
 
-::: info 方法四：解包封包古法
+::: info 解包封包古法
 新则不需要这种方法，1.10 版本不能使用插件，需要这种方法
 
 没什么好说的，偷梁换柱即可
@@ -126,21 +115,22 @@ palette**007**.pal 对应 **第八个也就是最后一个** 配色位
 
 **用法是将未转化的pal文件拖入其上**，转化后的文件可以导入FDE编辑，也可以导入游戏内使用
 
-![](https://bu.dusays.com/2023/09/05/64f69560ed9a8.png =300x)
+![mod工具](https://bu.dusays.com/2024/01/21/65acde798a53f.webp =400x)
 :::
 
 ## 4.convpal-true 转化工具和 true-color-palettes 的插件可搭配制作带透明度的配色
 
 ::: info
-目前有一个半透明妖梦的成品，转化后也是 1KB大小（Alt+双击 或者 右键-属性，查看文件大小）
+目前有一个半透明妖梦的成品，转化后也是 1KB大小（右键-属性，查看文件大小）
 
-应该是可以实现全透明或者半透明之类的效果
+**应该是可以实现全透明或者半透明之类的效果**（我暂时还不会制作，但是可以去问到，如果有人想做的话可以在mod群里 call 我，我再去问问看怎么做）
 
-**我暂时还不会制作，但是可以去问到，如果有人想做的话可以在mod群里 call 我，我再去问问看怎么做**
+
+![半透明妖梦配色](https://bu.dusays.com/2024/01/21/65acde92efe8b.webp =200x)
+
+![半透明妖梦配色2](https://bu.dusays.com/2024/01/21/65acdeda97f8c.webp =500x)
+
+::: warning
 
 【已知问题：不能通过 Palette-picker 法加载透明配色】
-
-![半透明妖梦配色](https://bu.dusays.com/2023/09/05/64f6983090f66.png =300x)
-
-![](https://bu.dusays.com/2023/09/05/64f698aa0017f.png =600x)
 :::

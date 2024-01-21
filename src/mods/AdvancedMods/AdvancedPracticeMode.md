@@ -15,7 +15,6 @@ date: 2023-12-01
 ---
 
 
-::: info 功能简介
 ::: warning
 **注意：高版本win10不能运行**
 
@@ -27,6 +26,7 @@ date: 2023-12-01
 `AdvancedPracticeMode=Modules/AdvancedPracticeMode/AdvancedPracticeMode.dll`
 :::
 
+::: info 功能简介
 
 照常把mod文件夹放到modules文件夹里，配置路径代码，**然后run.bat放到th123文件夹（和主程序同目录**）
 
@@ -36,15 +36,15 @@ date: 2023-12-01
 
 大概功能如图
 
-![](https://bu.dusays.com/2024/01/12/65a01caf3b85a.png =800x)
+![APM1](https://bu.dusays.com/2024/01/21/65acdaab430dc.webp =700x)
 
-![](https://bu.dusays.com/2024/01/12/65a01ca72c260.png =800x)
+![APM2](https://bu.dusays.com/2024/01/21/65acdab83b4bc.webp =700x)
 
-![](https://bu.dusays.com/2024/01/12/65a01ca6e2919.png =800x)
+![APM3](https://bu.dusays.com/2024/01/21/65acdac2afc19.webp =700x)
 
-![](https://bu.dusays.com/2024/01/12/65a01caec1b3b.png =800x)
+![APM4](https://bu.dusays.com/2024/01/21/65acdace56d9b.webp =700x)
 
-![](https://bu.dusays.com/2024/01/12/65a01ca70e6ee.png =800x)
+![APM5](https://bu.dusays.com/2024/01/21/65acdad986f49.webp =700x)
 
 ::: 
 

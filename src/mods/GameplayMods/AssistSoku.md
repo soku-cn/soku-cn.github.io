@@ -36,15 +36,13 @@ date: 2023-08-01
 ![](https://bu.dusays.com/2023/08/24/64e6fffd49511.gif)
 
 
-## 下载与安装援助Mod
-
-::: info
+::: info 下载与安装援助Mod
 **网盘或者mod群200803640内下载资源：mod先行版**
 
 【资源下载】  https://wiki.514.live/guide/#网盘
 :::
 
-![](https://bu.dusays.com/2023/08/24/64e700776488e.png =580x)
+![下载资源：mod先行版](https://bu.dusays.com/2024/01/21/65acdf98aee92.webp =400x)
 
 ::: info 安装mod：
 使用110A版本则（新则），
@@ -53,8 +51,7 @@ date: 2023-08-01
 `AssistSoku=Modules/AssistSoku/AssistSoku.dll`
 :::
 
-## 援助Mod使用方法
-::: info 使用mod：
+::: info 援助Mod使用方法
 确保双方使用同版本援助mod，选人界面先按 **F8** 来选择援助（会有选择音效），然后再去正常选人（按Z）
 游戏内按 22/214/236/623/624(SC) + A或D 来召唤援助，在防御硬直、受击硬直、倒地(受身)时无法召唤
 召唤后有一定的cd时间，援助角色可受到攻击(1 HP)，因被攻击而消失，会有额外15秒cd，每回合开始时cd会刷新
@@ -65,8 +62,7 @@ date: 2023-08-01
 rep 里不能使用 mod，所以保存 rep 没用，只能直接现场边玩边录屏
 :::
 
-## 编辑，DIY援助招数
-::: info 编辑援助招数：
+::: info 编辑，DIY援助招数
 在 `AssistSoku\assets` 文件夹里随便打开一个文件，有样学样，自己折腾下看。
 动作ID可在 FramedataEditor 编辑器内查询，游戏内按 F6 也可以查询动作ID。
 现在没人来群里玩我就暂时不写详细
