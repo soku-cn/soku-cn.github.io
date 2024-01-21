@@ -20,16 +20,16 @@ CharactersInForeground 默认开启
 
 将人物和弹幕置顶，就不会被血条等遮挡了
 
-可以配合MemoryPatch中的屏蔽天气特效一起使用
+可以配合 MemoryPatch 中的屏蔽天气特效一起使用
+
+![角色不会被血条等遮挡](https://bu.dusays.com/2024/01/21/65acedc3725a7.webp =400x)
 
 :::
-
-![不会被血条等遮挡](https://bu.dusays.com/2024/01/07/659a55cbec9db.png)
 
 ::: warning
-**注意，人物置顶后会遮挡伤害数据面板，介意的话可以关闭此插件**
+**注意，人物置顶后会遮挡伤害数据面板，看不清 HIT 数和 Limit 等，介意的话可以关闭此插件**
+
+![角色挡住了伤害数据面板，看不清 HIT 数和 Limit 等](https://bu.dusays.com/2024/01/21/65acedcedcc96.webp =200x)
 
 :::
-
-![遮挡伤害数据面板](https://bu.dusays.com/2024/01/07/659a563d45374.png)
 

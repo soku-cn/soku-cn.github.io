@@ -15,13 +15,13 @@ date: 2024-01-07
 ---
 
 ## 如何开关配置mod和添加新mod
-::: info 方式一
+::: info 方式一，SokuLauncher启动器
 
 **在更新器内修改，记得点右上角保存**
 
-![](https://bu.dusays.com/2024/01/13/65a27dd8d8265.png =400x)
+![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =400x)
 
-![ **记得点右上角保存** ](https://bu.dusays.com/2024/01/13/65a27d9bb967b.png =400x)
+![记得点右上角保存](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp =400x)
 
 :::
 
@@ -32,9 +32,9 @@ date: 2024-01-07
 
 **主菜单里按D，有修改mod配置的菜单，也有添加新mod的选项**
 
-![主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/07/6599882245d9b.png =400x)
+![主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/21/65acecd975153.webp =400x)
 
-![](https://bu.dusays.com/2024/01/07/659988b9b72e2.png =400x)
+![](https://bu.dusays.com/2024/01/21/65acece85cf42.webp =400x)
 
 :::
 
@@ -44,7 +44,7 @@ date: 2024-01-07
 若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
 :::
 
-::: info  进一步设置mod，自定义按键和开关功能等
+::: tip  进一步设置mod，自定义按键和开关功能等
 
 某些插件的ini配置文件内或者游戏内可以进行设置，如自定义热键和开关某些功能
 大多数是无需调整的
@@ -63,7 +63,7 @@ date: 2024-01-07
 欢迎对mod感兴趣，有疑问需要帮助的朋友。
 :::
 
-![三件套组成 SWRSToys](https://bu.dusays.com/2023/08/20/64e21cc628b96.png =600x)
+![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
 
  
 ::: tip 以下是 [12-8] SWRSToys-default-备份.ini 的内容

@@ -83,6 +83,8 @@ Discord 则2群   http://discord.gg/Bgxdcav
 
 ![shady-loader加载](https://bu.dusays.com/2024/01/21/65ace0b1039bf.webp =400x)
 
+![则2汉化](https://bu.dusays.com/2024/01/21/65acecaeb75a3.webp =600x)
+
 :::
 
 ## **注意Touhoumon这个选人菜单mod和则2会冲突**
