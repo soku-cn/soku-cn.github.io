@@ -1,7 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
   
   // {
   //   text: "天则指南",
@@ -11,7 +10,7 @@ export default navbar([
   //   ],
   // },
 
-
+  // "/",
   "/about/",
   "/Beginners/BeforePlaying.html",
   {
