@@ -102,6 +102,8 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
 
+![全开档，改名替换。替换全开档后不能查看成就选项](https://bu.dusays.com/2024/01/21/65acf4915243c.gif =400x)
+
 :::
 
 <!-- 
