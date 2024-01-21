@@ -3,7 +3,7 @@ title: 杀软误报
 # 标题
 icon: circle-info
 # 图标
-order: 1
+order: 2
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -17,6 +17,10 @@ date: 2023-09-01
 # copyright: 无版权
 ---
 
+::: tip
+[**【B站视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
+:::
+
 ::: info
 **各种杀毒软件会误杀各种插件，请自行添加白名单**
 
@@ -28,9 +32,5 @@ Windows防火墙也会在联网通信时弹窗询问是否允许，请点**允�
 
 ![swarm-new 被杀软误杀 案例2](https://bu.dusays.com/2023/09/03/64f47ecfac1d7.jpg =400x)
 
-:::
-
-::: tip
-[**【B站视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
 :::
 
