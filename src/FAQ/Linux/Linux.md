@@ -98,3 +98,6 @@ Windows Registry Editor Version 5.00
 ## 启动器相关
 
 在终端中使用 `wine 东方非想天启.exe` 或类似方式运行非想天启启动器时，可能会弹出 `OSError: (Errno 9) Bad file descriptor` 的错误而无法启动。遇此问题可以直接在图形界面点击运行，或者在终端中将标准输出重定向到 `/dev/null`（如 `wine 东方非想天启.exe > /dev/null`）。
+
+
+![Linux Mods](https://bu.dusays.com/2024/01/21/65acf18dc1dc4.webp =400x)
