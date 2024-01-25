@@ -111,9 +111,9 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 **不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战**
 
-![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =600x)
+![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
 
-![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.pn =600x)
+![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =500x)
 
 :::
 
