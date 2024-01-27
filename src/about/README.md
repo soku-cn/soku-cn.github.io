@@ -36,12 +36,6 @@ next: false
 
 ::: info 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-**Gitee-Mod源仓库** 
-**https://gitee.com/soku-cn**
-
-**SokuLauncher 手动下载地址（版本检测url源）**
-**https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
-
 **123网盘(网页端下载不限速)**
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
@@ -55,8 +49,16 @@ next: false
 **蓝奏云(小文件补丁专用)**
 **https://wwwa.lanzouj.com/b04q3635i (密码:hfxy)**
 
-**QQ资源群，禁言**
-**869104893  （不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
+**QQ资源群，可直接加群无需验证 【 869104893 】** 
+**（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
+
+
+**Gitee-Mod源仓库** 
+**https://gitee.com/soku-cn**
+
+**SokuLauncher 手动下载地址（版本检测url源）**
+**https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
+
 :::
 
 
