@@ -23,9 +23,7 @@ date: 2024-01-14
 
 ::: tip 解决办法
 
-**下载这个 d3d9-loader-win8Fix.dll 文件，把他改名为 d3d9.dll**
-
-**然后覆盖到 th123 文件夹内，即可** 
+**下载这个 d3d9-loader-win8Fix.dll 文件，把他改名为 d3d9.dll，然后覆盖到 th123 文件夹内，即可** 
 
 [**d3d9-loader-win8Fix.dll 下载链接**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-loader-win8Fix.dll)
 **https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-loader-win8Fix.dll**
@@ -33,6 +31,15 @@ date: 2024-01-14
 ::: warning
 
 **d3d9-loader-win8Fix.dll 与 `SOKU2 则2 MOD` 不兼容！**
+
+:::
+
+::: info 
+**如果上面的不行的话，那就只能用这个了，把他改名为 d3d9.dll，然后覆盖到 th123 文件夹内，即可**
+（不能生成dmp崩溃转储文件，没有内置D菜单，读取 SWRStoys.ini）
+
+[**d3d9-old.dll 下载链接**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-old.dll)
+**https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-old.dll**
 
 :::
 
