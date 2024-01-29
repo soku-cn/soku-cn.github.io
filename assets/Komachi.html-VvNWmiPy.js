@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as c,c as o}from"./app-1Zz4feNV.js";const t={};function r(_,a){return c(),o("div")}const s=e(t,[["render",r],["__file","Komachi.html.vue"]]);export{s as default};
