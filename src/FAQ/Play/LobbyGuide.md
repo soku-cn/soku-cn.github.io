@@ -1,5 +1,5 @@
 ---
-title: 大厅常见问题
+title: 大厅常见问题(联机教程)
 # 标题
 icon: circle-info
 # 图标
