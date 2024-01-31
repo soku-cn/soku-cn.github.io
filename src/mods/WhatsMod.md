@@ -42,6 +42,9 @@ date: 2024-01-07
 若 th123 文件夹内存在 ModLoaderSettings.json 文件，则根据此文件为配置，忽略 SWRSToys.ini 的内容
 
 若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
+
+![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =500x)
+
 :::
 
 ::: tip  进一步设置mod，自定义按键和开关功能等
