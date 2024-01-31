@@ -43,7 +43,7 @@ date: 2024-01-07
 
 若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
 
-![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =500x)
+![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =450x)
 
 :::
 
@@ -51,9 +51,11 @@ date: 2024-01-07
 
 某些插件的ini配置文件内或者游戏内可以进行设置，如自定义热键和开关某些功能
 大多数是无需调整的
-键位码可参考此表    https://github.com/SokuDev/SokuMods/blob/master/VIK.md
 
-注意插件有版本之分，110与110A版本的插件不能互通，一般正常切换版本是没问题的，遇到check version failed的弹窗要注意是不是版本出了问题
+![在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png =400x)
+
+![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67fa51352.png =400x)
+
 :::
 
 
