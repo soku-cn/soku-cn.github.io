@@ -86,14 +86,14 @@ date: 2024-1-07
 
 ![swarm和则之间启动的 **先后顺序不影响使用**，注意不要改动10800的数字](https://bu.dusays.com/2023/08/18/64de5a1b6da29.png =200x)
 
-4. 在 ini 配置内粘贴复制来的IP，**按 Ctrl+S 保存**，不需要重开游戏。
+4. 然后把复制好了的IP放进“大厅 IP 配置工具”，如果你不使用大厅的话可以不用打开这个
 
-![大厅IP配置](https://bu.dusays.com/2024/01/21/65accd2b6f5e2.png =280x)
+![](https://bu.dusays.com/2024/01/21/65accd2b6f5e2.png =280x)
 
 **配置完毕swarm，就可以自己建主，让对方再进入即可**
 
 ::: warning 
-**如果你用 swarm-old 遇到别人进入后黑屏又退出的情况，可尝试使用 swarm-new**
+**如果你用猫头鹰头像的 swarm-old 遇到别人进入后黑屏又退出的情况，可尝试使用 swarm-new**
 
 :::
 
