@@ -21,7 +21,7 @@ features:
 
   - title: 游戏简介
     icon: circle-info
-    details: 「东方非想天则」是2009年东方Project官方游戏系列的第12.3作，一款不同于传统格斗的弹幕格斗游戏，拥有活跃稳定的玩家群体和生机勃勃的游戏环境
+    details: 跳转链接 - THB Wiki「东方非想天则」这是 ZUN 与黄昏边境合作制作的第三款游戏，也是东方 Project 的第三款格斗游戏。游戏本体由黄昏边境制作，ZUN 负责设定、对话和部分音乐与图像设计。本作实际上是作为东方绯想天的资料片的性质来发布，可以与绯想天整合来开启全人物。
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
     
   - title: SokuLauncher更新器使用说明
