@@ -4,7 +4,7 @@ title: 按F1、F2、F3这些键没有效果
 # 标题
 icon: circle-info
 # 图标
-order: 6
+order: 4
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
