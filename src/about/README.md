@@ -36,17 +36,17 @@ next: false
 
 ::: info 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-**123网盘(网页端下载不限速)**
+**123 网盘**
 **https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
-**电信天翼盘(手机号登陆，网页端下载不限速)**
+**电信天翼网盘**
 **https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）**
 
 **百度网盘**
 **https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
 **https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111 (指路文档备份)**
 
-**蓝奏云(小文件补丁专用)**
+**蓝奏云(只含小文件补丁)**
 **https://wwwa.lanzouj.com/b04q3635i (密码:hfxy)**
 
 **QQ资源群，可直接加群无需验证 【 869104893 】** 
