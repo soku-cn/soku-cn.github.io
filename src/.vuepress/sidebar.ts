@@ -1,34 +1,34 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/": 
-  [
-    {
-      text: "「关于本站、资源下载」",
-      icon: "circle-info",
-      prefix: "about/",
-      link: "about/",
-      children: "structure",
-    },
+  "/":
+    [
+      {
+        text: "「关于本站、资源下载」",
+        icon: "circle-info",
+        prefix: "about/",
+        link: "about/",
+        children: "structure",
+      },
 
 
-    {
-      text: "「新手上路」",
-      icon: "book",
-      prefix: "Beginners/",
-      collapsible: true,
-      children: "structure",
-    },
+      {
+        text: "「新手上路」",
+        icon: "book",
+        prefix: "Beginners/",
+        collapsible: true,
+        children: "structure",
+      },
 
 
-    {
-      text: "「游戏常见问题」",
-      icon: "circle-question",
-      prefix: "FAQ/",
-      collapsible: true,
-      children: 
-      [
-          "update.md",
+      {
+        text: "「游戏常见问题」",
+        icon: "circle-question",
+        prefix: "FAQ/",
+        collapsible: true,
+        children:
+          [
+            "update.md",
             {
               text: "游戏无法正常运行",
               icon: "question",
@@ -64,84 +64,84 @@ export default sidebar({
               collapsible: true,
               children: "structure",
             }
-      ],
-    },
+          ],
+      },
 
-        
-    {
-      text: "「Mod、插件介绍」",
-      icon: "gear",
-      prefix: "mods/",
-      collapsible: true,
-      children: [
-        "WhatsMod.md",
-        "PracticeMods.md",
-        {
-          text: "功能性插件",
-          icon: "file",
-          prefix: "QoLMods/",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: "高级功能插件",
-          icon: "file",
-          prefix: "AdvancedMods/",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: "改色等Mod",
-          icon: "file",
-          prefix: "DIY/",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: "游戏性Mod",
-          icon: "file",
-          prefix: "GameplayMods/",
-          collapsible: true,
-          children: "structure",
-        },
 
+      {
+        text: "「Mod、插件介绍」",
+        icon: "gear",
+        prefix: "mods/",
+        collapsible: true,
+        children: [
+          "WhatsMod.md",
+          "PracticeMods.md",
+          {
+            text: "功能性插件",
+            icon: "file",
+            prefix: "QoLMods/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "高级功能插件",
+            icon: "file",
+            prefix: "AdvancedMods/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "改色等Mod",
+            icon: "file",
+            prefix: "DIY/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "游戏性Mod",
+            icon: "file",
+            prefix: "GameplayMods/",
+            collapsible: true,
+            children: "structure",
+          },
+
+        ],
+      },
+
+
+      {
+        text: "「游戏系统与机制」",
+        icon: "clock",
+        prefix: "GameGuide/",
+        collapsible: true,
+        children: "structure",
+      },
+
+
+      {
+        text: "「攻略数据」",
+        icon: "laptop-code",
+        prefix: "data/",
+        collapsible: true,
+        children: "structure",
+      },
+
+      // {
+      //   text: "其他内容",
+      //   icon: "ellipsis",
+      //   prefix: "others/",
+      //   collapsible: true,
+      //   children: "structure",
+      // },
+
+
+
+      // {
+      //   text: "记录",
+      //   icon: "circle",
+      //   prefix: "demo/",
+      //   link: "demo/",
+      //   children: "structure",
+      // },
     ],
-    },
-
-
-    {
-      text: "「游戏系统与机制」",
-      icon: "clock",
-      prefix: "GameGuide/",
-      collapsible: true,
-      children: "structure",
-    },
-
-
-    {
-      text: "「攻略数据」",
-      icon: "laptop-code",
-      prefix: "data/",
-      collapsible: true,
-      children: "structure",
-    },
-
-    // {
-    //   text: "其他内容",
-    //   icon: "ellipsis",
-    //   prefix: "others/",
-    //   collapsible: true,
-    //   children: "structure",
-    // },
-
-
-
-    // {
-    //   text: "记录",
-    //   icon: "circle",
-    //   prefix: "demo/",
-    //   link: "demo/",
-    //   children: "structure",
-    // },
-  ],
 });
