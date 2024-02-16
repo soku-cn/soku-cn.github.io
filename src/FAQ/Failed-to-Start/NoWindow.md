@@ -16,7 +16,7 @@ date: 2023-07-23
 ::: info 方法一
 **关闭游戏，双击重置窗口的bat即可**
 
-![新版本的整合包内才有这个bat](https://bu.dusays.com/2024/01/21/65accad68f14f.webp =700x)
+![新版本的整合包内才有这个bat](https://bu.dusays.com/2024/02/17/65cf95df7d687.png =700x)
 
 :::
 
