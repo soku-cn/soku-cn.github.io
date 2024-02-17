@@ -31,9 +31,8 @@ TrialMode 是制作连段包和打连段试炼的 mod
 
 ::: tip 连段包下载
 网盘里可以下载 https://wiki.514.live/about/
+
 **连段包压缩包下载后，将其中包含的文件夹拖到 th123\Modules\TrialMode\packs 内，注意不要多包了一层文件夹**
-
-
 :::
 
 

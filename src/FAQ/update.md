@@ -41,27 +41,21 @@ date: 2024-01-14
 
 ::: info 手动下载新则资源和升级包（更新器）
 
-**可以直接下载完整包，也可以下载升级包，然后手动覆盖即可**
+**123 网盘**
+**https://www.123pan.com/s/scmzVv-Z3h6v.html**
 
-[**资源下载指路**](../about/#非想天则资源下载指路) 
+**电信天翼网盘**
+**https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）**
 
-[**Gitee-Mod源仓库**](https://gitee.com/soku-cn) **https://gitee.com/soku-cn**
+**百度网盘**
+**https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41**
+**https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111 (指路文档备份)**
 
+**蓝奏云(只含小文件补丁)**
+**https://wwwa.lanzouj.com/b04q3635i (密码:hfxy)**
 
-[**SokuLauncher 手动下载地址（版本检测url源）**](https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json)  
-**https://gitee.com/milestw/soku-launcher/raw/main/docs/version.json**
-
-![下载链接是这个方框里](https://bu.dusays.com/2024/01/21/65acc101c3d6a.webp =700x)
-
-:::
-
-<!-- 
-::: warning 有时候打开的时候检测启动器版本更新会超时，请手动点检查更新
-
-**有时候打开的时候检测启动器版本更新会超时，请手动更新**
-
-![有时候打开的时候检测启动器版本更新会超时，请手动更新](https://bu.dusays.com/2024/01/16/65a690831158b.png =400x)
+**QQ资源群，可直接加群无需验证 【 869104893 】** 
+**（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
 
 :::
--->
 
