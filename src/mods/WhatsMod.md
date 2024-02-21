@@ -18,9 +18,9 @@ date: 2024-01-07
 
 **在更新器内修改，记得点右上角保存**
 
-![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =400x)
+![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
 
-![记得点右上角保存](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp =400x)
+![记得点右上角保存](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp =300x)
 
 :::
 
@@ -31,9 +31,9 @@ date: 2024-01-07
 
 **主菜单里按D，有修改mod配置的菜单，也有添加新mod的选项**
 
-![主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/21/65acecd975153.webp =400x)
+![看右上角，主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/21/65acecd975153.webp =300x)
 
-![](https://bu.dusays.com/2024/01/21/65acece85cf42.webp =400x)
+![](https://bu.dusays.com/2024/01/21/65acece85cf42.webp =300x)
 
 :::
 
@@ -42,13 +42,13 @@ date: 2024-01-07
 
 若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
 
-![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =450x)
+![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =400x)
 
 :::
 
 ::: warning 不小心搞砸了的话，点击这里就可以恢复默认了
 
-![不小心搞砸了的话，点击这里就可以恢复默认了。 【 恢复默认 SWRStoys 配置 】.bat](https://bu.dusays.com/2024/02/18/65d1d3683f7a8.png =450x)
+![不小心搞砸了的话，点击这里就可以恢复默认了。 【 恢复默认 SWRStoys 配置 】.bat](https://bu.dusays.com/2024/02/18/65d1d3683f7a8.png =750x)
 
 :::
 
@@ -57,9 +57,9 @@ date: 2024-01-07
 某些插件的ini配置文件内或者游戏内可以进行设置，如自定义热键和开关某些功能
 大多数是无需调整的
 
-![在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png =400x)
+![在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png =700x)
 
-![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67fa51352.png =400x)
+![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67fa51352.png =500x)
 
 :::
 
@@ -76,7 +76,7 @@ date: 2024-01-07
 ![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
 
  
-::: tip 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
+::: info 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
 ;################################################
 ; 在每行语句开头加英文分号，代表关闭插件，语句是绿色
 ; 在每行语句开头删英文分号，代表启用插件，语句是黑色

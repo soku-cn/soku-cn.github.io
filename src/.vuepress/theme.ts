@@ -15,6 +15,7 @@ export default hopeTheme({
   iconAssets: "fontawesome-with-brands",
   logo: "/logo.svg",
   repo: "Tstar00/tstar00.github.io",
+  //repo: "https://gitee.com/soku-cn/soku-cn",
   docsDir: "src",
 
   // navbar
