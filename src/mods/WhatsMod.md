@@ -2,7 +2,7 @@
 title: 如何开关配置mod
 
 # 标题
-icon: circle-info
+icon: gears
 # 图标
 order: 1
 # 数字越小，文章左侧排序越靠上

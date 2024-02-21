@@ -5,7 +5,7 @@ export default sidebar({
     [
       {
         text: "「关于本站、资源下载」",
-        icon: "circle-info",
+        icon: "download",
         prefix: "about/",
         link: "about/",
         children: "structure",
@@ -23,7 +23,7 @@ export default sidebar({
 
       {
         text: "「游戏常见问题」",
-        icon: "circle-question",
+        icon: "question",
         prefix: "FAQ/",
         collapsible: true,
         children:
@@ -78,28 +78,28 @@ export default sidebar({
           "PracticeMods.md",
           {
             text: "功能性插件",
-            icon: "file",
+            icon: "gears",
             prefix: "QoLMods/",
             collapsible: true,
             children: "structure",
           },
           {
             text: "高级功能插件",
-            icon: "file",
+            icon: "gears",
             prefix: "AdvancedMods/",
             collapsible: true,
             children: "structure",
           },
           {
             text: "改色等Mod",
-            icon: "file",
+            icon: "gears",
             prefix: "DIY/",
             collapsible: true,
             children: "structure",
           },
           {
             text: "游戏性Mod",
-            icon: "file",
+            icon: "gears",
             prefix: "GameplayMods/",
             collapsible: true,
             children: "structure",
@@ -111,7 +111,7 @@ export default sidebar({
 
       {
         text: "「游戏系统与机制」",
-        icon: "clock",
+        icon: "fa-brands fa-wikipedia-w",
         prefix: "GameGuide/",
         collapsible: true,
         children: "structure",

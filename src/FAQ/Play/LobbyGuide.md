@@ -30,6 +30,8 @@ date: 2023-12-01
 
 ![Giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
+![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2024/01/21/65accc0205ba1.png =300x)
+
 ::: tip 解决办法
 **请注意大厅界面的公告，及时更新**
 
@@ -39,16 +41,21 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 :::
 
-::: info 情况二：网络不支持 AP，不能 UDP 打洞直连
+::: info 情况二：连接失败（网络不支持 AP，不能 UDP 打洞直连）
 
 ![HTTP 400](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
 
+![连接失败](https://bu.dusays.com/2024/02/21/65d5783ecd429.png =400x)
+
 ::: tip 解决办法
 
-**1、先检测 AP，如果是支持的，则是偶尔卡了，可以再尝试几次**  
-[**如何进行检测？为什么我不支持AP？**](/FAQ/Play/AP_NOT_Supported.html)
+**1、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。**   [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
+::: warning
+2、对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
 
-[**2、可以换用 swarm 自己建主，联机教程———大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+**解决办法：自己正确使用 swarm 建主，然后让他来进你**
+
+[**联机教程 ——— 大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 
 :::
@@ -102,7 +109,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
 
-![全开档，改名替换。替换全开档后不能查看成就选项](https://bu.dusays.com/2024/01/21/65acf4915243c.gif =400x)
+![全开档，改名替换。替换全开档后不能查看成就选项 gif](https://bu.dusays.com/2024/01/21/65acf4915243c.gif =400x)
 
 :::
 

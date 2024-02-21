@@ -2,7 +2,7 @@
 title: 练习模式使用教程
 
 # 标题
-icon: circle-info
+icon: fa-solid fa-lightbulb
 # 图标
 order: 2
 # 数字越小，文章左侧排序越靠上

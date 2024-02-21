@@ -6,54 +6,104 @@ heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
-tagline: 一个关于「东方非想天则」的普通指南✨ <br> 【本站交流群 745214751】 <br> 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
+tagline: 关于「东方非想天则」的指南Wiki✨ <br> 【本站交流群 745214751】 <br> 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
 
 
 actions:
-  - text: 「关于本站」
+  - text: 关于本站
     link: /about/
     type: primary
 
-  - text: 「资源和MOD下载」
+  - text: 资源和MOD下载
     link: /about/#非想天则资源下载指路
 
 features:
 
   - title: 游戏简介
     icon: circle-info
-    details: 跳转链接 - THB Wiki「东方非想天则」这是 ZUN 与黄昏边境合作制作的第三款游戏，也是东方 Project 的第三款格斗游戏。游戏本体由黄昏边境制作，ZUN 负责设定、对话和部分音乐与图像设计。本作实际上是作为东方绯想天的资料片的性质来发布，可以与绯想天整合来开启全人物。
+    details: 跳转链接 - THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
+
+  - title: 关于本站、资源下载、对战交流QQ群
+    icon: download
+    details: 
+    link: /about/
+
+  - title: 游戏打不开：缺失 d3d9_33.dll
+    icon: question
+    details: 
+    link: /FAQ/Failed-to-Start/d3d9_33.html
+
+  - title: 游戏内问题：部分弹幕和特效贴图消失（变成一根线）
+    icon: bug
+    details: 
+    link: /FAQ/In-Games/MissingGraphic.html
+
+  - title: 游戏内问题：游戏画面显示错位
+    icon: bug
+    details: 
+    link: /FAQ/In-Games/CursedWindow.html
+
+  - title: Mod 介绍：高级练习模式使用说明
+    icon: fa-solid fa-lightbulb
+    details: 
+    link: /mods/PracticeMods.html
+
+  - title: 新手上路：对战前新人需知
+    icon: fa-solid fa-star
+    details: 
+    link: /Beginners/BeforePlaying.html
+
+  - title: 大厅常见问题、联机说明
+    icon: book
+    details: 
+    link: /FAQ/Play/LobbyGuide.html
+
+  - title: 游戏系统与机制：天气系统
+    icon: book
+    details: 
+    link: /GameGuide/weather.html
     
-  - title: SokuLauncher更新器使用说明
-    icon: fab fa-markdown
+  - title: SokuLauncher 更新器使用说明
+    icon: file
     details: 便捷地保持游戏更新和管理游戏配置
     link: /FAQ/update.html
 
-  - title: 游戏资源下载+对战QQ群
-    icon: rss
-    details: 提供了网盘和QQ资源群进行资源下载，欢迎加入非想天则的对战QQ群寻找玩伴进行交流~
-    link: /about/#非想天则资源下载指路
+  - title: Mod 介绍：如何开关配置 Mod
+    icon: gear
+    details: 
+    link: /mods/WhatsMod.html
 
-  - title: 常见问题指南
-    icon: search
-    details: 持续建设更新中，看完还没有得到答案的疑问，可在群里或私聊请教（QQ 1434716883）
-    link: /FAQ/Play/LobbyGuide.html
+  - title: Mod 介绍：Shady-loader 修改游戏文件（美化包）
+    icon: gears
+    details: 
+    link: /mods/DIY/Shady-loader.html
 
-  - title: 对战前新人需知
-    icon: book
-    details: 新人上路（建设中）
-    link: /Beginners/BeforePlaying.html
+  - title: Mod 介绍：2V2 MOD 下载使用说明
+    icon: gears
+    details: 
+    link: /mods/GameplayMods/2V2MOD.html
 
-  - title: 非想天则英文、日文Wiki
+  - title: Mod 介绍：则2 Mod
+    icon: gears
+    details: 
+    link: /mods/GameplayMods/SOKU2general.html
+
+  - title: 怎么开“神AI”
+    icon: robot
+    details: 
+    link: /FAQ/Others/th123AI.html
+
+  - title: 非想天则英文、日文 Wiki、国际社区Discord群
     icon: sitemap
     details: 相关站点导航
     link: /about/#相关站点导航
 
-  - title: Mod与插件介绍
-    icon: ellipsis
-    details: MOD，插件及工具介绍
-    link: /mods/WhatsMod.html
+  - title: 在 GNU/Linux 下运行非想天则
+    icon: fa-brands fa-linux
+    details: 
+    link: /FAQ/Linux/Linux.html
 
 copyright: false
-footer: MIT Licensed | Copyright © 2023 ChocoFleece
+footer: MIT Licensed | Copyright © 2024 ChocoFleece
 ---

@@ -1,7 +1,7 @@
 ---
 title: 对战前新人须知
 
-icon: circle-info
+icon: book-open
 # 图标
 order: 1
 # 数字越小，文章左侧排序越靠上

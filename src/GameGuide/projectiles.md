@@ -5,7 +5,7 @@ editLink: false
 prev: false
 next: false
 order: 2
-author: 巧克力绒 + 三回転Tstar
+author: 三回転Tstar
 date: 2023-11-29
 ---
 
