@@ -535,7 +535,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * Demon Lord Walk: forces knockdown
 * Vampire Claw: B version ender: forces knockdown; C version ender: hitstop increased, launch height increased # allows followup combo
 * Chain Gang: more untech
-* Demon's Dinner Fork: forces knockdow
+* Demon's Dinner Fork: forces knockdown
 * Rocket Kick Upper: hitbox size increased # able to hit enemies on the ground, hitstop 3 -> 25, proration 93% -> 95%
 * Vampire Kiss: B version: startup 33 -> 9; C version: startup 38 -> 25, more recovery on hit
 * Demon Lord Cradle: forces knockdown
@@ -672,7 +672,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * 5AAA: no longer launches foes
 * 5AAAA: launch vector modified # opponent bounces closer to reisen
 * 3A: no longer launches
-* 3[A]: now a 2-hit combo; lauches foes to allow followups
+* 3[A]: now a 2-hit combo; launches foes to allow followups
 * 6[a]: grazes while active
 * j.5A: untech 25 -> 30
 * j.6A: forces knockdown
@@ -710,7 +710,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * C series: launch vector modified to prevent infinites
 ==== Skills ====
 * Light of the Undead: forces knockdown
-* Dance of the Buttefly Dream: forces knockdown
+* Dance of the Butterfly Dream: forces knockdown
 * Sense Of Elegance: B version: damage 1000 -> 700, startup: 25 -> 17, recovery 25 -> 20, blockstop on opponent 10 -> 5
 * Sense Of Elegance: B version: untech 40 -> 60, proration 850 -> 940, launch height increased # allows yuyuko to combo after
 * Sense of Elegance: C version: always forces knockdown
@@ -831,7 +831,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * Graceful Dash: forces knockdown
 * Gale Fan: longer hitbox % hits closer to aya; launches foes horizontally and can wallslam, damage +100
 * Tengu's Pebbles: ground B version: startup -11, hjc -8; ground c, air b/C versions: startup -10; spirit damage per hit: 0.1 -> 0.25; blockstop 2 -> 8; hitstop 5 -> 10, proration = 100%, untech = 40
-* Tengu Drum: intial hit: forces knockdown, a followup: forces knockdown, b followup: no longer ground bounces, c followup: forces knockdown
+* Tengu Drum: initial hit: forces knockdown, a followup: forces knockdown, b followup: no longer ground bounces, c followup: forces knockdown
 * Wind from the Maple Fan: spawns closer to aya, more hitstun # easier to follow, proration 93% -> 98%
 * Tengu's Downburst: hitbox size increased to allow crossups
 * Wind Sickle Veling: will not disappate if not cancelled
@@ -839,7 +839,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * Tengu Limited Special: acts as a roman cancel
 * Wind of the Tengu Path: bigger wallbounce
 * Tengu's Macroburst: proration reduced
-* Route Forbidden to Man: rock proration reduced, more untech, histop increased # juggles more consistently
+* Route Forbidden to Man: rock proration reduced, more untech, hitstop increased # juggles more consistently
 
 === Komachi ===
 ==== Normals ====
@@ -878,7 +878,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * Ferriage in the Deep Fog: startup -30
 * Scythe of Final Judgement: damage: 4000 -> 3500, causes groundbounce on hit # allows followup combo
 * Scythe of Wandering Spirits: damage reduced, invincible on startup # acts as a reversal
-* Short Life Expectancy: inital strike deals 1k damage # able to score KOs
+* Short Life Expectancy: initial strike deals 1k damage # able to score KOs
 ==== Other ====
 * Hitbox while taking damage modified to stay the same for the whole animation # prevents infinites from yuyuko
 
@@ -1005,7 +1005,7 @@ Current version: Soku Unlimited ver. 3.6.5
 * Spiral Light Steps: forces knockdown, startup -7
 * Red Cannon: both versions: recovery -7, untech = 60, proration = 85% # functions as a launcher
 * Red Energy Release: bigger hitbox (takes up the entire explosion)
-* Yellow Quake Kick: lauches foes into the air # allows followup combo, untech 45 -> 60, proration 95% -> 92%
+* Yellow Quake Kick: launches foes into the air # allows followup combo, untech 45 -> 60, proration 95% -> 92%
 * Earth Dragon Wave: launches higher, proration 85% -> 90%
 * Sky Dragon Kick: both versions: grazes while active, both versions: forces knockdown
 * Tiger Chi Release: can be canceled by any action
@@ -1065,7 +1065,7 @@ Current version: Soku Unlimited ver. 3.6.5
 ==== Normals ====
 * Airdash: new animation
 * 5AAA: new animation
-* 5AAAA: new animation; more untech # allows followup combos; hit vector changed # enemy is closer to utusho
+* 5AAAA: new animation; more untech # allows followup combos; hit vector changed # enemy is closer to utsuho
 * 2A: hit animation changed
 * j.5A: duration: 55 -> 46 # recovery -9
 * j.6A: forces knockdown, hitbox remains the same size for the entire duration, extended hurtbox under utsuho removed
@@ -1129,7 +1129,7 @@ Current version: Soku Unlimited ver. 3.6.5
 ==== Skills ====
 * Ancient Metal Ring: forces knockdown
 * Ancient Geyser: damage per hit: 200 -> 230
-* Lake of Great Earth: dives earlier (startup is the same); falling attackw: groundbounces; splash: forces knockdown
+* Lake of Great Earth: dives earlier (startup is the same); falling attack: groundbounces; splash: forces knockdown
 * Frog God: explodes instantly when opponent is close
 * Rain-Calling Frog: untech: 25 -> 45; hitstop + hit vector adjustment
 * Toad God: melee invincible at level 1; spellcard cancel removed; forces knockdown

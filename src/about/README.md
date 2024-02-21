@@ -1,7 +1,7 @@
 ---
 title: 关于本站、资源下载
 index: false
-icon: circle-info
+icon: download
 pageInfo: false
 editLink: false
 prev: false
@@ -12,11 +12,15 @@ next: false
 [**SokuLauncher 更新器使用说明**](/FAQ/update.html)
 :::
 
-## **一个关于「东方非想天则」的普通指南✨**
+## **一个关于「东方非想天则」的指南Wiki✨**
 
 
 ::: info
 欢迎使用本指南，本指南目前正在建设中。
+
+https://wiki.514.live/
+https://Tstar00.github.io/ (仓库https://github.com/Tstar00/Tstar00.github.io)
+https://soku-cn.gitee.io/ (仓库https://gitee.com/soku-cn/soku-cn)
 
 **当前小目标**是完成新手上路基本知识和资源、Mod、工具讲解。
 
