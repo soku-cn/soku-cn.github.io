@@ -2,11 +2,11 @@
 home: true
 title: 主页
 icon: home
-heroImage: /logo.svg
+heroImage: /logo-home.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
-tagline: 关于「东方非想天则」的指南Wiki✨ <br> 【本站交流群 745214751】 <br> 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
+tagline: 关于「东方非想天则」的指南Wiki✨ <br> 【本站交流群 745214751】 <br><br> <strong><font size=5>如果打开 <a href="https://wiki.514.live" target="_blank">https://wiki.514.live</a> 较卡可以尝试 <a href="https://soku-cn.gitee.io" target="_blank">https://soku-cn.gitee.io</a></font></strong><br> <font size=3>左侧封面图pid 19150233</font> 
 
 
 actions:

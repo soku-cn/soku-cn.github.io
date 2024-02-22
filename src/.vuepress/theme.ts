@@ -13,7 +13,7 @@ export default hopeTheme({
   },
 
   iconAssets: "fontawesome-with-brands",
-  logo: "/logo.svg",
+  logo: "/logo-navbar.webp",
   repo: "Tstar00/tstar00.github.io",
   //repo: "https://gitee.com/soku-cn/soku-cn",
   docsDir: "src",
@@ -37,7 +37,8 @@ export default hopeTheme({
     components: {
       components: [
         "BiliBili",
-      ]},
+      ]
+    },
     // You should generate and use your own comment service
     // comment: {
     //   provider: "Twikoo",

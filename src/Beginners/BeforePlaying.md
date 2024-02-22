@@ -22,21 +22,21 @@ date: 2024-1-07
 :::
 
 ::: info 开始游戏前，设置好你的机签名（Profile）、键位、卡组
-- **在练习模式选人界面按 C 打开菜单**
+- <font color=red size=3><strong>在练习模式选人界面按 C 打开菜单</strong></font>
 
 - **先选择好机签，右上角变化后，再去设置 1P 卡组和按键**
 
 - 机签名字最好是可以方便在 QQ 等地方找到你的名字，不要设置低俗无礼或者无意义或者不好打出来的名字
 
-- 可以将自己的游戏相对水平标注，有助于寻找旗鼓相当的对手
+- 可以将自己的游戏水平标注，有助于寻找旗鼓相当的对手
 
-![修改机签名，直接去profile文件夹里把文件改名即可](https://bu.dusays.com/2024/01/21/65accc7ff2fbb.webp =600x)
+![右上角就是选择好了的正在使用的机签名，图中是 Tstar00 ；若要修改机签名，直接去profile文件夹里把文件改名即可](https://bu.dusays.com/2024/01/21/65accc7ff2fbb.webp =600x)
 
 :::
 
 ### 确保网络连接稳定和电脑性能有余
 
-::: info 一、检查网络波动情况
+::: info 检查网络波动情况
 按下 Win+R，复制粘贴 `ping baidu.com -t` 并回车，等待一会儿
 
 延迟波动范围上下 15ms 左右都是正常情况，可以接受
@@ -59,7 +59,7 @@ date: 2024-1-07
 5. 然后右下角网络图标应该是这样 ![](https://bu.dusays.com/2023/08/25/64e78933460b7.png) ，就可以了
 :::
 
-::: info 二、检查电脑性能有没有高占用
+::: info 检查电脑性能有没有高占用
 
 **显卡驱动等没装可能会导致卡顿**
 
@@ -122,8 +122,9 @@ date: 2024-1-07
 
 
 ::: info 进入VS NETWORK菜单，开始联机
-**视频演示教程 👉**  [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)  
-**https://www.bilibili.com/video/BV1WM411f7CC**
+**视频演示教程 👉**  [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)  **https://www.bilibili.com/video/BV1WM411f7CC**
+
+**可使用大厅（配合 Swarm），也可以按 S 切换菜单，配合 QQ 群使用**
 
 ![可使用大厅，可配合 Swarm 一起使用](https://bu.dusays.com/2024/01/21/65accf9094f74.webp =600x)
 
