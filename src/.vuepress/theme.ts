@@ -14,6 +14,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
   logo: "/logo-navbar.webp",
+  //link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Mp-vWDZfrlFC4bRl3BBORRsmbx-i1L4n&authKey=43xVKaGVfMnGASzO7g9r6TgN2PTsmY0r%2F4w1K%2FZ1rVpDgw4GGlwWzp1Yz869HLQD&noverify=0&group_code=200803640",
   repo: "Tstar00/tstar00.github.io",
   //repo: "https://gitee.com/soku-cn/soku-cn",
   docsDir: "src",

@@ -76,7 +76,8 @@ date: 2024-01-07
 ![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
 
  
-::: info 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
+::: details 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
+
 ;################################################
 ; 在每行语句开头加英文分号，代表关闭插件，语句是绿色
 ; 在每行语句开头删英文分号，代表启用插件，语句是黑色
@@ -226,3 +227,4 @@ CharactersInForeground=modules/CharactersInForeground/CharactersInForeground.dll
 ;######################################################
 
 
+:::

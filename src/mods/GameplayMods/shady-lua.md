@@ -27,18 +27,18 @@ Github： https://github.com/enebe-nb/shady-packer/wiki/Tools-Lua
 我的压缩包内含有给的函数表
 
 使用给的函数编程，命名为  .lua 并在 shady-lua.ini 内添加对应路径即可
-以下为 shady-lua.ini 的内容
-
-[Scripts]
-marisa=marisa/marisa.lua
 
 详情可以下载查看和尝试体验
+
+::: details  以下为 shady-lua.ini 的内容
+```
+[Scripts]
+marisa=marisa/marisa.lua
+```
 :::
 
-::: info
-魔理沙示例是修改魔理沙走路速度为前进30，后退-25
-以下为 marisa.lua 的内容
-
+::: details 魔理沙示例是修改魔理沙走路速度为前进30，后退-25，以下为 marisa.lua 的内容
+```
 function marisaUpdate(character, actionId, data)
     if actionId == 4 then -- WALKING_FORWARD
         character:applyGroundMechanics()
@@ -62,7 +62,7 @@ function marisaInitialize(character, data)
 end
 
 battle.replaceCharacter(soku.Character.Marisa, marisaUpdate, marisaInitAction, marisaInitialize)
-
+```
 :::
 
 ::: tip 下载

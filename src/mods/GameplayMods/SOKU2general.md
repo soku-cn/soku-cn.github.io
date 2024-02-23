@@ -58,7 +58,11 @@ Discord 则2群   http://discord.gg/Bgxdcav
 **参考**  [**如何开关配置mod**](/mods/WhatsMod.html) **https://wiki.514.live/mods/WhatsMod.html**
 ::: warning
 
-**注意 SOKU2 和 MemoryPatchSOKU2FIX 两个要同步打开和关闭**
+==**注意 SOKU2 和 MemoryPatchSOKU2FIX 两个要同步打开和关闭**==
+::: caution
+一个是SOKU2.dll，这个可以正常开
+
+==一个是 SOKU2下划线.dll，这个不要开==
 :::
 
 <!-- >::: info 安装步骤3
