@@ -2,7 +2,8 @@
 home: true
 title: 主页
 icon: home
-heroImage: /logo-home.webp
+heroImage: /logo-home2.webp
+heroImageDark: /logo-home2-dark.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
