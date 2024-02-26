@@ -51,12 +51,12 @@ features:
     link: /mods/PracticeMods.html
 
   - title: 新手上路：对战前新人需知
-    icon: fa-solid fa-star
+    icon: book-open
     details: 
     link: /Beginners/BeforePlaying.html
 
   - title: 大厅常见问题、联机说明
-    icon: book
+    icon: fa-solid fa-star
     details: 
     link: /FAQ/Play/LobbyGuide.html
 

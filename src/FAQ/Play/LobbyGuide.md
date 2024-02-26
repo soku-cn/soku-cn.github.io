@@ -1,7 +1,7 @@
 ---
 title: 大厅常见问题(联机教程)
 # 标题
-icon: circle-info
+icon: fa-solid fa-star
 # 图标
 order: 1
 # 数字越小，文章左侧排序越靠上
@@ -73,7 +73,9 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号，然后保存并重开游戏
 
-![2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2024/01/21/65acb240ef91e.webp =400x)
+`大厅获取用户IP的网址，默认用第一个（http://www.sfml-dev.org/ip-provider.php），有问题了再用第二个（https://api-ipv4.ip.sb/ip）`
+
+![把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2024/01/21/65acb240ef91e.webp =400x)
 
 :::
 
