@@ -15,11 +15,9 @@ date: 2023-12-01
 
 ## **大厅内如何联机**
 
-::: tip 联机说明
+::: important 联机教程
 
-[**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)  **https://www.bilibili.com/video/BV1WM411f7CC**
-
-[**联机教程———大厅内使用 Swarm 联机 / IPV6 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+[**【联机教程———大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 :::
 
@@ -49,14 +47,10 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 ::: tip 解决办法
 
-**1、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。**   [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
-::: warning
-2、对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+1、对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+**解决办法：自己正确使用 swarm 建主，然后让他来进你**  [**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
-**解决办法：自己正确使用 swarm 建主，然后让他来进你**
-
-[**联机教程 ——— 大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-
+2、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。 [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
 
 :::
 

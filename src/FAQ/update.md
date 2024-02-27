@@ -15,11 +15,10 @@ date: 2024-01-14
 
 
 
-::: warning Win7 用户注意
-**Win7用户需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe**
+::: important 需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe
 
-[**.net 4.7.2下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
-**https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472**
+[**.Net 4.7.2 离线包 下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
+**https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer**
 
 ![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =300x)
 
@@ -29,7 +28,9 @@ date: 2024-01-14
 
 ::: tip SokuLauncher使用技巧
 
-**SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件，悬浮可以显示 mod 介绍**
+![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
+
+**右上角打开设置，模组页面，这里右键可以快捷打开各种 mod 的 ini 配置文件以及文件夹位置，鼠标悬浮可以显示 mod 介绍**
 
 ![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/21/65acc1d186370.webp =400x)
 

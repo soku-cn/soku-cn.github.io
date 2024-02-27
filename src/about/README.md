@@ -8,9 +8,6 @@ prev: false
 next: false
 ---
 
-::: tip
-[**SokuLauncher 更新器使用说明**](/FAQ/update.html)
-:::
 
 ## **一个关于「东方非想天则」的指南Wiki✨**
 
