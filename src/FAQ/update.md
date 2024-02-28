@@ -15,7 +15,7 @@ date: 2024-01-14
 
 
 
-::: important 需要下载安装 .net 4.7.2，否则会打不开更新器 SokuLauncher.exe
+::: important 需要下载安装 .Net 4.7.2，否则会打不开更新器 SokuLauncher.exe
 
 [**.Net 4.7.2 离线包 下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
 **https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer**
