@@ -63,9 +63,9 @@ date: 2023-08-01
 :::
 
 ## **Host建主和Trialmode创建连段包时报错**
+::: warning
 
 ![开启上传至对战列表后一按 HOST 就崩溃](https://bu.dusays.com/2024/01/21/65acb8e84cb60.webp =400x)
 
-::: warning
 **很有可能是你的机签带中文的问题，修改一下机签 profile 名字，不要带中文，只用英文字母+数字+字符**
 ::: 

@@ -16,14 +16,19 @@ date: 2023-12-01
 ## **大厅内如何联机**
 
 ::: important 联机教程
+👇 👇 👇 
 
 [**【联机教程———大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
+👆 👆 👆 
 :::
 
 
 
 ## **联机失败，显示红字报错**
+::: caution 联机失败，显示红字报错
+::: tabs
+@tab 情况一：双方版本不同
 ::: info 情况一：双方版本不同
 
 ![Giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
@@ -37,9 +42,8 @@ date: 2023-12-01
 Your version一行是你自己的版本，图中 GiuRoll 0.6-62FPS with SWR 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
 Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
 
-:::
-
-::: info 情况二：连接失败（网络不支持 AP，不能 UDP 打洞直连）
+@tab 情况二：没有正确使用 Swarm，且网络不支持 AP 打洞直连
+::: info 情况二：没有正确使用 Swarm，且网络不支持 AP，不能 UDP 打洞直连
 
 ![HTTP 400](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
 
@@ -52,8 +56,7 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 2、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。 [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
 
-:::
-
+@tab 情况三：弹窗“Failed to get public IP”
 ::: info 情况三：弹窗“Failed to get public IP”
 
 ![Failed to get public IP](https://bu.dusays.com/2024/01/21/65acb17f3c9bb.webp =300x)
@@ -63,7 +66,7 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 ::: tip 解决办法
 1、在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`
 
-![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp =400x)
+![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp =600x)
 
 2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号，然后保存并重开游戏
 
@@ -73,35 +76,15 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 :::
 
-<!-- 
-::: info 情况三：版本问题
-
-![检查游戏标题](https://bu.dusays.com/2023/09/28/65150454aa41f.png)
-
-![版本问题报错](https://bu.dusays.com/2023/08/06/64cf5aa78a42c.png =500x)
-
-联机时显示这种四行红字报错提示，意思是双方版本不一致
-Your version一行是你自己的版本，图中 GiuRoll with SWR 的意思是60F版本giuroll + 绯想天合体，
-Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是62F版本giuroll  + 绯想天合体
-
-with SWR就说明是和绯想天合体成功的；without SWR就说明是没和绯想天合体成功。
-
-检查并更新游戏版本，注意CN代表的62F，与不加CN的60F之间不能互相联机。
-
-**0.5.X系列和0.6.X系列之间不能互相联机。**
-::: -->
-
 ## **大厅内的操作**
-::: info
-- 默认是 Enter 回车 开关聊天框（可自定义热键），输入 /help 查看命令列表 
-  
-- 发表情   两个冒号中间夹着名字和数字  格式，如   :reimu1: （详见下图文件）
-
-- **Esc 退出大厅房间**
-  
-- **按住 A 加左右方向疾跑**
-  
-- 在电梯前按Z进入
+::: info 大厅内的操作
+- 默认是 `Enter 回车` 开关聊天框（**可自定义按键**）
+- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见下面第一个图）
+- **`Esc` 退出大厅房间**  
+- **按住`键盘 A` 加左右方向可以疾跑**  
+- 在电梯前按`键盘 Z` 进入
+- 不想自己打成就解锁，可以手动使用全开档（见下面第二个图）
+- 聊天框内输入 `/help` 查看全部命令列表 
 
 ![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
 
@@ -110,9 +93,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 :::
 
 ## **大厅内观战**
-::: info
-
-**不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战**
+::: info 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战
 
 ![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
 
@@ -120,26 +101,13 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 :::
 
-<!-- 
-::: info 大厅成就——预期完整版
-赢十局：解锁角色形象
-输十局：解锁吃瘪表情
-把所有必杀卡和SC卡都用一遍：解锁角色形象的其他配色
-玩十局：解锁头衔称号 title（待更新）
-玩一百局：解锁accesory配饰（待更新）
-玩一千局：解锁背景（待更新）
-隐藏彩蛋：解锁恋恋等其他角色形象
-::: 
--->
-
 ## **进入大厅时弹窗报错，无法进入**
 
 ![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
 
 ::: info  解决办法
 
-看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，
-删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可**
 
 ![如图改名替换文件，将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`](https://bu.dusays.com/2024/01/21/65acb3d6926a3.webp =700x)
 :::
@@ -148,8 +116,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ::: info 解决办法
 
-看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，
-删除你的 `settings.dat` 文件
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的 `settings.dat` 文件**
 
 ![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
 
@@ -160,38 +127,18 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 ![大厅房间进不去，卡加载loading，Unknown exception报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
 
 ::: info 
-**情况1：** 大厅主服务器炸了，**按 S 可以切换回原版菜单**，等待 法国作者PinkySmile 重启主服务器
+**情况1：** 大厅主服务器炸了，==**按 S 可以切换回原版菜单**==，等待重启主服务器
 
-**情况2：** 自己偶尔卡了或者断网了，让他等一会儿或者回到主菜单重进
+**情况2：** 试试重进看看，可能你自己断网了
 
-::: tip
-**按 S 可以来回切换原版菜单，不要傻等着**
 :::
-
-<!--
-## **点创建大厅提示这个是什么意思**
-
-![](https://bu.dusays.com/2023/08/08/64d233d146e89.png)
-
-::: warning
-**玩家请点加入大厅**
-创建大厅需要公网IP，使用文件夹内的RunServer.bat
-:::
-
-
-## **这个报错弹窗是什么意思，我被踢出房间了**
-![](https://bu.dusays.com/2023/08/06/64cf58d497d26.png =300x)
-::: info
-这个正常，也没办法，冷不丁抽风来一下，被踢就算了，过会儿等他刷新再进就是了。
-:::
-
--->
 
 ## **选人界面这个对话框怎么关掉**
-![选人界面对话框](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =500x)
-
-
 ::: info
+
+![](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =500x)
+
+
 选人界面会显示不会消失，不用理它，选完地图进入对战就会消失了
 
 如果会键入打字，那就按ESC或者回车把字输出就行了，然后就不会再打字了。
@@ -203,17 +150,17 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 ::: info 解决办法
 
-![双击这个 bat 就可以清除所有 th123.exe 游戏进程](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
+**双击这个 bat 就可以清除所有 `th123.exe` 游戏进程**
 
-这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中
+![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
+
+**这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中**
 
 :::
 
 ## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡**
 
-::: warning
-现在碰到有个别人会遇到这种情况
-
+::: caution 现在碰到有个别人会遇到这种情况
 
 **尝试一：如果你有独显，尝试使用独显运行游戏（百度）**
 
@@ -221,6 +168,7 @@ with SWR就说明是和绯想天合体成功的；without SWR就说明是没和�
 
 **尝试三：没有独显，试试更新或者回滚显卡驱动**
 
-**都不行的话，那就在 swrstoys.ini 总配置文件里把 大厅mod 关掉吧**
+**都不行的话，那就 总配置文件 里把 大厅mod 关掉吧** [**如何开关配置 mod**](https://soku-cn.gitee.io/mods/WhatsMod.html)
+
 :::
 
