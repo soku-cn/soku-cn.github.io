@@ -24,7 +24,7 @@ date: 2023-12-08
 
 部分**笔记本键盘**按热键无效的话，请检查是否有**Fn锁定**
 
-[**跳转链接 【百度搜索“Fn锁定”】**](https://www.baidu.com/s?ie=UTF-8&wd=Fn%E9%94%81%E5%AE%9A)
+[**百度搜索“Fn锁定”**](https://www.baidu.com/s?ie=UTF-8&wd=Fn%E9%94%81%E5%AE%9A)
 
 一般按 Fn+ESC 或者 Fn+空格 可以解除锁定，或者按 Fn+F2，Fn+F3 来使用热键
 :::

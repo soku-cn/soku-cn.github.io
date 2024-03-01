@@ -31,7 +31,7 @@ date: 2023-12-01
 @tab 情况一：双方版本不同
 ::: info 情况一：双方版本不同
 
-![Giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
+![giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
 ![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2024/01/21/65accc0205ba1.png =300x)
 
@@ -39,8 +39,8 @@ date: 2023-12-01
 **请注意大厅界面的公告，及时更新**
 
 联机时显示这种四行红字报错提示，意思是双方版本不一致
-Your version一行是你自己的版本，图中 GiuRoll 0.6-62FPS with SWR 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
-Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
+Your version一行是你自己的版本，图中 `GiuRoll 0.6-62FPS with SWR` 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
+Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
 
 @tab 情况二：没有正确使用 Swarm，且网络不支持 AP 打洞直连
 ::: info 情况二：没有正确使用 Swarm，且网络不支持 AP，不能 UDP 打洞直连
@@ -52,7 +52,7 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 ::: tip 解决办法
 
 1、对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
-**解决办法：自己正确使用 swarm 建主，然后让他来进你**  [**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+**解决办法：自己正确使用 swarm 建主，然后让他来进你**   [**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 2、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。 [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
 
@@ -122,11 +122,11 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 :::
 
-## **大厅房间进不去，卡加载loading，"Unknown exception"报错**
+## **大厅房间进不去，卡加载，"Unknown exception"报错**
 
-![大厅房间进不去，卡加载loading，Unknown exception报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
+![大厅房间进不去，卡加载，"Unknown exception"报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
 
-::: info 
+::: info 发生甚么事了
 **情况1：** 大厅主服务器炸了，==**按 S 可以切换回原版菜单**==，等待重启主服务器
 
 **情况2：** 试试重进看看，可能你自己断网了
@@ -150,11 +150,11 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 ::: info 解决办法
 
+**这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中**
+
 **双击这个 bat 就可以清除所有 `th123.exe` 游戏进程**
 
 ![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
-
-**这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中**
 
 :::
 
@@ -168,7 +168,7 @@ Their version一行是对方的版本，图中GiuRoll-62FPS with SWR的意思是
 
 **尝试三：没有独显，试试更新或者回滚显卡驱动**
 
-**都不行的话，那就 总配置文件 里把 大厅mod 关掉吧** [**如何开关配置 mod**](https://soku-cn.gitee.io/mods/WhatsMod.html)
+**都不行的话，那就 总配置文件 里把 大厅mod 关掉吧** [**如何开关配置 mod**](/mods/WhatsMod.html)
 
 :::
 
