@@ -1,5 +1,5 @@
 ---
-title: 制作角色改色和导入
+title: 制作角色改色和导入游戏
 # 标题
 icon: circle-info
 # 图标
@@ -13,12 +13,93 @@ date: 2023-09-04
 #文章编辑日期
 ---
 
-## 1.下载 FramedataEditor（FDE）编辑器并使用改色功能
+## 1.将已经制作好的角色皮肤改色 .pal 文件导入游戏
 
-::: info
-[**下载链接传送门**](/about/#非想天则资源下载指路) 
+> [!info]
+> ::: tabs
+> @tab Shady-loader法（推荐）
+> ::: tip Shady-loader法（推荐）
+> **将 pal 文件按规则命名，`data_character_对应角色的名字_palette00X.pal`**
+>
+> **如果我们想设置其为瓜的第一个配色，那么对应角色的名字中，瓜就是 `suika`==（见下方附录）==`，palette00X`中的`X`取值为`0-7`，一共八个配色位**
+> 
+> **最终我们得到 `data_character_suika_palette000.pal`**
+> 
+> **然后把这个 pal 文件直接打包成 zip 包 ==（不要包含文件夹）==，放入 `shady-loader` 文件夹内，在游戏主菜单按 F2 菜单加载即可**
+> 
+> [**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
+> 
+> @tab Palette-picker法
+> ::: tip Palette-picker法
+> [**Mod说明：改色管理 - palette-picker**](mods/AdvancedMods/palette-picker.html)
+> 
+> ![Palette-picker使用效果如图](https://bu.dusays.com/2024/01/21/65acddebbe890.webp =400x)
+> 
+> @tab th123c.dat 解包封包古法
+> ::: tip th123c.dat 解包封包古法
+> 新则不需要这种方法，1.10 版本不能使用插件，需要这种方法
+> 
+> 没什么好说的，偷梁换柱即可
+> 
+> @tab data文件夹法（不推荐）
+> ::: tip data文件夹法（不推荐）
+> 在 `MemoryPatch` 里启用了 `FileSystemFirst` 后 ==**（警告：开启可能会增长游戏加载时间，即使你没有通过它加载任何东西）**==
+> 
+> 在 `th123` 文件夹内新建文件夹命名为 `data，继续在` `data` 文件夹里面新建 `character` 文件夹，再继续创建如图的角色名文件夹，
+> 
+> 将得到的 **513 字节** `palette000.pal` 文件放入角色名文件夹内 ==（见下方附录）==，然后返回游戏主菜单，再进入选人界面即可。**> （支持热更新，每次回主菜单再进来选人界面就可以重新刷新读取，不需要重开游戏）**
+> 
+> **把 `data` 文件夹或者 `character` 文件夹之类的改个名，即可破坏这种导入方式以取消导入**
+> 
+> ![成品就这样，注意路径文件夹角色名是否正确，pal文件命名格式是否正确，是否是游戏和编辑器可以读取的格式](https://bu.dusays.com/> 2023/09/13/6500902380b28.png =800x)
+> 
+> 
+> - `palette000.pal` 对应 **第一个** 配色位
+> - `palette001.pal` 对应 **第二个** 配色位
+> - ...
+> - `palette007.pal` 对应 **第八个也就是最后一个** 配色位
+> 
+> ::: important 举个例子吧
+> 
+> 
+> **需求：我想要将 `黑白瓜.pal` 这个配色放到瓜的`第一个配色位`上**
+> 
+> **步骤：**
+> 1. **在 `th123` 文件夹内新建文件夹，取名为 `data`**
+> 2. **在这个 `data` 文件夹内新建文件夹，取名为 `character`**
+> 3. **在 `character` 文件夹内新建文件夹，取名就是对应角色的名字，瓜就是 `suika`==（见下方附录）==**
+> 4. **将 `黑白瓜.pal` 文件移动到这个对应角色的名字的文件夹内**
+> 5. **将 `黑白瓜.pal` 文件名改为 `palette000.pal`（000就是第一个）**
+> 6. **游戏不用关，回到主菜单，重新进练习模式选人即可**
+> :::
+> ::: details 对应角色的名字（附录）
+> ::: note 对应角色的名字
+> 1. alice
+> 1. aya
+> 1. chirno
+> 1. iku
+> 1. komachi
+> 1. marisa
+> 1. meirin
+> 1. patchouli
+> 1. reimu
+> 1. remilia
+> 1. sakuya
+> 1. sanae
+> 1. suika
+> 1. suwako
+> 1. tenshi
+> 1. udonge
+> 1. utsuho
+> 1. youmu
+> 1. yukari
+> 1. yuyuko
+> :::
 
-**压缩包内有简单操作说明**
+## 2.自己使用编辑器制作角色皮肤改色
+
+::: info 下载 FramedataEditor（FDE）编辑器并使用改色功能
+[**下载链接传送门，压缩包内有简单操作说明**](/about/#非想天则资源下载指路) 
 
 
 ![下载mod工具](https://bu.dusays.com/2024/01/21/65acdd09285ee.webp =320x)
@@ -27,9 +108,8 @@ date: 2023-09-04
 **首次打开会提示选择游戏 th123c.dat 数据位置**
 
 **注意需要将游戏路径（文件夹名称）改为全英文，否则会报错**
-:::
-
-::: info FrameDataEditor 操作说明
+::: details FrameDataEditor 编辑器操作说明
+::: info FrameDataEditor 编辑器操作说明
 
 左上角，先导入角色： File > import > framedata > from game package
 
@@ -51,62 +131,8 @@ date: 2023-09-04
 ![导入进游戏内的效果](https://bu.dusays.com/2024/01/21/65acdf265b777.webp =400x)
 :::
 
-## 2.将改好的配色 pal 文件导入游戏内使用
 
-<!-- >::: info data文件夹法
-在 MemoryPatch 里启用了 FileSystemFirst 后（默认启用，可以不必检查）
-
-在 th123 文件夹内新建文件夹命名为 data，继续在 data 文件夹里面新建 character 文件夹，再继续创建如图的角色名文件夹，
-
-将得到的 **513 字节** palette000.pal 文件放入角色名文件夹内，然后返回游戏主菜单，再进入选人界面即可。
-**（支持热更新，每次回主菜单再进来选人界面就可以重新刷新读取，不需要重开游戏）**
-
-![角色名文件夹，注意易错名](https://bu.dusays.com/2023/09/05/64f68ee665473.png =200x)
-
-**把 data 文件夹或者 character 文件夹之类的改个名，即可破坏（取消）这种导入方式**
-
-![成品就这样](https://bu.dusays.com/2023/09/13/6500902380b28.png =800x)
-
-::: tip 举个例子吧
-
-palette**000**.pal 对应 **第一个** 配色位
-palette**001**.pal 对应 **第二个** 配色位
-palette**007**.pal 对应 **第八个也就是最后一个** 配色位
-
-**下面是实操案例：**
-
-**需求：我想要将 V-紲星灯.pal 这个配色放到兔子的 第三个 配色位上**
-
-步骤：
-1. **创建 th123/data/character/udonge/ 这个目录**
-2. **将 V-紲星灯.pal 文件移动到这个目录**
-3. **修改 V-紲星灯.pal 文件名为 palette002.pal**
-4. **游戏不用关，回到主菜单，重新进练习模式选人即可**
-
-
-::: -->
-
-::: info Shady-loader法
-**将 pal 文件按规则命名，如 `data_character_reimu_palette000.pal`**
-
-**然后打包成 zip 包，放入 shady-loader 文件夹内，F2 菜单加载即可**
-
-[**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
-:::
-
-::: info Palette-picker法
-[**Mod说明：改色管理 - palette-picker**](mods/AdvancedMods/palette-picker.html)
-
-![Palette-picker使用效果如图](https://bu.dusays.com/2024/01/21/65acddebbe890.webp =400x)
-:::
-
-::: info 解包封包古法
-新则不需要这种方法，1.10 版本不能使用插件，需要这种方法
-
-没什么好说的，偷梁换柱即可
-:::
-
-## 3.将前人使用老工具“绯色二”制作的配色 pal 导入游戏和编辑器
+## 3.将前人使用老工具“绯色二”制作的皮肤配色 .pal 文件转化格式以导入游戏和编辑器
 
 ::: info
 如果pal文件是显示 **1.02KB（Alt+双击 或者 右键-属性，查看文件大小）** 的，则是使用老工具“绯色二”制作的**未转化格式**，可继续在“绯色二”上编辑，不能导入FDE编辑，也不能直接导入游戏
@@ -115,22 +141,21 @@ palette**007**.pal 对应 **第八个也就是最后一个** 配色位
 
 **用法是将未转化的pal文件拖入其上**，转化后的文件可以导入FDE编辑，也可以导入游戏内使用
 
-![mod工具](https://bu.dusays.com/2024/01/21/65acde798a53f.webp =400x)
+![新工具 Shady-Packer](https://bu.dusays.com/2024/03/01/65e158e8763d5.png =400x)
 :::
 
 ## 4.convpal-true 转化工具和 true-color-palettes 的插件可搭配制作带透明度的配色
 
 ::: info
-目前有一个半透明妖梦的成品，转化后也是 1KB大小（右键-属性，查看文件大小）
+上面的新工具 Shady-Packer 内有一个半透明妖梦的成品，是转化后的格式，也是 1KB大小
 
-**应该是可以实现全透明或者半透明之类的效果**（我暂时还不会制作，但是可以去问到，如果有人想做的话可以在mod群里 call 我，我再去问问看怎么做）
-
+我暂时还不会制作，但是可以去问，如果有人想做的话可以在mod群里 call 我，我再去问问看怎么做
 
 ![半透明妖梦配色](https://bu.dusays.com/2024/01/21/65acde92efe8b.webp =200x)
 
 ![半透明妖梦配色2](https://bu.dusays.com/2024/01/21/65acdeda97f8c.webp =500x)
 
-::: warning
+::: warning 已知问题
 
-【已知问题：不能通过 Palette-picker 法加载透明配色】
+- **无法通过 Palette-picker 法加载透明配色**
 :::
