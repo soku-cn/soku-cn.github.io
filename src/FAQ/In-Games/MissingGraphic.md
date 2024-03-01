@@ -36,7 +36,7 @@ CPU：Intel® 12th Gen Core i7-12700H  （首次出现时间 2022-11）
 核显：Intel® Iris® Xe Graphics
 
 CPU：Intel® N95 x86 Family 6 Model 14 Stepping 0  （首次出现时间 2023-02）
-核显：lntel® UHD Graphics
+核显：Intel® UHD Graphics
 
 ![像这种新的硬件设备，最低的驱动都没办法](https://bu.dusays.com/2024/01/21/65acc4f46c201.webp =600x)
 

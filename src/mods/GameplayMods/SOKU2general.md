@@ -37,32 +37,32 @@ Discord 则2群   http://discord.gg/Bgxdcav
 :::
 
 ## **则2 MOD安装四步骤**
-::: info 安装步骤1
+::: info 安装步骤1-下载
 在已经下载了新则的前提下，在网盘或者QQ群文件内下载则2的资源包
 :::
 
-![2023-7-24目前最新版本是2.30版本，不同版本间不能联机](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png =500x)
+![2023-7-24目前最新版本是2.30版本，不同版本间联机会有问题](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png =500x)
 
 
 
 
-::: info 安装步骤2
-将里面的 SOKU2 和 MemoryPatchSOKU2FIX 两个文件夹放入 th123/modules 内
+::: info 安装步骤2-解压
+将里面的 `SOKU2` 和 `MemoryPatchSOKU2FIX` 两个文件夹放入 `th123/modules` 内
 :::
 
 ![两个文件夹](https://bu.dusays.com/2023/08/20/64e21c1e761c8.png =750x)
 
 
 
-::: info 安装步骤3
+::: info 安装步骤3-启用mod
 **参考**  [**如何开关配置mod**](/mods/WhatsMod.html) **https://wiki.514.live/mods/WhatsMod.html**
 ::: warning
 
 ==**注意 SOKU2 和 MemoryPatchSOKU2FIX 两个要同步打开和关闭**==
-::: caution
-一个是SOKU2.dll，这个可以正常开
+::: caution 不要选错成下划线的或者两个都开了
+**一个是SOKU2.dll，这个可以正常开**
 
-==一个是 SOKU2下划线.dll，这个不要开==
+==**一个是 SOKU2_.dll，这个带了个下划线，这个不要开**==
 :::
 
 <!-- >::: info 安装步骤3
@@ -80,7 +80,7 @@ Discord 则2群   http://discord.gg/Bgxdcav
 
 ![错误示范](https://bu.dusays.com/2023/08/20/64e21c51059fa.png =640x) -->
 
-::: info 安装步骤4
+::: info 安装步骤4-汉化（可选）
 **下载则2的汉化包，不要解压，直接把zip文件放到 `th123/modules/Shady-loader`文件夹内，然后在游戏内按F2启用**
 
 [**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
@@ -91,8 +91,8 @@ Discord 则2群   http://discord.gg/Bgxdcav
 
 :::
 
-## **注意Touhoumon这个选人菜单mod和则2会冲突**
+::: warning 注意Touhoumon这个选人菜单mod和则2会冲突
 
 ![注意Touhoumon这个选人菜单mod和则2会冲突](https://bu.dusays.com/2024/01/21/65ace045c26e1.webp =400x)
 
-
+:::
