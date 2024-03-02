@@ -13,21 +13,22 @@ author: 三回転Tstar
 date: 2024-01-07
 #文章编辑日期
 ---
-
-::: info 方式一，SokuLauncher启动器
-
-**在更新器内修改，记得点右上角保存**
+::: info 如何开关配置mod
+::: tabs
+@tab 方式一：SokuLauncher启动器
+::: tip 方式一：SokuLauncher启动器
 
 ![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
 
+**在更新器内修改，记得==点右上角保存==**
+
 ![记得点右上角保存](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp =300x)
 
-:::
+@tab 方式二：游戏内D菜单
+::: tip 方式二：游戏内D菜单
 
-::: info 方式二，游戏内D菜单
 
-
-**“12-8 版本”后使用ModLoader（d3d9-loader-debug.dll），则 SWRStoys.ini 作废，而是使用 ModLoaderSettings.json 文件**
+**“12-8 版本”后使用ModLoader（`d3d9-loader-debug.dll`），则 `SWRStoys.ini` 作废，而是使用 `ModLoaderSettings.json` 文件**
 
 **主菜单里按D，有修改mod配置的菜单，也有添加新mod的选项**
 
@@ -35,12 +36,14 @@ date: 2024-01-07
 
 ![](https://bu.dusays.com/2024/01/21/65acece85cf42.webp =300x)
 
-:::
+@tab 方式三：直接修改配置文件ModLoaderSettings.json
+::: tip 方式三：直接修改配置文件ModLoaderSettings.json
 
-::: info 方式三、直接修改配置文件
-若 th123 文件夹内存在 ModLoaderSettings.json 文件，则根据此文件为配置，忽略 SWRSToys.ini 的内容
+**“12-8 版本”后使用ModLoader（`d3d9-loader-debug.dll`），则 `SWRStoys.ini` 作废，而是使用 `ModLoaderSettings.json` 文件**
 
-若不存在 ModLoaderSettings.json 文件，则根据 SWRSToys.ini 内的文件，生成一份 ModLoaderSettings.json 文件，再根据此文件为配置
+若 th123 文件夹内的 `d3d9.dll` 文件大小为 `687KB` 且存在 `ModLoaderSettings.json` 文件，则根据此文件为配置，忽略 `SWRSToys.ini` 的内容，若不存在 `ModLoaderSettings.json` 文件，则根据 `SWRSToys.ini` 内的内容生成一份 `ModLoaderSettings.json` 文件，再根据此文件为配置
+
+若 th123 文件夹内的 `d3d9.dll` 文件大小为 `99KB`，则根据 `SWRSToys.ini` 内的内容作为配置，忽略 `ModLoaderSettings.json` 文件
 
 ![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =400x)
 
@@ -51,6 +54,13 @@ date: 2024-01-07
 ![不小心搞砸了的话，点击这里就可以恢复默认了。 【 恢复默认 SWRStoys 配置 】.bat](https://bu.dusays.com/2024/02/18/65d1d3683f7a8.png =750x)
 
 :::
+
+::: warning 如果你是使用启动器，注意组合启动项会强制开启或关闭部分mod
+
+![](https://bu.dusays.com/2024/03/02/65e3167068c34.png =500x)
+
+:::
+
 
 ::: tip  进一步设置mod，自定义按键和开关功能等
 
@@ -63,7 +73,7 @@ date: 2024-01-07
 
 :::
 
-
+::: details 什么是 SWRSToys 插件
 ::: info 什么是 SWRSToys 插件
 **SWRSToys 的 Github 项目仓库**  https://github.com/SokuDev/SokuMods/
 
@@ -71,10 +81,9 @@ date: 2024-01-07
 
 我的mod群200803640
 欢迎对mod感兴趣，有疑问需要帮助的朋友。
-:::
 
 ![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
-
+:::
  
 ::: details 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
 
