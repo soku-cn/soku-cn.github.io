@@ -14,7 +14,7 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-## **什么是UnlimitedMod**
+## **什么是 Unlimited Mod**
 ::: warning
 **这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
 
@@ -32,13 +32,11 @@ Unlimited 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Tessiro#The_S
 NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSoku
 :::
 
-![](https://bu.dusays.com/2023/08/24/64e701d52032c.gif)
+![](https://bu.dusays.com/2023/08/24/64e701d52032c.gif =320x) ![](https://bu.dusays.com/2023/08/24/64e702fc06592.gif =320x)
 
-![](https://bu.dusays.com/2023/08/24/64e702fc06592.gif =329x)
+## **安装与使用 Unlimited Mod**
 
-## **安装与使用UnlimitedMod**
-
-::: info 启用MOD方法：
+::: info 启用 MOD 方法
 - NextSokuLauncher.exe 放到和th123.exe同目录，
 - NextSoku文件夹放到th123/modules文件夹内，
 - 在SWRSToys.ini中添加语句 `NextSoku=Modules/NextSoku/NextSoku.dll`
@@ -57,11 +55,15 @@ NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSok
 **把 shady-loader 和 SOKU2 禁用，否则会有问题**
 
 NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
-:::
 
 ![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://bu.dusays.com/2023/08/20/64e21c9299e26.png =550x)
 
-## **mod详细修改说明(版本 3.65)**
+:::
+
+
+## **Unlimited mod详细修改说明(版本 3.65)**
+::: details Unlimited mod详细修改说明(版本 3.65)
+::: info Unlimited mod详细修改说明(版本 3.65)
 ### **总体修改**
 - 取消 Limit 出圈限制
 - 取消 Smash / Lift / 必杀取消 / SC取消 等伤害修正，虽然伤害面板上依然会显示，但是实际上没有进行伤害修正
@@ -393,6 +395,10 @@ NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
 - 
 **==== SC符卡 ====**
 - 
+
+
+:::
+
 
 ### 英文说明原文
 ::: details 英文说明原文
