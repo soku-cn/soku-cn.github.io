@@ -394,7 +394,8 @@ NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
 **==== SC符卡 ====**
 - 
 
-
+### 英文说明原文
+::: details 英文说明原文
 ::: info 英文说明原文
 = Changelist =
 Current version: Soku Unlimited ver. 3.6.5
