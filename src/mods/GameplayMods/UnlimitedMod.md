@@ -14,51 +14,41 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-## **什么是 Unlimited Mod**
 ::: warning
 **这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
 
 **注意，此 mod 需要双方一起使用且版本相同**
 :::
-
-::: info
-
-【游玩视频】  https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
-【资源下载】  https://wiki.514.live/guide/#网盘
-
-视频简介评论区里有一些改动说明，后续有空再做完整的changelog翻译吧。
-在 ``th123\Modules\NextSoku\modset\unlimited\doc`` 文件夹内有对应的英文文档 summary.txt 是MOD的改动介绍
-Unlimited 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Tessiro#The_Soku_Instrumentality_Project
-NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSoku
+::: tip 下载
+**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
 :::
+::: info 试玩视频
+[非想天则 Unlimited MOD 浅玩一下 紫和西瓜 (20220423 录播)](https://www.bilibili.com/video/BV1a5411m7Wy/)  
+https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
 
-![](https://bu.dusays.com/2023/08/24/64e701d52032c.gif =320x) ![](https://bu.dusays.com/2023/08/24/64e702fc06592.gif =320x)
-
-## **安装与使用 Unlimited Mod**
-
-::: info 启用 MOD 方法
-- NextSokuLauncher.exe 放到和th123.exe同目录，
-- NextSoku文件夹放到th123/modules文件夹内，
-- 在SWRSToys.ini中添加语句 `NextSoku=Modules/NextSoku/NextSoku.dll`
-**并把 shady-loader 和 SOKU2 禁用，否则会有问题**
-- 保存，打开NextSokuLauncher.exe就可以选择改版了，注意联机的话俩人版本要一样
-- 在启动器页面选择第四项 Unlimited ，右上方可选择机签，下边的几个勾选项有开R和英文版，**都不要勾选！**
-- 启动成功的话，游戏标题栏会多一个[Unlimited 3.6.5] （开了giuroll的话会一闪而过）
-
-**要切换回正常游戏只需要再打开SWRStoys配置文件，将Nextsoku前的分号加回去并保存就OK**
+.　　　　![](https://bu.dusays.com/2023/08/24/64e701d52032c.gif =380x) 　　![](https://bu.dusays.com/2023/08/24/64e702fc06592.gif =380x)
 :::
 
 
-::: warning
-**注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod**
+::: info 安装与使用 Unlimited Mod
+1、 `NextSokuLauncher.exe` 放到和 `th123.exe` 同目录，
+2、 `NextSoku文件夹` 放到`th123/modules`文件夹内，
+3、 接着把 `NextSoku.dll` 这个 mod 启用，==**并把 SOKU2 禁用，否则会有问题**==
 
-**把 shady-loader 和 SOKU2 禁用，否则会有问题**
+[**如何开关配置mod**](/mods/WhatsMod.html) 
 
-NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
+4、 开启mod后保存配置，==不要直接启动游戏==，打开`NextSokuLauncher.exe`在页面选择最下面那项 Unlimited ，右上方可选择机签，==**右下方 Options 的三个框全都不要勾选！**==
 
 ![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://bu.dusays.com/2023/08/20/64e21c9299e26.png =550x)
 
+5、 启动成功的话，游戏标题栏会多一个[Unlimited 3.6.5] （开了giuroll的话会一闪而过）
+6、 **要切换回正常游戏只需要把 `NextSoku.dll` 这个 mod 禁用并用平常的方式启动游戏就OK**
+
+:::  warning
+NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
+
 :::
+
 
 
 ## **Unlimited mod详细修改说明(版本 3.65)**
@@ -400,9 +390,15 @@ NextSokuLauncher.exe 打不开的话，先检查 DX 修复和 C++ 组件修复
 :::
 
 
-### 英文说明原文
+## 英文说明原文
 ::: details 英文说明原文
 ::: info 英文说明原文
+
+
+Unlimited 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Tessiro#The_Soku_Instrumentality_Project
+
+NextSoku 英文Wiki说明: https://hisouten.koumakan.jp/wiki/User:Yumeko/NextSoku
+
 = Changelist =
 Current version: Soku Unlimited ver. 3.6.5
 

@@ -101,6 +101,17 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 :::
 
+## **非中文系统开游戏时弹窗 Sokulobby Eoor**
+::: info 非中文系统开游戏时弹窗 Sokulobby Eoor
+![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
+::: tip 解决方法
+
+**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
+
+**或者区域设置换回中文**
+
+:::
+
 ## **进入大厅时弹窗报错，无法进入**
 
 ![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
