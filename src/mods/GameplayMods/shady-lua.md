@@ -16,6 +16,9 @@ date: 2024-01-11
 
 ::: warning
 **注意，此 mod 需要双方一起使用且版本相同**
+
+**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+
 :::
 
 ::: info 内容介绍
@@ -29,13 +32,6 @@ Github： https://github.com/enebe-nb/shady-packer/wiki/Tools-Lua
 使用给的函数编程，命名为  .lua 并在 shady-lua.ini 内添加对应路径即可
 
 详情可以下载查看和尝试体验
-
-::: details  以下为 shady-lua.ini 的内容
-```
-[Scripts]
-marisa=marisa/marisa.lua
-```
-:::
 
 ::: details 魔理沙示例是修改魔理沙走路速度为前进30，后退-25，以下为 marisa.lua 的内容
 ```
