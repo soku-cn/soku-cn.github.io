@@ -40,6 +40,7 @@ date: 2023-12-01
 
 **解决办法：**
 **自己开好 Swarm，然后进不去别人的时候，自己立马原地建主，然后别人进自己就可以进来了。**   
+
 [**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 
@@ -89,8 +90,6 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 - 聊天框内输入 `/help` 查看全部命令列表 
 
 ![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
-
-![全开档，改名替换。替换全开档后不能查看成就选项 gif](https://bu.dusays.com/2024/01/21/65acf4915243c.gif =400x)
 
 :::
 

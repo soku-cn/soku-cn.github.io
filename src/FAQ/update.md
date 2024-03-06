@@ -20,17 +20,15 @@ date: 2024-01-14
 [**.Net 4.7.2 离线包 下载链接**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
 **https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer**
 
-![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =300x)
-
-![Win7报错如图2](https://bu.dusays.com/2024/01/21/65acc13e4e0dd.webp =300x)
+![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =450x)
 
 :::
 
 ::: tip SokuLauncher使用技巧
 
-![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
-
 **右上角最左边的下载按钮，可以检测下载新发布的未安装的 mod**
+
+![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
 
 **右上角打开设置，模组页面，这里右键可以快捷打开各种 mod 的 ini 配置文件以及文件夹位置，鼠标悬浮可以显示 mod 介绍**
 
