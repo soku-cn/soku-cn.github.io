@@ -15,12 +15,10 @@ date: 2023-12-01
 
 ## **大厅内如何联机**
 
-::: important 联机教程
-👇 👇 👇 
+::: important 联机教程 👇 👇 👇 
 
 [**【联机教程———大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
-👆 👆 👆 
 :::
 
 
@@ -28,8 +26,25 @@ date: 2023-12-01
 ## **联机失败，显示红字报错**
 ::: caution 联机失败，显示红字报错
 ::: tabs
-@tab 情况一：双方版本不同
-::: info 情况一：双方版本不同
+
+@tab 情况一：没有正确使用 Swarm，且网络不支持 AP 打洞直连
+::: info 情况一：没有正确使用 Swarm，且网络不支持 AP，不能 UDP 打洞直连
+
+![HTTP 400](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
+
+![连接失败](https://bu.dusays.com/2024/02/21/65d5783ecd429.png =400x)
+
+::: tip 对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+
+
+
+**解决办法：**
+**自己开好 Swarm，然后进不去别人的时候，自己立马原地建主，然后别人进自己就可以进来了。**   
+[**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+
+
+@tab 情况二：双方版本不同
+::: info 情况二：双方版本不同
 
 ![giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
@@ -42,19 +57,6 @@ date: 2023-12-01
 Your version一行是你自己的版本，图中 `GiuRoll 0.6-62FPS with SWR` 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
 Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
 
-@tab 情况二：没有正确使用 Swarm，且网络不支持 AP 打洞直连
-::: info 情况二：没有正确使用 Swarm，且网络不支持 AP，不能 UDP 打洞直连
-
-![HTTP 400](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
-
-![连接失败](https://bu.dusays.com/2024/02/21/65d5783ecd429.png =400x)
-
-::: tip 解决办法
-
-1、对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
-**解决办法：自己正确使用 swarm 建主，然后让他来进你**   [**【联机教程 ——— 大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-
-2、自己先检测 AP，如果是支持那可能是偶尔卡了，可以再尝试连几次。 [**【如何进行检测？为什么我不支持AP？】**](/FAQ/Play/AP_NOT_Supported.html)
 
 @tab 情况三：弹窗“Failed to get public IP”
 ::: info 情况三：弹窗“Failed to get public IP”
