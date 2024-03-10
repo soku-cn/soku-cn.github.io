@@ -15,7 +15,7 @@ date: 2024-1-07
 ### 首先，注意检查游戏更新 
 ::: info 首先，注意检查游戏更新 
 
-[**SokuLauncher 更新器使用说明————传送门**](/FAQ/update.html)
+[**SokuLauncher 更新器使用说明**](/FAQ/update.html)
 
 ![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2024/01/21/65accc0205ba1.png =300x)
 

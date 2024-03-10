@@ -18,6 +18,8 @@ date: 2024-01-07
 @tab 方式一：SokuLauncher启动器
 ::: tip 方式一：SokuLauncher启动器
 
+[**SokuLauncher 更新器使用说明**](/FAQ/update.html)
+
 ![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
 
 **右上角最左边的下载按钮，可以检测下载新发布的未安装的 mod**
