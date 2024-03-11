@@ -58,6 +58,8 @@ date: 2023-12-01
 Your version一行是你自己的版本，图中 `GiuRoll 0.6-62FPS with SWR` 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
 Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
 
+合体绯想天配置错误的话，也会出现连接不上的情况的，检查 `th123文件夹` 里的 `configex123.ini` 配置文件
+
 
 @tab 情况三：弹窗“Failed to get public IP”
 ::: info 情况三：弹窗“Failed to get public IP”
