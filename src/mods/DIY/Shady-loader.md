@@ -15,11 +15,13 @@ date: 2023-09-04
 
 
 ::: info 使用 Shady-loader 将下载来的素材美化包导入游戏内
+
 ![将下载来的或自己打包好的 zip 包放入这里 `th123/modules/shady-loader`](https://bu.dusays.com/2024/01/21/65acdc2ceabbb.webp =800x)
 
-![zip 压缩包内应该是这个样子，不用解压，注意压缩包里面不要有文件夹](https://bu.dusays.com/2024/01/21/65acdc4ecc467.webp =800x)
+![zip 压缩包内应该是这个样子，不用解压，**注意压缩包里面不要有文件夹**](https://bu.dusays.com/2024/01/21/65acdc4ecc467.webp =800x)
+
 ::: tip
-**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可**
+**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可** （包含图片的文件夹也可以，注意不要多嵌套了文件夹）
 
 **如果是变红了，说明存在修改冲突，有其他mod包已经修改了其中某些文件，需要解决冲突**
 :::
