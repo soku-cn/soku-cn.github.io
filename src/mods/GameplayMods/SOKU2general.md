@@ -37,6 +37,10 @@ date: 2023-08-01
 :::
 
 ## **则2 MOD 安装步骤**
+::: 安装步骤-视频演示
+[【FXTZ】新则装则2mod的安装教程 - 芙落Owtvv丶bwtvrty](https://www.bilibili.com/video/BV1HH4y1L7m3)
+:::
+
 ::: info 安装步骤1-下载
 **在已经下载了新则的前提下，**[**可以在我的网盘内下载则2 - 2.30版本**](/about/)
 
