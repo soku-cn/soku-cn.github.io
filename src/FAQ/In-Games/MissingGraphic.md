@@ -47,10 +47,9 @@ th123.exe
 > 
 > 补丁包文件：
 > 
-> - d3d9.dll: mod 加载器，加入了加载自定义 DirectX 库的支持
+> - d3d9.dll: mod 加载器，加入了加载自定义 DirectX 库的支持。[d3d9 ModLoader_0.4.2 的源码](https://github.com/SokuDev/SokuMods/pull/25)
 > - d3d9_custom.dll: “自定义”的 d3d9 接口，[来自 fdossena 下载的 WineD3D](https://downloads.fdossena.com/geth.php?r=wined3dst-latest)
-> - wined3d.dll: 前一个文件的依赖项
-> 
+> - wined3d.dll: 前一个文件的依赖项。[WineD3D For Windows Build Scripts 源码](https://github.com/adolfintel/wined3d4win)
 > 
 > ::: info 一些细节
 > 
