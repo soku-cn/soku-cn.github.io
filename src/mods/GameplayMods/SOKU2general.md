@@ -35,23 +35,29 @@ date: 2023-08-01
 ![可与原版角色共存，联机也可以和原版互相兼容，无任何副作用](https://bu.dusays.com/2024/01/21/65acdfd88c374.webp =600x)
 
 :::
+::: caution 联机注意双方的 则2 版本要一样
 
+[**2024-3-11 目前最新版本是 v2.30e**](/about/)
+
+:::
 ## **则2 MOD 安装步骤**
-::: 安装步骤-视频演示
-[【FXTZ】新则装则2mod的安装教程 - 芙落Owtvv丶bwtvrty](https://www.bilibili.com/video/BV1HH4y1L7m3)
+::: tip 安装步骤-视频演示
+[**【FXTZ】新则装则2mod的安装教程 - 芙落Owtvv丶bwtvrty**](https://www.bilibili.com/video/BV1HH4y1L7m3)
 :::
 
 ::: info 安装步骤1-下载
-**在已经下载了新则的前提下，**[**可以在我的网盘内下载则2 - 2.30版本**](/about/)
+**在已经下载了新则的前提下，**[**可以在我的网盘内下载则2**](/about/)
 
-![2023-7-24目前最新版本是2.30版本，不同版本间联机会有问题](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png =500x)
+![联机注意双方的 则2 版本要一样](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png =500x)
 
 
 :::
 
 
 ::: info 安装步骤2-解压
-将里面的 `SOKU2` 和 `MemoryPatchSOKU2FIX` 两个文件夹放入 `th123/modules` 内
+**将里面的 `SOKU2` 和 `MemoryPatchSOKU2FIX` 两个文件夹放入 `th123/modules` 内**
+
+==**如果你有旧版的 `SOKU2 文件夹`，要先删掉旧版文件夹，再放新文件夹，不要直接覆盖**==
 
 ![两个文件夹都放到 Modules 文件夹内](https://bu.dusays.com/2023/08/20/64e21c1e761c8.png =750x)
 
