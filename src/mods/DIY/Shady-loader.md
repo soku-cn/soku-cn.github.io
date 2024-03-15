@@ -1,5 +1,5 @@
 ---
-title: Shady-loader修改游戏文件（美化包）
+title: 如何将美化包导入游戏（Shady-loader）
 # 标题
 icon: circle-info
 # 图标
@@ -9,21 +9,31 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-09-04
+date: 2024-03-15
 #文章编辑日期
 ---
 
 
-::: info 使用 Shady-loader 将下载来的素材美化包导入游戏内
+::: info 将美化包导入游戏内（通过 Shady-loader）
+**将“zip”或“文件夹”格式的美化包放入这里 `th123/modules/shady-loader`**
 
-![将下载来的或自己打包好的 zip 包放入这里 `th123/modules/shady-loader`](https://bu.dusays.com/2024/01/21/65acdc2ceabbb.webp =800x)
+![将“zip”或“文件夹”格式的美化包放入这里 `th123/modules/shady-loader`](https://bu.dusays.com/2024/01/21/65acdc2ceabbb.webp =800x)
+
+::: tip
+**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可，部分修改可能需要重开游戏** 
+
+:::
+
+::: warning F2菜单里变绿但是依然无效
+**打开压缩包查看，注意压缩包不要==多嵌套了文件夹==，以及压缩包内文件的名字是否规则正确**
 
 ![zip 压缩包内应该是这个样子，不用解压，**注意压缩包里面不要有文件夹**](https://bu.dusays.com/2024/01/21/65acdc4ecc467.webp =800x)
 
-::: tip
-**放置完 zip 包后在游戏内按 F2 菜单，然后 Enable，变绿即可** （包含图片的文件夹也可以，注意不要多嵌套了文件夹）
+:::
+::: warning F2菜单里变红色
+**如果美化包变红色，说明其中某些部分存在冲突而无法加载，可以打开（解压）压缩包查看比对，自行修改合并文件即可**
 
-**如果是变红了，说明存在修改冲突，有其他mod包已经修改了其中某些文件，需要解决冲突**
+
 :::
 
 ::: info 下载其他人制作的美化包
@@ -38,14 +48,9 @@ date: 2023-09-04
 
 @tab 下载方式二：游戏内 F2 菜单
 ::: info 下载方式二：游戏内 F2 菜单
-**在游戏主菜单，按 F2 就是打开配置菜单了，可以进行开关配置，和在文件夹中定位美化包**
-
-**F2菜单内容网页预览**  **http://shady.pinkysmile.fr**
+**在游戏主菜单，按 F2 就是打开配置菜单了，可以开关和定位美化包** http://shady.pinkysmile.fr
 
 ![](https://bu.dusays.com/2024/01/21/65acdcd434be8.webp =500x)
-
-::: warning
-**如果美化包变红色，说明其中某些部分存在冲突而无法加载**
 :::
 
 
