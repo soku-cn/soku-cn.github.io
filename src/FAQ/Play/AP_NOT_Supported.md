@@ -1,5 +1,5 @@
 ---
-title: 为什么我不支持AP直连
+title: 为什么我不支持AutoPunch直连
 # 标题
 icon: circle-info
 # 图标
@@ -17,6 +17,8 @@ date: 2023-08-01
 ==**可以在大厅内使用 Swarm 来联机，所以不支持 AP 也没有关系。**==
 
 [**跳转链接——大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#%E4%BD%BF%E7%94%A8-swarm-%E7%AD%89%E4%B8%AD%E8%BD%AC-ip-%E5%9C%A8%E5%A4%A7%E5%8E%85%E9%87%8C%E8%81%94%E6%9C%BA)
+
+[**也可以通过 IPV6 直连**](/mods/AdvancedMods/IPv6Mod.html)
 :::
 
 ::: info 检测自己的网络是否支持AP
