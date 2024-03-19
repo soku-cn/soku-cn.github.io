@@ -18,11 +18,11 @@ date: 2023-12-01
 ::: info 功能简介
 MemoryPatch 默认开启，里面各个详细部分可自己选择
 
-打开对应ini文件，会看到各个部分 （th123\Modules\MemoryPatch\MemoryPatch.ini）
+打开对应ini文件，会看到各个部分 （`th123\Modules\MemoryPatch\MemoryPatch.ini`）
 
-Enabled=1 为开启
+`Enabled=1` 为开启
 
-Enabled=0 为关闭
+`Enabled=0` 为关闭
 :::
 
 ::: details [2-20] 可使用的补丁如下

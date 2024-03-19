@@ -33,7 +33,7 @@ date: 2024-01-11
 :::
 
 ::: tip 下载
-**可以在我的mod群 200803640 的群文件内找到**
+**可以在我的 [mod 群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640) 的群文件内找到**
 :::
 
 

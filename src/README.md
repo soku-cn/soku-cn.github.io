@@ -7,7 +7,7 @@ heroImageDark: /logo-home2-dark.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 天则指南
-tagline: 关于「东方非想天则」的指南Wiki✨ <br> 网站交流群 745214751 <br><br> <span style="font-weight:bold;"><em><font size=5>【如果打开 <a href="https://wiki.514.live" target="_blank">https://wiki.514.live</a> 较卡可以尝试 <a href="https://soku-cn.gitee.io" target="_blank">https://soku-cn.gitee.io</a>】或 Ctrl+F5 刷新页面</font></em></span> <br><font size=1>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
+tagline: 关于「东方非想天则」的指南Wiki✨ <br> <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640" target="_blank">网站交流群 200803640</a> <br><br> <span style="font-weight:bold;"><em><font size=5>如果打开 <a href="https://wiki.514.live" target="_blank">https://wiki.514.live</a> 较卡可以尝试 <a href="https://soku-cn.gitee.io" target="_blank">https://soku-cn.gitee.io</a>或 Ctrl+F5 刷新页面</font></em></span> <br><font size=1>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
 
 
 actions:
@@ -30,17 +30,27 @@ features:
     details: 
     link: /about/
 
+  - title: 大厅常见问题、联机说明
+    icon: fa-solid fa-star
+    details: 
+    link: /FAQ/Play/LobbyGuide.html
+
+  - title: 新手上路：对战前新人需知
+    icon: book-open
+    details: 
+    link: /Beginners/BeforePlaying.html
+
   - title: 游戏打不开：缺失 d3d9_33.dll
     icon: question
     details: 
     link: /FAQ/Failed-to-Start/d3d9_33.html
 
-  - title: 游戏内问题：部分弹幕和特效贴图消失（变成一根线）
+  - title: 解决游戏问题：游戏内特效贴图变成一根线（已修复）
     icon: bug
     details: 
     link: /FAQ/In-Games/MissingGraphic.html
 
-  - title: 游戏内问题：游戏画面显示错位
+  - title: 解决游戏问题：游戏画面显示错位
     icon: bug
     details: 
     link: /FAQ/In-Games/CursedWindow.html
@@ -49,16 +59,6 @@ features:
     icon: fa-solid fa-lightbulb
     details: 
     link: /mods/PracticeMods.html
-
-  - title: 新手上路：对战前新人需知
-    icon: book-open
-    details: 
-    link: /Beginners/BeforePlaying.html
-
-  - title: 大厅常见问题、联机说明
-    icon: fa-solid fa-star
-    details: 
-    link: /FAQ/Play/LobbyGuide.html
 
   - title: 游戏系统与机制：天气系统
     icon: book
@@ -75,7 +75,7 @@ features:
     details: 
     link: /mods/WhatsMod.html
 
-  - title: Mod 介绍：Shady-loader 修改游戏文件（美化包）
+  - title: Mod 介绍：如何将美化包导入游戏（Shady-loader）
     icon: gears
     details: 
     link: /mods/DIY/Shady-loader.html
