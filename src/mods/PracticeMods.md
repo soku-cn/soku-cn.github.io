@@ -238,3 +238,7 @@ hst 是 hit state 的 缩写，暂时只知道触发和变化的规律，并不�
 ```
 :::
 
+## AdvancedPracticeMode(可联机的练习模式)
+::: info
+[**可联机的练习模式 - AdvancedPracticeMode**](/mods/AdvancedMods/AdvancedPracticeMode.html)
+:::
