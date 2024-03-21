@@ -9,7 +9,7 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-12-01
+date: 2024-03-01
 #文章编辑日期
 ---
 
@@ -95,11 +95,6 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 :::
 
-## **一直在弹成就**
-::: info 解决办法
-**关掉游戏重开就行了，不要傻等**
-:::
-
 ## **大厅内如何观战**
 ::: info 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战
 
@@ -109,18 +104,12 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 :::
 
-## **非中文系统开游戏时弹窗 Sokulobby Eoor**
-::: info 非中文系统开游戏时弹窗 Sokulobby Eoor
-![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
-::: tip 解决方法
-
-**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
-
-**或者区域设置换回中文**
-
+## **一直在弹成就**
+::: info 解决办法
+**关掉游戏重开就行了，不要傻等**
 :::
 
-## **进入大厅时弹窗报错，无法进入**
+## **进入VS NETWORK时弹窗报错，无法进入**
 
 ![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
 
@@ -152,17 +141,6 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 :::
 
-## **选人界面这个对话框怎么关掉**
-::: info
-
-![](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =500x)
-
-
-选人界面会显示不会消失，不用理它，选完地图进入对战就会消失了
-
-如果会键入打字，那就按ESC或者回车把字输出就行了，然后就不会再打字了。
-:::
-
 ## **建主或进别人时提示“bind”弹窗，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
 
 ![开任务管理器清理后台卡死的进程](https://bu.dusays.com/2024/01/21/65acef915315e.webp =400x)
@@ -175,6 +153,28 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
 
+:::
+
+## **非中文系统开游戏时弹窗 Sokulobby Eoor**
+::: info 非中文系统开游戏时弹窗 Sokulobby Eoor
+![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
+::: tip 解决方法
+
+**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
+
+**或者区域设置换回中文**
+
+:::
+
+## **选人界面这个对话框怎么关掉**
+::: info
+
+![](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =500x)
+
+
+选人界面会显示不会消失，不用理它，选完地图进入对战就会消失了
+
+如果会键入打字，那就按ESC或者回车把字输出就行了，然后就不会再打字了。
 :::
 
 ## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡**
