@@ -32,12 +32,15 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
+  //lastUpdated: true,
+  pageInfo: false,
 
   plugins: {
 
     components: {
       components: [
-        "BiliBili",
+        //"BiliBili",
+        //"Badge",
       ]
     },
     // You should generate and use your own comment service

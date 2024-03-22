@@ -13,7 +13,7 @@ author: 三回転Tstar
 date: 2023-12-08
 #文章编辑日期
 ---
-
+## 原版练习模式功能
 ::: info 原版练习模式功能
 - **F1 木桩减 1000 血（满血10000）**
 - **F2 卡槽补满**
@@ -238,7 +238,7 @@ hst 是 hit state 的 缩写，暂时只知道触发和变化的规律，并不�
 ```
 :::
 
-## AdvancedPracticeMode(可联机的练习模式)
+## 另一个MOD-可联机的练习模式-AdvancedPracticeMode
 ::: info
 [**可联机的练习模式 - AdvancedPracticeMode**](/mods/AdvancedMods/AdvancedPracticeMode.html)
 :::

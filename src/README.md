@@ -11,18 +11,18 @@ tagline: 关于「东方非想天则」的指南Wiki✨ <br> <a href="http://qm.
 
 
 actions:
-  - text: 关于本站
-    link: /about/
+
+  - text: 非想天则资源下载
+    link: /about/#非想天则资源下载指路
     type: primary
 
-  - text: 资源和MOD下载
-    link: /about/#非想天则资源下载指路
-
+  - text: 关于本站
+    link: /about/
 features:
 
   - title: 游戏简介
     icon: circle-info
-    details: 跳转链接 - THBWiki「东方非想天则」
+    details: 跳转 THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
 
   - title: 关于本站、资源下载、对战交流QQ群
@@ -106,5 +106,5 @@ features:
     link: /FAQ/Linux/Linux.html
 
 copyright: false
-footer: MIT Licensed | Copyright © 2024 ChocoFleece
+footer: MIT Licensed | Copyright © 2024
 ---
