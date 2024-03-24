@@ -11,16 +11,16 @@ next: false
 ## **非想天则资源下载指路** <Badge text="资源持续更新" type="tip" />
 
 
-::: info 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
+::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
 - [**123 网盘（不限速）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
 
-- [**电信天翼网盘（不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)（访问码：97z6）
+- [**电信天翼网盘（不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）) 访问码： 97z6
 
 - [**百度网盘**](https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41)
 [**百度网盘 - 指路文档备份**](https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111)
 
-- [**蓝奏云(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i) (密码:hfxy)
+- [**蓝奏云(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i) 访问码： hfxy
 
 - [**QQ资源群，可直接加群无需验证 【 869104893 】** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
 **（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
@@ -30,7 +30,7 @@ next: false
 
 ## **寻找玩伴————QQ群** 
 
-::: info 相关信息
+::: important 相关信息
 
 - [**新则群（对战群，主群）  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  **【加群问题答案：指南已阅，有问题先自助】**
 - [**非想天则有点好玩（对战群）  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
@@ -71,7 +71,7 @@ https://Tstar00.github.io （国外站点）([仓库](https://github.com/Tstar00
 
 ## **相关站点导航**
 
-::: info 网址
+::: tip 相关站点导航
 [Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
 
 [SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
@@ -103,8 +103,8 @@ https://Tstar00.github.io （国外站点）([仓库](https://github.com/Tstar00
 
 ## **感谢！志愿者！** 
 
-::: info 个人空间
-国内外各路前辈与朋友，Mod工具与祖传chm攻略（
+::: tip 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略！
+
 
 [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 非想天启作者，网站站长，更新器帮助，Linux帮助 QQ 1459346474
 
