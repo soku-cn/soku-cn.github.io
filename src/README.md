@@ -13,11 +13,11 @@ tagline: 关于「东方非想天则」的指南Wiki✨ <br> <a href="http://qm.
 actions:
 
   - text: 非想天则资源下载
-    link: /about/#非想天则资源下载指路
+    link: /about/
     type: primary
 
-  - text: 关于本站
-    link: /about/
+  - text: 常见问题自助
+    link: /FAQ/
 features:
 
   - title: 游戏简介

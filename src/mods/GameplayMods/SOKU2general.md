@@ -37,7 +37,9 @@ date: 2023-08-01
 
 - [三回的Mod群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
-- [Discord 则2群](http://discord.gg/Bgxdcav)
+- [Discord 则2群-官方群](http://discord.gg/Bgxdcav)
+
+- [Discord 则2群-讨论群](https://discord.gg/AyAD8ZYNjg)
 :::
 ::: caution 联机注意双方的 则2 版本要一样
 
