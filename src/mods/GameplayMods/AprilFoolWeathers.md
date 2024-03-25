@@ -34,6 +34,8 @@ Custom weather's april fools mod
 
 - **各自天气本身以及影响的各自角色招数可能会存在很多 bug，很正常，不用大惊小怪，玩的开心最重要**
 
+- [【非想天则MOD】搞怪天气Mod-愚人节活动](https://www.bilibili.com/video/BV12F4m1F7Sj/)
+
 <style>
 table th:first-of-type {
     width: 80pt;
