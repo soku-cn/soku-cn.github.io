@@ -2,6 +2,7 @@
 home: true
 title: 主页
 icon: home
+heroFullScreen: false
 heroImage: /logo-home2.webp
 heroImageDark: /logo-home2-dark.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
