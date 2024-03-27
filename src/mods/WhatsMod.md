@@ -89,7 +89,7 @@ date: 2024-01-07
 ![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
 :::
  
-::: details 以下是 [1-5] SWRSToys-default.ini 默认 mod 配置的内容
+::: details 以下是 [2024-03-15] SWRSToys-default.ini 默认 mod 配置的内容
 
 ;################################################
 ; 在每行语句开头加英文分号，代表关闭插件，语句是绿色
@@ -105,6 +105,9 @@ date: 2024-01-07
 [Module]
 ;#####  1、不需要关闭的mod  ################################
 
+;默认键位为"Ctrl+M"增大BGM，"Ctrl+N"减小BGM，"Ctrl+B"增大音效，"Ctrl+V"减小音效
+VolumeChanger=Modules/VolumeChanger/VolumeChanger.dll
+
 ;Easydeck开启后，可以在网战选人时也能按C来即可修改卡组
 EasyDecks=modules/EasyDecks/EasyDecks.dll
 
@@ -115,7 +118,7 @@ giuroll=modules/giuroll/giuroll.dll
 
 ; 目前只能侦测天气不同步，可单方面使用且正常生效  
 ; 需要和 giuroll 0.6.14 以上版本一起运行才能生效
-;giuroll_desync_detector=modules/giuroll_desync_detector/giuroll_desync_detector.dll
+giuroll_desync_detector=modules/giuroll_desync_detector/giuroll_desync_detector.dll
 
 ;新版的网络大厅mod，按S切换原本联机界面，开启后打网战可计入统计和解锁成就（不必非到大厅里面打网战） https://wiki.514.live/FAQ/Play/LobbyGuide.html
 SokuLobbiesMod=modules/SokuLobbiesMod/SokuLobbiesMod.dll
@@ -238,6 +241,8 @@ CharactersInForeground=modules/CharactersInForeground/CharactersInForeground.dll
 ;DiscordIntegration=modules/DiscordIntegration/DiscordIntegration.dll
 
 ;######################################################
+
+
 
 
 :::
