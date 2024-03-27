@@ -18,8 +18,13 @@ date: 2024-01-11
 Custom weather's april fools mod
 
 - **注意，此 mod 需要联机双方一起使用且版本相同**
+- **可以和 “则2 MOD” 共存**
+- **若和 “2V2 MOD” 一起使用，某些功能会出问题，不建议一起使用**
 
-- **可以和“则2 MOD”共存**
+::: caution 注意Mod冲突
+
+**与 `CharacterInForeground` 这个 Mod 存在冲突，先把这个 Mod 关闭**
+
 :::
 
 ::: info MOD 内容介绍（19个新天气+极光）
@@ -75,12 +80,17 @@ table th:nth-of-type(4) {
 - [Source-doc](https://docs.google.com/spreadsheets/d/1auTCMs_pG99o8WP35bkIUgnRtHRB6KQ8c5m9o2PCGzI)
 :::
 
-::: info 安装步骤说明
+:::: info 安装步骤说明
+::: caution 注意Mod冲突
 
-[**如何开关配置mod**](/mods/WhatsMod.html)
+**与 `CharacterInForeground` 这个 Mod 存在冲突，先把这个 Mod 关闭**
+
+:::
 
 ![](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
-:::
+
+[**如何开关配置mod**](/mods/WhatsMod.html)
+::::
 
 
 
