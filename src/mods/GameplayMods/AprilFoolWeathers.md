@@ -10,7 +10,7 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2024-01-11
+date: 2024-04-01
 #文章编辑日期
 ---
 
@@ -27,9 +27,14 @@ Custom weather's april fools mod
 
 :::
 
+::: important 已发布【3-31修复版】愚人节搞怪天气 mod
+修复内容：
+- 修复了大鬼天气的一些bug
+:::
+
 ::: info MOD 内容介绍（19个新天气+极光）
 
-- **替换掉了原版的20个天气，在 VS PLAYER 模式里通过 F5 F6 来切换调用；在练习模式里无法使用**
+- **替换掉了原版的 20 个天气，在 VS PLAYER 模式里通过 F5 F6 来切换调用；在练习模式里依然是原版天气**
 
 - **天气预报状态下，一帧是 0.3 读数（原版是 0.1）；天气已启动状态下依然是两帧 0.1 读数和原版一样**
 
@@ -39,7 +44,9 @@ Custom weather's april fools mod
 
 - **各自天气本身以及影响的各自角色招数可能会存在很多 bug，很正常，不用大惊小怪，玩的开心最重要**
 
-- [内容介绍 - 【非想天则MOD】搞怪天气Mod-愚人节活动](https://www.bilibili.com/video/BV12F4m1F7Sj/)
+- [新天气介绍视频 - 【非想天则MOD】搞怪天气Mod-愚人节活动](https://www.bilibili.com/video/BV12F4m1F7Sj/)
+
+- [试玩视频 - 因为太害怕弹幕所以把盾全开开了 愚人节天气 MOD 启动！（普信 VS 秋水）【非想天则 MOD】](https://www.bilibili.com/video/BV1bx4y1e7us/)
 
 <style>
 table th:first-of-type {
@@ -58,7 +65,7 @@ table th:nth-of-type(4) {
 | 1. 绯想天      |          Twilight          | 屏幕变黑，只能看见自己角色周围一小块区域（聚光灯）                                                                                           |   50.0   |
 | 2. 圣光普照    |        Angel's Halo        | 类似无风天，先命中对手的人立即获得天滴效果(持续到天气结束)，且天气读数变为原先的三分之一                                                     |   99.9   |
 | 3. 海市蜃楼    |       Desert Mirage        | 双方立即终止当前动作，随机变成另一个角色，且不能使用卡片（多次遇到此天气的话依不会再随机）                                                   |   99.9   |
-| 4. 流星雨      |       Shooting Star        | 随机启动一个天气（除了极光），且每当天气读数的十位数变化时就会再次随机一个天气                                                               |   99.9   |
+| 4. 流星雨      |       Shooting Star        | 随机启动一个天气（除了极光），且每当天气读数的十位数变化时就会再次随机一个天气                                                               |    *     |
 | 5. 雷雨        |        Thunderstorm        | 错防就会直接被命中                                                                                                                           |   50.0   |
 | 6. 迷雾        |       Impassable Fog       | 双方角色隐身，特效依然显示，地上依然有影子                                                                                                   |   50.0   |
 | 7. 反常天气    | Antinomy of Common Weather | 像凭依华一般浮在空中，可通过上下跳跃，左右移动；无限次数飞翔和 Dash<br>`（凭依华是 Antinomy of Common Flowers）`                             |   75.0   |
@@ -83,11 +90,12 @@ table th:nth-of-type(4) {
 :::: info 安装步骤说明
 ::: caution 注意Mod冲突
 
-**与 `CharacterInForeground` 这个 Mod 存在冲突，先把这个 Mod 关闭**
+- **与 `CharacterInForeground` 这个 Mod 存在冲突，把它关闭**
 
+- **再打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**
 :::
 
-![[**如何开关配置mod**](/mods/WhatsMod.html)](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
+![[**如何开关配置mod**](/mods/WhatsMod.html) **打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
 
 ::::
 

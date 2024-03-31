@@ -63,22 +63,22 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 @tab 情况三：弹窗“Failed to get public IP”
 ::: info 情况三：弹窗“Failed to get public IP”
+**意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）**
 
 ![Failed to get public IP](https://bu.dusays.com/2024/01/21/65acb17f3c9bb.webp =300x)
 
-**意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）**
 
 ::: tip 解决办法
-1、在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`
+**1、在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
 
-![1、在这里点开大厅的 ini 配置文件](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp =600x)
+![](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp =600x)
 
-2、把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号，然后保存并重开游戏
-
-`大厅获取用户IP的网址，默认用第一个（http://www.sfml-dev.org/ip-provider.php），有问题了再用第二个（https://api-ipv4.ip.sb/ip）`
+**2、把 `https://api-ipv4.ip.sb/ip` 的句首的分号删掉，把 `http://www.sfml-dev.org/ip-provider.php` 的句首加上英文分号，然后保存并重开游戏**
 
 ![把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2024/01/21/65acb240ef91e.webp =400x)
 
+
+> 大厅获取用户IP的网址，默认用第一个 `http://www.sfml-dev.org/ip-provider.php` ，有问题了再用第二个 `https://api-ipv4.ip.sb/ip`
 :::
 
 ## **大厅内的操作**
