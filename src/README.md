@@ -21,12 +21,12 @@ actions:
     link: /FAQ/
 features:
 
-  - title: 游戏简介
+  - title: 非想天则游戏简介
     icon: circle-info
     details: 跳转 THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
 
-  - title: 关于本站、资源下载、对战交流QQ群
+  - title: 关于本站、非想天则资源下载、对战交流QQ群
     icon: download
     details: 
     link: /about/

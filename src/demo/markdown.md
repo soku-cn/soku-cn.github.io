@@ -11,15 +11,15 @@ comment: false
 
 ## 允许合并单元格
 
-|Stage  | Direct Products  | ATP Yields |
-|:----: | :--------------: | :---------:|
-|向上合并单元格|向左合并单元格||
-|^^| 2 NADH | 3--5 ATP |
-|Pyruvaye oxidation | 2 NADH | 5 ATP |
-|Citric acid cycle | 2 ATP ||
-|^^ | 6 NADH | 15 ATP |
-|^^ | 2 FADH2 | 3 ATP |
-|**30--32** ATP |||
+|       Stage        | Direct Products | ATP Yields |
+| :----------------: | :-------------: | :--------: |
+|   向上合并单元格   | 向左合并单元格  |            |
+|         ^^         |     2 NADH      |  3--5 ATP  |
+| Pyruvaye oxidation |     2 NADH      |   5 ATP    |
+| Citric acid cycle  |      2 ATP      |            |
+|         ^^         |     6 NADH      |   15 ATP   |
+|         ^^         |     2 FADH2     |   3 ATP    |
+|   **30--32** ATP   |                 |            |
 
 
 ---
@@ -27,29 +27,29 @@ comment: false
 ## 允许没有外边框
 
 
-Stage | Direct Products | ATP Yields
-----: | --------------: | ---------:
-Glycolysis | 2 ATP ||
-^^ | 2 NADH | 3--5 ATP |
-Pyruvaye oxidation | 2 NADH | 5 ATP |
-Citric acid cycle | 2 ATP ||
-^^ | 6 NADH | 15 ATP |
-^^ | 2 FADH2 | 3 ATP |
-**30--32** ATP |||
+|              Stage | Direct Products | ATP Yields |
+| -----------------: | --------------: | ---------: |
+|         Glycolysis |           2 ATP |            |
+|                 ^^ |          2 NADH |   3--5 ATP |
+| Pyruvaye oxidation |          2 NADH |      5 ATP |
+|  Citric acid cycle |           2 ATP |            |
+|                 ^^ |          6 NADH |     15 ATP |
+|                 ^^ |         2 FADH2 |      3 ATP |
+|     **30--32** ATP |                 |            |
 [Net ATP yields per hexose]
 
 ## 使用 \ 符号来保留单元格内语法
 
 
-|   Markdown   | Rendered HTML |
-|--------------|---------------|
-|    *Italic*  | *Italic*      | \
-|              |               |
-|    - Item 1  | - Item 1      | \
-|    - Item 2  | - Item 2      |
-|    ```python | ```python     \
-|    .1 + .2   | .1 + .2       \
-|    ```       | ```           |
+| Markdown  | Rendered HTML   |
+| --------- | --------------- |
+| *Italic*  | *Italic*        | \ |
+|           |                 |
+| - Item 1  | - Item 1        | \ |
+| - Item 2  | - Item 2        |
+| ```python | ```python     \ |
+| .1 + .2   | .1 + .2       \ |
+| ```       | ```             |
 
 ---
 ## 允许没有表头
@@ -132,7 +132,7 @@ const a = 1;
 
 :::
 
-::: danger 自定义标题
+::: caution 自定义标题
 
 危险容器
 
@@ -431,5 +431,5 @@ const msg = ref("Hello World!");
 |     居中      |         右对齐 | 左对齐         |
 | :-----------: | -------------: | :------------- |
 | 居中使用`:-:` | 右对齐使用`-:` | 左对齐使用`:-` |
-|123b       |      aaaaaaaaa | aaaa           |
+|     123b      |      aaaaaaaaa | aaaa           |
 |       c       |           aaaa | a              |
