@@ -86,7 +86,7 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
         with:
-          source-repo: git@github.com:soku-cn/soku-cn.github.io.git
+          source-repo: ${{ github.server_url }}/${{ github.repository }}
           destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
 
 
