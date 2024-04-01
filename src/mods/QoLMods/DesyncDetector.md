@@ -35,9 +35,9 @@ DesyncDetector 和 giuroll_desync_detector 都默认开启，这两个 MOD 可�
 
 
 
-@tab giuroll_desync_detector(可单方面启用)
-::: info giuroll_desync_detector(可单方面启用)
-==可单方面启用==
+@tab giuroll_desync_detector(可单方面启用但必须搭配 giuroll)
+::: info giuroll_desync_detector(可单方面启用但必须搭配 giuroll)
+==可单方面启用但必须搭配 giuroll==
 若对局中双方天气玉上显示的天气不相同，则在左下角显示红色的 “DESYNCED” 表示发生不同步
 
 ![左下角显示红色的“DESYNCED”表示发生不同步](https://bu.dusays.com/2024/04/01/660989d1cfc9a.png =400x)
