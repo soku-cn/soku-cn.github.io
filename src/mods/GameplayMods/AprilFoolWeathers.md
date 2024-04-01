@@ -90,9 +90,11 @@ table th:nth-of-type(4) {
 :::: info 安装步骤说明
 ::: caution 注意Mod冲突
 
-- **与 `CharacterInForeground` 这个 Mod 存在冲突，把它关闭**
+- **与 `CharacterInForeground` 这个 Mod 存在冲突，要先把它关闭**
 
 - **再打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**
+
+- `giuroll` 这个 mod 也要保持开启，默认就是开的所以不用管
 :::
 
 ![[**如何开关配置mod**](/mods/WhatsMod.html) **打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
