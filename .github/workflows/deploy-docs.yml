@@ -77,6 +77,7 @@ jobs:
           # 要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
           branch: gh-pages
 
+
   sync-to-vercel:
     runs-on: ubuntu-latest
     steps:
@@ -88,5 +89,7 @@ jobs:
         with:
           source-repo: ${{ github.server_url }}/${{ github.repository }}
           destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
+
+
 
 
