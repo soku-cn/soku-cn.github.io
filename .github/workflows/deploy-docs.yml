@@ -86,7 +86,7 @@ jobs:
       - name: Push to another GitHub repository
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GIT_TOKEN }}
           branch: main
           repository: ChocoFleece/Hisoutensoku-CN-wiki # 目标仓库的用户名和仓库名
 
