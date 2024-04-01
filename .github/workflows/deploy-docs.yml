@@ -88,5 +88,8 @@ jobs:
         with:
           github_token: ${{ secrets.GIT_TOKEN }}
           branch: main
-          repository: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git # 目标仓库的用户名和仓库名
+          repository: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git # 使用 SSH URL 格式
+          push_to_submodules: on-demand
+          directory: .
+
 
