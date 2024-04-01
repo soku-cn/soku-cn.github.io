@@ -92,7 +92,7 @@ table th:nth-of-type(4) {
 
 - **与 `CharacterInForeground` 这个 Mod 存在冲突，要先把它关闭**
 
-- **再打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**
+- **再打开这两个新 Mod： `CustomWeathers` 和 [DesyncDetector](/mods/QoLMods/DesyncDetector.html)**
 
 - `giuroll` 这个 mod 也要保持开启，默认就是开的所以不用管
 :::
