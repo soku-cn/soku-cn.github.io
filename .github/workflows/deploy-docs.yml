@@ -80,16 +80,13 @@ jobs:
   sync-to-vercel:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source code
-        uses: actions/checkout@v2
-  
-      - name: Push to another GitHub repository
-        uses: ad-m/github-push-action@master
+      - name: Sync to Github-Vercel-repository
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
         with:
-          github_token: ${{ secrets.GIT_TOKEN }}
-          branch: main
-          repository: ChocoFleece/Hisoutensoku-CN-wiki
-          push_to_submodules: on-demand
-          directory: .
+          source-repo: git@github.com:soku-cn/soku-cn.github.io.git
+          destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
 
 
