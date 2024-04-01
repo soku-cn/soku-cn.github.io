@@ -49,6 +49,7 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
 
+
   deploy-gitee-pages:
     runs-on: ubuntu-latest
     needs: deploy-gh-pages
@@ -75,3 +76,17 @@ jobs:
           gitee-repo: soku-cn/soku-cn
           # 要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
           branch: gh-pages
+
+  sync-to-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+  
+      - name: Push to another GitHub repository
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          repository: ChocoFleece/Hisoutensoku-CN-wiki # 目标仓库的用户名和仓库名
+
