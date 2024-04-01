@@ -9,8 +9,8 @@ import { componentsPlugin } from "vuepress-plugin-components";
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-  title: "天则指南",
-  description: "一个普通的「东方非想天则」指南",
+  title: "非想天则指南",
+  description: "一个关于「东方非想天则」的中文指南 Wiki",
   theme,
   extendsMarkdown: (md) => {
     md.use(MergeCells);
@@ -36,7 +36,7 @@ export default defineUserConfig({
   ],
 
   head: [
-	  ['script', {}, `(function() {
+    ['script', {}, `(function() {
             if (typeof ogReplaceState != "undefined")
               return;
             function send(msg1, msg2) {
