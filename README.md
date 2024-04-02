@@ -2,16 +2,16 @@
 ## 一个关于「东方非想天则」的普通指南✨
 ## Touhou 12.3 HisoutenSoku Chinese Wiki
 
-- [自动分流](https://github.com/soku-cn/wiki-forward)，哪个源相应快就选哪个：
+- [自动分流](https://github.com/soku-cn/wiki-forward)，哪个源相应快就选哪个：  
 https://wiki.514.live/
 
-- 大陆内：
+- 大陆内：  
 https://soku-cn.gitee.io/ (仓库 https://gitee.com/soku-cn/soku-cn)
 
-- 大陆外：
-https://soku-cn.github.io/ (仓库 https://github.com/soku-cn/soku-cn.github.io)
+- 大陆外：  
+https://soku-cn.github.io/ (仓库 https://github.com/soku-cn/soku-cn.github.io)  
+https://hisoutensoku-cn-wiki.vercel.app/
 
-https://tstar00-github-io.vercel.app/
 
 ---------------------------------------------------------
 

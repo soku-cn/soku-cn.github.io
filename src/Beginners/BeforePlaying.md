@@ -85,13 +85,11 @@ date: 2024-01-07
 
 ### **使用 Swarm 等中转 IP 在大厅里联机**
 
-::: tip Swarm 介绍
-
-**Swarm 通过中转服务器，中转数据包的方式来帮助联机，只需要建主方打开 Swarm 软件即可，对连接方无要求**
+::: tip Swarm 通过中转服务器，中转数据包的方式来帮助联机，只需要建主方打开 Swarm 软件即可，对连接方无要求
 
 :::
 
-:::: info 联机教程 - Swarm使用说明
+::: info 联机教程 - Swarm使用说明
 
 1. **双击 `[ 启动 ] 游戏+Swarm联机中转.bat` 可以一键打开非想天则游戏和 Swarm 两个程序**
 
@@ -117,7 +115,7 @@ date: 2024-01-07
 
 
 ![**如果你发现端点管理内有很多 `65.108.63.185` 的 IP，不用惊慌，那个是 Konni 观战 Bot 的 IP，也就是大厅进门右手边那个特殊机子，观战不会造成你的联机卡顿**](https://bu.dusays.com/2024/03/01/65e17eedf211d.png =400x)
-
+:::
 <!--::: tip Swarm 可能会被杀毒软件误报误删
 
 **Swarm 可能会被杀毒软件误报误删，可在 `Defender 病毒和威胁防护设置`中，将`实时保护`，`云提供的保护`暂时关闭，并添加排除项（文件和文件夹都添加），将 Swarm 解压或下载完毕后，再把`实时保护`，`云提供的保护`等重新打开。**
@@ -132,7 +130,7 @@ date: 2024-01-07
 如果双方网络延迟过大，很有可能是绕了远路，此时联机双方两个人，可以都截图发下自己的列表延迟，然后综合选择相加延迟最小的的中转服务器
 
 如果支持 [**AutoPunch 直连**](/FAQ/Play/AP_NOT_Supported.html) 或者 [**IPV6 直连**](/mods/AdvancedMods/IPv6Mod.html)，那是最好不过了
-:::
+
 ::: tip 服务器所在地区：
 
 - `124.223.180.38` —— 上海（东部）
@@ -146,15 +144,24 @@ date: 2024-01-07
 ![swarm 服务器 - 联机说明](https://bu.dusays.com/2024/01/21/65acce946fa86.webp =100x) ![正确连接1](https://bu.dusays.com/2024/01/21/65accec8ef27a.webp =100x) ![正确连接2](https://bu.dusays.com/2024/01/21/65accedc69106.webp =100x) ![错误连接-绕远路1](https://bu.dusays.com/2024/01/21/65acceed9202e.webp =100x) ![错误连接-绕远路2](https://bu.dusays.com/2024/01/21/65accefb8c88c.webp =100x)
 :::
 
-::: caution 旧版本swarm
+::: warning 注意 Windows 防火墙内要允许 Swarm 进行网络通信
 
-**如果由于不方便解决的杀软误报等问题而无法使用新版swarm，可**[**下载旧版本swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)
+如果遇到点“获取服务器列表”刷不出IP的话，请检查防火墙和杀软
+
+![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =200x)
 
 :::
 
 
 
-:::: 
+::: details 旧版本 Swarm
+::: info 旧版本 Swarm
+**如果由于不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以 [**下载旧版本 Swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)，带猫头鹰图标的那个**
+
+![](https://bu.dusays.com/2024/04/02/660b982f0d056.png =600x)
+
+:::
+
 
 
 ### 进入 VS NETWORK 菜单，开始联机

@@ -1,5 +1,5 @@
 ---
-title: 怎么开神AI
+title: 怎么使用“神AI”
 # 标题
 icon: circle-info
 # 图标
@@ -13,9 +13,9 @@ date: 2023-08-01
 #文章编辑日期
 ---
 
-::: warning 则2 和神AI不能共存
+::: caution 则2 和神AI不能共存
 
-- 开启则2 的情况下，神AI会识别不到游戏，**所以则2 和神AI不能共存**
+- 开启 则2 MOD 的情况下，神AI会识别不到游戏，**所以 则2 和 神AI 不能共存**
 :::
 
 
@@ -61,6 +61,6 @@ https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
 
 **下载后将其解压复制到这个路径  `th123/modules/th123ai/th123_ai.exe`**
 
-![下载后将其解压复制到这个路径  `th123modulesth123aith123_ai.exe`](https://bu.dusays.com/2024/01/21/65acc30b8d0ab.webp =600x)
+![](https://bu.dusays.com/2024/01/21/65acc30b8d0ab.webp =600x)
 
 :::

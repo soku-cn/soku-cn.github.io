@@ -95,7 +95,7 @@ features:
     details: 
     link: /mods/GameplayMods/SOKU2general.html
 
-  - title: 怎么开“神AI”
+  - title: 怎么使用“神AI”
     icon: robot
     details: 
     link: /FAQ/Others/th123AI.html
