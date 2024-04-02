@@ -25,6 +25,12 @@ DesyncDetector 和 giuroll_desync_detector 都默认开启，这两个 MOD 可�
 
 @tab DesyncDetector(不能单方面启用)
 ::: info DesyncDetector(不能单方面启用)
+> [!caution] 
+> 目前和计分板mod之间有bug，先禁用了
+
+
+
+
 ==不能单方面启用==
 如果自己开了，但是对面没有开，那么自己的选人界面里，右上角会显示一个感叹号，且对局内的检测功能也无法生效
 
