@@ -19,13 +19,13 @@ date: 2023-09-04
 > ::: tabs
 > @tab Shady-loader法（推荐）
 > ::: tip Shady-loader法（推荐）
-> **将 pal 文件按规则命名，`data_character_对应角色的名字_palette00X.pal`**
+> **将 pal 文件按规则命名，`data_character_对应角色的名字_palette00X.pal`**（`X`取值为`0-7`，一共八个配色位）
 >
-> **如果我们想设置其为瓜的第一个配色，那么对应角色的名字中，瓜就是 `suika`==（见下方附录）==`，palette00X`中的`X`取值为`0-7`，一共八个配色位**
+> **如果我们想设置其为瓜的第一个配色，<br>那么对应角色的名字中，瓜就是 `suika`，第一个配色就是 000**
 > 
 > **最终我们得到 `data_character_suika_palette000.pal`**
 > 
-> **然后把这个 pal 文件直接打包成 zip 包 ==（不要包含文件夹）==，放入 `shady-loader` 文件夹内，在游戏主菜单按 F2 菜单加载即可**
+> **然后把这个 pal 文件直接打包成 zip 包或者文件夹 ==（压缩包里不要多套一层文件夹）==，放入 `shady-loader` 文件夹内，在游戏主菜单按 F2 菜单加载即可**
 > 
 > [**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
 > 
