@@ -27,9 +27,14 @@ Custom weather's april fools mod
 
 :::
 
-::: important 已发布【3-31修复版】愚人节搞怪天气 mod
+::: important 已发布【4-6 修复版】愚人节搞怪天气 mod 1.10
 修复内容：
 - 修复了大鬼天气的一些bug
+- 增加了 `CustomWeathers.ini`，可以设定如下内容
+  1. 可自定义天气预报下的读数倍速 `ClearTimerMultiplier`（默认是三倍速，原版是一帧 0.1 读数）
+  2. 可自定义永久生效的天气 `ForcedWeather`
+  3. 可自定义启用哪些天气，关闭哪些天气
+  4. 可自定义各个天气的循环顺序
 :::
 
 ::: info MOD 内容介绍（19个新天气+极光）
@@ -92,12 +97,12 @@ table th:nth-of-type(4) {
 
 - **与 `CharacterInForeground` 这个 Mod 存在冲突，要先把它关闭**
 
-- **再打开这两个新 Mod： `CustomWeathers` 和 [DesyncDetector](/mods/QoLMods/DesyncDetector.html)**
+- **再打开 Mod： `CustomWeathers`**
 
-- `giuroll` 这个 mod 也要保持开启，默认就是开的所以不用管
+- **压缩包里的 `giuroll` 是特制的 0.6.14b 版本的，如果使用其他版本的不知道会不会发生不同步**
 :::
 
-![[**如何开关配置mod**](/mods/WhatsMod.html) **打开这两个新 Mod： [CustomWeathers 和 DesyncDetector](/mods/QoLMods/DesyncDetector.html)**](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
+![[**如何开关配置mod**](/mods/WhatsMod.html) **打开 Mod： `CustomWeathers`**](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
 
 ::::
 
