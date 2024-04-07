@@ -32,7 +32,7 @@ next: false
 
 ::: important 相关信息
 
-- [**新则群（对战群，主群）  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  **【加群问题答案：指南已阅，有问题先自助】**
+- [**新则群（对战群）【主群】  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  **【加群问题答案：指南已阅，有问题先自助】**
 - [**非想天则有点好玩（对战群）  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 - [**天则居（对战群）  27743867**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 - [**东方非想天则萌新天堂（对战群）  747865302**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
