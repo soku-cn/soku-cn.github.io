@@ -99,9 +99,9 @@ jobs:
           repository: soku-cn/soku-cn.github.io
           ref: master # 仅检出主分支
           
-      - name: Filter branches
-        run: |
-          git branch -d $(git branch | grep -v "master") # 删除除主分支外的其他分支
+      # - name: Filter branches
+      #   run: |
+      #     git branch -d $(git branch | grep -v "master") # 删除除主分支外的其他分支
           
       - name: Push to destination repository
         uses: ad-m/github-push-action@v0.5.0
