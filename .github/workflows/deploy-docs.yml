@@ -96,7 +96,7 @@ jobs:
       - name: Checkout source repository
         uses: actions/checkout@v2
         with:
-          repository: ${{ github.server_url }}/${{ github.repository }}
+          repository: soku-cn/soku-cn.github.io
           ref: master # 仅检出主分支
           
       - name: Filter branches
