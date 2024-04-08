@@ -78,22 +78,36 @@ jobs:
           branch: gh-pages
 
 
+  # sync-to-vercel:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Sync to Github-Vercel-repository
+  #       uses: wearerequired/git-mirror-action@master
+  #       env:
+  #         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+  #         SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+  #       with:
+  #         source-repo: ${{ github.server_url }}/${{ github.repository }}
+  #         destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
+  
   sync-to-vercel:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync to Github-Vercel-repository
-        uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+      - name: Checkout source repository
+        uses: actions/checkout@v2
         with:
-          source-repo: ${{ github.server_url }}/${{ github.repository }}
-          destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
-  
-      - name: Push only master branch
+          repository: ${{ github.server_url }}/${{ github.repository }}
+          ref: master # 仅检出主分支
+          
+      - name: Filter branches
         run: |
-          git clone git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
-          cd Hisoutensoku-CN-wiki
-          git checkout master
-          git push --force origin master
+          git branch -d $(git branch | grep -v "master") # 删除除主分支外的其他分支
+          
+      - name: Push to destination repository
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          github_token: ${{ secrets.SSH_PRIVATE_KEY }}
+          branch: master
+          repository: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
+
   
