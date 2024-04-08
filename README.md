@@ -8,10 +8,9 @@ https://wiki.514.live/
 - 大陆内：  
 https://soku-cn.gitee.io  (仓库 https://gitee.com/soku-cn/soku-cn)
 
-- 大陆外：  
-https://soku-cn.github.io  (仓库 https://github.com/soku-cn/soku-cn.github.io)  
+- 大陆外：
 https://hisoutensoku-cn-wiki.vercel.app
-
+https://soku-cn.github.io  (仓库 https://github.com/soku-cn/soku-cn.github.io)  
 
 ---------------------------------------------------------
 
