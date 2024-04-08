@@ -98,6 +98,9 @@ jobs:
         with:
           repository: soku-cn/soku-cn.github.io
           ref: master # 仅检出主分支
+
+      - name: Add safe directory exception
+        run: git config --global --add safe.directory /github/workspace
           
       # - name: Filter branches
       #   run: |
