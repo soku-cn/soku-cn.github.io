@@ -1,4 +1,4 @@
-# 「天则指南」
+# 「非想天则指南」
 ## 一个关于「东方非想天则」的普通指南✨
 ## Touhou 12.3 HisoutenSoku Chinese Wiki
 
