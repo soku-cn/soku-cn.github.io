@@ -102,9 +102,10 @@ jobs:
       - name: Add safe directory exception
         run: git config --global --add safe.directory /github/workspace
           
-      # - name: Filter branches
-      #   run: |
-      #     git branch -d $(git branch | grep -v "master") # 删除除主分支外的其他分支
+      - name: Configure Git
+        run: |
+          git config --global user.email "zhongzi2333@gmail.com"
+          git config --global user.name "ChocoFleece"
           
       - name: Push to destination repository
         uses: ad-m/github-push-action@v0.5.0
