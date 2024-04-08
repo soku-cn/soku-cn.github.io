@@ -69,8 +69,10 @@ date: 2024-03-15
 ![](https://bu.dusays.com/2024/01/21/65acdcd434be8.webp =500x)
 :::
 
-### 自己制作素材修改 Mod
+### 自己制作美化包 Mod
 ::: info 自己制作素材修改 Mod
+[**【非想天则 Mod】魔改 / FDE 编辑器 简易使用说明 By 十字凤**](https://www.bilibili.com/video/BV1tp421971E/)
+
 **下载游戏解包素材以及其他 Mod 工具，欢迎加 Mod 群讨论 【QQ群：200803640】**
 
 [**在网盘内或者QQ群文件可以搜索并下载游戏原始解包素材以及 mod 工具**](/about/#非想天则资源下载指路)
