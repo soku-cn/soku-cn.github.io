@@ -95,6 +95,5 @@ jobs:
           git clone git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
           cd Hisoutensoku-CN-wiki
           git checkout master
-          git push origin master
+          git push --force origin master
   
-
