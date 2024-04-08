@@ -89,8 +89,12 @@ jobs:
         with:
           source-repo: ${{ github.server_url }}/${{ github.repository }}
           destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
-          refspec: '+refs/heads/master:refs/heads/master'
-
-
-
+  
+      - name: Push only master branch
+        run: |
+          git clone git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
+          cd Hisoutensoku-CN-wiki
+          git checkout master
+          git push origin master
+  
 
