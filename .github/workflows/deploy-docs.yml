@@ -89,6 +89,7 @@ jobs:
         with:
           source-repo: ${{ github.server_url }}/${{ github.repository }}
           destination-repo: git@github.com:ChocoFleece/Hisoutensoku-CN-wiki.git
+          refspec: '+refs/heads/master:refs/heads/master'
 
 
 
