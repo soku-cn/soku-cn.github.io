@@ -50,7 +50,6 @@ export default defineUserConfig({
       repoId: "R_kgDOLuJ96Q",
       category: "Announcements",
       categoryId: "DIC_kwDOLuJ96c4CesDB",
-      lazyLoading: true,
     }),
 
   ],
