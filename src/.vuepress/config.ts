@@ -1,3 +1,4 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
@@ -7,6 +8,12 @@ import MergeCells from "markdown-it-multimd-table";
 import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
+
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
+
   base: "/",
   lang: "zh-CN",
   title: "非想天则指南",
