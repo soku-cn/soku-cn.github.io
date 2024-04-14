@@ -19,30 +19,23 @@ date: 2024-01-14
 
 ![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =450x)
 
-[**微软 .Net 4.7.2 离线包下载**](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
+**解决办法：[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
 :::
 
 ::: note 更新 SokuModLoader 时遇到失败不用管他，可以不更新，或者下升级包手动更新下
 
 
-![](https://bu.dusays.com/2024/03/19/65f9822af2a6c.png =400x)
+![](https://bu.dusays.com/2024/03/19/65f9822af2a6c.png =300x)
 
 :::
 
 ::: tip SokuLauncher使用技巧
+- **每次打开时，会自动检测现有 mod 有无更新。**  [**【如何开关配置 mod】**](/mods/WhatsMod.html)
 
-**右上角最左边的下载按钮，可以检测下载新发布的未安装的 mod**
+- **可在 设置>游戏路径 页面内，设置和游戏进程组合打开的程序**
 
-![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
-
-**右上角打开设置，模组页面，这里右键可以快捷打开各种 mod 的 ini 配置文件以及文件夹位置，鼠标悬浮可以显示 mod 介绍**
-
-![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/21/65acc1d186370.webp =400x)
-
-**可在此添加组合打开的程序**
-
-![可在此添加组合打开的程序](https://bu.dusays.com/2024/01/21/65acc1e6362e2.webp =400x)
+![可在 设置>游戏路径 页面内，设置和游戏进程组合打开的程序](https://bu.dusays.com/2024/01/21/65acc1e6362e2.webp =400x)
 
 :::
 

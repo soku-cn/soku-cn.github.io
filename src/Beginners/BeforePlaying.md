@@ -153,15 +153,21 @@ date: 2024-01-07
 
 :::
 
-
-
-::: details 旧版本 Swarm
-::: info 旧版本 Swarm
-**如果由于不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以 [**下载旧版本 Swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)，带猫头鹰图标的那个**
+::: details 备用联机工具
+::: tabs
+@tab 1、旧版本 Swarm
+**如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以 [**下载使用旧版本 Swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)，带猫头鹰图标的那个**
 
 ![](https://bu.dusays.com/2024/04/02/660b982f0d056.png =600x)
 
+@tab 2、DAxZE
+
+![DAxZE by 喵音帝YIU](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =400x)
+
+![通过 萌卡(mycard) 的服务器进行中转](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =400x)
+
 :::
+
 
 
 
