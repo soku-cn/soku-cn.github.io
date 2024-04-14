@@ -6,6 +6,9 @@ import { cut } from "@node-rs/jieba";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import MergeCells from "markdown-it-multimd-table";
 import { componentsPlugin } from "vuepress-plugin-components";
+import { comment, getCommentPlugin } from 'vuepress-theme-hope';
+import { commentPlugin } from '@vuepress/plugin-comment';
+
 
 export default defineUserConfig({
 
@@ -40,6 +43,16 @@ export default defineUserConfig({
           fieldName === "id" ? [text] : cut(text, true),
       },
     }),
+    
+    commentPlugin({
+      provider: "Giscus",
+      repo: "ChocoFleece/SokuComments",
+      repoId: "R_kgDOLuJ96Q",
+      category: "Announcements",
+      categoryId: "DIC_kwDOLuJ96c4CesDB",
+      lazyLoading: true,
+    }),
+
   ],
 
   head: [
