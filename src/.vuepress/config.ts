@@ -1,3 +1,4 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
@@ -5,8 +6,17 @@ import { cut } from "@node-rs/jieba";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import MergeCells from "markdown-it-multimd-table";
 import { componentsPlugin } from "vuepress-plugin-components";
+import { comment, getCommentPlugin } from 'vuepress-theme-hope';
+import { commentPlugin } from '@vuepress/plugin-comment';
+
 
 export default defineUserConfig({
+
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
+
   base: "/",
   lang: "zh-CN",
   title: "非想天则指南",
@@ -33,6 +43,15 @@ export default defineUserConfig({
           fieldName === "id" ? [text] : cut(text, true),
       },
     }),
+    
+    commentPlugin({
+      provider: "Giscus",
+      repo: "ChocoFleece/SokuComments",
+      repoId: "R_kgDOLuJ96Q",
+      category: "Announcements",
+      categoryId: "DIC_kwDOLuJ96c4CesDB",
+    }),
+
   ],
 
   head: [

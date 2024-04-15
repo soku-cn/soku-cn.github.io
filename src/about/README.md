@@ -24,17 +24,20 @@ next: false
 
 - [**QQ资源群，可直接加群无需验证 【 869104893 】** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
 **（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
-
+::: center
+注：新版QQ目前已经无法将文件转发给自己
 :::
+
+
 
 
 ## **寻找玩伴 —— QQ群** 
 
 :::: info 寻找玩伴 —— QQ群
 ::: important 对战群
-- [**【主群】 新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  **【加群问题答案：指南已阅，有问题先自助】**
+- [**【无限制-主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：指南已阅，有问题先自助】</strong></font>
 
-- [**非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
+- [**【好玩群】非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 
 - [**东方非想天则萌新天堂  747865302**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
 
@@ -48,7 +51,6 @@ next: false
 :::
 ::: tip 其他
 - [**三回的 Mod 交流群  200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
-
 
 - [东方杀群（三国杀）384318315](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6H-IxyJU3ePt_7ntSQXVIO6v0so51oAC&authKey=Ycz95Pbu3sJ3luN3i2S%2BPEmjYs89DDN%2F7bMS5sJhO8GHuiZRf31rqAh%2BTEJbR58j&noverify=0&group_code=384318315)
 
@@ -123,7 +125,8 @@ https://soku-cn.github.io 和 https://hisoutensoku-cn-wiki.vercel.app（国外�
 ::: tip 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略！
 
 
-[巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 非想天启作者，网站站长，更新器帮助，Linux帮助 QQ 1459346474
+[巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧更新器作者，新更新器帮助，Linux帮助 QQ 1459346474 {#ChocoFleece}
+
 
 [Hagb Green Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 

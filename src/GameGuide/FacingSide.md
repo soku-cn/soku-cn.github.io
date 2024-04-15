@@ -12,7 +12,7 @@ date: 2024-02-21
 
 ::: info 转身条件
 
-[**【非想天则】转向机制讲解**](https://www.bilibili.com/video/BV1ky421876A) https://www.bilibili.com/video/BV1ky421876A
+[**【非想天则】转向机制讲解——视频**](https://www.bilibili.com/video/BV1ky421876A)
 
 
 1、地面自由状态（中立 Neutral）
