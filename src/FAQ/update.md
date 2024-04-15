@@ -17,23 +17,38 @@ date: 2024-01-14
 
 ::: important 需要下载安装 .Net 4.7.2，否则会打不开更新器 SokuLauncher.exe
 
-![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =450x)
+![Win7报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x)
 
 **解决办法：[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
 :::
 
+::: warning 用启动器开游戏时弹窗“String引用没有设置为String 的实例”的问题
+
+![](https://bu.dusays.com/2024/04/15/661d2f35663b4.jpg =400x)
+
+::: tip 解决办法
+**[去群里或者网盘里](/about/) 下“升级包”手动更新一下，同时会升级启动器本体，旧版的就会有这个问题**
+
+![下“升级包”手动更新一下](https://bu.dusays.com/2024/04/15/661d3c2dceeab.png =500x)
+
+:::
+
+<!--
 ::: note 更新 SokuModLoader 时遇到失败不用管他，可以不更新，或者下升级包手动更新下
 
 
 ![](https://bu.dusays.com/2024/03/19/65f9822af2a6c.png =300x)
 
 :::
+-->
 
 ::: tip SokuLauncher使用技巧
-- **每次打开时，会自动检测现有 mod 有无更新。**  [**【如何开关配置 mod】**](/mods/WhatsMod.html)
+- [**【如何开关配置 mod】**](/mods/WhatsMod.html)
 
-- **可在 设置>游戏路径 页面内，设置和游戏进程组合打开的程序**
+- **每次打开启动器时，会自动检测现有 mod 有无更新**
+
+- **可在 “设置 - 游戏路径” 页面内，设置和游戏进程组合打开的程序**
 
 ![可在 设置>游戏路径 页面内，设置和游戏进程组合打开的程序](https://bu.dusays.com/2024/01/21/65acc1e6362e2.webp =400x)
 
