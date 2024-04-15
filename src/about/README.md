@@ -8,7 +8,7 @@ prev: false
 next: false
 ---
 
-## **非想天则资源下载指路** <Badge text="资源持续更新" type="tip" />
+## **非想天则资源下载指路**
 
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
@@ -35,21 +35,21 @@ next: false
 
 :::: info 寻找玩伴 —— QQ群
 ::: important 对战群
-- [**【无限制-主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：指南已阅，有问题先自助】</strong></font>
+- [**【主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：指南已阅，有问题先自助】</strong></font>
 
-- [**【好玩群】非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
+- [**非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 
 - [**东方非想天则萌新天堂  747865302**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
 
 - [**天则居  27743867**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
-::: tip 聊天吹水群
+::: note 聊天吹水群
 - [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
 
 <!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
 -->
 :::
-::: tip 其他
+::: note 其他
 - [**三回的 Mod 交流群  200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 - [东方杀群（三国杀）384318315](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6H-IxyJU3ePt_7ntSQXVIO6v0so51oAC&authKey=Ycz95Pbu3sJ3luN3i2S%2BPEmjYs89DDN%2F7bMS5sJhO8GHuiZRf31rqAh%2BTEJbR58j&noverify=0&group_code=384318315)
@@ -62,11 +62,11 @@ next: false
 
 :::: info 欢迎使用本指南，持续建设中
 
-https://wiki.514.live （自动分流）
+- 推荐：[自动分流](https://wiki.514.live/)，自动选择最快速度源。
 
-https://soku-cn.gitee.io （国内站点）[仓库](https://gitee.com/soku-cn/soku-cn)
+- 大陆内：[仓库](https://gitee.com/soku-cn/soku-cn) [Gitee Pages](https://soku-cn.gitee.io)
 
-https://soku-cn.github.io 和 https://hisoutensoku-cn-wiki.vercel.app（国外站点）[仓库](https://github.com/soku-cn/soku-cn.github.io)
+- 大陆外：[仓库](https://github.com/soku-cn/soku-cn.github.io) [[推荐]Vercel](https://hisoutensoku-cn-wiki.vercel.app) [Github Pages](https://soku-cn.github.io)
 
 ::: tip 当前小目标
 完成新手上路基本知识和资源、Mod、工具讲解。

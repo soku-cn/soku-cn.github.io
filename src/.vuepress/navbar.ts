@@ -26,11 +26,11 @@ export default navbar([
   "/FAQ/Play/LobbyGuide.html",
   "/mods/PracticeMods.html",
   "/mods/WhatsMod.html",
-  {
-    text: "2V2 MOD",
-    icon: "gears",
-    link: "/mods/GameplayMods/2V2MOD.html",
-  },
+  //  {
+  //    text: "2V2 MOD",
+  //    icon: "gears",
+  //    link: "/mods/GameplayMods/2V2MOD.html",
+  //  },
 
 
 
