@@ -87,11 +87,11 @@ next: false
 
 :::: info 相关站点导航
 ::: tip Discord 群聊
-- [Discord Hisouten Server 国际非想天则社区（需梯子）](https://discord.gg/hisouten)
+- [Discord Hisouten Server 国际非想天则社区](https://discord.gg/hisouten)
 
-- [台湾非想天则 Disocrd 社区（需梯子）](https://discord.gg/jUN6xnEj3w) 
+- [台湾非想天则 Disocrd 社区](https://discord.gg/jUN6xnEj3w) 
 
-- [日本非想天则 Disocrd 社区（需梯子）](https://discord.gg/MPbaPbGzmh) 
+- [日本非想天则 Disocrd 社区](https://discord.gg/MPbaPbGzmh) 
 :::
 ::: tip 英文、日文 Wiki
 - [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
