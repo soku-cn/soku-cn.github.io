@@ -83,8 +83,8 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ## **大厅内的操作**
 ::: info 大厅内的操作
-- 默认是 `Enter` 开关聊天框（**可在 `th123\Modules\SokuLobbiesMod\SokuLobbiesMod.ini` 内自定义按键**）
-- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见下面第一个图）
+- 默认是 `Enter 回车键` 开关聊天框（**可在 ini 配置内自定义开关聊天框的按，见下面**）
+- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见下图）
 - 按 `Esc` 退出大厅房间
 - 按住`键盘 A` 加左右方向可以疾跑  
 - 在电梯前按`键盘 Z` 进入
@@ -92,6 +92,11 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 - 聊天框内输入 `/help` 查看全部命令列表 
 
 ![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
+
+::: tip 大厅的 ini 配置
+**在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
+
+![大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =500x)
 
 :::
 
@@ -105,7 +110,7 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 :::
 
 ## **一直在弹成就**
-::: info 关掉游戏重开就行了，不要傻等
+::: info 解决办法：关掉游戏重开就行了，不要傻等
 :::
 
 ## **进入VS NETWORK时弹窗报错，无法进入**
@@ -140,7 +145,7 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 :::
 
-## **建主或进别人时提示“bind”弹窗，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
+## **建主或进别人时提示端口冲突，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
 
 ![开任务管理器清理后台卡死的进程](https://bu.dusays.com/2024/01/21/65acef915315e.webp =400x)
 
@@ -156,12 +161,14 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ## **非中文系统开游戏时弹窗 Sokulobby Eoor**
 ::: info 非中文系统开游戏时弹窗 Sokulobby Eoor
+
 ![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
+
 ::: tip 解决方法
 
 **非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
 
-**或者区域设置换回中文**
+**或者 Windows 区域语言设置换回中文**
 
 :::
 
@@ -176,7 +183,7 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 如果会键入打字，那就按ESC或者回车把字输出就行了，然后就不会再打字了。
 :::
 
-## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡**
+## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡（极少见的问题）**
 
 ::: caution 现在碰到有个别人会遇到这种情况
 
