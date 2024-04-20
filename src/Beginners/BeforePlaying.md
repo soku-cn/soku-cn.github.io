@@ -103,11 +103,11 @@ date: 2024-01-07
 4. **如果别人进不来，请尝试再次点击“中转”，然后“复制”新的 IP 发给别人**
 
 5. **如果你想在大厅建主等待别人加入，可以点击“IP 用于大厅”的按钮； <br>重新点了“中转”刷新 IP 的话，也记得要再次点击“IP 用于大厅”，不需要重开游戏或重进大厅**
-
+<!--
 ::: tip 
 **在大厅建主的同时，你也可以往群里发 IP，别人也可以通过 IP 的方式连接你**
 :::
-
+-->
 ![**swarm 和则之间不存在打开的先后顺序，哪个先开后开都无所谓**](https://bu.dusays.com/2024/02/26/65dcaf689e6a6.jpg =240x)
 
 - **中转后点“端口管理”，可以查看自己和对手的网络延迟情况**
@@ -119,14 +119,7 @@ date: 2024-01-07
 
 ![**如果你发现端点管理内有很多 `65.108.63.185` 的 IP，不用惊慌，那个是 Konni 观战 Bot 的 IP，也就是大厅进门右手边那个特殊机子，观战不会造成你的联机卡顿**](https://bu.dusays.com/2024/03/01/65e17eedf211d.png =400x)
 ::::
-<!--::: tip Swarm 可能会被杀毒软件误报误删
 
-**Swarm 可能会被杀毒软件误报误删，可在 `Defender 病毒和威胁防护设置`中，将`实时保护`，`云提供的保护`暂时关闭，并添加排除项（文件和文件夹都添加），将 Swarm 解压或下载完毕后，再把`实时保护`，`云提供的保护`等重新打开。**
-
-[ **视频链接 —— 防止误报误删！常见杀毒软件设置白名单和信任操作演示 by RTN** ](https://www.bilibili.com/video/BV1Uu411A7Hh/)
-
-![Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复](https://bu.dusays.com/2024/02/28/65df3af01b7ea.png =450x)
--->
 ::: warning 提醒注意使用 swarm 不要绕远路了
 **正好处于下面所写四个省份的可以无脑选自己所在省份，其他的人一般选用离得近的地区作为中转**
 
@@ -147,6 +140,16 @@ date: 2024-01-07
 ![swarm 服务器 - 联机说明](https://bu.dusays.com/2024/01/21/65acce946fa86.webp =100x) ![正确连接1](https://bu.dusays.com/2024/01/21/65accec8ef27a.webp =100x) ![正确连接2](https://bu.dusays.com/2024/01/21/65accedc69106.webp =100x) ![错误连接-绕远路1](https://bu.dusays.com/2024/01/21/65acceed9202e.webp =100x) ![错误连接-绕远路2](https://bu.dusays.com/2024/01/21/65accefb8c88c.webp =100x)
 :::
 
+::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
+
+![被杀软误删了就会提示找不到文件了](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =400x)
+
+**要防止 Swarm 被杀毒软件误删，<br>可在 `Defender 病毒和威胁防护设置`中，将`实时保护`，`云提供的保护`暂时关闭，<br>然后将 Swarm 下载并解压到 `th123 文件夹内`，再为其`添加排除项`（建议文件和文件夹都添加），<br>最后再把`实时保护`，`云提供的保护`等重新打开。**
+
+[ **视频链接 —— 防止误报误删！常见杀毒软件设置白名单和信任操作演示 by RTN** ](https://www.bilibili.com/video/BV1Uu411A7Hh/)
+
+:::
+
 ::: warning 注意 Windows 防火墙内要允许 Swarm 进行网络通信
 
 如果遇到点“获取服务器列表”刷不出IP的话，请检查防火墙和杀软
@@ -155,18 +158,20 @@ date: 2024-01-07
 
 :::
 
-::: details 备用联机工具
+::: info 备用联机工具
+
 ::: tabs
-@tab 1、旧版本 Swarm
+@tab 1、不会被杀软误杀的旧版本 Swarm
 **如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以 [**下载使用旧版本 Swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)，带猫头鹰图标的那个**
 
 ![](https://bu.dusays.com/2024/04/02/660b982f0d056.png =600x)
 
-@tab 2、DAxZE
+@tab 2、DAxZE by 喵音帝 YIU
+**DAxZE by 喵音帝YIU，通过 萌卡(mycard) 的服务器进行中转，和 Swarm 功能类似，在整合包的 th123 文件夹内可以找到**
 
-![DAxZE by 喵音帝YIU](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =400x)
+[**详细请看其Lofter页面**](https://usaginya.lofter.com/post/1d56d69b_1c93aa6aa) | [**详细请看其Github页面**](https://github.com/usaginya/DAxZE)
 
-![通过 萌卡(mycard) 的服务器进行中转](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =400x)
+![](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =x250) 　![](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =x250)
 
 :::
 
@@ -174,8 +179,8 @@ date: 2024-01-07
 
 
 ### 进入 VS NETWORK 菜单，开始联机
-::: tip 
-- 联机视频演示教程 [**【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)
+::: important 
+- [联机视频演示教程 **【非想天则】新则大厅要如何才能愉快的玩耍**](https://www.bilibili.com/video/BV1WM411f7CC)
 
 - <font color=orange><strong>按键盘 “S 键” 可以快速切换成原版传统菜单</strong></font>
 
@@ -186,9 +191,9 @@ date: 2024-01-07
 
 ![传统菜单](https://bu.dusays.com/2024/03/27/6603abe0a8891.png =600x)
 
-:::: tabs
+:::: info 联机方式
+::: tabs
 @tab 自己建主，做1P
-::: info 自己建主，做1P
 
 - **如果你是用大厅：在大厅里没人的机子上按确认键 Z**
 
@@ -202,10 +207,9 @@ date: 2024-01-07
 42.193.7.216:58309 3+文，希望水平高点的指教 （意思新手不要进来）
 42.193.7.216:58309 @xxx （意思是有约了，别的人不要进来）
 42.193.7.216:58309 对二 黑白 妖梦，随时切 （意思是可能随时会中断游戏）
-:::
+
 
 @tab 自己进别人，做2P
-::: info 自己进别人，做2P
 - **如果你是用大厅：在有一个人建主的机子上按确认键 Z，就会加入了**
 
 - **如果你是用QQ群：在传统原版菜单，复制别人的 IP，选择 `从剪贴板复制的IP加入` 即可**
