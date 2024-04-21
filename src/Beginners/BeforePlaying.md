@@ -140,6 +140,8 @@ date: 2024-01-07
 ![swarm 服务器 - 联机说明](https://bu.dusays.com/2024/01/21/65acce946fa86.webp =100x) ![正确连接1](https://bu.dusays.com/2024/01/21/65accec8ef27a.webp =100x) ![正确连接2](https://bu.dusays.com/2024/01/21/65accedc69106.webp =100x) ![错误连接-绕远路1](https://bu.dusays.com/2024/01/21/65acceed9202e.webp =100x) ![错误连接-绕远路2](https://bu.dusays.com/2024/01/21/65accefb8c88c.webp =100x)
 :::
 
+### Swarm被误杀
+
 ::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
 
 ![被杀软误删了就会提示找不到文件了](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =400x)
