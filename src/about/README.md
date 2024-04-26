@@ -15,14 +15,14 @@ next: false
 
 - [**123 网盘（不限速）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
 
-- [**电信天翼网盘（不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）) 访问码： 97z6
+- [**电信天翼网盘（不限速）**](https://cloud.189.cn/web/share?code=6JZJnmyAzu63（访问码：f6jc）) 访问码：f6jc
 
 - [**百度网盘**](https://pan.baidu.com/s/10bnNy8Rc3uJv2L8jngzDyg?pwd=vw41)
 <!--[**百度网盘 - 指路文档备份**](https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111)
 -->
 - [**蓝奏云(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i) 访问码： hfxy
 
-- [**QQ资源群，可直接加群无需验证 【 869104893 】** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
+- QQ资源群，可直接加群无需验证 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
 **（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
 ::: center
 注：新版QQ目前已经无法将文件转发给自己
