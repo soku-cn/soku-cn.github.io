@@ -43,7 +43,7 @@ export default defineUserConfig({
           fieldName === "id" ? [text] : cut(text, true),
       },
     }),
-    
+
     commentPlugin({
       provider: "Giscus",
       repo: "ChocoFleece/SokuComments",
