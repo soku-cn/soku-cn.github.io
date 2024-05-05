@@ -83,20 +83,33 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ## **大厅内的操作**
 ::: info 大厅内的操作
-- 默认是 `Enter 回车键` 开关聊天框（**可在 ini 配置内自定义开关聊天框的按，见下面**）
-- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见下图）
+- 默认是 `Enter 回车键` 开关聊天框（**可在 ini 内自定义开关聊天框的热键，见图3**）
+- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
 - 按 `Esc` 退出大厅房间
 - 按住`键盘 A` 加左右方向可以疾跑  
+- 按住 `键盘 S` 和 `方向键`，可以自由移动镜头（自己角色不动），再同时按住 `键盘 A` 可以加快镜头的移动速度
 - 在电梯前按`键盘 Z` 进入
-- 不想自己打成就解锁，可以手动使用全开档（见下面第二个图）
+- 不想自己打成就解锁的话，可以手动使用全开档（见图2）
 - 聊天框内输入 `/help` 查看全部命令列表 
 
-![表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
+![图1 表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
+
+![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =450x)
 
 ::: tip 大厅的 ini 配置
-**在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
+**在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`<br>可以设置是否允许大厅建主的同时使用 IP 连接等**
 
-![大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =500x)
+![图3 大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =500x)
+
+:::
+
+## **大厅内自己显示为黑块，菜单里点自定义形象就崩溃**
+
+::: info 解决办法
+
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的 `settings.dat` 文件**
+
+![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
 
 :::
 
@@ -122,16 +135,6 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 **看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可**
 
 ![如图改名替换文件，将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`](https://bu.dusays.com/2024/01/21/65acb3d6926a3.webp =700x)
-:::
-
-## **大厅内自己显示为黑块，菜单里点自定义形象就崩溃**
-
-::: info 解决办法
-
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的 `settings.dat` 文件**
-
-![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
-
 :::
 
 ## **大厅房间进不去，卡加载，"Unknown exception"报错**
