@@ -24,6 +24,8 @@ date: 2023-08-01
 ::: info 检测自己的网络是否支持AP
 **在“自助手册”文件夹内，点这个 `autopunch检测-check-gui.exe` 可以进行检测**
 
+或者[下载 autopunch检测-check-gui.exe](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/autopunch%E6%A3%80%E6%B5%8B-check-gui.exe)
+
 ![](https://bu.dusays.com/2024/02/28/65defee74c6b5.png =300x)
 
 ::: tabs
@@ -51,13 +53,16 @@ date: 2023-08-01
 
 2、可能对手不支持AP
 
-3、**可能是端口抽风了，可以试试更换建主端口，修改这个10800，比如改成10801，保存即可，不需要重开游戏**
+3、可能是端口抽风了，可以试试**更换建主端口**
+
+4、[**使用 Swarm 中转联机**](/Beginners/BeforePlaying.html#%E4%BD%BF%E7%94%A8-swarm-%E7%AD%89%E4%B8%AD%E8%BD%AC-ip-%E5%9C%A8%E5%A4%A7%E5%8E%85%E9%87%8C%E8%81%94%E6%9C%BA)
+
+5、大厅可以修改这个10800，比如改成10801，保存即可，不需要重开游戏
 
 ![点开这个 SokuLobbies.ini](https://bu.dusays.com/2024/01/24/65b1333e9f810.png =400x)
 
 ![修改这个10800，比如改成10801，保存即可，不需要重开游戏](https://bu.dusays.com/2024/01/24/65b1333ec7ebc.png =400x)
 
-4、[**使用 Swarm 中转联机**](/Beginners/BeforePlaying.html#%E4%BD%BF%E7%94%A8-swarm-%E7%AD%89%E4%B8%AD%E8%BD%AC-ip-%E5%9C%A8%E5%A4%A7%E5%8E%85%E9%87%8C%E8%81%94%E6%9C%BA)
 
 :::
 
