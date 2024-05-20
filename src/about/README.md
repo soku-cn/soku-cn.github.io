@@ -35,7 +35,7 @@ next: false
 
 :::: info 寻找玩伴 —— QQ群
 ::: important 对战群
-- [**【主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：指南已阅，有问题先自助】</strong></font>
+- [**【主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：网站已阅，若有问题先自助】</strong></font>
 
 - [**非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 
@@ -43,17 +43,24 @@ next: false
 
 - [**天则居  27743867**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
-::: note 聊天吹水群
-- [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
 
-<!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
--->
-:::
 ::: note 其他
 - [**三回的 Mod 交流群  200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 - [东方杀群（三国杀）384318315](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6H-IxyJU3ePt_7ntSQXVIO6v0so51oAC&authKey=Ycz95Pbu3sJ3luN3i2S%2BPEmjYs89DDN%2F7bMS5sJhO8GHuiZRf31rqAh%2BTEJbR58j&noverify=0&group_code=384318315)
 
+- [东方凭依华新人共勉群 819759586](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=aWaIQvCEqQP6PFeJc_LahuwVTqLcDZq6&authKey=wQB9dSSNY9hzexOsJI0WFdxSwtXYVh7SQOaaWewiawt4%2FX4N08qg2gL97AE1lfsP&noverify=0&group_code=819759586)
+
+- [純萃梦想研究院 34585759](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=YgDgCorN6HSxKt-NLg2gRAC8FPwN4uqn&authKey=aUKsQn61DZL7xWR9NmLoTGIFFaqmiC%2FXiieIOOEw4Of6V14DOkjSPBNNYZ4iBVxP&noverify=0&group_code=34585759)
+
+:::
+
+
+::: note 聊天吹水群
+- [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
+
+<!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
+-->
 :::
 ::::
 
