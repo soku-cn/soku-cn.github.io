@@ -33,7 +33,6 @@ next: false
 
 ## **寻找玩伴 —— QQ群** 
 
-:::: info 寻找玩伴 —— QQ群
 ::: important 对战群
 - [**【主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：网站已阅，若有问题先自助】</strong></font>
 
@@ -44,7 +43,7 @@ next: false
 - [**天则居  27743867**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
 
-::: note 其他
+::: info 其他
 - [**三回的 Mod 交流群  200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 - [东方杀群（三国杀）384318315](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6H-IxyJU3ePt_7ntSQXVIO6v0so51oAC&authKey=Ycz95Pbu3sJ3luN3i2S%2BPEmjYs89DDN%2F7bMS5sJhO8GHuiZRf31rqAh%2BTEJbR58j&noverify=0&group_code=384318315)
@@ -56,13 +55,12 @@ next: false
 :::
 
 
-::: note 聊天吹水群
+::: info 聊天吹水群
 - [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
 
 <!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
 -->
 :::
-::::
 
 
 ## **关于本站✨**
@@ -75,26 +73,27 @@ next: false
 
 - 大陆外：[仓库](https://github.com/soku-cn/soku-cn.github.io) [[推荐]Vercel](https://hisoutensoku-cn-wiki.vercel.app) [Github Pages](https://soku-cn.github.io)
 
+
+欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
+
+[网站交流群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
+
 ::: tip 当前小目标
 完成新手上路基本知识和资源、Mod、工具讲解。
 :::
+
 ::: tip 最终目标
 做成中文非想天则Wiki，对标英文日文Wiki。
 [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 
 [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 
 :::
-
-欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
-
-[网站交流群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 ::::
 
 
 ## **相关站点导航**
 
-:::: info 相关站点导航
-::: tip Discord 群聊
-- [Discord Hisouten Server 国际非想天则社区](https://discord.gg/hisouten)
+::: important Discord 群聊社区
+- [国际非想天则社区 - Discord Hisouten Server](https://discord.gg/hisouten)
 
 - [台湾非想天则 Disocrd 社区](https://discord.gg/jUN6xnEj3w) 
 
@@ -107,14 +106,7 @@ next: false
 
 - [另一个日文非想天则 Wiki - 東方非想天則 総合 Wiki](http://th123.glasscore.net/)
 :::
-::: tip Mod 模组
-[Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
-
-[SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
-
-[SWRSToys mod团队的Github仓库地址](https://github.com/SokuDev/SokuMods) 
-:::
-::: tip 其他
+::: info 其他
 [Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
 
 [SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
@@ -125,11 +117,18 @@ next: false
 
 [非想天则高手对局视频 掌百的非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
 :::
-::::
+::: info Mod 模组
+[Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
+
+[SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
+
+[SWRSToys mod团队的Github仓库地址](https://github.com/SokuDev/SokuMods) 
+:::
+
 
 ## **感谢！志愿者！** 
 
-::: tip 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略！
+::: info 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略！
 
 
 [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧更新器作者，新更新器帮助，Linux帮助 QQ 1459346474 {#ChocoFleece}
