@@ -19,6 +19,12 @@ date: 2023-09-01
 
 ::: tip
 [**【B站视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
+
+[Vposy 〈帮助中心〉▷如何关杀毒软件](https://mp.weixin.qq.com/s/kivDC7BhuZ8i1Uefr7eQJQ)
+
+[Vposy 〈帮助中心〉▷添加至白名单](https://mp.weixin.qq.com/s/xN2OK0oYU4MqsYlFqTL_qQ)
+
+
 :::
 
 ::: info

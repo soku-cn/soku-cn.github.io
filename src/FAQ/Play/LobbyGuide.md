@@ -93,12 +93,12 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ![图1 表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
 
-![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =450x)
+![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =700x)
 
 ::: tip 大厅的 ini 配置
 **在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`<br>可以设置是否允许大厅建主的同时使用 IP 连接等**
 
-![图3 大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =500x)
+![图3 大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =300x)
 
 :::
 

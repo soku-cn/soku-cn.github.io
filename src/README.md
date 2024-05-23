@@ -25,89 +25,89 @@ actions:
 
 features:
 
-  - title: 非想天则游戏简介
+  - title: 游戏简介
     icon: circle-info
     details: 跳转 THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
 
-  - title: 关于本站、非想天则资源下载、对战交流QQ群
+  - title: 关于本站、资源下载
     icon: download
-    details: 
+    details: 关于本站、非想天则资源下载、对战交流QQ群
     link: /about/
 
-  - title: 大厅常见问题、联机说明
+  - title: 大厅常见问题
     icon: fa-solid fa-star
-    details: 
+    details: 大厅内的操作，大厅内如何联机
     link: /FAQ/Play/LobbyGuide.html
 
-  - title: 新手上路：对战前新人需知
+  - title: 对战前新人需知
     icon: book-open
-    details: 
+    details: 新人指路，联机教程，交流用语需知
     link: /Beginners/BeforePlaying.html
 
   - title: 游戏打不开：缺失 d3d9_33.dll
     icon: question
-    details: 
+    details: 下载安装 DX 修复即可（DirectX Repair）
     link: /FAQ/Failed-to-Start/d3d9_33.html
 
-  - title: 解决游戏问题：游戏内特效贴图变成一根线（已修复）
+  - title: BUG修复：游戏内特效贴图变成一根线
     icon: bug
-    details: 
+    details: 下载修复补丁即可，很简单就能修复
     link: /FAQ/In-Games/MissingGraphic.html
 
-  - title: 解决游戏问题：游戏画面显示错位
+  - title: BUG修复：游戏画面显示错位
     icon: bug
-    details: 
+    details: 详情点击阅读，很简单就能修复
     link: /FAQ/In-Games/CursedWindow.html
 
-  - title: Mod 介绍：高级练习模式使用说明
+  - title: Mod：高级练习模式使用说明
     icon: fa-solid fa-lightbulb
-    details: 
+    details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
     link: /mods/PracticeMods.html
 
   - title: 游戏系统与机制：天气系统
     icon: book
-    details: 
+    details: 天气系统总体机制、20个天气详细说明
     link: /GameGuide/weather.html
     
   - title: SokuLauncher 更新器使用说明
     icon: file
-    details: 便捷地保持游戏更新和管理游戏配置
+    details: 便捷地保持游戏更新，管理游戏Mod配置
     link: /FAQ/update.html
 
   - title: 「如何开关配置 Mod」
     icon: gear
-    details: 
+    details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
     link: /mods/WhatsMod.html
 
-  - title: Mod 介绍：如何将美化包导入游戏（Shady-loader）
+  - title: Mod：如何将美化包导入游戏（Shady-loader）
     icon: gears
-    details: 
+    details: 请点击仔细阅读详情
     link: /mods/DIY/Shady-loader.html
 
-  - title: Mod 介绍：2V2 MOD 下载使用说明
+  - title: Mod：2V2 MOD 下载使用说明
     icon: gears
-    details: 
+    details: 请点击仔细阅读详情
     link: /mods/GameplayMods/2V2MOD.html
 
-  - title: Mod 介绍：则2 Mod 下载使用说明
+  - title: Mod：则2 下载使用说明
     icon: gears
-    details: 
+    details: 请点击仔细阅读详情
     link: /mods/GameplayMods/SOKU2general.html
 
-  - title: 怎么使用“神AI”
+  - title: 怎么使用 “神AI”
     icon: robot
-    details: 
+    details: 神AI容易被杀软误杀，则2与神AI不兼容
     link: /FAQ/Others/th123AI.html
 
-  - title: 非想天则英文、日文 Wiki、国际社区Discord群
+  - title: 非想天则 英文/日文 Wiki、国际Discord群聊
     icon: sitemap
-    details: 相关站点导航
+    details: 相关站点导航、英文/日文 Wiki
     link: /about/#相关站点导航
 
   - title: 在 GNU/Linux 下运行非想天则
     icon: fa-brands fa-linux
-    details: 
+    details: 通过 Wine 运行非想天则
     link: /FAQ/Linux/Linux.html
 
 copyright: false
