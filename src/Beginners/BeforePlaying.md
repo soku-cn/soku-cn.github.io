@@ -13,10 +13,10 @@ date: 2024-01-07
 #文章编辑日期
 ---
 
-### 新人指路-视频教程
-::: important 新人指路-视频教程
+### 视频教程
+::: important 
 
-[**新人指路 2024 五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+[**视频教程 —— 新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 
 :::
 
