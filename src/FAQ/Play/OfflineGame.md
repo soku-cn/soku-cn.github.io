@@ -12,13 +12,15 @@ author: 三回転Tstar
 date: 2023-08-01
 #文章编辑日期
 ---
+::: info 线下联机视频教程
 
+[**【⑨都能看懂的线下非想天则联机教程-哔哩哔哩】**](https://www.bilibili.com/video/BV1QU411d7P8)
 
-::: important 如果连不上的话，试试关掉 Windows 防火墙，或者换对方建主
-
-![关闭防火墙](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp =700x)
-
+以下是图文教程，线下联机三种方式
 :::
+
+
+
 
 ::: info 如何线下联机打则
 
@@ -74,4 +76,10 @@ date: 2023-08-01
 > 使用说明和参考：
 > [《格斗游戏本地键盘双人，多个键盘分别模拟多个控制器，KeyboardSplitter 软件使用演示 Keyboard Splitter Xbox](https://www.bilibili.com/video/BV1hT411h7uw/)
 > [油管——《Touhou How To : Multiplayer with 2 keyboards on same PC》](https://www.youtube.com/watch?v=_hvoFs_amT8)
+:::
+
+::: important 如果连不上的话，试试关掉 Windows 防火墙，或者换对方建主
+
+![关闭防火墙](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp =700x)
+
 :::

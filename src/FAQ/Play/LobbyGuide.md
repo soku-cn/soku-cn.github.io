@@ -17,9 +17,9 @@ date: 2024-03-01
 
 ::: important 联机教程 👇 👇 👇 
 
-[**视频链接 —— 新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+[**视频教程 —— 新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 
-[**【联机教程———大厅内使用 Swarm 联机】**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+[**图文教程 —— 大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 :::
 
@@ -122,18 +122,20 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 :::
 
 ## **一直在弹成就**
-::: info 解决办法：关掉游戏重开就行了，不要傻等
+::: info 解决办法
+**关掉游戏重开就行了，不要傻等**
 :::
 
-## **进入VS NETWORK时弹窗报错，无法进入**
+## **进入 VS NETWORK 就弹窗报错 stats.dat**
 
 ![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
 
 ::: info  解决办法
 
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可**
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可**
 
-![如图改名替换文件，将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`](https://bu.dusays.com/2024/01/21/65acb3d6926a3.webp =700x)
+![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
+
 :::
 
 ## **大厅房间进不去，卡加载，"Unknown exception"报错**
@@ -185,7 +187,7 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 如果会键入打字，那就按ESC或者回车把字输出就行了，然后就不会再打字了。
 :::
 
-## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡（极少见的问题）**
+<!-- ## **进入大厅后过一段时间，整个游戏就会变成PPT，退出大厅也依然很卡（极少见的问题）**
 
 ::: caution 现在碰到有个别人会遇到这种情况
 
@@ -197,5 +199,5 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 **都不行的话，那就 总配置文件 里把 大厅mod 关掉吧** [**如何开关配置 mod**](/mods/WhatsMod.html)
 
-:::
+::: -->
 
