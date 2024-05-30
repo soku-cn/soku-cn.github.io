@@ -140,7 +140,7 @@ export default sidebar({
 
 
       {
-        text: "「新手上路」",
+        text: "「Beginners」",
         icon: "book",
         prefix: "Beginners/",
         collapsible: true,
@@ -149,7 +149,7 @@ export default sidebar({
 
 
       {
-        text: "「游戏常见问题」",
+        text: "「FAQ」",
         icon: "question",
         prefix: "FAQ/",
         collapsible: true,
@@ -157,37 +157,23 @@ export default sidebar({
           [
             "update.md",
             {
-              text: "游戏无法正常运行",
+              text: "Failed-to-Start",
               icon: "question",
               prefix: "Failed-to-Start/",
               collapsible: true,
               children: "structure",
             },
             {
-              text: "游戏内问题",
+              text: "In-Games",
               icon: "question",
               prefix: "In-Games/",
               collapsible: true,
               children: "structure",
             },
             {
-              text: "对战和大厅问题",
+              text: "Playing",
               icon: "question",
               prefix: "Play/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "神AI杀软CHM等其他问题",
-              icon: "question",
-              prefix: "Others/",
-              collapsible: true,
-              children: "structure",
-            },
-            {
-              text: "Linux相关问题",
-              icon: "question",
-              prefix: "Linux/",
               collapsible: true,
               children: "structure",
             }
@@ -196,7 +182,7 @@ export default sidebar({
 
 
       {
-        text: "「Mod、插件介绍」",
+        text: "「Mods」",
         icon: "gear",
         prefix: "mods/",
         collapsible: true,
@@ -204,28 +190,28 @@ export default sidebar({
           "WhatsMod.md",
           "PracticeMods.md",
           {
-            text: "功能性插件",
+            text: "QoLMods",
             icon: "gears",
             prefix: "QoLMods/",
             collapsible: true,
             children: "structure",
           },
           {
-            text: "高级功能插件",
+            text: "AdvancedMods",
             icon: "gears",
             prefix: "AdvancedMods/",
             collapsible: true,
             children: "structure",
           },
           {
-            text: "改色等Mod",
+            text: "ModifyMods",
             icon: "gears",
             prefix: "DIY/",
             collapsible: true,
             children: "structure",
           },
           {
-            text: "游戏性Mod",
+            text: "GameplayMods",
             icon: "gears",
             prefix: "GameplayMods/",
             collapsible: true,
@@ -237,7 +223,7 @@ export default sidebar({
 
 
       {
-        text: "「游戏系统与机制」",
+        text: "「GameSystemMachine」",
         icon: "fa-brands fa-wikipedia-w",
         prefix: "GameGuide/",
         collapsible: true,
@@ -246,7 +232,7 @@ export default sidebar({
 
 
       {
-        text: "「攻略数据」",
+        text: "「FrameData」",
         icon: "laptop-code",
         prefix: "data/",
         collapsible: true,

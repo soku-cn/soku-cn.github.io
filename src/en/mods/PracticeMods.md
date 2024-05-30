@@ -1,5 +1,5 @@
 ---
-title: 练习模式Mod使用说明
+title: Practice Mods
 
 # 标题
 icon: fa-solid fa-lightbulb

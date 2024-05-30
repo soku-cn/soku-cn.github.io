@@ -1,5 +1,5 @@
 ---
-title: 如何开关配置Mod
+title: Manage Mods Config
 
 # 标题
 icon: gears

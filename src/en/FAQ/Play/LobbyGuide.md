@@ -1,5 +1,5 @@
 ---
-title: 大厅常见问题(联机教程)
+title: SokuLobbies
 # 标题
 icon: fa-solid fa-star
 # 图标

@@ -1,5 +1,5 @@
 ---
-title: SokuLauncher(ModsUpdater)
+title: SokuLauncher (ModsUpdater)
 # 标题
 icon: file
 # 图标

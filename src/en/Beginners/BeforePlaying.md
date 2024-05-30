@@ -1,5 +1,5 @@
 ---
-title: 对战前新人须知
+title: Beginners Info
 
 icon: book-open
 # 图标
