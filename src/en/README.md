@@ -1,114 +1,99 @@
 ---
 home: true
-title: 主页
+title: Home
 icon: home
 heroFullScreen: false
 heroImage: /logo-home2.webp
 heroImageDark: /logo-home2-dark.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
-heroText: 非想天则指南
-tagline: 一个关于「东方非想天则」的中文指南 Wiki✨ <br> <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640" target="_blank">网站交流群 200803640</a> <br><br> <span style="font-weight:bold;"><em><font size=1>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
+heroText: Hisoutensoku Guide
+tagline: <a href="https://discord.gg/hisouten" target="_blank">Join Hisouten Discord</a> <br><br> <span style="font-weight:bold;"><em><font size=1>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
 
 
 actions:
 
   - text: About
-    link: /about/
+    link: /en/about/
     type: primary
 
   - text: FAQ
-    link: /FAQ/
+    link: /en/FAQ/
 
   - text: Mods
-    link: /mods/
+    link: /en/mods/
 
 features:
 
-  - title: 游戏简介
+  - title: TH12.3 Hisoutensoku
     icon: circle-info
-    details: 跳转 THBWiki「东方非想天则」
-    link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
+    details: 
+    link: https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku
 
-  - title: 关于本站、资源下载
+  - title: About
     icon: download
-    details: 关于本站、非想天则资源下载、对战交流QQ群
-    link: /about/
-
-  - title: 大厅常见问题
-    icon: fa-solid fa-star
-    details: 大厅内的操作，大厅内如何联机
-    link: /FAQ/Play/LobbyGuide.html
-
-  - title: 对战前新人需知
-    icon: book-open
-    details: 新人指路，联机教程，交流用语需知
-    link: /Beginners/BeforePlaying.html
-
-  - title: 游戏打不开：缺失 d3d9_33.dll
-    icon: question
-    details: 下载安装 DX 修复即可（DirectX Repair）
-    link: /FAQ/Failed-to-Start/d3d9_33.html
-
-  - title: BUG修复：游戏内特效贴图变成一根线
-    icon: bug
-    details: 下载修复补丁即可，很简单就能修复
-    link: /FAQ/In-Games/MissingGraphic.html
-
-  - title: BUG修复：游戏画面显示错位
-    icon: bug
-    details: 详情点击阅读，很简单就能修复
-    link: /FAQ/In-Games/CursedWindow.html
-
-  - title: Mod：高级练习模式使用说明
-    icon: fa-solid fa-lightbulb
-    details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
-    link: /mods/PracticeMods.html
-
-  - title: 游戏系统与机制：天气系统
-    icon: book
-    details: 天气系统总体机制、20个天气详细说明
-    link: /GameGuide/weather.html
+    details: About this site, Hisoutensoku Resources Download
+    link: /en/about/
     
-  - title: SokuLauncher 更新器使用说明
+  - title: SokuLauncher (Mods Manager & Updater)
     icon: file
-    details: 便捷地保持游戏更新，管理游戏Mod配置
-    link: /FAQ/update.html
+    details: 
+    link: /en/FAQ/update.html
 
-  - title: 「如何开关配置 Mod」
+  - title: SokuLobbies FAQ
+    icon: fa-solid fa-star
+    details: 
+    link: /en/FAQ/Play/LobbyGuide.html
+
+  - title: Beginners Info
+    icon: book-open
+    details: 
+    link: /en/Beginners/BeforePlaying.html
+
+  - title: Solution - Missing d3d9_33 dll
+    icon: question
+    details: DirectX Repair
+    link: /en/FAQ/Failed-to-Start/d3d9_33.html
+
+  - title: BUG Fixed - Game Effect Graphic Issue
+    icon: bug
+    details: 
+    link: /en/FAQ/In-Games/MissingGraphic.html
+
+  - title: Practice Mods Guide
+    icon: fa-solid fa-lightbulb
+    details: Hitboxes, Inputs, Frame Advantage, Frame Step, Position Reset, Replay Takeover
+    link: /en/mods/PracticeMods.html
+
+  - title: Soku Weather System
+    icon: book
+    details: Most precious Weather System and all 20 weater effects
+    link: /en/GameGuide/weather.html
+
+  - title: How to manage mods config
     icon: gear
-    details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
-    link: /mods/WhatsMod.html
+    details: 
+    link: /en/mods/WhatsMod.html
 
-  - title: Mod：如何将美化包导入游戏（Shady-loader）
+  - title: Modify - Shady-loader
     icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/DIY/Shady-loader.html
+    details: 
+    link: /en/mods/DIY/Shady-loader.html
 
-  - title: Mod：2V2 MOD 下载使用说明
+  - title: Mod - 2V2 MOD
     icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/GameplayMods/2V2MOD.html
+    details: 
+    link: /en/mods/GameplayMods/2V2MOD.html
 
-  - title: Mod：则2 下载使用说明
+  - title: Mod - SOKU2
     icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/GameplayMods/SOKU2general.html
+    details: 
+    link: /en/mods/GameplayMods/SOKU2general.html
 
-  - title: 怎么使用 “神AI”
-    icon: robot
-    details: 神AI容易被杀软误杀，则2与神AI不兼容
-    link: /FAQ/Others/th123AI.html
-
-  - title: 非想天则 英文/日文 Wiki、国际Discord群聊
-    icon: sitemap
-    details: 相关站点导航、英文/日文 Wiki
-    link: /about/#相关站点导航
-
-  - title: 在 GNU/Linux 下运行非想天则
+  - title: Run Soku on GNU/Linux
     icon: fa-brands fa-linux
-    details: 通过 Wine 运行非想天则
-    link: /FAQ/Linux/Linux.html
+    details: 
+    link: /en/FAQ/Linux/Linux.html
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024

@@ -1,6 +1,6 @@
 # 「非想天则指南」
-## 一个关于「东方非想天则」的普通指南✨
-## Touhou 12.3 HisoutenSoku Chinese Wiki
+## 一个关于「东方非想天则」的普通指南✨ （中英双语）
+## Touhou 12.3 HisoutenSoku Wiki (Chinese/English )
 
 - 推荐使用：[自动分流](https://wiki.514.live/)，自动选择最快速度源。
 
