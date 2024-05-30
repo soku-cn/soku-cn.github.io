@@ -126,22 +126,118 @@ export default sidebar({
         children: "structure",
       },
 
-      // {
-      //   text: "其他内容",
-      //   icon: "ellipsis",
-      //   prefix: "others/",
-      //   collapsible: true,
-      //   children: "structure",
-      // },
+    ],
+
+  "/en/":
+    [
+      {
+        text: "「About」",
+        icon: "download",
+        prefix: "about/",
+        link: "about/",
+        children: "structure",
+      },
 
 
+      {
+        text: "「Beginners」",
+        icon: "book",
+        prefix: "Beginners/",
+        collapsible: true,
+        children: "structure",
+      },
 
-      // {
-      //   text: "记录",
-      //   icon: "circle",
-      //   prefix: "demo/",
-      //   link: "demo/",
-      //   children: "structure",
-      // },
+
+      {
+        text: "「FAQ」",
+        icon: "question",
+        prefix: "FAQ/",
+        collapsible: true,
+        children:
+          [
+            "update.md",
+            {
+              text: "Failed-to-Start",
+              icon: "question",
+              prefix: "Failed-to-Start/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "In-Games",
+              icon: "question",
+              prefix: "In-Games/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "Playing",
+              icon: "question",
+              prefix: "Play/",
+              collapsible: true,
+              children: "structure",
+            }
+          ],
+      },
+
+
+      {
+        text: "「Mods」",
+        icon: "gear",
+        prefix: "mods/",
+        collapsible: true,
+        children: [
+          "WhatsMod.md",
+          "PracticeMods.md",
+          {
+            text: "QoLMods",
+            icon: "gears",
+            prefix: "QoLMods/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "AdvancedMods",
+            icon: "gears",
+            prefix: "AdvancedMods/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "ModifyMods",
+            icon: "gears",
+            prefix: "DIY/",
+            collapsible: true,
+            children: "structure",
+          },
+          {
+            text: "GameplayMods",
+            icon: "gears",
+            prefix: "GameplayMods/",
+            collapsible: true,
+            children: "structure",
+          },
+
+        ],
+      },
+
+
+      {
+        text: "「GameSystemMachine」",
+        icon: "fa-brands fa-wikipedia-w",
+        prefix: "GameGuide/",
+        collapsible: true,
+        children: "structure",
+      },
+
+
+      {
+        text: "「FrameData」",
+        icon: "laptop-code",
+        prefix: "data/",
+        collapsible: true,
+        children: "structure",
+      },
+
     ],
 });
