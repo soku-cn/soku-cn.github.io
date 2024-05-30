@@ -17,10 +17,25 @@ export default defineUserConfig({
     vuePluginOptions: {},
   }),
 
+  locales: {
+    "/": {
+      lang: "zh-CN",
+      title: "非想天则指南",
+      description: "一个关于「东方非想天则」的中文指南 Wiki",
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "Hisoutensoku Guide",
+      description: "一个关于「东方非想天则」的中文指南 Wiki",
+    },
+  },
+
+  /*
   base: "/",
   lang: "zh-CN",
   title: "非想天则指南",
-  description: "一个关于「东方非想天则」的中文指南 Wiki",
+  description: "一个关于「东方非想天则」的中文指南 Wiki",  
+  */
   theme,
   extendsMarkdown: (md) => {
     md.use(MergeCells);

@@ -9,7 +9,6 @@ date: 2023-09-09
 author: Hagb
 ---
 
-如果你看不懂这个标题，那么你应该不需要用到本篇内容。
 
 本篇内容是关于如何在 GNU/Linux 使用 wine 运行非想天则及相关程序的。
 
@@ -79,11 +78,11 @@ Windows Registry Editor Version 5.00
 
 遇到问题可以对照以下表格更新大厅
 
-| 大厅可能遇到的问题                      | 首次修复问题的大厅mod版本 |
-|:-------------------------------------|:--------|
-| Host 或使用 host list 时报 SSL 相关错误 | 0.6.4   |
-| 大厅内无法用中文输入法聊天（Wine>=8.8）   | 0.6.5   |
-| 加入联机大厅时连接超时或长时间卡在 Joining | 0.6.6.1 |
+| 大厅可能遇到的问题                         | 首次修复问题的大厅mod版本 |
+| :----------------------------------------- | :------------------------ |
+| Host 或使用 host list 时报 SSL 相关错误    | 0.6.4                     |
+| 大厅内无法用中文输入法聊天（Wine>=8.8）    | 0.6.5                     |
+| 加入联机大厅时连接超时或长时间卡在 Joining | 0.6.6.1                   |
 
 （总而言之把大厅 mod 更新到 0.6.6.1 或以上的最新版就好）
 
@@ -95,10 +94,5 @@ Windows Registry Editor Version 5.00
 
 直接使用[Swarm-NG仓库](https://github.com/evshiron/swarm-ng-build/releases)的Linux发行版即可。
 
-## 启动器相关
-
-在终端中使用 `wine 东方非想天启.exe` 或类似方式运行非想天启启动器时，可能会弹出 `OSError: (Errno 9) Bad file descriptor` 的错误而无法启动。遇此问题可以直接在图形界面点击运行，或者在终端中将标准输出重定向到 `/dev/null`（如 `wine 东方非想天启.exe > /dev/null`）。
-
-> 东方非想天启是我，也就是[巧克力绒](/about/#ChocoFleece)，在2023年中旬制作的新则启动器工具，现已完全弃用，统一使用SokuLauncher启动器。
 
 ![Linux Mods](https://bu.dusays.com/2024/01/21/65acf18dc1dc4.webp =400x)

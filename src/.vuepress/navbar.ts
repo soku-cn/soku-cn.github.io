@@ -11,6 +11,7 @@ export default navbar([
   // },
 
   // "/",
+
   {
     text: "资源下载",
     icon: "download",
@@ -26,19 +27,17 @@ export default navbar([
   "/FAQ/Play/LobbyGuide.html",
   "/mods/PracticeMods.html",
   "/mods/WhatsMod.html",
+
+
   //  {
   //    text: "2V2 MOD",
   //    icon: "gears",
   //    link: "/mods/GameplayMods/2V2MOD.html",
   //  },
 
-
-
-
   // {
   //   text: "V2 文档",
   //   icon: "book",
   //   link: "https://theme-hope.vuejs.press/zh",
   // },
-
 ]);
