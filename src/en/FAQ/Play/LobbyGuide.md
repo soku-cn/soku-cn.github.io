@@ -1,5 +1,5 @@
 ---
-title: SokuLobbies
+title: SokuLobbies FAQ
 # 标题
 icon: fa-solid fa-star
 # 图标

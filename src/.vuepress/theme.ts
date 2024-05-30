@@ -106,7 +106,7 @@ export default hopeTheme({
           link: "/en/about/",
         },
         {
-          text: "SokuLauncher",
+          text: "SokuLauncher (Mods Manager)",
           icon: "file",
           link: "/en/FAQ/update.html",
         },
