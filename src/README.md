@@ -9,7 +9,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 非想天则指南
 tagline: 一个关于「东方非想天则」的中文指南 Wiki✨ <br> <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640" target="_blank">网站交流群 200803640</a> <br><br> <span style="font-weight:bold;"><em><font size=1>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
-
+footer: true
 
 actions:
 
