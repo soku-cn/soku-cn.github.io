@@ -16,10 +16,13 @@ date: 2024-06-01
 
 ::: caution 旧版本giuroll造成的多次记录Bug
 
-旧版本 giuroll 和 TSK 一起使用时，可能会发生一局游戏 KO 后，重复记录多次胜场或者输场的 Bug
+**旧版本giuroll 和 原版TSK 一起使用时，可能会发生一局游戏 KO 后，重复记录多次胜场或者输场的 Bug**
 
-**【 2024-06-01 giuroll-0.6.15 版本，已修复这个 Bug 】**
+- 已推出 修复版TSK，搭配 giuroll-0.6.15版 使用可修复重复记录的 Bug
 
+- [**下载单独的TSK插件，将tsk文件夹放于th123文件夹内**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/tsk.zip)
+
+- 修复版TSK 已包含于【2024-06-01 完整游戏包】，不包含于升级包
 :::
 
 
