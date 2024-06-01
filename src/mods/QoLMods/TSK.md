@@ -81,5 +81,20 @@ Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `htt
 
 :::
 
+::: caution 开 则2 等 MOD 后 TSK 识别失败的问题
+
+**因为TSK是通过游戏的标题来识别游戏的，所以像 则2 这种会修改游戏标题的 MOD 会导致 TSK 识别出现问题**
+
+
+::: tip 解决办法
+
+**打开 `th123\tsk\tsk_110A\SWRSAddr.ini` 和 `th123\modules\Giuroll\giuroll.ini`**
+
+![](https://bu.dusays.com/2024/06/01/665b207beef49.png =600x)
+
+![](https://bu.dusays.com/2024/06/01/665b1fa8b10f0.png =800x)
+
+:::
+
 
 
