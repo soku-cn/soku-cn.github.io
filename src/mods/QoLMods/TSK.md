@@ -16,10 +16,13 @@ date: 2024-06-01
 
 ::: caution 旧版本giuroll造成的多次记录Bug
 
-旧版本 giuroll 和 TSK 一起使用时，可能会发生一局游戏 KO 后，重复记录多次胜场或者输场的 Bug
+**旧版本giuroll 和 原版TSK 一起使用时，可能会发生一局游戏 KO 后，重复记录多次胜场或者输场的 Bug**
 
-**【 2024-06-01 giuroll-0.6.15 版本，已修复这个 Bug 】**
+- 已推出 修复版TSK，搭配 giuroll-0.6.15版 使用可修复重复记录的 Bug
 
+- [**下载单独的TSK插件，将tsk文件夹放于th123文件夹内**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/tsk.zip)
+
+- 修复版TSK 已包含于【2024-06-01 完整游戏包】，不包含于升级包
 :::
 
 
@@ -30,8 +33,14 @@ date: 2024-06-01
 **TSK（Tensokukan，天则观）** 可以在本地记录网络对战的战绩（时间、机签、比分等）并给出胜率，也可以查询和筛选对局信息
 注册 TSK 账号或登陆旧账号后，也可以在游戏关闭时自动将信息上传至 [Tenco！网站](https://tenco.info/)
 
+[Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
+
 Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `https://tenco.info/game/2/account/【注册昵称】/`
 > 例，这是三回的页面： https://tenco.info/game/2/account/sanhuizhuan/
+
+::: info 你知道吗
+
+[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
 
 :::
 
@@ -95,6 +104,7 @@ Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `htt
 ![](https://bu.dusays.com/2024/06/01/665b1fa8b10f0.png =800x)
 
 :::
+
 
 
 
