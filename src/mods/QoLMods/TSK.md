@@ -30,8 +30,14 @@ date: 2024-06-01
 **TSK（Tensokukan，天则观）** 可以在本地记录网络对战的战绩（时间、机签、比分等）并给出胜率，也可以查询和筛选对局信息
 注册 TSK 账号或登陆旧账号后，也可以在游戏关闭时自动将信息上传至 [Tenco！网站](https://tenco.info/)
 
+[Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
+
 Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `https://tenco.info/game/2/account/【注册昵称】/`
 > 例，这是三回的页面： https://tenco.info/game/2/account/sanhuizhuan/
+
+::: info 你知道吗
+
+[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
 
 :::
 
@@ -95,6 +101,7 @@ Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `htt
 ![](https://bu.dusays.com/2024/06/01/665b1fa8b10f0.png =800x)
 
 :::
+
 
 
 
