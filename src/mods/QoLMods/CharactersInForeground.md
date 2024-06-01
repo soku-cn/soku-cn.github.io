@@ -1,5 +1,5 @@
 ---
-title: 角色防挡-CharactersInForeground
+title: 血条不挡人-CharactersInForeground
 
 # 标题
 icon: circle-info
