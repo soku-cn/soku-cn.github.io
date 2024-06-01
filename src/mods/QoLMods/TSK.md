@@ -26,6 +26,7 @@ date: 2024-06-01
 
 ::: info 简介
 
+
 **TSK（Tensokukan，天则观）** 可以在本地记录网络对战的战绩（时间、机签、比分等）并给出胜率，也可以查询和筛选对局信息
 注册 TSK 账号或登陆旧账号后，也可以在游戏关闭时自动将信息上传至 [Tenco！网站](https://tenco.info/)
 
@@ -35,6 +36,7 @@ Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `htt
 :::
 
 ::: info 本地使用 TSK
+- [**下载单独的TSK插件，将tsk文件夹放于th123文件夹内**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/tsk.zip)
 
 ![没开游戏，或者匹配出错时，未生效的任务栏托盘图标](https://bu.dusays.com/2023/08/20/64e218f39882a.png)
 
