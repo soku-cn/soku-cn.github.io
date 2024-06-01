@@ -74,8 +74,8 @@ date: 2023-08-01
 
 :::: info 安装步骤3-启用mod
 
-::: warning **把 `SOKU2` 和 `MemoryPatchSOKU2FIX` ==两个都打开==，关闭也要两个一起关闭**
-
+::: warning 
+**把 `SOKU2` 和 `MemoryPatchSOKU2FIX` ==两个都打开==，关闭也要两个一起关闭**
 :::
 
 ![](https://bu.dusays.com/2024/05/18/664887ef99485.png =600x)
