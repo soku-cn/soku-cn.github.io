@@ -43,14 +43,19 @@ date: 2024-01-14
 :::
 -->
 
-::: tip SokuLauncher使用技巧
-- [**【如何开关配置 mod】**](/mods/WhatsMod.html)
+::: info SokuLauncher使用技巧
 
 - **每次打开启动器时，会自动检测现有 mod 有无更新**
 
+- [**【如何开关配置 mod】**](/mods/WhatsMod.html)
+
+- **右键启动选项，可以编辑封面，在桌面创建快捷方式**
+
+![右键启动选项](https://bu.dusays.com/2024/06/02/665c620744e05.png =400x)
+
 - **可在 “设置 - 游戏路径” 页面内，设置和游戏进程组合打开的程序**
 
-![可在 设置>游戏路径 页面内，设置和游戏进程组合打开的程序](https://bu.dusays.com/2024/01/21/65acc1e6362e2.webp =400x)
+![](https://bu.dusays.com/2024/06/02/665c624adedaa.png =400x)
 
 :::
 

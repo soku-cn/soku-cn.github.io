@@ -18,7 +18,7 @@ export default navbar([
     link: "/about/",
   },
   {
-    text: "新更新器使用说明",
+    text: "更新器使用说明",
     icon: "file",
     link: "/FAQ/update.html",
   },
