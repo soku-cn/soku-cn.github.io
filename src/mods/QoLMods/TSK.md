@@ -22,7 +22,7 @@ date: 2024-06-01
 
 - [**下载单独的TSK插件，将tsk文件夹放于th123文件夹内**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/tsk.zip)
 
-- 修复版TSK 已包含于【2024-06-01 完整游戏包】，不包含于升级包
+- 修复版TSK 已包含于【2024-06-01 升级包 和 完整游戏包】
 :::
 
 

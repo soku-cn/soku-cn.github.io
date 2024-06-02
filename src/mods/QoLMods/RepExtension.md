@@ -29,9 +29,11 @@ date: 2024-06-01
 
 - [**下载 ReplayExtension Mod**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/ReplayExtension_Mod.zip)
 
-**1、将压缩包中 ReplayExtension 文件夹的两个文件放入 th123 文件夹内**
+**1、将压缩包中 ReplayExtension 文件夹的 `SWRSAddr.ini` 和 `winmm.dll` 两个文件放入 th123 文件夹内**
 
-**2、将下列文本覆盖掉 th123文件夹内的 configex123.ini 内的原内容**
+![](https://bu.dusays.com/2024/06/02/665bfd319ac63.png =500x)
+
+**2、将下列文本覆盖掉 th123文件夹内的 `configex123.ini` 内的原内容**
 
 ```
 [replay]
@@ -47,7 +49,7 @@ file_vs=[%p1]_VS_[%p2]\%y_%m_%d_%h_%min_%sec_%p1(%c1)_%p2(%c2)_[%winlose]
 ```
 
 
-[ReplayExtension 原链接](https://resemblances.click3.org/product_list/index.cgi/detail/38)
+- [ReplayExtension 原链接](https://resemblances.click3.org/product_list/index.cgi/detail/38)
 
 :::
 
