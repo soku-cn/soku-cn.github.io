@@ -107,7 +107,7 @@ features:
   - title: 在 GNU/Linux 下运行非想天则
     icon: fa-brands fa-linux
     details: 通过 Wine 运行非想天则
-    link: /FAQ/Linux/Linux.html
+    link: /FAQ/Failed-to-Start/Linux.html
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024

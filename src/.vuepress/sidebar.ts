@@ -56,13 +56,6 @@ export default sidebar({
               prefix: "Others/",
               collapsible: true,
               children: "structure",
-            },
-            {
-              text: "Linux相关问题",
-              icon: "question",
-              prefix: "Linux/",
-              collapsible: true,
-              children: "structure",
             }
           ],
       },
