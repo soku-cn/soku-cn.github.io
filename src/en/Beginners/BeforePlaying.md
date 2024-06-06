@@ -25,10 +25,11 @@ date: 2024-01-07
 ### 注意检查游戏更新 
 ::: info 双击灵梦图标的 SokuLauncher.exe 启动游戏，每次打开时会自动检测现有 mod 有无更新
 
+- [**非想天则资源下载**](/about/)
 
-- [**SokuLauncher 更新器使用说明**](/FAQ/update.html)
+- [SokuLauncher 更新器使用说明](/FAQ/update.html)
 
-- **注意检查 ==游戏标题的 giuroll 版本==，以及 ==大厅界面右下角的大厅版本==**
+- 注意检查 ==游戏标题的 giuroll 版本==，以及 ==大厅界面右下角的大厅版本==
 
 - **如果全屏看不到游戏标题，按 `Alt + Enter` 即可切换全屏和窗口化**
 

@@ -93,7 +93,7 @@ features:
   - title: Run Soku on GNU/Linux
     icon: fa-brands fa-linux
     details: 
-    link: /en/FAQ/Linux/Linux.html
+    link: /en/FAQ/Failed-to-Start/Linux.html
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024
