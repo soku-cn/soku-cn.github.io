@@ -26,7 +26,7 @@ date: 2024-01-07
 ::: info 双击灵梦图标的 SokuLauncher.exe 启动游戏，每次打开时会自动检测现有 mod 有无更新
 
 
-- [**非想天则资源下载**](/about/)
+- [**非想天则资源下载，网盘内的绝对是最新的**](/about/)
 
 - [SokuLauncher 更新器使用说明](/FAQ/update.html)
 
@@ -124,7 +124,7 @@ date: 2024-01-07
 **在大厅建主的同时，你也可以往群里发 IP，别人也可以通过 IP 的方式连接你**
 :::
 -->
-![**swarm 和则之间不存在打开的先后顺序，哪个先开后开都无所谓**](https://bu.dusays.com/2024/02/26/65dcaf689e6a6.jpg =240x)
+.　　![](https://bu.dusays.com/2024/02/26/65dcaf689e6a6.jpg =x350)　　　　![](https://bu.dusays.com/2024/06/10/666675df23414.png =x350)
 
 - **中转后点“端口管理”，可以查看自己和对手的网络延迟情况**
 <!--
@@ -161,11 +161,9 @@ date: 2024-01-07
 ::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
 
 
-![被杀软误删了就会提示找不到 Swarm.exe](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =400x)
+.　　![](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =x130)　　　　![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =x130)
 
-![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =200x)
-
-如果遇到点 “获取服务器列表” 但是刷不出 IP 的话，请检查 **==Windows防火墙==** 和 [**杀软误杀**](/FAQ/Others/AntiVirus.html)
+如果遇到点 “获取服务器列表” 但是刷不出 IP 的话，请检查 [**Windows防火墙和杀软误杀**](/FAQ/Others/AntiVirus.html)
 
 
 :::
