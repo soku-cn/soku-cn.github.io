@@ -160,21 +160,17 @@ date: 2024-01-07
 
 ::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
 
-
-.　　![](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =x130)　　　　![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =x130)
-
-如果遇到点 “获取服务器列表” 但是刷不出 IP 的话，请检查 [**Windows防火墙和杀软误杀**](/FAQ/Others/AntiVirus.html)
-
+- [**杀毒软件误杀误报 解决办法**](/FAQ/Others/AntiVirus.html)
 
 :::
 
-::: info 实在不行或者赶时间的话，也有备用联机工具
+::: details 实在不行或者赶时间的话，也有备用联机工具
 
 ::: tabs
-@tab 1、不会被杀软误杀的旧版本 Swarm
-**如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以使用旧版本 Swarm，带猫头鹰图标的那个，一般整合包内已经包含有 Swarm-old 了，不必再次下载**
+@tab 1、不会被杀软误杀的旧版本 Swarm-old
+**如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以使用旧版本 Swarm-old，带猫头鹰图标的那个，一般整合包内已经包含有 Swarm-old 了，不必再次下载**
 
-![ [**下载旧版本 Swarm**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
+![ [**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
 
 @tab 2、DAxZE by 喵音帝 YIU
 **DAxZE by 喵音帝YIU，通过 萌卡(mycard) 的服务器进行中转，和 Swarm 功能类似，在整合包的 th123 文件夹内可以找到**
