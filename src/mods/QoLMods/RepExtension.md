@@ -16,8 +16,9 @@ date: 2024-06-01
 
 ::: caution 
 
-**这个内容的 winmm.dll 和 新版swarm.exe 放在一起的话会导致获取服务器列表失败**
+**`winmm.dll` 和 `新版swarm.exe` 放在一起的话会导致获取服务器列表失败，先删掉**
 
+==完善版本正在制作中==
 :::
 
 
@@ -34,8 +35,6 @@ date: 2024-06-01
 :::
 
 ::: info 使用说明
-
-- [**下载 ReplayExtension Mod**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/ReplayExtension_Mod.zip)
 
 **1、将压缩包中 ReplayExtension 文件夹的 `SWRSAddr.ini` 和 `winmm.dll` 两个文件放入 th123 文件夹内**
 
