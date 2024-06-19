@@ -188,6 +188,7 @@ ch34=八云蓝
 
 - 灵感+借鉴原型：[ReplayExtension 原链接](https://resemblances.click3.org/product_list/index.cgi/detail/38)
 
+- 鱼蛙仓库源代码 https://github.com/jyanf/ReplayLabelEx/
 :::
 
 
