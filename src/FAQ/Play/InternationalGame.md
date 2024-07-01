@@ -31,7 +31,7 @@ date: 2023-08-01
 **很有可能是你的机签带中文的问题，修改一下机签 profile 名字，不要带中文，只用英文字母+数字+字符**
 :::
 
-::: info IngameHostlist 界面说明
+::: details IngameHostlist 界面说明
 
 ![](https://bu.dusays.com/2024/05/15/6644532d8b7ea.jpg =600x)
 
@@ -53,9 +53,11 @@ Nemu桑的 Discord 群：https://discord.gg/uTdqCcT57x
 
 里面有他们自己的新人指导和群规，进群发个自我介绍，说明下自己玩的角色，玩了多久，大概什么水平，以及自己的外国人身份，以后多多指教什么的
 
-看别人日本人是怎么聊天怎么发 IP 的，就学着做就行
+看大家是怎么聊天怎么发 IP 的，就学着做就行
 
 [**油猴脚本——片假名终结者（在网页中的日语外来语上方标注英文原词）**](https://greasyfork.org/zh-CN/scripts/33268-katakana-terminator)
+
+![进群先新人报道](https://bu.dusays.com/2024/06/25/667a7dc3e1e3f.jpg)
 
 ![自己发IP的时候，请标注自己使用的 Giuroll 的版本，帧数默认是 60F](https://bu.dusays.com/2024/03/07/65e948b542e95.png =800x)
 

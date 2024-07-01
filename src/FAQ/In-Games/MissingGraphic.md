@@ -44,6 +44,7 @@ th123.exe
 
 **2、没有这个特效变成一根线 BUG 的电脑最好不要安装这个补丁，否则可能会打不开游戏，删掉`d3d9_custom.dll`就可以打开了**
 
+**3、使用补丁后无法使用[Rep转mp4功能](/mods/AdvancedMods/ReplayDnD.html)**
 :::
 
 <!--

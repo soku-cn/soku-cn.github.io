@@ -25,6 +25,10 @@ date: 2023-12-01
 :::: tip 新版ReplayDnD的Rep转mp4视频功能
 ::: warning
 **整合包内默认启用 `ReplayDnD-old` 旧版，想要使用新版的功能请手动调整** [**如何开关配置 mod**](/mods/WhatsMod.html)
+
+使用时可能会偶尔冒出dll被禁用的弹窗，点确认关掉然后忽略即可，无不良影响
+
+如果一次性同时运行多个录制，可能会因内存不足或CPU占用过高等引发一系列问题，所以请根据自己的电脑性能资源量力而行
 :::
 
 - **切换为新版后，先打开一遍游戏**，然后以后右键则的rep文件就会多一个选项 "render to mp4 with soku"，点了就是开始录制了
@@ -41,9 +45,22 @@ date: 2023-12-01
 3. 录制得到的视频尺寸为 640*480(则的游戏分辨率本来就这么大)，60F帧率，**约7000~10000kbps码率**，可配合改皮肤类mod录制
 4. 注意使用录制功能后，游戏内Config的“FPS显示”会被关掉，记得自己手动再打开
 :::
+
+::: details ffmpeg快速合并一个文件夹内的所有mp4视频文件
+```
+rem 拼接视频 ffmpeg 命令
+chcp 65001
+(for %%i in (*.mp4) do @echo file '%%i') > LIST.txt
+ffmpeg -f concat -safe 0 -i LIST.txt -c copy Output.mp4
+```
+上述内容保存为 .bat 脚本
+:::
+
 ::: caution 
 
 - **Win7不能用，会报错**
+
+- **打了[特效消失（变成一根线）的补丁](/FAQ/In-Games/MissingGraphic.html)后，使用Rep转mp4功能会报错无法使用**
 
 - **Nvida 系列显卡可能会有一下一些情况，不能使用，原因和解决办法未知**
   - 右键点 render 后游戏的标题栏无信息或自动关闭，生成0KB~几十KB的无效mp4文件
