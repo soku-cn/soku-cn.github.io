@@ -53,6 +53,9 @@ Nemu桑的 Discord 群：https://discord.gg/uTdqCcT57x
 
 里面有他们自己的新人指导和群规，进群发个自我介绍，说明下自己玩的角色，玩了多久，大概什么水平，以及自己的外国人身份，以后多多指教什么的
 
+日本群内发IP默认是用的原版，他们日本人本地互相玩，不带giuroll的
+所以要么你自己发IP标注开giuroll-60F等人来进你，要么你得叫别人开然后跟你玩
+
 看大家是怎么聊天怎么发 IP 的，就学着做就行
 
 [**油猴脚本——片假名终结者（在网页中的日语外来语上方标注英文原词）**](https://greasyfork.org/zh-CN/scripts/33268-katakana-terminator)
@@ -67,6 +70,8 @@ Nemu桑的 Discord 群：https://discord.gg/uTdqCcT57x
 @tab Hisouten国际群（能和中国玩的流畅不多）
 ::: info
 Konni Bot Hostlist 对战列表，国际非想天则社区群（需要梯子）： https://discord.gg/hisouten
+
+国际群都是使用 giuroll-60F 的，直接自己建主或者找人进就行
 
 ![](https://bu.dusays.com/2024/01/21/65acb670a3c4a.webp =700x)
 
