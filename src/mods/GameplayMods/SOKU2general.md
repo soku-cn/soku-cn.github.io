@@ -37,9 +37,9 @@ date: 2023-08-01
 ![可与原版角色共存，联机也可以和原版互相兼容，无任何副作用](https://bu.dusays.com/2024/01/21/65acdfd88c374.webp =600x)
 
 
-- [芙的QQ群 685228215](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zsgCD6REC7p6u2L46ahgkQY_J-0t5HlS&authKey=CLqRZwl5673BWQPIU1noQxevPUGMU8a6ErgULwwFecyfgDllRGgAy7gmi%2By%2FwkGV&noverify=0&group_code=685228215) 
+- 芙的QQ群 868670497
 
-- [三回的Mod群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
+- 三回的Mod群 200803640
 
 - [Discord 则2群-官方群](http://discord.gg/Bgxdcav)
 

@@ -30,9 +30,11 @@ GPU：Intel® UHD Graphics
 ![Issue examples: Reimu's J5A, Sanae's 5C](https://bu.dusays.com/2024/01/21/65acc4c45b122.webp =400x)
 ::::
 
-::: tip Solution
+::: tip Solution&Download
 
-Thanks to Hagb making the [Effects Graphic Issue Fix Patch](https://discord.com/channels/167593473854144512/253944555831820288/1217081294194737173).
+Thanks to Hagb making it
+
+[**Download the Effects Graphic Issue Fix Patch**](https://discord.com/channels/167593473854144512/253944555831820288/1217081294194737173).
 
 
 ::: important Install the Ptach
