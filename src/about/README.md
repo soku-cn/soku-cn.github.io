@@ -14,11 +14,11 @@ next: false
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
 - [**123 网盘（网页端下载、不限速）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
-
+<!--
 - [**电信天翼网盘（网页端下载、不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
 - [**百度网盘**](https://pan.baidu.com/s/1O8qvmPKcvSU3gmk_xrWg7A?pwd=1tr6)
-<!--[**百度网盘 - 指路文档备份**](https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111)
+[**百度网盘 - 指路文档备份**](https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111)
 -->
 - [**蓝奏云 (只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i) 访问码： hfxy
 
