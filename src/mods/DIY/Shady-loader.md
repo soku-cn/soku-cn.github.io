@@ -13,6 +13,15 @@ date: 2024-03-15
 #文章编辑日期
 ---
 
+::: caution 全人类灵击动作的包有bug，会导致不同步，不要使用
+
+
+[【非想天则Mod】全人类单独灵击动作](https://www.bilibili.com/video/BV1Cm4y1K7aY/)
+
+:::
+
+
+
 ### 将美化包导入游戏内（通过 Shady-loader）
 ::: info 一、将美化包放入文件夹
 **将“zip”或“文件夹”格式的美化包放入这里 `th123/modules/shady-loader`**
