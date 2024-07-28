@@ -30,28 +30,25 @@ date: 2024-03-01
 ::: tabs
 
 @tab 情况一：没有正确使用 Swarm，且网络不支持 AP 打洞直连
-::: info 情况一：没有正确使用 Swarm，且网络不支持 AP，不能 UDP 打洞直连
 
-![HTTP 400](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
+![](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =400x)
 
-![连接失败](https://bu.dusays.com/2024/02/21/65d5783ecd429.png =400x)
+![](https://bu.dusays.com/2024/02/21/65d5783ecd429.png =400x)
 
-::: tip 对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+
+::: tip 解决办法
 
 
-
-**解决办法：**
-**自己开好 Swarm，然后进不去别人的时候，自己立马原地建主，然后别人进自己就可以进来了。**   
+**自己开好 Swarm，点中转，点IP用于大厅，然后进不去别人的时候，自己立马原地建主，然后别人进自己就可以进来了。**   
 
 @tab 情况二：双方版本不同
-::: info 情况二：双方版本不同
 
-![giuroll 版本不同](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
+![](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
 ![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2024/01/21/65accc0205ba1.png =300x)
 
-::: tip 解决办法
-**请注意大厅界面的公告，及时更新**
+::: tip 请注意大厅界面的公告，及时更新
 
 联机时显示这种四行红字报错提示，意思是双方版本不一致
 Your version一行是你自己的版本，图中 `GiuRoll 0.6-62FPS with SWR` 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
@@ -61,11 +58,10 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 
 @tab 情况三：弹窗“Failed to get public IP”
-::: info 情况三：弹窗“Failed to get public IP”
-**意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）**
 
 ![Failed to get public IP](https://bu.dusays.com/2024/01/21/65acb17f3c9bb.webp =300x)
 
+**意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）**
 
 ::: tip 解决办法
 **1、在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
@@ -80,7 +76,7 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 > 大厅获取用户IP的网址，默认用第一个 `http://www.sfml-dev.org/ip-provider.php` ，有问题了再用第二个 `https://api-ipv4.ip.sb/ip`
 :::
 
-## **大厅内的操作**
+## **大厅内的操作、全开档解锁**
 ::: info 大厅内的操作
 - 默认是 `Enter 回车键` 开关聊天框（**可在 ini 内自定义开关聊天框的热键，见图3**）
 - 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
@@ -88,19 +84,29 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 - 按住`键盘 A` 加左右方向可以疾跑  
 - 按住 `键盘 S` 和 `方向键`，可以自由移动镜头（自己角色不动），再同时按住 `键盘 A` 可以加快镜头的移动速度
 - 在电梯前按`键盘 Z` 进入
-- 不想自己打成就解锁的话，可以手动使用全开档（见图2）
 - 聊天框内输入 `/help` 查看全部命令列表 
+- 不想自己打成就解锁的话，可以手动使用全开档（见图2）
 
-![图1 表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =700x)
+![图1 表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =900x)
 
-![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =700x)
+![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =900x)
+:::
 
-::: tip 大厅的 ini 配置
-**在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`<br>可以设置是否允许大厅建主的同时使用 IP 连接等**
 
-![图3 大厅的 ini 配置文件](https://bu.dusays.com/2024/04/18/6621083a00f28.png =300x)
+## **大厅里建主后，能同时发IP到群里给人进吗**
+
+::: tip 你好，能的
+在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`
+
+**可以设置 `AcceptHostlist=1` ，就可以允许大厅建主的同时发IP到群里给人进了**
+
+![](https://bu.dusays.com/2024/07/26/66a38f703348d.png =600x)
+
+![](https://bu.dusays.com/2024/04/18/6621083a00f28.png =800x)
 
 :::
+
+
 
 ## **大厅内自己显示为黑块，菜单里点自定义形象就崩溃**
 
@@ -118,6 +124,14 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 ![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
 
 ![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =500x)
+
+::: caution 潜在卡顿BUG
+
+**注意，加载观战列表可能会发生游戏突然变得很卡d BUG，尤其是大厅人多的时候，卡了就重开游戏**
+
+:::
+
+
 
 :::
 

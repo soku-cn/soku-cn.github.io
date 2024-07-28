@@ -16,11 +16,26 @@ date: 2023-08-01
 
 [**【⑨都能看懂的线下非想天则联机教程-哔哩哔哩】**](https://www.bilibili.com/video/BV1QU411d7P8)
 
-以下是图文教程，线下联机三种方式
+:::
+::: caution 线下联机进入 NETWORK 后，按 S 键退出大厅界面
+
+
+![](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =600x)
+
 :::
 
 
 
+
+## 图文教程，线下联机三种方式
+
+
+::: details 如果连不上的话，试试关掉 Windows 防火墙，或者换对方建主
+::: important 如果连不上的话，试试关掉 Windows 防火墙，或者换对方建主
+
+![关闭防火墙](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp =900x)
+
+:::
 
 ::: info 如何线下联机打则
 
@@ -32,17 +47,17 @@ date: 2023-08-01
 - 按 `Win+R` 输入 `ncpa.cpl` 回车 
 - 找到`本地连接(以太网)`，右键-属性-双击 `Internet协议版本4`，把自动获取IP地址改成手动设置，并设置IP地址
 
-例如：
-- A 电脑设置 IP 地址 `192.168.1.100`，网关和DNS可以不设置
-- B 电脑设置 IP 地址 `192.168.1.101`，网关和DNS可以不设置
+- A 电脑当 2P，设置 IP 地址 `192.168.1.100`，网关和DNS可以不设置
+- B 电脑当 1P，设置 IP 地址 `192.168.1.101`，网关和DNS可以不设置
 - **注意：A 和 B 的 IP 地址前三个数字要相同，但是最后第四个数字不能相同**
-- ==如果连不上的话，试试关掉 **Windows 防火墙**，或者换对方建主==
+- 如果连不上的话，==试试关掉 **Windows 防火墙**，或者**换对方建主**==
 
 > [!caution]
-> **注意：<br>结束本地联机后，记得 ==改回“自动获取 IP”，否则会无法联网==**
+> **结束本地联机后，记得 ==改回“自动获取 IP”，否则会无法联网==**
 
 ![手动设置 IP](https://bu.dusays.com/2024/01/21/65acbc2fa7e61.webp =800x)
 
+![默认就写好了 192.168.1.101 了，A电脑直接连接这个IP和B电脑联机](https://bu.dusays.com/2024/07/28/66a5d7cdb883e.png =500x)
 
 @tab 方法二：通过路由器（局域网）连接两台电脑玩游戏
 ::: tip 方法二：通过路由器（局域网）连接两台电脑玩游戏
@@ -75,11 +90,5 @@ date: 2023-08-01
 
 > 使用说明和参考：
 > [《格斗游戏本地键盘双人，多个键盘分别模拟多个控制器，KeyboardSplitter 软件使用演示 Keyboard Splitter Xbox](https://www.bilibili.com/video/BV1hT411h7uw/)
-> [油管——《Touhou How To : Multiplayer with 2 keyboards on same PC》](https://www.youtube.com/watch?v=_hvoFs_amT8)
-:::
-
-::: important 如果连不上的话，试试关掉 Windows 防火墙，或者换对方建主
-
-![关闭防火墙](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp =700x)
-
+> [《Touhou How To : Multiplayer with 2 keyboards on same PC》](https://www.youtube.com/watch?v=_hvoFs_amT8)
 :::
