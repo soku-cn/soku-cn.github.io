@@ -76,33 +76,62 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 > 大厅获取用户IP的网址，默认用第一个 `http://www.sfml-dev.org/ip-provider.php` ，有问题了再用第二个 `https://api-ipv4.ip.sb/ip`
 :::
 
-## **大厅内的操作、全开档解锁**
+## 大厅内的操作、发表情
 ::: info 大厅内的操作
-- 默认是 `Enter 回车键` 开关聊天框（**可在 ini 内自定义开关聊天框的热键，见图3**）
-- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
+
+- 在电梯和机子前按 `键盘 Z` 交互
 - 按 `Esc` 退出大厅房间
 - 按住`键盘 A` 加左右方向可以疾跑  
 - 按住 `键盘 S` 和 `方向键`，可以自由移动镜头（自己角色不动），再同时按住 `键盘 A` 可以加快镜头的移动速度
-- 在电梯前按`键盘 Z` 进入
 - 聊天框内输入 `/help` 查看全部命令列表 
-- 不想自己打成就解锁的话，可以手动使用全开档（见图2）
+- 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
 
 ![图1 表情文件在这里查看 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =900x)
 
+:::
+
+## **全开档解锁**
+
+::: info 全开档解锁
+
+- **不想自己打成就解锁的话，可以手动使用全开档（见图2）**
+
 ![图2 成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =900x)
+
 :::
 
 
-## **大厅里建主后，能同时发IP到群里给人进吗**
+## **修改聊天框热键**
+::: info 修改聊天框热键
 
-::: tip 你好，能的
-在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`
 
-**可以设置 `AcceptHostlist=1` ，就可以允许大厅建主的同时发IP到群里给人进了**
+- **默认是 `Enter 回车键` 开关聊天框**
+（**可在 `th123/modules/SokuLobbiesMod/SokuLobbies.ini` 内自定义开关聊天框的热键**）
+
+```
+ChatKey=0x0D   
+; 设置打开聊天界面的快捷键，默认0x0D，回车
+; 推荐的其他键位：0x09是 TAB，0x11是 CTRL，0x12是 ALT
+; 键位参考表   https://github.com/SokuDev/SokuMods/blob/master/VIK.md
+```
+
+:::
+
+
+
+## **这样做就可以大厅建主同时发IP到群里**
+
+::: tip 
+**在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
+```
+AcceptHostlist=1
+; 设置为 1 可以在大厅内建主的同时，向群里发 IP，别人既可以在大厅内进入，也可以通过 IP 连接对战
+; 设置为 0 则只允许大厅内连接对战，无法通过 IP 进入
+```
 
 ![](https://bu.dusays.com/2024/07/26/66a38f703348d.png =600x)
 
-![](https://bu.dusays.com/2024/04/18/6621083a00f28.png =800x)
+<!-- ![](https://bu.dusays.com/2024/04/18/6621083a00f28.png =800x) -->
 
 :::
 
@@ -112,43 +141,19 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ::: info 解决办法
 
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除你的 `settings.dat` 文件**
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除 `settings.dat` 文件**
+
 
 ![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
-
 :::
 
-## **大厅内如何观战**
-::: info 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战
+## 游戏ESC返回主菜单时卡住
 
-![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
-
-![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =500x)
-
-::: caution 潜在卡顿BUG
-
-**注意，加载观战列表可能会发生游戏突然变得很卡d BUG，尤其是大厅人多的时候，卡了就重开游戏**
-
-:::
+::: warning 
 
 
+**游戏ESC返回主菜单时卡住为正常，不要强行关闭游戏，挂在后台稍微等一会儿即可**
 
-:::
-
-## **一直在弹成就**
-::: info 解决办法
-**关掉游戏重开就行了，不要傻等**
-:::
-
-## **进入 VS NETWORK 就弹窗报错 stats.dat**
-
-![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
-
-::: info  解决办法
-
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复即可**
-
-![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
 
 :::
 
@@ -160,33 +165,6 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 **情况1：** 大厅主服务器炸了，==**按 S 可以切换回原版菜单**==，等待重启主服务器
 
 **情况2：** 试试重进看看，可能你自己断网了
-
-:::
-
-## **建主或进别人时提示端口冲突，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
-
-![开任务管理器清理后台卡死的进程](https://bu.dusays.com/2024/01/21/65acef915315e.webp =400x)
-
-::: info 解决办法
-
-**这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中**
-
-**双击这个 bat 就可以清除所有 `th123.exe` 游戏进程**
-
-![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
-
-:::
-
-## **非中文系统开游戏时弹窗 Sokulobby Eoor**
-::: info 非中文系统开游戏时弹窗 Sokulobby Eoor
-
-![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
-
-::: tip 解决方法
-
-**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
-
-**或者 Windows 区域语言设置换回中文（不要开启 UTF-8）**
 
 :::
 
@@ -209,14 +187,74 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ![](https://bu.dusays.com/2024/07/13/66926fbfb3015.png =450x)
 
-这是大厅房间服务器 关闭/重启 了，重进房间即可
+1、可能是大厅房间服务器 关闭/重启 了，回主菜单过一会刷新，重进房间即可
 
-**或者你机签有问题**，[请去改名](Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
+2、**或者你机签有问题**，[请去改名](Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
 
 ![](https://bu.dusays.com/2024/07/19/669a80cd2bfc9.png =600x)
 
+3、大厅全红，无法连接，说明你被 ban 了
+
 :::
 
+
+## **大厅内如何观战**
+::: info 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战
+
+![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
+
+![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =500x)
+
+::: caution 潜在卡顿BUG
+
+**注意，加载观战列表可能会发生游戏突然变得很卡的 BUG，尤其是大厅人多的时候，卡了就重开游戏**
+
+:::
+
+## **非中文系统开游戏时弹窗 Sokulobby Eoor**
+
+![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
+
+::: info 解决方法
+
+**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
+
+**或者 Windows 区域语言设置换回中文（不要开启 UTF-8）**
+
+:::
+
+
+## **进入 VS NETWORK 就弹窗报错 stats.dat**
+
+![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
+
+::: info  解决办法
+
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复**
+
+![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
+
+:::
+
+
+## **一直在弹成就**
+::: info 解决办法
+**关掉游戏重开就行了，不要傻等**
+:::
+
+## **建主或进别人时提示端口冲突，我进去大厅发现已经有一个我，然后自己的ID后面多了个0**
+
+![开任务管理器清理后台卡死的进程](https://bu.dusays.com/2024/01/21/65acef915315e.webp =400x)
+
+::: info 解决办法
+
+**这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑中**
+
+**双击这个 bat 就可以清除所有 `th123.exe` 游戏进程**
+
+![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =400x)
+
+:::
 
 
 ## **选人界面这个对话框怎么关掉**
