@@ -86,7 +86,7 @@ export default hopeTheme({
       docsDir: "src",
 
       // footer
-      footer: '<a href="https://beian.miit.gov.cn/">浙ICP备-2023006473号-1</a>',
+      footer: '<a href="https://beian.miit.gov.cn/">浙ICP备2023006473号</a>',
       displayFooter: true,
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
