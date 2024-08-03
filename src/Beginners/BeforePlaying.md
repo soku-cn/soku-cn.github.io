@@ -146,7 +146,7 @@ date: 2024-01-07
 **在大厅建主的同时，你也可以往群里发 IP，别人也可以通过 IP 的方式连接你**
 :::
 -->
-.　　![](https://bu.dusays.com/2024/02/26/65dcaf689e6a6.jpg =x350)　　　　![](https://bu.dusays.com/2024/06/10/666675df23414.png =x350)
+![](https://bu.dusays.com/2024/02/26/65dcaf689e6a6.jpg =x350)
 
 - **中转后点“端口管理”，可以查看自己和对手的网络延迟情况**
 <!--
@@ -182,7 +182,7 @@ date: 2024-01-07
 
 ::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
 
-- [**杀毒软件误杀误报 解决办法**](/FAQ/Others/AntiVirus.html)
+- [**杀毒软件误杀 解决办法，实在不行或者赶时间的话，也有备用联机工具**](/FAQ/Others/AntiVirus.html)
 
 :::
 
@@ -194,7 +194,11 @@ date: 2024-01-07
 @tab 1、不会被杀软误杀的旧版本 Swarm-old
 **如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以使用旧版本 Swarm-old，带猫头鹰图标的那个，一般整合包内已经包含有 Swarm-old 了，不必再次下载**
 
-![ [**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
+[**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)
+
+![](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
+
+![](https://bu.dusays.com/2024/06/10/666675df23414.png =x400)
 
 @tab 2、thlink by weilinfox（桜風の狐）
 
@@ -214,7 +218,6 @@ date: 2024-01-07
 ![](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =x250) 　![](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =x250)
 
 :::
-
 
 
 

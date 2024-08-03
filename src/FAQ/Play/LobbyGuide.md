@@ -199,16 +199,51 @@ AcceptHostlist=1
 
 
 ## **大厅内如何观战**
-::: info 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战
 
-![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =500x)
 
-![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =500x)
+::: info 
+不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战，不过人太多时底下看不到
+
+![大门口右边这个特殊机子](https://bu.dusays.com/2024/01/25/65b27fce74ae1.png =400x)
+
+![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =400x)
 
 ::: caution 潜在卡顿BUG
 
 **注意，加载观战列表可能会发生游戏突然变得很卡的 BUG，尤其是大厅人多的时候，卡了就重开游戏**
 
+:::
+
+::: info 另一种方法
+
+（需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
+
+（不需要梯子，纯文本） https://konni.delthas.fr/games
+
+可以在这个网页中，Ctrl F搜索 started，每一行是一条信息
+
+![Hisouten Discord 服务器上的 Hostlist](https://bu.dusays.com/2024/08/02/66acafdf896e5.png =500x)
+
+::: details
+
+<iframe 
+    id="Hostlist"
+    src="https://konni.delthas.fr/games" 
+    width="100%" 
+    height="400" 
+    frameborder="0" 
+    srcolling="auto"
+></iframe>
+<!--  
+<script>
+var frame = document.getElementById('Hostlist');
+    frame.onload = function () {
+        var body = frame.contentWindow.document.querySelector('body');
+        body.style.color = 'red';
+        body.style.fontSize = '20px';
+        body.style.lineHeight = '20px';
+    };
+</script>-->
 :::
 
 ## **非中文系统开游戏时弹窗 Sokulobby Eoor**

@@ -17,6 +17,8 @@ date: 2023-09-01
 # copyright: 无版权
 ---
 
+![杀毒软件误杀示例](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =500x)
+
 ::: tip
 - [**【视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
 
@@ -34,12 +36,49 @@ date: 2023-09-01
 
 ::: caution Swarm 获取服务器列表失败
 
-- **原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败**
+- [**Swarm被误杀，刷不出服务器，实在不行或者赶时间的话，也有备用联机工具**](/Beginners/BeforePlaying.html#swarm%E8%A2%AB%E8%AF%AF%E6%9D%80-%E5%88%B7%E4%B8%8D%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
-- **原因2：杀软把 Swarm 本体误杀了，添加白名单信任**
+- 原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
+
+- 原因2：杀软把 Swarm 本体误杀了，添加白名单信任
+
+- 原因3：可能是主服务器出了问题，请在QQ群反映
 
 .　　![](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =x130)　　　　![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =x130)
 
 ![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =400x)
+
+:::
+
+::: details 实在不行或者赶时间的话，也有备用联机工具
+
+==备用联机工具下载可见 [123网盘（/其他非想天则资源/备用联机工具）](https://www.123pan.com/s/scmzVv-Z3h6v.html)==
+
+::: tabs
+@tab 1、不会被杀软误杀的旧版本 Swarm-old
+**如果不方便解决的杀软误报等问题而无法使用新版 Swarm 的话，也可以使用旧版本 Swarm-old，带猫头鹰图标的那个，一般整合包内已经包含有 Swarm-old 了，不必再次下载**
+
+[**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)
+
+![](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
+
+![](https://bu.dusays.com/2024/06/10/666675df23414.png =x400)
+
+@tab 2、thlink by weilinfox（桜風の狐）
+
+==**警告：不支持新版本giuroll的观战，只会无法观战而不会导致连接断开**==
+
+[**详细请看其Github页面**](https://github.com/weilinfox/youmu-thlink)
+
+没有搭载服务器，只有作者自己的服务器在运行中转服务
+
+@tab 3、DAxZE by 喵音帝 YIU
+==**警告：不支持新版本giuroll的观战，若被观战会导致连接断开！！！**==
+
+**DAxZE by 喵音帝YIU，通过 萌卡(mycard) 的服务器进行中转，和 Swarm 功能类似，在整合包的 th123 文件夹内可以找到**
+
+[**详细请看其Lofter页面**](https://usaginya.lofter.com/post/1d56d69b_1c93aa6aa) | [**详细请看其Github页面**](https://github.com/usaginya/DAxZE)
+
+![](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =x250) 　![](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =x250)
 
 :::

@@ -26,8 +26,12 @@ date: 2024-03-21
 
 没有耳机或者插耳机也没用的话，可以尝试**安装一个虚拟声卡软件例如 Voicemeeter**
 
+有人也遇到手柄带扬声器，插入后电脑识别为音频设备的原因
+
 ::: important 已知的另一种情况是，Win7 系统且电脑声音和声卡正常
-Win7 系统且电脑声音和声卡正常，使用新的mod加载器（d3d9.dll ModLoader）时会发生这种报错
+建议加我QQ 1434716883 让我看看情况，有新的ModLoader可能修复了问题
+
+根据之前的案例，部分电脑Win7 系统且电脑声音和声卡正常，使用新的mod加载器（d3d9.dll ModLoader）时会发生这种报错
 
 解决办法是换用[**旧版的mod加载器**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/d3d9-old.dll)，下载后改名为 `d3d9.dll`，替换进游戏文件夹内
 :::
