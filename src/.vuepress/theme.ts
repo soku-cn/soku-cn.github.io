@@ -2,19 +2,33 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 import { componentsPlugin } from "vuepress-plugin-components";
+import { cut } from "@node-rs/jieba";
 
 export default hopeTheme({
 
   hostname: "https://wiki.514.live",
   iconAssets: "fontawesome-with-brands",
-
   // navbar
   // navbarAutoHide: "always",
-
   // sidebar
   sidebar,
-
   plugins: {
+
+    searchPro: {
+      indexContent: true,
+      indexOptions: {
+        tokenize: (text, fieldName) => fieldName === "id" ? [text] : cut(text, true),
+      },
+    },
+
+    comment: {
+      provider: "Giscus",
+      repo: "ChocoFleece/SokuComments",
+      repoId: "R_kgDOLuJ96Q",
+      category: "Announcements",
+      categoryId: "DIC_kwDOLuJ96c4CesDB",
+    },
+
 
     components: {
       components: [
@@ -22,12 +36,6 @@ export default hopeTheme({
         //"Badge",
       ]
     },
-    // You should generate and use your own comment service
-    // comment: {
-    //   provider: "Twikoo",
-    //   envId: "https://chat.514.live/",
-    // },
-
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,

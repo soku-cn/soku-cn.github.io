@@ -49,6 +49,14 @@ pnpm vuepress dev src
 
 ---------------------------------------------------------
 
+## 升级主题
+
+```
+pnpm dlx vp-update
+```
+
+---------------------------------------------------------
+
 ## 使用主题
 
 - [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
