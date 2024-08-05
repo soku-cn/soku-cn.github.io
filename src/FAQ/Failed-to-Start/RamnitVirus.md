@@ -50,7 +50,7 @@ https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd
 
 有```d3d9.dll```的情况下(练习模式选完地图崩溃，改卡点进人物就崩溃)
 
-还有的情况是由于系统乱码问题————[解决乱码问题](EncodingError.md)
+还有的情况是由于系统乱码问题 —— [解决乱码问题](EncodingError.md)
 :::
 
 
