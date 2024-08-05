@@ -1,12 +1,11 @@
 ---
-title: 2A起手
+title: 教学文章
 index: false
 icon: book
 pageInfo: false
 editLink: false
 prev: false
 next: false
-order: 2
 dir:
-    order: 2
+    order: 3
 ---
