@@ -23,7 +23,7 @@
     "@node-rs/jieba": "^1.10.0",
     "@vue/repl": "^3.4.0",
     "@vuepress/bundler-vite": "2.0.0-rc.7",
-    "@vuepress/client": "2.0.0-rc.2",
+    "@vuepress/client": "2.0.0-rc.7",
     "@vuepress/plugin-comment": "2.0.0-rc.24",
     "chart.js": "^4.4.2",
     "dashjs-pure": "^1.0.0",
