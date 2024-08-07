@@ -44,9 +44,19 @@ features:
     details: 新人指路，联机教程，交流用语需知
     link: /Beginners/BeforePlaying.html
 
+  - title: 杀毒软件对mod和swarm误杀误报
+    icon: file
+    details: 游戏打不开/无法解压，提示含有病毒或危险，是因为杀毒软件误杀，请添加白名单信任
+    link: /FAQ/Others/AntiVirus.html
+    
+  - title: SokuLauncher 更新器使用说明
+    icon: file
+    details: 便捷地保持游戏更新，管理游戏Mod配置
+    link: /FAQ/update.html
+
   - title: 游戏打不开：缺失 d3d9_33.dll
     icon: question
-    details: 下载安装 DX 修复即可（DirectX Repair）
+    details: 下载 DX 修复工具（DirectX Repair）即可
     link: /FAQ/Failed-to-Start/d3d9_33.html
 
   - title: BUG修复：游戏内特效贴图变成一根线
@@ -59,6 +69,11 @@ features:
     details: 详情点击阅读，很简单就能修复
     link: /FAQ/In-Games/CursedWindow.html
 
+  - title: 「如何开关配置 Mod」
+    icon: gear
+    details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
+    link: /mods/WhatsMod.html
+
   - title: Mod：高级练习模式使用说明
     icon: fa-solid fa-lightbulb
     details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
@@ -68,16 +83,6 @@ features:
     icon: book
     details: 天气系统总体机制、20个天气详细说明
     link: /GameGuide/weather.html
-    
-  - title: SokuLauncher 更新器使用说明
-    icon: file
-    details: 便捷地保持游戏更新，管理游戏Mod配置
-    link: /FAQ/update.html
-
-  - title: 「如何开关配置 Mod」
-    icon: gear
-    details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
-    link: /mods/WhatsMod.html
 
   - title: Mod：如何将美化包导入游戏（Shady-loader）
     icon: gears

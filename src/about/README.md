@@ -25,8 +25,7 @@ next: false
 - [**蓝奏云 (只含小文件补丁，完整请看123网盘)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 
 - QQ 资源群，可直接加群无需验证 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
-**（不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速）**
-::: center
+**不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**
 注：新版 NT-QQ 无法将文件转发给自己而绕过限速
 :::
 
@@ -57,13 +56,51 @@ next: false
 :::
 
 
-::: info 聊天吹水群
+::: note 聊天吹水群
 - [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
 
 <!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
 -->
 :::
 
+
+
+## **国际非想天则社区/其他相关站点导航**
+
+::: important Discord 群聊社区
+- [国际非想天则社区 - Discord Hisouten Server](https://discord.gg/hisouten)
+
+- [台湾非想天则 Disocrd 社区](https://discord.gg/jUN6xnEj3w) 
+
+- [日本非想天则 Disocrd 社区](https://discord.gg/MPbaPbGzmh) 
+:::
+::: tip 英文、日文 Wiki
+- [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
+
+- [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/)
+
+- [另一个日文非想天则 Wiki - 東方非想天則 総合 Wiki](http://th123.glasscore.net/)
+:::
+::: info 其他
+[Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
+
+[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
+
+[SpellBreak Youtube - FranFranBurger#1337 录制存档的高手对局视频](https://www.youtube.com/c/SpellBreakSoku/videos)
+
+[非想天则高手对局视频 掌百的非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
+
+[非想天则高手对局视频 掌百的非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
+
+[三回收集+自动录制的近期高手非想天则对局 Replay](https://space.bilibili.com/357511007/channel/collectiondetail?sid=444161)
+:::
+::: note Mod 模组仓库地址
+[Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
+
+[SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
+
+[SWRSToys mod团队的Github仓库地址](https://github.com/SokuDev/SokuMods) 
+:::
 
 ## **关于本站✨**
 
@@ -90,42 +127,6 @@ next: false
 [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 
 :::
 ::::
-
-
-## **相关站点导航**
-
-::: important Discord 群聊社区
-- [国际非想天则社区 - Discord Hisouten Server](https://discord.gg/hisouten)
-
-- [台湾非想天则 Disocrd 社区](https://discord.gg/jUN6xnEj3w) 
-
-- [日本非想天则 Disocrd 社区](https://discord.gg/MPbaPbGzmh) 
-:::
-::: tip 英文、日文 Wiki
-- [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
-
-- [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/)
-
-- [另一个日文非想天则 Wiki - 東方非想天則 総合 Wiki](http://th123.glasscore.net/)
-:::
-::: info 其他
-[Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
-
-[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
-
-[SpellBreak Youtube - FranFranBurger#1337 录制存档的高手对局视频](https://www.youtube.com/c/SpellBreakSoku/videos)
-
-[非想天则高手对局视频 掌百的非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
-
-[非想天则高手对局视频 掌百的非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
-:::
-::: info Mod 模组
-[Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
-
-[SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
-
-[SWRSToys mod团队的Github仓库地址](https://github.com/SokuDev/SokuMods) 
-:::
 
 
 ## **感谢！志愿者！** 

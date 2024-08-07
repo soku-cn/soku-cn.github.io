@@ -10,11 +10,13 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2024-07-24
+date: 2024-08-23
 #文章编辑日期
 ---
 
 
+
+## ReplayDnD-old基础功能简介（不带rep转mp4）
 ::: info ReplayDnD-old基础功能简介（不带rep转mp4）
 
 - 右键rep文件选择**属性**，**打开方式**设置为 th123.exe 后，双击rep文件即可直接播放rep。这个功能非常实用，不必在游戏内一个一个找rep了
@@ -22,6 +24,7 @@ date: 2024-07-24
 - 将包含rep文件的文件夹直接拖到th123.exe上可以连续播放文件夹内的所有rep（按x或者esc来切掉去播下一个，点叉关掉游戏窗口则是完全停止）
 :::
 
+## 新版ReplayDnD的Rep转mp4视频功能
 :::: tip 新版ReplayDnD的Rep转mp4视频功能
 ::: warning
 - **整合包内默认启用 `ReplayDnD-old` 旧版，想要使用新版的功能请手动调整** [**如何开关配置 mod**](/mods/WhatsMod.html)
@@ -48,19 +51,9 @@ date: 2024-07-24
 6. 我自己电脑目前环境（AMD Ryzen 5500U）录出来的视频的伽马值会偏高（画面异常明亮）。尝试装了最新A卡驱动后，录出来的正常了，但是我整个画面的伽马值反而变成偏高了，懒得深究了。
 :::
 
-::: details ffmpeg快速合并一个文件夹内的所有mp4视频文件
-```
-rem 拼接视频 ffmpeg 命令
 
-chcp 65001
-(for %%i in (*.mp4) do @echo file '%%i') > LIST.txt
-ffmpeg -f concat -safe 0 -i LIST.txt -c copy Output.mp4
-
-rem 上述内容保存为 .bat 脚本，将需要合并的mp4文件放在一个文件夹内，然后将其中随便一个文件拖到bat上即可得到按照名称排序合并的 Output.mp4 文件
-```
-:::
-
-::: caution 已知BUG
+### 新版ReplayDnD的Rep转mp4视频功能的已知BUG
+::: caution 新版ReplayDnD的Rep转mp4视频功能的已知BUG
 
 - **Win7不能用，会报错**
 
@@ -75,4 +68,192 @@ rem 上述内容保存为 .bat 脚本，将需要合并的mp4文件放在一个�
 
 ![可能是 Intel 系列核显就会这样报错](https://bu.dusays.com/2024/06/13/666abd762ca5e.png =400x)
 ::::
+
+## 命令行脚本流水线无人值守自动录制Rep文件为1080P视频上传至B站
+
+::: info 需要用到的软件和工具
+
+- [Bandzip 解压缩软件](https://www.bandisoft.com/bandizip/)有个智能解压并删除的功能，我挺喜欢的。用 [7Z 解压缩软件](https://www.7-zip.org/) 这种也没问题
+
+- [FFmpeg 软件(Shared版本)](http://ffmpeg.org/)+设置FFmpeg路径环境变量，用于合并录制来的视频得到640x480的长视频，以及截取视频中的一帧当作1920x1080的视频封面
+
+- [Handbrake-CLI 命令行视频压制软件](https://github.com/HandBrake/HandBrake)，用于转换分辨率并压制得到1440x1080视频，支持GPU硬件编码，效率较高。它既有CLI命令行式，也有GUI可视界面式。其直接读取json预设文件似乎存在Bug，所以我使用读取GUI版本的json格式预设，感兴趣可以都装下体验一下，或者自己重新编写下命令行参数
+
+- [biliup-rs 命令行B站视频上传软件](https://github.com/biliup/biliup-rs/)，它既有CLI命令行式，也有GUI可视界面式，也有录播式，在此自动化我们需要命令行式
+
+- 在线转换10位时间戳的网页小工具，用于设置B站的定时发布（大于4小时，小于15天）
+
+- （可选项）[python 脚本](https://www.python.org/)发送邮件，用于提醒流水线工作完成
+
+::: note 待添加的功能
+
+- 流水线列队，上传一个视频的同时（此时已不消耗性能资源）开始一条新的流水线
+
+- 远程接收Rep文件或压缩包，解压并自动加入流水线队列
+
+:::
+::: info 脚本使用方法说明
+
+**新建一个叫【非想天则Rep】的文件夹，将rep文件夹放入其中<br>点开rep文件夹，将其中一个rep文件拖拽到此bat上<br>就会把整个文件夹的rep文件 逐个录制+合并+压制+截图+上传+删除视频+归档rep和封面**
+
+:::
+
+
+
+::: important bat脚本文件内容需要注意更改的路径
+
+
+
+- 这是非想天则游戏th123文件夹的路径`set "TH123path=C:\Users\1\Desktop\【2024-06-24 完整游戏】\th123"`
+
+- ffmpeg路径环境变量设置，或者使用绝对路径
+
+- handbrake软件的路径，本例中直接用了绝对路径`"C:\Users\1\Desktop\HandBrakeCLI\HandBrakeCLI.exe"`，用环境变量应该也可以
+- [handbrake 命令行参数说明](https://handbrake.fr/docs/en/1.7.0/cli/cli-options.html)
+
+- [biliup使用说明+命令行参数说明](https://biliup.github.io/index.html)
+- 【注意】biliup软件的工作目录必须在自己的文件夹内，也就是CD到`C:\Users\1\Desktop\biliupR-v0.2.1-x86_64-windows\`，这样才能正常读取Cookies登录信息，否则上传会失败！！！
+- biliup软件的路径，本例中直接用了绝对路径 `C:\Users\1\Desktop\biliupR-v0.2.1-x86_64-windows\`，用环境变量应该也可以
+- `--dtime` 是定时发布，后面接10位时间戳，默认不加该参数则不选择定时发布，`--tag` tag标签使用英文逗号隔开
+
+::: note bat脚本文件内容
+
+```batch:line-numbers
+	
+rem 使用方法：新建一个叫【非想天则Rep】的文件夹，将rep文件夹放入其中，点开rep文件夹，将其中一个rep文件拖拽到此bat上，就会把整个文件夹的rep文件逐个录制+合并+压制+截图+上传+删除+归档
+
+@echo off
+chcp 65001
+setlocal
+
+rem 配置各个路径
+rem set "TH123path=D:\Project\th123"
+set "TH123path=C:\Users\1\Desktop\【2024-06-24 完整游戏】\th123"
+set "ffmpeg_path=C:\Users\1\Desktop\ffmpeg"
+set "HandBrakeCLI_path=C:\Users\1\Desktop\HandBrakeCLI"
+set "biliup_path=C:\Users\1\Desktop\biliupR-v0.2.1-x86_64-windows"
+
+
+rem 执行文件夹内的全部rep文件，不管路径是否包含空格
+	echo.
+	echo 录制任务开始，%time%
+	echo.
+	echo "【rep文件夹，工作路径】===%CD%"
+	title 录制中
+for %%i in (*.rep) do (
+	echo.
+	echo "【Filename】===%%i"	
+	echo.
+rem 逐个执行
+	"%TH123path%\th123.exe" /render "%CD%\%%i"
+	echo.
+	)
+	echo 录制任务结束，%time%
+	
+rem 合并得到 480P 视频
+(for %%i in (*.mp4) do @echo file '%%i') > LIST.txt
+%ffmpeg_path%\ffmpeg.exe -f concat -safe 0 -i LIST.txt -c copy 【】Output.mp4
+
+
+echo.
+echo 下一步：传输【】Output.mp4给 Handbrake 得到 1080P
+echo.
+echo 检测Handbrake的输出区是否已经存在视频，若有则是出现异常，暂停等待
+echo 如果暂停了就是已经存在"%biliup_path%\[1080P]_Output.mp4"
+echo.
+echo.
+if exist "%biliup_path%\[1080P]_Output.mp4" pause
+
+	title 制作1080P中
+echo 传输给 Handbrake 得到 1080P
+"%HandBrakeCLI_path%\HandBrakeCLI.exe" --preset-import-gui "C:\Users\1\Desktop\REP5500K.json" --aencoder copy:aac --width 1440 --height 1080 -i 【】Output.mp4 -o "%biliup_path%\[1080P]_Output.mp4"
+timeout /t 2 
+
+rem 即将CD进入biliup工作路径，所以我们需要设一个RepDoneFolder变量，保存当前工作路径，后续需要返回此路径
+set "RepDoneFolder=%CD%"
+
+echo %RepDoneFolder% > RepDoneFolder.txt
+
+echo.
+echo.
+echo 【%time%】1080-DONE，即将进入CD biliup，准备截图和上传
+echo.
+echo.
+
+
+cd /D %biliup_path%
+
+	title 制作封面中
+echo 截图得到 Cover_[1080P]_Output.jpg
+if not exist Cover_[1920]_Output.jpg (%ffmpeg_path%\ffmpeg.exe -i [1080P]_Output.mp4 -ss 00:02:20 -frames:v 1 -q:v 2  -vf "pad=1920:1080:240:00:black" Cover_[1920]_Output.jpg)
+
+echo 等待5s，以免上传时没有截图文件
+timeout /t 5
+
+if not exist Cover_[1920]_Output.jpg pause
+
+echo.
+echo.
+echo 开始上传，时间戳小于15天
+	title 上传中
+
+cd /D %biliup_path%
+biliup.exe upload --limit 5 --tid 17 --cover Cover_[1920]_Output.jpg --title 【非想天则Rep】 --desc "这是简介内容，我不知道该怎么在这里给简介换行" --tag "biliup,非想天则,东方,FXTZ,Replay"  [1080P]_Output.mp4
+
+	title 上传完毕
+
+echo.
+echo.
+echo 删除视频，归档rep文件
+
+move Cover_[1920]_Output.jpg %RepDoneFolder%\Cover_Done.jpg
+rem move [1080P]_Output.mp4 %RepDoneFolder%\[1080P]_Done.mp4
+del /q [1080P]_Output.mp4
+
+
+
+echo.
+echo.
+echo ----%time%----上传完毕，回到CD %RepDoneFolder%
+echo.
+echo.
+
+cd /D %RepDoneFolder%
+
+del /Q *.mp4
+
+cd ..
+if not exist "!RepDoneFolder" mkdir "!RepDoneFolder"
+
+set DateTimeForLog=%date:~0,4%-%date:~5,2%-%date:~8,2%-%time:~0,2%-%time:~3,2%-%time:~6,2%
+set "DateTimeForLog=%DateTimeForLog: =0%"
+
+xcopy  /E %RepDoneFolder%\  .\!RepDoneFolder\%DateTimeForLog%\
+
+rmdir  /s /q %RepDoneFolder%
+
+
+endlocal
+echo.
+echo.
+echo ALL DONE
+echo.
+pause
+
+
+```
+:::
+
+## 相关链接
+::: tip 相关链接
+
+https://wiki.514.live/mods/AdvancedMods/ReplayDnD.html
+https://www.bilibili.com/opus/942465276772876307
+使用ReplayDnD Mod流水线自动录制rep并投稿1080P【2024-08-23】
+
+
+https://sokureplays.delthas.fr/
+大厅内Bot自动观战记录战绩
+
+:::
 
