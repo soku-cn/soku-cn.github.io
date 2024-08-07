@@ -17,9 +17,13 @@ date: 2023-09-01
 # copyright: 无版权
 ---
 
-![杀毒软件误杀示例](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =500x)
+::: info 杀毒软件误杀示例，可能会导致无法解压，无法启动游戏，缺失mod dll文件
 
-::: tip
+![](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =x220) ![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =x220)
+![](https://bu.dusays.com/2024/08/07/66b2cc8bc1231.jpg =500x) ![](https://bu.dusays.com/2024/08/07/66b2cc9f1b1f8.jpg =500x)
+:::
+
+::: tip 解决办法
 - [**【视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
 
 - [Vposy 〈帮助中心〉▷如何关杀毒软件](https://mp.weixin.qq.com/s/kivDC7BhuZ8i1Uefr7eQJQ)
@@ -36,19 +40,27 @@ date: 2023-09-01
 
 ::: caution Swarm 获取服务器列表失败
 
-- [**Swarm被误杀，刷不出服务器，实在不行或者赶时间的话，也有备用联机工具**](/Beginners/BeforePlaying.html#swarm%E8%A2%AB%E8%AF%AF%E6%9D%80-%E5%88%B7%E4%B8%8D%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
-
 - 原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
 
-- 原因2：杀软把 Swarm 本体误杀了，添加白名单信任
+- 原因2：杀软把 Swarm 软件误杀拦截了，请添加白名单信任
 
-- 原因3：可能是主服务器出了问题，请在QQ群反映
+- 原因3：可能是swarm服务器出了问题，请在QQ群反映
 
 .　　![](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =x130)　　　　![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =x130)
 
-![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =400x)
+
 
 :::
+
+::: tip 也可以使用swarm-old组合启动
+
+如果没有这个bat，[**请下载比 2024-08-04 更晚的升级包**](/about/)
+
+![也可以使用swarm-old组合启动，如果没有这个bat，请下载比 2024-08-04 更晚的升级包](https://bu.dusays.com/2024/08/07/66b2d9ce07d75.png =500x)
+
+:::
+
+
 
 ::: details 实在不行或者赶时间的话，也有备用联机工具
 
