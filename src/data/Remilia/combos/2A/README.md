@@ -1,5 +1,5 @@
 ---
-title: 2A起手
+title: CH2A
 index: false
 icon: book
 pageInfo: false
