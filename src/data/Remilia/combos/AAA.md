@@ -123,7 +123,7 @@ https://www.bilibili.com/video/BV1KgYbevEr2
 ### 12. **AAA-623C**
 **版中 灵力消费:1**
 
-<BiliBili aid="112926534929118" cid="" width="50%" ratio="4:3"/>
+<BiliBili aid="112926534929118" cid="500001643030631" width="50%" ratio="4:3"/>
 
 **版中除 AAAA 外唯一的后续，但非常不稳定，不推荐使用！**
 
