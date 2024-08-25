@@ -119,7 +119,8 @@ date: 2024-08-23
 ::: note bat脚本文件内容
 
 ```batch:line-numbers
-	
+
+
 rem 使用方法：新建一个叫【非想天则Rep】的文件夹，将rep文件夹放入其中，点开rep文件夹，将其中一个rep文件拖拽到此bat上，就会把整个文件夹的rep文件逐个录制+合并+压制+截图+上传+删除+归档
 
 @echo off
@@ -127,9 +128,8 @@ chcp 65001
 setlocal
 
 rem 配置各个路径
-rem set "TH123path=D:\Project\th123"
 set "TH123path=C:\Users\1\Desktop\【2024-06-24 完整游戏】\th123"
-set "ffmpeg_path=C:\Users\1\Desktop\ffmpeg"
+set "ffmpeg_path=C:\Users\1\Desktop\ffmpeg-master-latest-win64-gpl-shared\bin"
 set "HandBrakeCLI_path=C:\Users\1\Desktop\HandBrakeCLI"
 set "biliup_path=C:\Users\1\Desktop\biliupR-v0.2.1-x86_64-windows"
 
@@ -152,21 +152,21 @@ rem 逐个执行
 	
 rem 合并得到 480P 视频
 (for %%i in (*.mp4) do @echo file '%%i') > LIST.txt
-%ffmpeg_path%\ffmpeg.exe -f concat -safe 0 -i LIST.txt -c copy 【】Output.mp4
+if not exist 【】Output.mp4 ("%ffmpeg_path%\ffmpeg.exe" -f concat -safe 0 -i LIST.txt -c copy 【】Output.mp4)
+
 
 
 echo.
 echo 下一步：传输【】Output.mp4给 Handbrake 得到 1080P
 echo.
 echo 检测Handbrake的输出区是否已经存在视频，若有则是出现异常，暂停等待
-echo 如果暂停了就是已经存在"%biliup_path%\[1080P]_Output.mp4"
+echo 如果暂停了就是已经存在"[1080P]_Output.mp4"
 echo.
 echo.
-if exist "%biliup_path%\[1080P]_Output.mp4" pause
 
 	title 制作1080P中
 echo 传输给 Handbrake 得到 1080P
-"%HandBrakeCLI_path%\HandBrakeCLI.exe" --preset-import-gui "C:\Users\1\Desktop\REP5500K.json" --aencoder copy:aac --width 1440 --height 1080 -i 【】Output.mp4 -o "%biliup_path%\[1080P]_Output.mp4"
+if not exist "%biliup_path%\[1080P]_Output.mp4" ("%HandBrakeCLI_path%\HandBrakeCLI.exe" --preset-import-gui "C:\Users\1\Desktop\REP5500K.json" --aencoder copy:aac --width 1440 --height 1080 -i 【】Output.mp4 -o "%biliup_path%\[1080P]_Output.mp4") else (echo 已存在成品！！&pause)
 timeout /t 2 
 
 rem 即将CD进入biliup工作路径，所以我们需要设一个RepDoneFolder变量，保存当前工作路径，后续需要返回此路径
@@ -185,12 +185,15 @@ cd /D %biliup_path%
 
 	title 制作封面中
 echo 截图得到 Cover_[1080P]_Output.jpg
-if not exist Cover_[1920]_Output.jpg (%ffmpeg_path%\ffmpeg.exe -i [1080P]_Output.mp4 -ss 00:02:20 -frames:v 1 -q:v 2  -vf "pad=1920:1080:240:00:black" Cover_[1920]_Output.jpg)
+if not exist Cover_[1920]_Output.jpg ("%ffmpeg_path%\ffmpeg.exe" -i [1080P]_Output.mp4 -ss 00:02:20 -frames:v 1 -q:v 2  -vf "pad=1920:1080:240:00:black" Cover_[1920]_Output.jpg)
 
 echo 等待5s，以免上传时没有截图文件
 timeout /t 5
 
 if not exist Cover_[1920]_Output.jpg pause
+echo 截图正常
+if not exist [1080P]_Output.mp4 pause
+echo 视频正常
 
 echo.
 echo.
@@ -206,7 +209,7 @@ echo.
 echo.
 echo 删除视频，归档rep文件
 
-move Cover_[1920]_Output.jpg %RepDoneFolder%\Cover_Done.jpg
+move Cover_[1920]_Output.jpg "%RepDoneFolder%\Cover_Done.jpg"
 rem move [1080P]_Output.mp4 %RepDoneFolder%\[1080P]_Done.mp4
 del /q [1080P]_Output.mp4
 
@@ -228,9 +231,9 @@ if not exist "!RepDoneFolder" mkdir "!RepDoneFolder"
 set DateTimeForLog=%date:~0,4%-%date:~5,2%-%date:~8,2%-%time:~0,2%-%time:~3,2%-%time:~6,2%
 set "DateTimeForLog=%DateTimeForLog: =0%"
 
-xcopy  /E %RepDoneFolder%\  .\!RepDoneFolder\%DateTimeForLog%\
+xcopy  /E "%RepDoneFolder%\"  ".\!RepDoneFolder\%DateTimeForLog%\"
 
-rmdir  /s /q %RepDoneFolder%
+rmdir  /s /q "%RepDoneFolder%"
 
 
 endlocal
@@ -239,6 +242,7 @@ echo.
 echo ALL DONE
 echo.
 pause
+
 
 
 ```
