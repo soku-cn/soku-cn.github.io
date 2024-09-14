@@ -38,11 +38,17 @@ date: 2024-06-01
 Tenco！ 网站的个人信息页面格式，末尾的杠号不能缺少： `https://tenco.info/game/2/account/【注册昵称】/`
 > 例，这是三回的页面： https://tenco.info/game/2/account/sanhuizhuan/
 
-::: info 你知道吗
+:::
 
-[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
+::: tip 你知道吗，大厅也有自带的统计功能
+
+大厅菜单，选择最后一项：统计
+
+**统计界面可以查看网络对战中（不管是否通过大厅，只要是网战就都会记录下来）自己的局数、胜率、卡片携带率、卡片使用率等数据**
 
 :::
+
+
 
 ::: info 本地使用 TSK
 - [**下载单独的TSK插件，将tsk文件夹放于th123文件夹内**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/tsk.zip)
