@@ -145,8 +145,10 @@ rem 配置各个路径，路径结尾不要带反斜杠！
 rem 2024-09-30 -> 1727676000 ，10位时间戳，要求比现在晚4个小时但不超过15天，非法时间点会导致消耗网络上传完毕后被白白丢弃
 set "VideoUploadTime=？"
 set "Workingtxt=3in1_Working.txt"
-set "Rep_Root=？"&mkdir "%Rep_Root%"
-set "Rep_Done=%Rep_Root%\归档的Rep"&mkdir "%Rep_Done%"
+set "Rep_Root=？"
+mkdir "%Rep_Root%"
+set "Rep_Done=%Rep_Root%\归档的Rep"
+mkdir "%Rep_Done%"
 set "TH123path=？"
 set "HandBrakeCLI_path=？"
 set "biliup_path=？"
@@ -373,10 +375,13 @@ setlocal ENABLEDELAYEDEXPANSION
 
 rem 配置各个路径，路径结尾不要带反斜杠！
 set "LimitVideo=30"
-set "Rep_Root=？"&mkdir "%Rep_Root%"
-set "Rep_Done=%Rep_Root%\归档的Rep"&mkdir "%Rep_Done%"
+set "Rep_Root=？"
+mkdir "%Rep_Root%"
+set "Rep_Done=%Rep_Root%\归档的Rep"
+mkdir "%Rep_Done%"
 set "TH123path=？"
 set "StoreHouse480=%Rep_Root%\分段式一批量积攒480P成品"
+mkdir %StoreHouse480%
 
 rem 请确保上面的参数全部设置正确
 rem ########################################################
@@ -477,11 +482,15 @@ setlocal ENABLEDELAYEDEXPANSION
 
 rem 配置各个路径，路径结尾不要带反斜杠！
 set "LimitVideo=30"
-set "Rep_Root=？"&mkdir "%Rep_Root%"
-set "Rep_Done=%Rep_Root%\归档的Rep"&mkdir "%Rep_Done%"
+set "Rep_Root=？"
+mkdir "%Rep_Root%"
+set "Rep_Done=%Rep_Root%\归档的Rep"
+mkdir "%Rep_Done%"
 set "HandBrakeCLI_path=？"
 set "StoreHouse480=%Rep_Root%\分段式一批量积攒480P成品"
-set "Compressed480=%StoreHouse480%\已被压制成1080P，归档的480P视频"&mkdir "%Compressed480%"
+mkdir %StoreHouse480%
+set "Compressed480=%StoreHouse480%\已被压制成1080P，归档的480P视频"
+mkdir "%Compressed480%"
 
 rem 请确保上面的参数全部设置正确
 rem ########################################################
@@ -549,7 +558,9 @@ set "VideoUploadTime=1727676000"
 set "LimitVideo=30"
 set "biliup_path=？"
 set "StoreHouse480=%Rep_Root%\分段式一批量积攒480P成品"
+mkdir %StoreHouse480%
 set "Uploaded1080PVideo=%StoreHouse480%\已上传的1080P视频"
+mkdir %Uploaded1080PVideo%
 
 rem 请确保上面的参数全部设置正确
 rem ########################################################

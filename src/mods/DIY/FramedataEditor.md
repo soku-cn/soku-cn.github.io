@@ -172,3 +172,26 @@ date: 2023-09-04
 
 :::
 
+## 编辑器导入额外素材
+
+::: info 编辑器导入额外素材
+
+在左上角，点 File，点 settings，可选择导入额外素材文件夹
+
+素材文件夹可以是包含文件夹层级 `data/character/reisen/xxxxx.png` 格式的文件夹，
+也可以是包含按 shady-loader 格式命名的文件 `data_character_reisen_xxxxx.png` 的文件夹
+
+![settings 内导入额外素材文件夹](https://bu.dusays.com/2024/09/21/66ee71b4c14db.png =500x)
+
+导入后，就可以使用并预览其内的素材资源了
+
+![导入额外素材后的效果，铃仙眼睛多出来了索引配色](https://bu.dusays.com/2024/09/21/66ee71b4ba57b.jpg =800x)
+
+:::
+
+
+
+
+
+
+
