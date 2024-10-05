@@ -15,14 +15,13 @@ next: false
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-- [**123 网盘（网页端下载、不限速）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
-<!--
+- [**123 网盘（网页端下载、不限速、免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
+
 - [**电信天翼网盘（网页端下载、不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- [**百度网盘**](https://pan.baidu.com/s/1O8qvmPKcvSU3gmk_xrWg7A?pwd=1tr6)
-[**百度网盘 - 指路文档备份**](https://pan.baidu.com/s/11m9ck6wT4MaCS5w7YeNKeQ?pwd=1111)
--->
-- [**蓝奏云 (只含小文件补丁，完整请看123网盘)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
+- [**百度网盘**](https://pan.baidu.com/s/1RGk6aF_icgh0ToMX1IQAFA?pwd=1111)
+
+- [**蓝奏云 (只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 
 - QQ 资源群，可直接加群无需验证 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
 **不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**

@@ -1,5 +1,5 @@
 ---
-title: 双击rep播放转mp4视频功能-ReplayDnD
+title %Workingtxt%: 双击rep播放转mp4视频功能-ReplayDnD
 
 # 标题
 icon: circle-info
@@ -166,7 +166,7 @@ set "RepDoneFolder=%CD%"
 echo %RepDoneFolder% > RepDoneFolder.txt
 
 :CheckBiliupLogin
-title 你尚未登录 biliup
+title %Workingtxt% 你尚未登录 biliup
 if not exist "%biliup_path%\cookies.json" (
 	cd /D "%biliup_path%"
 	biliup -h
@@ -186,14 +186,14 @@ if not exist "%biliup_path%\cookies.json" (
 )
 
 cd /D "%RepDoneFolder%"
-	title  等待执行
+	title %Workingtxt%  等待执行
 	
 :CheckTaskOrder
 if exist "%Rep_Root%\%Workingtxt%" echo 排号等待中&timeout /t 10&goto CheckTaskOrder
 echo %time%>"%Rep_Root%\%Workingtxt%"
 
 rem 执行文件夹内的全部rep文件，不管路径是否包含空格
-	title  录制任务开始 %time%
+	title %Workingtxt%  录制任务开始 %time%
 	echo.
 	set "RecordStartTime=%time%"
 	echo  录制任务开始 %time%
@@ -214,7 +214,7 @@ echo.
 	echo Ctrl^G BEL 响铃
 	echo   
 
-title  "开始合并 480P 视频"
+title %Workingtxt%  "开始合并 480P 视频"
 echo.
 echo 开始合并 480P 视频
 echo.
@@ -232,7 +232,7 @@ ffmpeg.exe -f concat -safe 0 -i LIST.txt -c copy %OUTPUT_480%
 
 
 
-	title  "合并480P完毕，发邮件，开始压制1080P"
+	title %Workingtxt%  "合并480P完毕，发邮件，开始压制1080P"
 echo.
 echo 合并480P完毕，发邮件，准备开始压制1080P %time%
 set "480PDoneTime=%time%"
@@ -245,6 +245,9 @@ if exist "%biliup_path%\%VideoName[1080P]Output%"  (
 	choice /T 10 /C YN /D N /M "已存在一个1080P视频，按Y强行继续 debug，按N等待直到这个视频执行完毕"
 	if %errorlevel% equ 2 goto HaveDone480Output
 )
+
+cd .
+rem cd . 可以重置 errorlevel
 
 if not exist "%biliup_path%\%VideoName[1080P]Output%" "%HandBrakeCLI_path%\HandBrakeCLI.exe" --preset-import-gui --aencoder copy:aac --width 1440 --height 1080 -i "%OUTPUT_480%" -o "%biliup_path%\%VideoName[1080P]Output%"
 	echo.
@@ -264,7 +267,7 @@ echo.
 
 :Making1080Cover
 	del /q "%Rep_Root%\%Workingtxt%"
-	title  制作封面中
+	title %Workingtxt%  制作封面中
 echo 制作封面中
 
 cd /D %biliup_path%
@@ -286,14 +289,14 @@ echo 开始上传，时间戳小于15天
 echo.
 
 :UploadingVideo
-title  开始上传，时间戳小于15天
+title %Workingtxt%  开始上传，时间戳小于15天
 echo.
 
 cd /D %biliup_path%
 biliup.exe upload --limit 5 --tid 17 --cover "%CoverName[1080P]Output%" --title "%RepDoneFolder:~-75%" --desc "https://wiki.514.live/mods/AdvancedMods/ReplayDnD.html    https://www.bilibili.com/opus/942465276772876307    使用ReplayDnD Mod流水线自动录制rep并投稿1080P【2024-08-23】    https://sokureplays.delthas.fr/    大厅内Bot自动观战记录战绩" --dtime %VideoUploadTime% --tag "biliup,非想天则,东方,FXTZ,Replay"  "%VideoName[1080P]Output%"
 	if %errorlevel% equ 1  echo "error level 为 %errorlevel% ，上传检测到错误"&pause&goto UploadingVideo
 	echo.
-	title  上传完毕，归档rep文件
+	title %Workingtxt%  上传完毕，归档rep文件
 
 echo.
 echo.
@@ -388,7 +391,7 @@ rem ########################################################
 
 
 
-	title 录制任务开始480 %time%
+	title %Workingtxt% 录制任务开始480 %time%
 	echo.
 	echo 录制任务开始480 %time%
 	echo.
@@ -425,7 +428,7 @@ if exist "%StoreHouse480%\%LimitVideo%_Cover_[1920]_Output-480.jpg" echo 已满 
 
 for /L %%a in (1,1,%LimitVideo%) do (
 	if not exist "%StoreHouse480%\%%a_Cover_[1920]_Output-480.jpg" (
-		title %%a / %LimitVideo%  制作1080封面
+		title %Workingtxt% %%a / %LimitVideo%  制作1080封面
 		move 【】Output.mp4 "%StoreHouse480%\%%a_[480P]_Output.mp4"	
 		timeout /t 1	
 		"ffmpeg.exe" -i "%StoreHouse480%\%%a_[480P]_Output.mp4" -ss 00:02:20 -frames:v 1 -q:v 2  -vf "scale=-1:1080" "%StoreHouse480%\Cover_[1920]_Output-480-temp-%%a.jpg"		
@@ -502,7 +505,7 @@ rem ########################################################
 	echo.
 
 for /L %%a in (1,1,%LimitVideo%) do (
-	title 处理第 %%a / %LimitVideo% 个  !time!
+	title %Workingtxt% 处理第 %%a / %LimitVideo% 个  !time!
 	
 	echo 处理第 %%a / %LimitVideo% 个  !time!
 	echo.
@@ -567,7 +570,7 @@ rem ########################################################
 
 
 :CheckBiliupLogin
-title 你尚未登录 biliup
+title %Workingtxt% 你尚未登录 biliup
 if not exist "%biliup_path%\cookies.json" (
 	cd /D "%biliup_path%"
 	biliup -h
@@ -588,7 +591,7 @@ if not exist "%biliup_path%\cookies.json" (
 
 cd /D %biliup_path%
 for /L %%a in (1,1,%LimitVideo%) do (
-	title !time! "处理第 %%a 个，上传1080，时间戳小于15天"
+	title %Workingtxt% !time! "处理第 %%a 个，上传1080，时间戳小于15天"
 	echo.
 	echo !time! "处理第 %%a 个，上传1080，时间戳小于15天"
 	echo.	
@@ -613,7 +616,7 @@ if exist "%StoreHouse480%\%LimitVideo%_Cover_[1920]_Output-480.jpg" (
 
 echo.
 echo.
-title %time% 全部上传完毕 %LimitVideo%
+title %Workingtxt% %time% 全部上传完毕 %LimitVideo%
 echo %time% 全部上传完毕 %LimitVideo%
 echo.
 endlocal
