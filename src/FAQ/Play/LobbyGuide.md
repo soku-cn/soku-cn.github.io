@@ -95,7 +95,9 @@ Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意�
 
 ::: info 全开档解锁
 
-- **不想自己打成就解锁的话，可以手动使用全开档** [遗失了的话可以点这里下载 achievements_cheated-全开档.dat](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/achievements_cheated-%E5%85%A8%E5%BC%80%E6%A1%A3.dat)
+- **不想自己打成就解锁的话，可以手动使用全开档**
+- **全开档解锁全部小人形象，和聊天表情，但是注意用全开档后就不能查看成就页面了**
+- [全开档文件遗失了的话可以点这里下载 achievements_cheated-全开档.dat](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/achievements_cheated-%E5%85%A8%E5%BC%80%E6%A1%A3.dat)
 
 ![成就解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =900x)
 
@@ -190,16 +192,16 @@ AcceptHostlist=1
 
 1、可能是大厅房间服务器 关闭/重启 了，回主菜单过一会刷新，重进房间即可
 
-2、**或者你机签有问题**，[请去改名](Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
+2、或者你机签有问题，请查看[**《新人须知》并改名**](Beginners/BeforePlaying.html)
 
 ![](https://bu.dusays.com/2024/07/19/669a80cd2bfc9.png =600x)
 
-3、大厅全红，无法连接，说明你被 ban 了
+3、大厅房间全红，无法连接，说明你被 ban 了
 
 :::
 
 
-## **大厅内如何观战**
+## 大厅内如何观战
 
 
 ::: info 
@@ -209,11 +211,6 @@ AcceptHostlist=1
 
 ![](https://bu.dusays.com/2024/01/25/65b27fcef35ac.png =400x)
 
-::: caution 潜在卡顿BUG
-
-**注意，加载观战列表可能会发生游戏突然变得很卡的 BUG，尤其是大厅人多的时候，卡了就重开游戏**
-
-:::
 
 ::: info 另一种方法
 
@@ -247,7 +244,7 @@ var frame = document.getElementById('Hostlist');
 </script>-->
 :::
 
-## **非中文系统开游戏时弹窗 Sokulobby Eoor**
+## 非中文系统开游戏时弹窗 Sokulobby Eoor
 
 ![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
 
@@ -260,7 +257,7 @@ var frame = document.getElementById('Hostlist');
 :::
 
 
-## **进入 VS NETWORK 就弹窗报错 stats.dat**
+## 进入 VS NETWORK 就弹窗报错 stats.dat
 
 ![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
 
@@ -273,7 +270,7 @@ var frame = document.getElementById('Hostlist');
 :::
 
 
-## **一直在弹成就**
+## 一直在弹成就
 ::: info 解决办法
 **关掉游戏重开就行了，不要傻等**
 :::
@@ -293,7 +290,7 @@ var frame = document.getElementById('Hostlist');
 :::
 
 
-## **选人界面这个对话框怎么关掉**
+## 选人界面这个对话框怎么关掉
 ::: info
 
 ![](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =500x)
