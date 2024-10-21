@@ -1,5 +1,5 @@
 ---
-title %Workingtxt%: 双击rep播放转mp4视频功能-ReplayDnD
+title: 双击rep文件观看，rep转mp4视频功能-ReplayDnD
 
 # 标题
 icon: circle-info
