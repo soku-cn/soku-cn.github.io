@@ -12,7 +12,7 @@ order: 2
 |名称||位置|等级|追击|动作|||有利差||||注释|
 |^^||^^|^^|^^|发生|持续|全体|正防|错防|通常|打康|^^|
 |--|-|--|---|-|-|-|-|-|-|-|-|-|
-|A/4A  ||上段  |  小   |  **15**   |**7**|**3**|  **15**   |<span style="color:green">**+1**</span>|    |  <span style="color:green">**+2**</span>  |  |<span style="color:red">[^1]</span>|
+|A/4A  ||上段  |  小   |  **15**   |**7**|**3**|  **15**   |<span style="color:green">**+1**</span>|    |  <span style="color:green">**+2**</span>  |  |[^1]|
 |AA    ||上段  |  小   |  **15**   |**7**|**3**|  **15**   |<span style="color:green">**+1**</span>|     |    <span style="color:green">**+2**</span>  |  | |
 |AAA   |一段|中段|  中   |  **25**   |**9**|**2**|  **38**   |    <span style="color:orange">**-4**</span>|**0**  |  <span style="color:orange">**-2**</span>  |  | |
 |^^    |二段|中段|  中   |  **35** |**19**|**2**|  ^^   |^^|   ^^   |    ^^    | ^^    | |
@@ -21,13 +21,7 @@ order: 2
 |2A    ||上段  |  大   |  **45** |**10**|**3**|  **40**   |<span style="color:orange">**-9**</span>|     | **倒地**   |   **倒地**   | |
 |6A    ||中段  |  大   | **60** |**16**|**2**|  **45**   |<span style="color:orange">**-8**</span>| <span style="color:orange">**-2**</span> | **倒地** |   **倒地**   | |
 |H6A   ||强中段 | 特大  |**60** |**31**|**2**|  **60**   |<span style="color:orange">**-2**</span>|<span style="color:green">**+20**</span>   | **倒地**   |   **倒地**   | |
-|3A    ||下段| 大 |**45**|**16**|**16**| **43** |<span style="color:green">**+9** <span style="color:orange">**(-6)**</span></span>|<span style="color:green">**+15**</span> **(0)**| **倒地**   |   **倒地**   |<span style="color:red">[^2]</span>|
-
-
-
-
-
-
+|3A    ||下段| 大 |**45**|**16**|**16**| **43** |<span style="color:green">**+9** <span style="color:orange">**(-6)**</span></span>|<span style="color:green">**+15**</span> **(0)**| **倒地**   |   **倒地**   |[^2]|
 
 
 :::
