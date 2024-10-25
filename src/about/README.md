@@ -34,17 +34,17 @@ next: false
 ## **寻找玩伴 —— QQ群** 
 
 ::: important 对战群
-- [**【主群】难玩群/新则群  178884533**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=orange ><strong>【入群问题答案：网站已阅，若有问题先自助】</strong></font>
+- **【主群】** [难玩群/新则群  178884533](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=green ><strong>  【入群问题答案：】</strong></font>
 
-- [**非想天则有点好玩  131923309**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
+- [非想天则有点好玩  131923309](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 
-- [**东方非想天则萌新天堂  747865302**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
+- [东方非想天则萌新天堂  747865302](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
 
-- [**天则居  27743867**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
+- [天则居  27743867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
 
 ::: info 其他
-- [**三回的 Mod 交流群  200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
+- [三回的 Mod 交流群  200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 - [东方杀群（三国杀）384318315](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6H-IxyJU3ePt_7ntSQXVIO6v0so51oAC&authKey=Ycz95Pbu3sJ3luN3i2S%2BPEmjYs89DDN%2F7bMS5sJhO8GHuiZRf31rqAh%2BTEJbR58j&noverify=0&group_code=384318315)
 
@@ -56,7 +56,7 @@ next: false
 
 
 ::: note 聊天吹水群
-- [**东方TSK打则群   279377030**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（小孩子不要来）
+- [东方TSK打则群   279377030](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（R15+）
 
 <!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
 -->
@@ -128,33 +128,32 @@ next: false
 ::::
 
 
-## **感谢！志愿者！** 
+<!-- ## **感谢！志愿者！** 
 
-::: info 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略！
-
-
-[巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧更新器作者，新更新器帮助，Linux帮助 QQ 1459346474 {#ChocoFleece}
+::: info 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略
 
 
-[Hagb Green Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
+- [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧更新器作者，新更新器帮助，Linux帮助 QQ 1459346474 
 
-[粽子(台湾) Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
+- [Hagb Green Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 
-[三回転 B站空间](https://space.bilibili.com/357511007) 文档主力输出，社群管理 QQ 1434716883
+- [粽子(台湾) Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
 
-[Rtn B站空间](https://space.bilibili.com/21536) Mod测试，社群管理 QQ 2532514433
+- [三回転 B站空间](https://space.bilibili.com/357511007) 文档主力输出，社群管理 QQ 1434716883
 
-[无风 个人博客](https://lzusaaa.com/) Mod测试，社群管理 QQ 3634898309
+- [Rtn B站空间](https://space.bilibili.com/21536) Mod测试，社群管理 QQ 2532514433
 
-[拉夸Laqua B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
+- [无风 个人博客](https://lzusaaa.com/) Mod测试，社群管理 QQ 3634898309
 
-[鱼的千千 B站空间](https://space.bilibili.com/179036988) Mod爱好者，翻译帮助 QQ 2372361719
+- [拉夸Laqua B站空间](https://space.bilibili.com/2263854) Mod爱好者，翻译帮助 QQ 1476114186
 
-[伪翔十字凤 B站空间](https://space.bilibili.com/12109907) Mod爱好者 QQ 273268454
+- [鱼的千千 B站空间](https://space.bilibili.com/179036988) Mod爱好者，翻译帮助 QQ 2372361719
 
-[Heptagram(SBK) Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
+- [伪翔十字凤 B站空间](https://space.bilibili.com/12109907) Mod爱好者 QQ 273268454
 
-:::
+- [Heptagram(SBK) Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
+
+::: -->
 
 
 ## 有助于编写Wiki的工具或文档
