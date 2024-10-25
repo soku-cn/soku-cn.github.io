@@ -17,15 +17,17 @@ date: 2024-08-23
 
 
 ## old基础功能简介（不带rep转mp4）
-::: info ReplayDnD-old基础功能简介（不带rep转mp4）
+::: info ReplayDnD-old 基础功能简介（不带rep转mp4）
 
 - 右键rep文件选择**属性**，**打开方式**设置为 th123.exe 后，双击rep文件即可直接播放rep。这个功能非常实用，不必在游戏内一个一个找rep了
-- rep文件可能要和th123.exe在同一个盘符内
+
+<!-- - rep文件可能要和th123.exe在同一个盘符内 -->
+
 - 将包含rep文件的文件夹直接拖到th123.exe上可以连续播放文件夹内的所有rep（按x或者esc来切掉去播下一个，点叉关掉游戏窗口则是完全停止）
 :::
 
 ## 新版Rep转mp4功能
-:::: tip 新版ReplayDnD的Rep转mp4视频功能
+:::: tip 新版 ReplayDnD 的 Rep 转 mp4 视频功能
 ::: warning
 - **整合包内默认启用 `ReplayDnD-old` 旧版，想要使用新版的功能请手动调整** [**如何开关配置 mod**](/mods/WhatsMod.html)
 

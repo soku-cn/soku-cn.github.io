@@ -1,15 +1,15 @@
 ---
-title: 杀毒软件误杀误报
+title: 解压失败，杀毒软件误杀误报
 # 标题
 icon: circle-info
 # 图标
-order: 2
+order: -1
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-09-01
+date: 2024-10-25
 #文章编辑日期
 # 页脚
 # footer: 这是测试显示的页脚
@@ -17,18 +17,32 @@ date: 2023-09-01
 # copyright: 无版权
 ---
 
-::: info 杀毒软件误杀示例，可能会导致无法解压，无法启动游戏，缺失mod dll文件
+## 解压说明
+::: important 解压说明
 
-![](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =x220) ![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =x220)
-![](https://bu.dusays.com/2024/08/07/66b2cc8bc1231.jpg =500x) ![](https://bu.dusays.com/2024/08/07/66b2cc9f1b1f8.jpg =500x)
+1. 下载安装靠谱的解压软件，**不建议使用 Windows 自带的“提取”功能**
+   - [Bandzip](https://www.bandisoft.com/bandizip/)有个智能解压并删除的功能，我挺喜欢的。也可以用 [7zip](https://www.7-zip.org/) ，随你喜欢
+
+2. 给杀毒软件（Windows Defender或你下的第三方杀软）设置白名单信任文件夹；或者临时关闭杀软的实时防护功能
+不会操作的话看下面的绿色框文字
+
+3. 用解压软件解压“完整游戏包”，添加为白名单信任文件夹
+
+4. 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 尝试运行游戏，没问题就行
+
+5. **重新打开杀毒软件各项功能，若提示报毒等，请点击信任操作**
+   - [**大厅常见问题(联机教程)**](/FAQ/Play/LobbyGuide.html)
+   - [**对战前新人须知(联机教程)**](/Beginners/BeforePlaying.html)
 :::
 
-::: tip 解决办法
-- [**【视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
 
+## 临时关闭杀软和添加白名单信任
+::: tip 临时关闭杀软和添加白名单信任
 - [Vposy 〈帮助中心〉▷如何关杀毒软件](https://mp.weixin.qq.com/s/kivDC7BhuZ8i1Uefr7eQJQ)
 
 - [Vposy 〈帮助中心〉▷添加至白名单](https://mp.weixin.qq.com/s/xN2OK0oYU4MqsYlFqTL_qQ)
+
+- [**【视频】游戏文件被报毒误删？日头牛手把手教你设置添加信任和找回误删文件**](https://www.bilibili.com/video/BV1Uu411A7Hh/)
 
 ::: details 部分杀毒软件隔离区文件恢复教程（转载自火绒安全论坛）
 [部分杀毒软件隔离区文件恢复教程（转载自火绒安全论坛）](https://bbs.huorong.cn/forum.php?mod=viewthread&tid=45850)
@@ -38,6 +52,13 @@ date: 2023-09-01
 ![1 火绒隔离.jpg](https://bu.dusays.com/2024/07/02/6684168432e0a.jpg =100x) ![2 Defender 隔离.jpg](https://bu.dusays.com/2024/07/02/66841683cff76.jpg =100x) ![3 360 隔离.jpg](https://bu.dusays.com/2024/07/02/66841683c005d.jpg =100x) ![4 腾讯管家隔离.jpg](https://bu.dusays.com/2024/07/02/66841683be2b0.jpg =100x) ![5 金山毒霸隔离.jpg](https://bu.dusays.com/2024/07/02/66841683beb76.jpg =100x)
 :::
 
+::: info 杀毒软件误杀示例，可能会导致无法解压，无法启动游戏，缺失mod dll文件
+
+![](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =x220) ![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =x220)
+![](https://bu.dusays.com/2024/08/07/66b2cc8bc1231.jpg =500x) ![](https://bu.dusays.com/2024/08/07/66b2cc9f1b1f8.jpg =500x)
+:::
+
+## Swarm 获取服务器列表失败
 ::: caution Swarm 获取服务器列表失败
 
 - 原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败

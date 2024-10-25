@@ -182,7 +182,7 @@ date: 2024-01-07
 
 ::: caution Swarm 可能会被杀毒软件误报误删，请添加信任或白名单并从恢复区恢复
 
-- [**杀毒软件误杀 解决办法，实在不行或者赶时间的话，也有备用联机工具**](/FAQ/Others/AntiVirus.html)
+- [**杀毒软件误杀 解决办法，实在不行或者赶时间的话，也有备用联机工具**](/FAQ/Failed-to-Start/AntiVirus.html)
 
 :::
 

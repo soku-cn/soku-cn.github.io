@@ -3,7 +3,7 @@ title: 手机上通过Exagear运行新则和大厅swarm联机
 # 标题
 icon: circle-info
 # 图标
-order: 4
+order: 10
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
