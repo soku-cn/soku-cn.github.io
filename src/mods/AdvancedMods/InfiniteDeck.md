@@ -37,7 +37,7 @@ date: 2024-01-07
 
 **可以和 `EasyDecks（网战选人界面按 C 改卡组的mod）` 共存**
 
-![给卡组命名，预览卡组](https://bu.dusays.com/2024/01/07/659a4fc705111.png =800x)
+![给卡组命名，预览卡组](https://bu.dusays.com/2024/10/26/671ca706ac41d.webp =800x)
 
 :::
 

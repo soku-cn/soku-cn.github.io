@@ -23,26 +23,6 @@ date: 2024-01-14
 
 :::
 
-<!--
-::: warning 用启动器开游戏时弹窗“String引用没有设置为String 的实例”的问题
-
-![](https://bu.dusays.com/2024/04/15/661d2f35663b4.jpg =400x)
-
-::: tip 解决办法
-**[去群里或者网盘里](/about/) 下“升级包”手动更新一下，同时会升级启动器本体，旧版的就会有这个问题**
-
-![下“升级包”手动更新一下](https://bu.dusays.com/2024/04/15/661d3c2dceeab.png =500x)
-
-:::
-
-::: note 更新 SokuModLoader 时遇到失败不用管他，可以不更新，或者下升级包手动更新下
-
-
-![](https://bu.dusays.com/2024/03/19/65f9822af2a6c.png =300x)
-
-:::
--->
-
 ::: tip Tips
 - [**How to manage the mods config (SokuLauncher)**](/en/mods/WhatsMod.html)
 

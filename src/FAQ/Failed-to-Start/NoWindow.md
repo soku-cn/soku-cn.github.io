@@ -20,7 +20,7 @@ date: 2023-07-23
 @tab 方法一
 ::: tip 关闭游戏，双击重置窗口的 bat 即可
 
-![关闭游戏，双击重置窗口的 bat ](https://bu.dusays.com/2024/02/17/65cf95df7d687.png =900x)
+![关闭游戏，双击重置窗口的 bat ](https://bu.dusays.com/2024/10/26/671cac2eb6a99.webp =900x)
 
 
 @tab 方法二（手动）

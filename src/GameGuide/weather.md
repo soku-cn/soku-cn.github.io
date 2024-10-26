@@ -78,7 +78,7 @@ date: 2023-10-01
 
 ### **1.快晴 Sunny**
 
-![适合在天上飞行程度的天气](https://bu.dusays.com/2024/01/21/65acd9ab106bd.webp =200x)
+![适合在天上飞行程度的天气](https://bu.dusays.com/2024/10/26/671ca93e47c28.webp =200x)
 
 ::: center
 **起始读数：99.9**
@@ -115,7 +115,7 @@ date: 2023-10-01
 
 ### **2.雾雨 Drizzle**
 
-![符卡火力提高程度的天气](https://bu.dusays.com/2023/08/21/64e3281270911.png =255x)
+![符卡火力提高程度的天气](https://bu.dusays.com/2024/10/26/671ca93e31335.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -135,7 +135,7 @@ date: 2023-10-01
 
 ### **3.云天 Cloudy**
 
-![能够灵活使用符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32879908c8.png =255x)
+![能够灵活使用符卡程度的天气](https://bu.dusays.com/2024/10/26/671ca93d88a07.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -159,7 +159,7 @@ date: 2023-10-01
 
 ### **4.苍天 BlueSky**
 
-![连续技变得犀利程度的天气](https://bu.dusays.com/2023/08/21/64e3291d38912.png =255x)
+![连续技变得犀利程度的天气](https://bu.dusays.com/2024/10/26/671ca93d80b98.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -194,7 +194,7 @@ date: 2023-10-01
 
 ### **5.雹天 Hail**
 
-![灵力增强程度的天气](https://bu.dusays.com/2023/08/21/64e3299c0614b.png =255x)
+![灵力增强程度的天气](https://bu.dusays.com/2024/10/26/671ca93d75c31.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -214,7 +214,7 @@ date: 2023-10-01
 
 ### **6.花云 SpringHaze**
 
-![能避开打击程度的天气](https://bu.dusays.com/2023/08/21/64e329df52446.png =255x)
+![能避开打击程度的天气](https://bu.dusays.com/2024/10/26/671ca93d6d503.webp =255x)
 
 ::: center
 **起始读数：49.9**
@@ -250,7 +250,7 @@ date: 2023-10-01
 
 ### **7.浓雾 HeavyFog**
 
-![吸血鬼附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a41adaae.png =255x)
+![吸血鬼附体程度的天气](https://bu.dusays.com/2024/10/26/671ca93d69e93.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -274,7 +274,7 @@ date: 2023-10-01
 
 ### **8.雪天 Snow**
 
-![幽灵附体程度的天气](https://bu.dusays.com/2023/08/21/64e32a7e84798.png =255x)
+![幽灵附体程度的天气](https://bu.dusays.com/2024/10/26/671ca93d59e8e.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -331,7 +331,7 @@ date: 2023-10-01
 
 ### **9.天气雨 SunShower**
 
-![防御变得怪异程度的天气](https://bu.dusays.com/2023/08/21/64e32b2eae8f4.png =255x)
+![防御变得怪异程度的天气](https://bu.dusays.com/2024/10/26/671ca93ca147b.webp =255x)
 
 ::: center
 **起始读数：74.9**
@@ -357,7 +357,7 @@ date: 2023-10-01
 
 ### **10.疏雨 Sprinkle**
 
-![必杀技全开程度的天气](https://bu.dusays.com/2023/08/21/64e32bc69e106.png =255x)
+![必杀技全开程度的天气](https://bu.dusays.com/2024/10/26/671ca93c9f68f.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -373,7 +373,7 @@ date: 2023-10-01
 
 ### **11.风雨 Tempest**
 
-![借助风之力程度的天气](https://bu.dusays.com/2023/08/21/64e32c26ecb0e.png =255x)
+![借助风之力程度的天气](https://bu.dusays.com/2024/10/26/671ca93c967a9.webp =255x)
 
 ::: center
 **起始读数：49.9**
@@ -398,7 +398,7 @@ date: 2023-10-01
 
 ### **12.晴岚 MountainVapor**
 
-![看不见符卡程度的天气](https://bu.dusays.com/2023/08/21/64e32c808e3a1.png =255x)
+![看不见符卡程度的天气](https://bu.dusays.com/2024/10/26/671ca93c93b10.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -430,7 +430,7 @@ date: 2023-10-01
 
 ### **13.川雾 RiverMist**
 
-![距离变得诡异程度的天气](https://bu.dusays.com/2023/08/21/64e32d29a8af4.png =255x)
+![距离变得诡异程度的天气](https://bu.dusays.com/2024/10/26/671ca93c83e98.webp =255x)
 
 ::: center
 **起始读数：74.9**
@@ -458,7 +458,7 @@ date: 2023-10-01
 
 ### **14.台风 Typhoon**
 
-![使决斗变得疯狂程度的天气](https://bu.dusays.com/2023/08/21/64e32d78d495f.png =255x)
+![使决斗变得疯狂程度的天气](https://bu.dusays.com/2024/10/26/671ca93c83031.webp =255x)
 
 ::: center
 **起始读数：74.9**
@@ -477,7 +477,7 @@ date: 2023-10-01
 
 ### **15.无风 Calm**
 
-![ 能使伤口愈合程度的天气](https://bu.dusays.com/2023/08/21/64e32df905d06.png =255x)
+![ 能使伤口愈合程度的天气](https://bu.dusays.com/2024/10/26/671ca93bbadca.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -498,7 +498,7 @@ date: 2023-10-01
 
 ### **16.钻石尘 DiamondDust**
 
-![睡着就会死程度的天气](https://bu.dusays.com/2023/08/21/64e32e51d6c57.png =255x)
+![睡着就会死程度的天气](https://bu.dusays.com/2024/10/26/671ca93b9edaa.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -530,7 +530,7 @@ date: 2023-10-01
 
 ### **17.黄砂 DustStorm**
 
-![反击程度的天气](https://bu.dusays.com/2023/08/21/64e32ebcbe21c.png =255x)
+![反击程度的天气](https://bu.dusays.com/2024/10/26/671ca93bb953d.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -557,7 +557,7 @@ date: 2023-10-01
 
 ### **18.烈日 ScorchingSun**
 
-![烧尽一切程度的天气](https://bu.dusays.com/2023/08/21/64e32f2496075.png =255x)
+![烧尽一切程度的天气](https://bu.dusays.com/2024/10/26/671ca93ba0b4c.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -585,7 +585,7 @@ date: 2023-10-01
 
 ### **19.梅雨 Monsoon**
 
-![会被大地弹起程度的天气](https://bu.dusays.com/2023/08/21/64e32fa9f3e47.png =255x)
+![会被大地弹起程度的天气](https://bu.dusays.com/2024/10/26/671ca93bb284c.webp =255x)
 
 ::: center
 **起始读数：99.9**
@@ -615,7 +615,7 @@ date: 2023-10-01
 
 ### **20.极光 Aurora**
 
-![不知会发生什么程度的天气](https://bu.dusays.com/2023/08/21/64e3300752dcf.png =255x)
+![不知会发生什么程度的天气](https://bu.dusays.com/2024/10/26/671ca93bb9187.webp =255x)
 
 ::: center
 **起始读数：因随机天气而定**

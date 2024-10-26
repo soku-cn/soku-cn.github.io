@@ -38,7 +38,7 @@ date: 2024-06-16
 
 **SokuLauncher 更新器内下载，或者手动下载【2024-06-17】及以后的升级包**
 
-![点这里下载新发布的 mod](https://bu.dusays.com/2024/06/16/666eb7ee77674.png =300x)
+![点这里下载新发布的 mod](https://bu.dusays.com/2024/10/26/671ca5adca22f.webp =300x)
 
 :::
 

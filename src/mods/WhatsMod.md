@@ -54,7 +54,7 @@ date: 2024-01-07
 
 若 th123 文件夹内的 `d3d9.dll` 文件大小为 `99KB`，则根据 `SWRSToys.ini` 内的内容作为配置，忽略 `ModLoaderSettings.json` 文件
 
-![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/01/31/65ba670fc88a0.png =400x)
+![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/10/26/671ca75d47ab1.webp =400x)
 
 :::
 
@@ -76,7 +76,7 @@ date: 2024-01-07
 
 @tab 情况二：删掉mod然后再重新安装
 
-![删掉mod然后再重新安装](https://bu.dusays.com/2024/04/12/66192c5b67c14.png =450x)
+![删掉mod然后再重新安装](https://bu.dusays.com/2024/10/26/671ca745639f8.webp =450x)
 
 :::
 
@@ -107,7 +107,7 @@ date: 2024-01-07
 
 ![在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png =700x)
 
-![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67fa51352.png =500x)
+![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/10/26/671ca72cbf51c.webp =500x)
 
 :::
 
