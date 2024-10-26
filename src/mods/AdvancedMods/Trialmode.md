@@ -282,13 +282,13 @@ OK完美 怎么连都行
 ## 0.5版本编辑模式已知BUG
 ::: caution 0.5版本编辑模式已知BUG
 
-- 开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃
+- 【不确定】开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃
 
-![开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃](https://bu.dusays.com/2024/06/14/666c3f06c4018.png =300x)
+![开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃](https://bu.dusays.com/2024/10/26/671ca6c521a67.webp =300x)
 
-- 编辑连段时的输入框，部分人用鼠标互动可能会发生卡死无响应
+- 编辑连段时的输入框，部分人或部分时候用鼠标互动可能会发生卡死无响应
 
-![](https://bu.dusays.com/2024/06/14/666c3f2078559.png =300x)
+![](https://bu.dusays.com/2024/10/26/671ca6c523b4e.webp =300x)
 
 :::
 

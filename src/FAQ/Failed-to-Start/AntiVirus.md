@@ -49,13 +49,15 @@ date: 2024-10-25
 
 **图片请手动点击放大查看**
 
-![1 火绒隔离.jpg](https://bu.dusays.com/2024/07/02/6684168432e0a.jpg =100x) ![2 Defender 隔离.jpg](https://bu.dusays.com/2024/07/02/66841683cff76.jpg =100x) ![3 360 隔离.jpg](https://bu.dusays.com/2024/07/02/66841683c005d.jpg =100x) ![4 腾讯管家隔离.jpg](https://bu.dusays.com/2024/07/02/66841683be2b0.jpg =100x) ![5 金山毒霸隔离.jpg](https://bu.dusays.com/2024/07/02/66841683beb76.jpg =100x)
+![1 火绒隔离.jpg](https://bu.dusays.com/2024/10/26/671cad799a3ea.webp =100x) ![2 Defender 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7981bbf.webp =100x) ![3 360 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7971659.webp =100x) ![4 腾讯管家隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x) ![5 金山毒霸隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x)
 :::
 
 ::: info 杀毒软件误杀示例，可能会导致无法解压，无法启动游戏，缺失mod dll文件
 
-![](https://bu.dusays.com/2024/08/01/66aba74d677f7.jpg =x220) ![mod的 dll文件提示 file does not exist，是被杀毒软件误杀了](https://bu.dusays.com/2023/09/01/64f0bde3e950d.png =x220)
-![](https://bu.dusays.com/2024/08/07/66b2cc8bc1231.jpg =500x) ![](https://bu.dusays.com/2024/08/07/66b2cc9f1b1f8.jpg =500x)
+mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
+
+![](https://bu.dusays.com/2024/10/26/671cad1e4266a.webp =x220) ![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =x220)
+![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =500x) ![](https://bu.dusays.com/2024/10/26/671cad1e68937.webp =500x)
 :::
 
 ## Swarm 获取服务器列表失败
@@ -67,7 +69,7 @@ date: 2024-10-25
 
 - 原因3：可能是swarm服务器出了问题，请在QQ群反映
 
-.　　![](https://bu.dusays.com/2024/04/18/66213b6e17cde.png =x130)　　　　![](https://bu.dusays.com/2024/04/02/660b95ce32153.png =x130)
+.　　![](https://bu.dusays.com/2024/10/26/671cacd268d1f.webp =x130)　　　　![](https://bu.dusays.com/2024/10/26/671cace3b6e37.webp =x130)
 
 
 
@@ -77,7 +79,7 @@ date: 2024-10-25
 
 如果没有这个bat，[**请下载比 2024-08-04 更晚的升级包**](/about/)
 
-![也可以使用swarm-old组合启动，如果没有这个bat，请下载比 2024-08-04 更晚的升级包](https://bu.dusays.com/2024/08/07/66b2d9ce07d75.png =500x)
+![也可以使用swarm-old组合启动，如果没有这个bat，请下载比 2024-08-04 更晚的升级包](https://bu.dusays.com/2024/10/26/671cacf4854a4.webp =500x)
 
 :::
 
@@ -93,9 +95,9 @@ date: 2024-10-25
 
 [**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)
 
-![](https://bu.dusays.com/2024/05/23/664f410265893.png =400x)
+![](https://bu.dusays.com/2024/10/26/671cacbe5cd68.webp =400x)
 
-![](https://bu.dusays.com/2024/06/10/666675df23414.png =x400)
+![](https://bu.dusays.com/2024/10/26/671c9a96f29f0.webp =x400)
 
 @tab 2、thlink by weilinfox（桜風の狐）
 
@@ -112,6 +114,6 @@ date: 2024-10-25
 
 [**详细请看其Lofter页面**](https://usaginya.lofter.com/post/1d56d69b_1c93aa6aa) | [**详细请看其Github页面**](https://github.com/usaginya/DAxZE)
 
-![](https://bu.dusays.com/2024/04/14/661beed44a8f9.png =x250) 　![](https://bu.dusays.com/2024/04/14/661bece3df2a7.png =x250)
+![](https://bu.dusays.com/2024/10/26/671cac8dee348.webp =x250) 　![](https://bu.dusays.com/2024/10/26/671c9ac396c70.webp =x250)
 
 :::

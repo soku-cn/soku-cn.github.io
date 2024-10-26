@@ -15,7 +15,7 @@ date: 2023-11-27
 
 ![address 4081d2](https://bu.dusays.com/2024/01/21/65acca2ca8bd2.webp =400x)
 
-![如图 UAC 用户账户控制](https://bu.dusays.com/2024/02/27/65ddbaff4d109.png =400x)
+![如图 UAC 用户账户控制](https://bu.dusays.com/2024/10/26/671cac1dd4ff6.webp =400x)
 
 
 ::: info 解决办法

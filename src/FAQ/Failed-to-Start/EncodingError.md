@@ -15,7 +15,7 @@ date: 2023-07-22
 
 ::: info 游戏文件名和游戏标题显示乱码，进改卡界面和游戏界面就崩溃
 
-![乱码状况如图](https://bu.dusays.com/2024/05/18/664825b98d260.png =400x)
+![乱码状况如图](https://bu.dusays.com/2024/10/26/671cac5b2100d.webp =400x)
 
 ![乱码状况如图1](https://bu.dusays.com/2024/01/21/65acc81f57d85.webp =400x)
 

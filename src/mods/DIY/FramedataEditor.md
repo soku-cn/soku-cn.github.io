@@ -149,26 +149,23 @@ date: 2023-09-04
 ::: info
 上面的新工具 Shady-Packer 内有一个半透明妖梦的成品，是转化后的格式，也是 1KB大小
 
-我暂时还不会制作，但是可以去问，如果有人想做的话可以在mod群里 call 我，我再去问问看怎么做
+我暂时还不会制作，但是可以去问，如果有人想做的话可以在mod群里找我，我再去问问看怎么做
 
 ![半透明妖梦配色](https://bu.dusays.com/2024/01/21/65acde92efe8b.webp =200x)
 
 ![半透明妖梦配色2](https://bu.dusays.com/2024/01/21/65acdeda97f8c.webp =500x)
 
-::: warning 已知问题
-
-- **无法通过 Palette-picker 法加载透明配色**
-
-:::
-
-::: warning 配色转化后得到515KB的pal文件，加载进游戏后还是错误
+## 5.已知问题
 
 
-**1、检查看你应该是启用了 `true-color-palettes` 这个mod，不过不用担心，不用关掉**
+::: warning 配色转化后得到 515字节 的 pal 文件，加载进游戏后配色乱码
+**解决方法二选一：**
 
-**2、用诸如 `HxD Hex Editor` 之类的16进制编辑器打开 515KB 的那个 pal 配色文件，删掉末尾的两个字节（如FF两个字母代表一个字节）**
+1、不要用 Palette-Picker mod
+    - **无 Palette-Picker 法不能加载大于 513字节 的 pal 文件，如透明配色等**
 
-**3、重新进游戏，应该就正常了**
+2、用诸如 `HxD Hex Editor` 之类的16进制编辑器打开 515字节 的那个 pal 配色文件，删掉末尾的两个字节（如FF两个字母代表一个字节）
+
 
 :::
 
@@ -181,14 +178,35 @@ date: 2023-09-04
 素材文件夹可以是包含文件夹层级 `data/character/reisen/xxxxx.png` 格式的文件夹，
 也可以是包含按 shady-loader 格式命名的文件 `data_character_reisen_xxxxx.png` 的文件夹
 
-![settings 内导入额外素材文件夹](https://bu.dusays.com/2024/09/21/66ee71b4c14db.png =500x)
+![settings 内导入额外素材文件夹](https://bu.dusays.com/2024/10/26/671c956eebfd8.webp =500x)
 
 导入后，就可以使用并预览其内的素材资源了
 
-![导入额外素材后的效果，铃仙眼睛多出来了索引配色](https://bu.dusays.com/2024/09/21/66ee71b4ba57b.jpg =800x)
+![导入额外素材后的效果，铃仙眼睛多出来了索引配色](https://bu.dusays.com/2024/10/26/671c956f1d105.webp =800x)
 
 :::
 
+
+## 修改弹幕特效颜色等
+
+::: info 用到的软件工具
+
+- LunaPic（在线网站） / Photoshop
+
+https://discord.com/channels/167593473854144512/253944555831820288/1272981537050067087
+https://discord.com/channels/167593473854144512/253944555831820288/892911846254862346
+例子 LunaPic Color Tint
+:::
+
+
+
+## 修改角色Sprite精灵图色块区域
+
+::: info 用到的软件工具
+
+- Aseprite（贴吧内下载）
+
+:::
 
 
 

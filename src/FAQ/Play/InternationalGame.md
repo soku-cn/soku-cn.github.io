@@ -31,15 +31,11 @@ date: 2023-08-01
 **很有可能是你的机签带中文的问题，修改一下机签 profile 名字，不要带中文，只用英文字母+数字+字符**
 :::
 
-::: details IngameHostlist 界面说明
+::: note IngameHostlist 界面说明
 
-![](https://bu.dusays.com/2024/05/15/6644532d8b7ea.jpg =600x)
+![](https://bu.dusays.com/2024/10/26/671caf70af84d.webp =600x)
 
-![](https://bu.dusays.com/2024/05/15/6644532d4eb13.jpg =600x)
-
-![](https://bu.dusays.com/2024/05/15/6644532d4eb13.jpg =600x)
-
-![](https://bu.dusays.com/2024/05/15/6644532d4eb13.jpg =600x)
+![](https://bu.dusays.com/2024/10/26/671caf70b1269.webp =600x)
 
 :::
 
@@ -60,11 +56,11 @@ Nemu桑的 Discord 群：https://discord.gg/uTdqCcT57x
 
 [**油猴脚本——片假名终结者（在网页中的日语外来语上方标注英文原词）**](https://greasyfork.org/zh-CN/scripts/33268-katakana-terminator)
 
-![进群先新人报道](https://bu.dusays.com/2024/06/25/667a7dc3e1e3f.jpg)
+![进群先新人报道](https://bu.dusays.com/2024/10/26/671caed4d6664.webp =800x)
 
-![自己发IP的时候，请标注自己使用的 Giuroll 的版本，帧数默认是 60F](https://bu.dusays.com/2024/03/07/65e948b542e95.png =800x)
+![自己发IP的时候，请标注自己使用的 Giuroll 的版本，帧数默认是 60F](https://bu.dusays.com/2024/10/26/671cabb4a272f.webp =800x)
 
-![感谢对战](https://bu.dusays.com/2024/03/07/65e94902b60e0.png =800x)
+![感谢对战](https://bu.dusays.com/2024/10/26/671cabb4a3e2f.webp =800x)
 
 
 @tab Hisouten国际群（能和中国玩的流畅不多）

@@ -1,5 +1,5 @@
 ---
-title: 游戏画面显示错位
+title: 【已修复】游戏画面显示错位
 
 # 标题
 icon: circle-info
