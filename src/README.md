@@ -46,6 +46,11 @@ features:
     icon: fa-solid fa-star
     details: 大厅内如何联机，大厅内的各项操作
     link: /FAQ/Play/LobbyGuide.html
+
+  - title: 大厅常见问题
+    icon: list
+    details: 大厅内如何联机，大厅内的各项操作
+    link: /FAQ/tree.html
     
   - title: SokuLauncher更新器打不开(.Net 4.7.2)
     icon: file

@@ -29,6 +29,7 @@ export default sidebar({
         children:
           [
             "update.md",
+            "tree.md",
             {
               text: "游戏无法正常运行",
               icon: "power-off",

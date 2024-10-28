@@ -2,7 +2,7 @@
 title: 练习模式Mod使用说明
 
 # 标题
-icon: fa-solid fa-lightbulb
+icon: wand-magic-sparkles
 # 图标
 order: 2
 # 数字越小，文章左侧排序越靠上
