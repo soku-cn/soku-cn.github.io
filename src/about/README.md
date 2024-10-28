@@ -10,20 +10,20 @@ next: false
 
 
 
-## **非想天则资源下载指路**
+## **非想天则相关资源下载**
 
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-- [**123 网盘（网页端下载、不限速、免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
+- [**123 网盘（网页端登录下载，不限速，每天免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
 
-- [**电信天翼网盘（网页端下载、不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
+- [**电信天翼网盘（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
 - [**百度网盘**](https://pan.baidu.com/s/1RGk6aF_icgh0ToMX1IQAFA?pwd=1111)
 
 - [**蓝奏云 (只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 
-- QQ 资源群，可直接加群无需验证 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893)
+- QQ 资源群 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 可直接加群无需验证
 **不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**
 注：新版 NT-QQ 无法将文件转发给自己而绕过限速
 :::
@@ -64,7 +64,7 @@ next: false
 
 
 
-## **国际非想天则社区/其他相关站点导航**
+## **国际非想天则社区，其他相关站点导航**
 
 ::: important Discord 群聊社区
 - [国际非想天则社区 - Discord Hisouten Server](https://discord.gg/hisouten)
@@ -114,7 +114,7 @@ next: false
 
 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
 
-[网站交流群 200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
+[**网站交流QQ群 200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 ::: tip 当前小目标
 完成新手上路基本知识和资源、Mod、工具讲解。

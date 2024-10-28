@@ -1,7 +1,7 @@
 ---
 title: SokuLauncher更新器使用说明
 # 标题
-icon: file
+icon: file-lines
 # 图标
 order: 1
 # 数字越小，文章左侧排序越靠上

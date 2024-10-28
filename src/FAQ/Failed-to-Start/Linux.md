@@ -1,6 +1,6 @@
 ---
 title: 在 GNU/Linux 下运行非想天则
-icon: file
+icon: file-lines
 editLink: false
 prev: false
 next: false

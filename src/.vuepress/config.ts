@@ -21,7 +21,7 @@ export default defineUserConfig({
     "/en/": {
       lang: "en-US",
       title: "Hisoutensoku Guide",
-      description: "一个关于「东方非想天则」的中文指南 Wiki",
+      description: "A Chinese Doc Guide for 「Touhou 12.3 Hisoutensoku」",
     },
   },
 

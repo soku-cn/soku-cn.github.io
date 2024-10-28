@@ -1,9 +1,9 @@
 ---
 title: 解压失败，杀毒软件误杀误报
 # 标题
-icon: circle-info
+icon: file-lines
 # 图标
-order: -1
+order: 1
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -17,22 +17,22 @@ date: 2024-10-25
 # copyright: 无版权
 ---
 
-## 解压说明
+## 解压说明，下载并安装解压软件
 ::: important 解压说明
 
-1. 下载安装靠谱的解压软件，**不建议使用 Windows 自带的“提取”功能**
+1. 下载并安装一个解压软件，**不建议使用 Windows 自带的“提取”功能**
    - [Bandzip](https://www.bandisoft.com/bandizip/)有个智能解压并删除的功能，我挺喜欢的。也可以用 [7zip](https://www.7-zip.org/) ，随你喜欢
 
 2. 给杀毒软件（Windows Defender或你下的第三方杀软）设置白名单信任文件夹；或者临时关闭杀软的实时防护功能
-不会操作的话看下面的绿色框文字
+**不会操作的话看下面的绿色框文字**
 
 3. 用解压软件解压“完整游戏包”，添加为白名单信任文件夹
 
 4. 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 尝试运行游戏，没问题就行
 
 5. **重新打开杀毒软件各项功能，若提示报毒等，请点击信任操作**
-   - [**大厅常见问题(联机教程)**](/FAQ/Play/LobbyGuide.html)
-   - [**对战前新人须知(联机教程)**](/Beginners/BeforePlaying.html)
+   - [大厅常见问题(联机教程)](/FAQ/Play/LobbyGuide.html)
+   - [对战前新人须知(联机教程)](/Beginners/BeforePlaying.html)
 :::
 
 
@@ -52,6 +52,7 @@ date: 2024-10-25
 ![1 火绒隔离.jpg](https://bu.dusays.com/2024/10/26/671cad799a3ea.webp =100x) ![2 Defender 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7981bbf.webp =100x) ![3 360 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7971659.webp =100x) ![4 腾讯管家隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x) ![5 金山毒霸隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x)
 :::
 
+## 杀毒软件误杀示例
 ::: info 杀毒软件误杀示例，可能会导致无法解压，无法启动游戏，缺失mod dll文件
 
 mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
@@ -60,7 +61,7 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 ![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =500x) ![](https://bu.dusays.com/2024/10/26/671cad1e68937.webp =500x)
 :::
 
-## Swarm 获取服务器列表失败
+### Swarm 获取服务器列表失败
 ::: caution Swarm 获取服务器列表失败
 
 - 原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
