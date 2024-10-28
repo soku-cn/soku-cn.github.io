@@ -13,23 +13,22 @@ date: 2024-01-07
 #文章编辑日期
 ---
 
-### 新则上手教程视频
+### **新则上手教程视频**
 ::: important 
 
-[**视频教程 —— 😎新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+- [**视频教程 —— 😎新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 
 
-- [**非想天则资源下载，游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等**](/about/)
+- [**非想天则资源下载**](/about/)
 
 :::
 
 
 
-### 注意检查游戏更新 
-::: info 双击灵梦图标的 SokuLauncher.exe 启动游戏，每次打开时会自动检测现有 mod 有无更新
+### **注意检查游戏更新**
+::: info 
 
-
-- [**非想天则资源下载，游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等**](/about/)
+- 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 启动游戏，每次打开时会自动检测更新现有 mod
 
 - [SokuLauncher 更新器使用说明](/FAQ/update.html)
 
@@ -37,27 +36,31 @@ date: 2024-01-07
 
 - **如果全屏看不到游戏标题，按 `Alt + Enter` 即可切换全屏和窗口化**
 
-![SokuLauncher 更新器](https://bu.dusays.com/2024/05/20/664aff26566d4.png =300x)
+- 和国内玩点第一个的 “大厅+62F” 选项启动游戏
 
-![和国内玩点 “大厅+62F” 启动](https://bu.dusays.com/2024/10/26/671c9e1eb72b5.webp =400x)
+![游戏标题的 giuroll 版本](https://bu.dusays.com/2024/10/28/671fa4d937b19.jpg =500x)
+
+![大厅界面右下角的大厅版本](https://bu.dusays.com/2024/10/28/671fa4d92d6bb.jpg =500x)
+
+<!-- ![和国内玩点 “大厅+62F” 启动](https://bu.dusays.com/2024/10/26/671c9e1eb72b5.webp =400x) -->
 
 :::
 
 ### 开始游戏前，设置好你的机签名（Profile）、键位、卡组
 ::: info 
-- <font color=orange size=4><strong>在练习模式的选人界面按 C键 打开菜单，可以修改机签、键位、卡组</strong></font>
+- <font color=green size=4><strong>在练习模式的选人界面按 C键 打开菜单，可以修改机签、键位、卡组</strong></font>
 
-- 若要修改机签名，请打开你的 `th123` 游戏文件夹，找到 `profile` 文件夹，进入后将 `profile1p.pf` 修改为你想要的文件名即可，如修改为 `1234567.pf`，修改后再返回游戏，按 C键 进入菜单。
+- **修改机签名字**：打开你的 `th123` 游戏文件夹，找到 `profile` 文件夹，进入后将 `profile1p.pf` 修改为你想要的文件名即可，如修改为 `1234567.pf`，修改后再返回游戏，按 C键 进入菜单
 
 - **先选择好机签，右上角变化后，再去设置 1P 卡组和按键**
 
-- 机签名字最好是可以方便在 QQ 等地方找到你的名字，不要设置低俗无礼或意义不明、不好打出来的名字
+- 机签名字最好是可以方便在 QQ 等地方找到你的名字，不建议设置低俗无礼或不好打出来的名字
 
 - 可以将自己的游戏水平标注，有助于寻找旗鼓相当的对手
 
-![右上角就是选择好了的，正在使用的机签名](https://bu.dusays.com/2024/10/26/671c98c41f5da.webp =600x)
-
 ![在练习模式的选人界面按 C键 打开菜单，可以修改机签、键位、卡组](https://bu.dusays.com/2024/10/26/671c98c41befa.webp =600x)
+
+![右上角就是选择好了的，正在使用的机签名](https://bu.dusays.com/2024/10/26/671c98c41f5da.webp =600x)
 
 :::
 
@@ -126,11 +129,11 @@ date: 2024-01-07
 ::: important 
 
 
-[**视频链接 —— 新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+[**视频链接 —— 😎新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 
 :::
 
-
+<!-- #region snippet -->
 :::: info 联机教程 - Swarm使用说明
 通过中转服务器，中转数据包的方式来帮助联机，只需要建主方打开 Swarm 软件即可，对连接方无要求
 
@@ -177,6 +180,7 @@ date: 2024-01-07
 
 ![swarm 服务器 - 联机说明](https://bu.dusays.com/2024/01/21/65acce946fa86.webp =100x) ![正确连接1](https://bu.dusays.com/2024/01/21/65accec8ef27a.webp =100x) ![正确连接2](https://bu.dusays.com/2024/01/21/65accedc69106.webp =100x) ![错误连接-绕远路1](https://bu.dusays.com/2024/01/21/65acceed9202e.webp =100x) ![错误连接-绕远路2](https://bu.dusays.com/2024/01/21/65accefb8c88c.webp =100x)
 :::
+<!-- #endregion snippet -->
 
 ### Swarm被误杀，刷不出服务器
 
