@@ -155,6 +155,20 @@ AcceptHostlist=1
 ![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
 :::
 
+## **进入Network菜单就弹窗报错，Cannot load stats.dat Invalid magic**
+
+![报错如图 Cannot load stats.dat Invalid magic](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
+
+::: info  解决办法
+
+**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`，实现备份恢复**
+
+![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
+
+:::
+
+
+
 ## 游戏ESC返回主菜单时卡住
 
 ::: warning 
@@ -165,7 +179,7 @@ AcceptHostlist=1
 
 :::
 
-## **大厅房间进不去，卡加载，"Unknown exception"报错**
+## 大厅房间进不去，卡加载，"Unknown exception"报错
 
 ![大厅房间进不去，卡加载，"Unknown exception"报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
 
@@ -258,19 +272,6 @@ var frame = document.getElementById('Hostlist');
 **非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
 
 **或者 Windows 区域语言设置换回中文（不要开启 UTF-8）**
-
-:::
-
-
-## 进入 VS NETWORK 就弹窗报错 stats.dat
-
-![报错如图 stat.dat](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
-
-::: info  解决办法
-
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat` 实现备份恢复**
-
-![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
 
 :::
 
