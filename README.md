@@ -61,3 +61,16 @@ pnpm dlx vp-update
 
 - [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
 >参考：[主题说明文档](https://theme-hope.vuejs.press/zh/)
+
+
+---------------------------------------------------------
+
+## Star History
+
+<a href="https://star-history.com/#soku-cn/soku-cn.github.io&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=soku-cn/soku-cn.github.io&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=soku-cn/soku-cn.github.io&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=soku-cn/soku-cn.github.io&type=Date" />
+ </picture>
+</a>
