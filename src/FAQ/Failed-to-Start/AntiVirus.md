@@ -20,6 +20,9 @@ date: 2024-10-25
 ## 解压说明，下载并安装解压软件
 ::: important 解压说明
 
+- [**【电子扫盲课】【小白必看】如何解压压缩包？ - ASYS 科技 · 2022-6-17**](https://www.bilibili.com/video/BV1xZ4y1v7pU/)
+
+::: note
 1. 下载并安装一个解压软件，**不建议使用 Windows 自带的“提取”功能**
    - [Bandzip](https://www.bandisoft.com/bandizip/)有个智能解压并删除的功能，我挺喜欢的。也可以用 [7zip](https://www.7-zip.org/) ，随你喜欢
 

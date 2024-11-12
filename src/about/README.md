@@ -19,7 +19,10 @@ next: false
 
 - [**电信天翼网盘（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- [**百度网盘**](https://pan.baidu.com/s/1RGk6aF_icgh0ToMX1IQAFA?pwd=1111)
+- **百度网盘**
+  - [①非想天则游戏本体-为什么你要用度盘下载？](https://pan.baidu.com/s/1Vtt0rnAaSMJTnq8_5p_P6w?pwd=a2fr)
+  - [②其他非想天则相关资源](https://pan.baidu.com/s/1vpGPoBKXfbvEhPkczdT93Q?pwd=jbbq)
+  - [③旧chm攻略-钢琴男](https://pan.baidu.com/s/1Jxayr5rJUYXOqCI5OOLB8g?pwd=7bq7)
 
 - [**蓝奏云 (只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 
