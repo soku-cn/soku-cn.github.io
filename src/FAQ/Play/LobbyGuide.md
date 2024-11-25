@@ -235,32 +235,18 @@ AcceptHostlist=1
 
 （需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
 
-（不需要梯子，纯文本） https://konni.delthas.fr/games
-
-可以在这个网页中，Ctrl F搜索 started，每一行是一条信息
-
 ![Hisouten Discord 服务器上的 Hostlist](https://bu.dusays.com/2024/10/26/671caa8bdd47f.webp =500x)
 
-::: details
+::: details （不需要梯子，纯文本） https://konni.delthas.fr/games 可以在这个网页中，Ctrl F搜索 started，每一行是一条信息
 
-<iframe 
-    id="Hostlist"
-    src="https://konni.delthas.fr/games" 
-    width="100%" 
-    height="400" 
-    frameborder="0" 
-    srcolling="auto"
+<iframe
+  src="https://konni.delthas.fr/games" title="Hostlist-文本" width="80%" height="77vh" loading="lazy"
+  style="border-radius: 15px; padding: 10px; background-color: #eeeeee; border: 3px dashed #111111;"
+  sandbox="allow-modals allow-pointer-lock allow-web-share allow-orientation-lock allow-screen-wake-lock allow-presentation allow-encrypted-media allow-autoplay"
+  referrerpolicy="no-referrer"
+  tabindex="0"
 ></iframe>
-<!--  
-<script>
-var frame = document.getElementById('Hostlist');
-    frame.onload = function () {
-        var body = frame.contentWindow.document.querySelector('body');
-        body.style.color = 'red';
-        body.style.fontSize = '20px';
-        body.style.lineHeight = '20px';
-    };
-</script>-->
+
 :::
 
 ## 非中文系统开游戏时弹窗 Sokulobby Eoor
