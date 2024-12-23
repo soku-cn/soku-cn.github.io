@@ -64,14 +64,15 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 ![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =500x) ![](https://bu.dusays.com/2024/10/26/671cad1e68937.webp =500x)
 :::
 
+<!-- #region swarm-down -->
 ### Swarm 获取服务器列表失败
 ::: caution Swarm 获取服务器列表失败
 
-- 原因1：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
+- 原因1：很多人都出现这种情况，就是 swarm 服务器出了问题，请在QQ群 @三回 或 @1146410994 反映
 
 - 原因2：杀软把 Swarm 软件误杀拦截了，请添加白名单信任
 
-- 原因3：可能是swarm服务器出了问题，请在QQ群反映
+- 原因3：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
 
 .　　![](https://bu.dusays.com/2024/10/26/671cacd268d1f.webp =x130)　　　　![](https://bu.dusays.com/2024/10/26/671cace3b6e37.webp =x130)
 
@@ -121,3 +122,4 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 ![](https://bu.dusays.com/2024/10/26/671cac8dee348.webp =x250) 　![](https://bu.dusays.com/2024/10/26/671c9ac396c70.webp =x250)
 
 :::
+<!-- #endregion swarm-down -->
