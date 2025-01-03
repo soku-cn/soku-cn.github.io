@@ -13,20 +13,23 @@ date: 2024-03-01
 #文章编辑日期
 ---
 
-## **大厅内如何联机**
+## **联机教程 —— 大厅内如何建主和加入别人**
+:::: tip
+::: important 视频教程
 
-::: important 联机教程 👇 👇 👇 
+- [**视频教程 —— 😎新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+::: 
 
-[**视频教程 —— 😎新人指路 2024五月最新 “新则”使用向导【非想天则-整合包】**](https://www.bilibili.com/video/BV1gZ421s7yF/)
-
-[**图文教程 —— 大厅内使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-
+::: important 图文教程
+- [**图文教程 —— 😎大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 :::
+::::
 
 
 
-## **联机失败，显示红字报错**
+## **联机失败，显示红字报错，请先阅读上面的联机教程**
+- ==**请 先 阅读 上面 的 联机教程**==
 ::: caution 联机失败，显示红字报错
 ::: tabs
 
@@ -36,26 +39,29 @@ date: 2024-03-01
 
 ![](https://bu.dusays.com/2024/10/26/671c9ed08c958.webp =400x)
 
-对手不支持 AP，也没正确使用 swarm 建主，所以你进不去他
+对手不支持 AP，也 ==**没正确使用 swarm 建主**==，所以你进不去他
 
-::: tip 解决办法
+::: tip 解决办法很简单
 
-
-**自己开好 Swarm，点中转，点IP用于大厅，然后进不去别人的时候，自己立马原地建主，然后别人进自己就可以进来了。**   
+**自己开好 Swarm，点中转，点IP用于大厅<br>然后进别人但是失败的时候，自己立马原地狂按Z键建主，叫对方进自己的就可以进来了。**   
 
 @tab 情况二：双方版本不同
 
-![](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
+![状况如图](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
-![检查游戏标题的 giuroll 版本，以及大厅界面右下角的大厅版本](https://bu.dusays.com/2024/01/21/65accc0205ba1.png =300x)
+![检查游戏标题的 giuroll 版本，giuroll，且 CN 结尾](https://bu.dusays.com/2025/01/03/6777c5d33d007.jpg =500x)
 
-::: tip 请注意大厅界面的公告，及时更新
+![联机时显示这种四行红字报错提示，意思是双方版本不一致。**通常是因为mod没有加载上，点击 `[修复]【 重置 Mod 配置 】.bat` 可修复，还不行就重新下载升级包或者完整游戏包**](https://bu.dusays.com/2025/01/03/6777c9535edb7.jpg =500x)
 
-联机时显示这种四行红字报错提示，意思是双方版本不一致
-Your version一行是你自己的版本，图中 `GiuRoll 0.6-62FPS with SWR` 的意思是 0.6.X 系列版本giuroll 62F CN + 绯想天合体，
-Their version一行是对方的版本，图中 `GiuRoll-62FPS with SWR` 的意思是 0.5.X 系列版本giuroll 62F CN + 绯想天合体，
+::: tip 
 
-合体绯想天配置错误的话，也会出现连接不上的情况的，检查 `th123文件夹` 里的 `configex123.ini` 配置文件
+- 联机时显示这种四行红字报错提示，意思是双方版本不一致<br>**通常是因为mod没有加载上，点击 `[修复]【 重置 Mod 配置 】.bat` 可修复，还不行就重新下载升级包或者完整游戏包**
+- Your version 一行是你自己的版本，Their version 一行是对方的版本
+- Vanilla 指 原版游戏
+- with SWR / without SWR 指 绯想天合体与否
+- GiuRoll 0.6-62FPS 指 giuroll 0.6.X + 62F CN版本，看游戏窗口标题
+- GiuRoll 0.6 ，不带`-62FPS` 指 giuroll 0.6.X + 60F 外国版本，看游戏窗口标题
+
 
 
 @tab 情况三：弹窗“Failed to get public IP”
@@ -131,6 +137,8 @@ ChatKey=0x0D
 
 ::: tip 
 **在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
+
+**AcceptHostlist 设置为 1，就是激活功能；设置为 0 是屏蔽功能**
 ```
 AcceptHostlist=1
 ; 设置为 1 可以在大厅内建主的同时，向群里发 IP，别人既可以在大厅内进入，也可以通过 IP 连接对战

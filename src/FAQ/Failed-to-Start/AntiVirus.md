@@ -24,16 +24,17 @@ date: 2024-10-25
 
 ::: note
 1. 下载并安装一个解压软件，**不建议使用 Windows 自带的“提取”功能**
-   - [Bandzip](https://www.bandisoft.com/bandizip/)有个智能解压并删除的功能，我挺喜欢的。也可以用 [7zip](https://www.7-zip.org/) ，随你喜欢
+   - [**7z**](https://www.7-zip.org/)
+   - [**Bandzip**](https://www.bandisoft.com/bandizip/)
 
 2. 给杀毒软件（Windows Defender或你下的第三方杀软）设置白名单信任文件夹；或者临时关闭杀软的实时防护功能
 **不会操作的话看下面的绿色框文字**
 
-3. 用解压软件解压“完整游戏包”，添加为白名单信任文件夹
+1. 用解压软件解压“完整游戏包”，添加为白名单信任文件夹
 
-4. 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 尝试运行游戏，没问题就行
+2. 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 尝试运行游戏，没问题就行
 
-5. **重新打开杀毒软件各项功能，若提示报毒等，请点击信任操作**
+3. **重新打开杀毒软件各项功能，若提示报毒等，请点击信任操作**
    - [大厅常见问题(联机教程)](/FAQ/Play/LobbyGuide.html)
    - [对战前新人须知(联机教程)](/Beginners/BeforePlaying.html)
 :::
