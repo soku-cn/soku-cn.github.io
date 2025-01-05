@@ -68,5 +68,5 @@ pnpm dlx vp-update
 ## 关于主题
 
 - [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
-- 
+
 >参考：[主题说明文档](https://theme-hope.vuejs.press/zh/)
