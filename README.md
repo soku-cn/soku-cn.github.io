@@ -2,16 +2,18 @@
 ## 一个关于「东方非想天则」的普通指南✨ （中英双语）
 ## Touhou 12.3 HisoutenSoku Wiki (Chinese/English )
 
-- 推荐使用：[自动分流](https://wiki.514.live/)，自动选择最快速度源。
+- 推荐使用：[自动分流，选择最佳站点](https://wiki.514.live/)。
 
-- 大陆网络：[Gitee Pages](https://soku-cn.gitee.io)
+- 大陆网络：~~[Gitee Pages](https://soku-cn.gitee.io)~~ [镜像站点](https://3322428.xyz)
 
 - 外部网络：[[**推荐**]Vercel](https://hisoutensoku-cn-wiki.vercel.app) [Github Pages](https://soku-cn.github.io)
 
 ---------------------------------------------------------
 ## 仓库地址
 
-[分流仓库](https://github.com/soku-cn/wiki-forward) [Gitee仓库](https://gitee.com/soku-cn/soku-cn) [Github仓库](https://github.com/soku-cn/soku-cn.github.io) 
+- [Github仓库](https://github.com/soku-cn/soku-cn.github.io) 
+- [Gitee仓库](https://gitee.com/soku-cn/soku-cn)
+- [分流代码仓库](https://github.com/soku-cn/wiki-forward) 
 
 ---------------------------------------------------------
 

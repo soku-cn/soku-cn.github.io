@@ -163,15 +163,15 @@ AcceptHostlist=1
 ![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =600x)
 :::
 
-## **进入Network菜单就弹窗报错，Cannot load stats.dat Invalid magic**
+## 开游戏就弹窗报错，SokuLobbyError: Cannot load stats.dat Invalid magic
 
-![报错如图 Cannot load stats.dat Invalid magic](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
+![报错如图 Cannot load stats.dat Invalid magic](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =500x)
 
 ::: info  解决办法
 
 **看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`，实现备份恢复**
 
-![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =400x)
+![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =500x)
 
 :::
 
@@ -182,16 +182,16 @@ AcceptHostlist=1
 ::: warning 
 
 
-**游戏ESC返回主菜单时卡住为正常，不要强行关闭游戏，挂在后台稍微等一会儿即可**
+**游戏ESC返回主菜单时卡住为正常，不要强行关闭游戏<br>挂在后台稍微等一会儿即可**
 
 
 :::
 
-## 大厅房间进不去，卡加载，"Unknown exception"报错
+## 大厅房间进不去，卡加载，红字 Unknown exception
 
 ![大厅房间进不去，卡加载，"Unknown exception"报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
 
-::: info 发生甚么事了
+::: info 
 **情况1：** 如果别人也显示这个画面进不去，那就是大厅主服务器炸了，==**按 S 可以切换回原版菜单**==，群里通知三回，等待重启主服务器
 
 **情况2：** 别人都正常但是你不正常，可以试试重开游戏，可能情况有：断网了、防火墙阻挡了
@@ -207,6 +207,8 @@ AcceptHostlist=1
 ::: tip 解决办法
 
 **直接进入菜单，按上键可以直接定位最后一个房间，然后依次往上一个一个进，直到进到有人的正确房间**
+
+或者等一会儿让他加载房间
 :::
 
 
@@ -219,11 +221,11 @@ AcceptHostlist=1
 
 1、可能是大厅房间服务器 关闭/重启 了，回主菜单过一会刷新，重进房间即可
 
-2、或者你机签有问题，请查看[**《新人须知》并改名**](Beginners/BeforePlaying.html)
+2、或者你机签名字有问题，请查看[**《新人需知》并改名**](/Beginners/BeforePlaying.html)
 
 ![](https://bu.dusays.com/2024/10/26/671c98c41f5da.webp =600x)
 
-3、大厅房间全红，无法连接，说明你被 ban 了，找我们说情况
+3、大厅房间全红，无法连接，说明你被 ban 了，找我们说明情况
 
 :::
 
