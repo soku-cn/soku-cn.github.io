@@ -8,7 +8,7 @@
 ---
 - Recommended: [Auto Proxy](https://wiki.514.live/) for selecting the fastest mirror automatically.
 
-- ~~Mainland China Network: [Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Page is no longer available.
+- Mainland China Network: ~~[Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Pages is no longer available.
 
 - International: [[**Recommended**] Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [GitHub Pages](https://soku-cn.github.io)
 
@@ -23,6 +23,8 @@
 ## Community Group
 
 [![QQ](https://img.shields.io/badge/QQ_Group-200803640-0078D6.svg?logo=tencent-qq&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
+
+[![Discord](https://img.shields.io/badge/Discord-Hisouten-blue)](https://discord.gg/hisouten)
 
 The QQ Group is intended for Simplified Chinese users only. If you use Japanese or English, please contact ChocoFleece on Discord.
 
