@@ -57,11 +57,13 @@ date: 2024-08-23
 ### 已知BUG
 ::: caution 新版ReplayDnD的Rep转mp4视频功能的已知BUG
 
-- **文件名以及文件路径不能包括百分号`%`和英文感叹号`!`，否则会发生双击rep文件只打开游戏和不播放rep的情况（ReplayDnD mod没激活就双击rep的话也会这样）**
+- 录制 mp4 功能不能和 `SokuDirectXOptimizations` mod 同时使用，会造成录出来的视频以倍速播放的 bug，请关掉 `SokuDirectXOptimizations` mod 再使用录制功能  [**如何开关配置 mod**](/mods/WhatsMod.html)
 
-- **Win7不能用，会报错**
+- 文件名以及文件路径不能包括百分号`%`和英文感叹号`!`和`号，否则会发生双击rep文件只打开游戏和不播放rep的情况（ReplayDnD mod没激活就双击rep的话也会这样）
 
-- **打了[Intel 核显特效消失（变成一根线）的补丁](/FAQ/In-Games/MissingGraphic.html)后，使用Rep转mp4功能会报错无法使用**
+- Win7不能用，会报错
+
+- 打了[Intel 核显特效消失（变成一根线）的补丁](/FAQ/In-Games/MissingGraphic.html)后，使用Rep转mp4功能会报错无法使用
 
 - **部分 Nvida 系列显卡可能会有以下情况不能使用，原因和解决办法未知**
   - 右键点 render 后游戏的标题栏无信息或自动关闭，生成0KB~几十KB的无效mp4文件

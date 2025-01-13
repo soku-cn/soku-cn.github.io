@@ -9,7 +9,7 @@
 
 - 推荐使用：[自动分流](https://wiki.514.live/) 自动选择最快速度源。
 
-- 大陆网络：~~[Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Pages 已不再提供服务 <!-- [镜像站点](https://3322428.xyz) -->
+- 大陆网络：~~[Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Pages 已不再提供服务 [HK 镜像站点](https://3322428.xyz)
 
 - 外部网络：[[**推荐**]Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [Github Pages](https://soku-cn.github.io)
 

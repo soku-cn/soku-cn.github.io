@@ -8,7 +8,7 @@
 ---
 - Recommended: [Auto Proxy](https://wiki.514.live/) for selecting the fastest mirror automatically.
 
-- Mainland China Network: ~~[Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Pages is no longer available.
+- Mainland China Network: ~~[Gitee Pages](https://soku-cn.gitee.io)~~ Gitee Pages is no longer available. [HK mirror](https://3322428.xyz)
 
 - International: [[**Recommended**] Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [GitHub Pages](https://soku-cn.github.io)
 
