@@ -135,6 +135,8 @@ ChatKey=0x0D
 
 ## **这样做就可以大厅建主同时发IP到群里**
 
+::: tabs
+@tab 方法一
 ::: tip 
 **在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`**
 
@@ -148,6 +150,14 @@ AcceptHostlist=1
 ![](https://bu.dusays.com/2024/10/26/671cab0e0746e.webp =600x)
 
 <!-- ![大厅的ini配置](https://bu.dusays.com/2024/10/26/671c9eea7f5d8.webp =800x) -->
+
+@方法二
+::: tip
+
+进入 Network 菜单
+先按一次S切换到普通界面，建立主机，然后显示等待连接中
+之后再按一次S键，切换到大厅界面，进入大厅，找个空闲机子
+也可以实现大厅和IP同时可以进人
 
 :::
 
