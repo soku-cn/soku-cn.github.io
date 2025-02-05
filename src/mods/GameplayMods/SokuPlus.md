@@ -14,31 +14,49 @@ date: 2024-03-04
 #文章编辑日期
 ---
 
+### SokuPlus改版Mod
 ::: warning 
-**新版已不再必需win7系统**
+**SokuPlus 是一个改版 Mod，对游戏系统和角色招数数据进行了大量修改**
 
-**这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
+**注意！此 mod 需要双方一起使用且版本相同**
 
-**注意，此 mod 需要双方一起使用且版本相同**
-::: caution 网战请关闭 giuroll 回滚使用
-**网战请关闭 giuroll 回滚使用，否则会发生不同步**
+- **新版已不再必需 Win7 系统，Win10、Win11 等也可以玩**
 
-**如琪露诺的原214和魔理沙等改成故事模式SC的招数，会根据自己 Config 菜单内的难度设置变化而变化，建议双方的难度设置为 Easy 或 Normal（双方要一样否则不同步）**
+- 环境需要，[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
 :::
 
-::: tip 下载
-**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+::: caution 网战请关闭 giuroll 回滚使用，否则会发生不同步
+- **网战请关闭 giuroll 回滚使用，否则会发生不同步**
+
+- **如琪露诺的原214和魔理沙等改成故事模式SC的招数，会根据自己 Config 菜单内的难度设置变化而变化，建议双方的难度设置为 Easy 或 Normal（双方要一样否则不同步）**
 :::
 
-::: info 安装与使用 SokuPlus改版Mod
-1、打开压缩包`【2024-3-4】SokuPlusLoader.zip`，里面有个 `th123` 文件夹，将其与游戏本体的 `th123` 合并，==注意不要把这个th123文件夹直接挪到本体里面去了，是要合并文件夹==
+::: tip 下载 SokuPlus Mod
 
-2、启用 `SokuPlusLoader.dll` 这个 mod，记得保存配置 [**如何开关配置mod**](/mods/WhatsMod.html) 
+1. [下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
+
+2. SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+:::
+
+:::: info 安装 SokuPlus Mod
+1、打开压缩包`【2025-02-05】SokuPlusLoader.zip`，里面有个 `th123` 文件夹，将其与游戏本体的 `th123` 合并，注意不要把这个 th123 文件夹直接挪到本体里面去了，是要合并文件夹
+
+2、[**如何开关配置mod**](/mods/WhatsMod.html)，启用 SokuPlus Mod（方式二选一，各有冲突的 mod）
 
 3、运行游戏，可以进去练习模式选灵梦，使用 6C 看看有没有修改成功
 
-4、如果你想恢复原版游戏，禁用 `SokuPlusLoader.dll` 这个mod并保存配置即可
-:::
+4、如果你想恢复原版游戏，禁用 SokuPlus mod 并保存配置即可
+
+::: note
+方式一、启用 SokuPlusLoader.dll 
+✅可用： PracticeEX、Labtool
+❌冲突： Shady-loader
+
+方式二、启用 SokuPlus.dll
+✅可用： Shady-loader
+❌冲突： Infinitdeck、PracticeEX、ScoreTracker、Labtool（热键不可用）
+
+::::
 
 
 ### 0、全体修改
