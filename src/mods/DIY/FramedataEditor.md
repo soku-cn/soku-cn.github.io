@@ -1,9 +1,9 @@
 ---
-title: 制作角色改色和导入游戏
+title: 使用FDE制作角色改色和导入游戏
 # 标题
 icon: circle-info
 # 图标
-order: 2
+order: 20
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
@@ -96,13 +96,13 @@ date: 2023-09-04
 > 1. yuyuko
 > :::
 
-## 2.自己使用编辑器制作角色皮肤改色
+## 2.使用FDE编辑器制作角色皮肤改色
 
 ::: info 下载 FramedataEditor（FDE）编辑器并使用改色功能
-[**下载链接传送门，压缩包内有简单操作说明**](/about/#非想天则资源下载指路) 
+- [**网盘内下载 FDE，压缩包内有简单操作说明**](/about/#非想天则资源下载指路) 
+    ②其他非想天则相关资源 > 游戏素材、mod 工具 > 工具包 > FDE编辑器 >
 
-
-![下载mod工具](https://bu.dusays.com/2024/01/21/65acdd09285ee.webp =320x)
+<!-- ![下载mod工具](https://bu.dusays.com/2024/01/21/65acdd09285ee.webp =320x) -->
 
 ::: warning
 **首次打开会提示选择游戏 th123c.dat 数据位置**

@@ -83,6 +83,15 @@ date: 2024-03-01
 > 大厅获取用户IP的网址，默认用第一个 `http://www.sfml-dev.org/ip-provider.php` ，有问题了再用第二个 `https://api-ipv4.ip.sb/ip`
 :::
 
+## 一进大厅就掉了
+::: info 
+
+![](https://bu.dusays.com/2024/10/26/671caac7893bd.webp =400x)
+
+你的机签名字有问题，不要使用默认的 profile1p，[**请查看新人需知，并修改名字**](/Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
+
+:::
+
 ## 大厅内的操作、发表情
 ::: info 大厅内的操作
 
@@ -185,6 +194,22 @@ AcceptHostlist=1
 
 :::
 
+## 大厅内人多的时候画面就变得很卡
+::: info 
+
+目前版本的bug，开启 SokuDirectXOptimizations mod 后可以避免游戏也变得迟缓，只有画面抽帧
+
+:::
+
+::: tip 解决方法
+
+加入一次网络对战，选完人进入对局后就不会再卡了
+
+:::
+
+
+
+
 
 
 ## 游戏ESC返回主菜单时卡住
@@ -224,20 +249,16 @@ AcceptHostlist=1
 
 
 
-## 掉出大厅了，这个报错是什么
+
+## 大厅房间全红，无法连接
 ::: info 
 
-![](https://bu.dusays.com/2024/10/26/671caac7893bd.webp =450x)
-
-1、可能是大厅房间服务器 关闭/重启 了，回主菜单过一会刷新，重进房间即可
-
-2、或者你机签名字有问题，请查看[**《新人需知》并改名**](/Beginners/BeforePlaying.html)
+说明你被 ban 了，加 QQ 群说明情况（机签名字、IP 等）
 
 ![](https://bu.dusays.com/2024/10/26/671c98c41f5da.webp =600x)
 
-3、大厅房间全红，无法连接，说明你被 ban 了，找我们说明情况
-
 :::
+
 
 
 ## 大厅内如何观战
