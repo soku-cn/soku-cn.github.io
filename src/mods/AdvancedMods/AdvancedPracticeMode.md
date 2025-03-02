@@ -14,13 +14,21 @@ date: 2023-12-01
 #文章编辑日期
 ---
 
+::: caution 
+
+
+**- BUG：高版本 Win10 和 Win11 无法运行**
+**- Win10 1909旧版本 和 win7 、Linux 等运行正常，猜测是某次 Win10 更新所导致的bug，后续 Pinky 会给这个 mod 填坑优化，最终应该可以吸收合并取代掉 PracticeEX**
+
+:::
+
+
+
 
 ::: warning
-**- 注意：高版本win10不能运行**
-**Win10 1909版本 和 win7 运行正常，猜测是某次 Win10 更新所导致的bug，后续 Pinky 会给这个 mod 填坑优化，最终应该可以吸收合并取代掉 PracticeEX**
 
-**- 注意：不要搭配 PracticeEX 一起使用**
-**若要联机使用，不要搭配  giuroll 或 sokuroll 回滚**
+**- 不要搭配 PracticeEX 一起使用**
+**- 若要联机使用，不要搭配  giuroll 或 sokuroll 回滚**
 
 :::
 
