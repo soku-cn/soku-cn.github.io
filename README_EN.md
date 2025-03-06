@@ -47,7 +47,7 @@ git clone https://github.com/soku-cn/soku-cn.github.io.git
 
 ```
 cd soku-cn.github.io
-pnpm install
+pnpm install  #pnpm install --strict-peer-dependencies #in case problem
 ```
 
 3. Build and launch a local preview page:

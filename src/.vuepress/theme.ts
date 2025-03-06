@@ -147,7 +147,7 @@ export default hopeTheme({
       },
       lastUpdated: true,
       contributors: true,
-      editLink: false,
+      editLink: true,
       pageInfo: false,
 
     },

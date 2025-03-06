@@ -17,9 +17,7 @@ date: 2024-01-14
 
 ::: important 需要下载安装 .Net 4.7.2，否则会打不开更新器 SokuLauncher.exe
 
-![报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x)
-
-![报错如图2](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp =400x)
+![报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x) . ![报错如图2](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp =400x)
 
 **解决办法：[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
@@ -36,7 +34,7 @@ date: 2024-01-14
 
 :::
 
-::: note 提示访问被拒绝时，可以手动下升级包更新下
+::: note 提示访问被拒绝时，更新下 SokuLaunhcer 本体
 
 
 ![](https://bu.dusays.com/2024/10/26/671caeac04b58.webp =300x)
@@ -53,7 +51,7 @@ date: 2024-01-14
 
 - **右键启动选项，可以编辑封面，在桌面创建快捷方式**
 
-![右键启动选项](https://bu.dusays.com/2024/10/26/671cae04bfcca.webp =400x)
+![](https://bu.dusays.com/2024/10/26/671cae04bfcca.webp =400x)
 
 - **可在 “设置 - 游戏路径” 页面内，设置和游戏进程组合打开的程序**
 

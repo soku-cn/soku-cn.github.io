@@ -17,13 +17,17 @@ actions:
     link: /about/
     type: primary
 
-  - text: 常见问题FAQ ❓
+  - text: 常见问题 FAQ 目录 ❓
     icon: file-signature
     link: /FAQ/
 
-  - text: Mod一览 👀
+  - text: 模组 Mod 目录 👀
     icon: gears
     link: /mods/
+
+  - text: 主页底下是全站目录 📂
+    icon: book-open
+    link: /#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E3%80%81%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD
 
 features:
 
@@ -52,15 +56,15 @@ features:
     details: 各文件夹和文件的详细说明
     link: /FAQ/tree.html
     
-  - title: SokuLauncher更新器打不开(.Net 4.7.2)
-    icon: file
-    details: 便捷地保持游戏更新，管理游戏Mod配置
-    link: /FAQ/update.html
+  # - title: SokuLauncher更新器打不开(.Net 4.7.2)
+  #   icon: file
+  #   details: 便捷地保持游戏更新，管理游戏Mod配置
+  #   link: /FAQ/update.html
 
-  - title: 游戏打不开 0xc000142或0x0007b 报错
-    icon: question
-    details: 下载 DX 修复工具（DirectX Repair）即可
-    link: /FAQ/Failed-to-Start/d3d9_33.html
+  # - title: 游戏打不开 0xc000142或0x0007b 报错
+  #   icon: question
+  #   details: 下载 DX 修复工具（DirectX Repair）即可
+  #   link: /FAQ/Failed-to-Start/d3d9_33.html
 
   - title: BUG修复补丁：游戏内特效贴图变成一根线
     icon: bug
@@ -87,10 +91,10 @@ features:
     details: 请点击仔细阅读详情
     link: /mods/DIY/Shady-loader.html
 
-  - title: Mod：2V2 MOD 下载使用说明
-    icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/GameplayMods/2V2MOD.html
+  # - title: Mod：2V2 MOD 下载使用说明
+  #   icon: gears
+  #   details: 请点击仔细阅读详情
+  #   link: /mods/GameplayMods/2V2MOD.html
 
   - title: Mod：则2 下载使用说明
     icon: gears
@@ -102,16 +106,22 @@ features:
     details: 神AI容易被杀软误杀，则2与神AI不兼容
     link: /FAQ/Others/th123AI.html
 
-  - title: 非想天则英文/日文 Wiki、国际Discord群聊
-    icon: sitemap
-    details: 相关站点导航、英文/日文 Wiki
-    link: /about/#相关站点导航
+  # - title: 非想天则英文/日文 Wiki、国际Discord群聊
+  #   icon: sitemap
+  #   details: 相关站点导航、英文/日文 Wiki
+  #   link: /about/#相关站点导航
 
-  - title: 在 GNU/Linux 下运行非想天则
+  - title: 在 Linux 下运行新则
     icon: fa-brands fa-linux
-    details: 通过 Wine 运行非想天则
+    details: 通过 Wine 运行新则
     link: /FAQ/Failed-to-Start/Linux.html
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024
 ---
+
+
+<div class="catalog-display-container">
+  <Catalog base='/' />
+</div>
+

@@ -45,7 +45,7 @@ git clone https://github.com/soku-cn/soku-cn.github.io.git
 
 ```
 cd soku-cn.github.io
-pnpm install
+pnpm install  #pnpm install --strict-peer-dependencies #如果出现问题
 ```
 
 3. 构建网页并架设本地预览页面
