@@ -16,13 +16,13 @@ date: 2023-12-08
 
 ## 原版练习模式功能
 
-- **F1 木桩减 1000 血（满血10000）**
+- F1 木桩减 1000 血（满血10000）
 
-- **F2 卡槽补满**
+- F2 卡槽补满
 
-- **F3 卡槽清空且卡组重置为20张卡**
+- F3 卡槽清空且重置卡组
 
-- **开了 [无限套卡组 mod](https://wiki.514.live/mods/AdvancedMods/InfiniteDeck.html)的话木桩的卡组是你 1P 自己机签的卡组（原版是 2P 机签的卡组）**
+- 一般情况下木桩的卡组是 2P 机签的卡组，若开了 [无限套卡组 mod](https://wiki.514.live/mods/AdvancedMods/InfiniteDeck.html) 的话木桩的卡组是你 1P 自己机签的卡组
 
 ::: warning 按 F1、F2、F3 这些键都没有效果可能是因为 Fn Lock 的问题
 
