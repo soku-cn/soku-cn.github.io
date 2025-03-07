@@ -16,8 +16,7 @@ date: 2024-03-01
 ## 联机教程
 ::: important 视频教程
 
-- 视频教程 —— [**😎新人指路 2024 五月 “新则” 使用向导**](https://www.bilibili.com/video/BV1gZ421s7yF/)
-- 图文教程 —— [**大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+- 视频教程 —— [**😎 新人指路 2024 五月 “新则” 使用向导**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 
 :::
 
@@ -27,27 +26,31 @@ date: 2024-03-01
 <!-- - ==**请 先 阅读 上面 的 联机教程**== -->
 ::: tabs
 
-@tab 情况一：没有正确使用 Swarm
+@tab 情况一：没有正确使用 Swarm 😧
 
 ![](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =x64)
 
-对手不支持 AP，也 ==**没正确使用 swarm 建主**==，所以你进不去他
+对手不支持 AP，也 ==**没正确使用 swarm 建主**==，所以你进不去他 😡
 
 ::: tip 解决办法
 
-自己开好 Swarm，点中转，点 IP 用于大厅<br>然后进别人但是失败的时候，自己立马原地狂按 Z键 建主，叫对方进自己的就可以进来了。   
+自己开好 Swarm，点中转，点 IP 用于大厅，
+然后进别人但是失败的时候，自己立马原地狂按 Z键 建主，叫对方进自己的就可以进来了 😎  
+
+- [**大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 
 @tab 情况二：双方版本不同
 
-![状况如图](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
+![](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
 
-![检查游戏标题的 giuroll 版本，giuroll，且 CN 结尾](https://bu.dusays.com/2025/01/03/6777c5d33d007.jpg =500x)
+![1、检查游戏标题的 giuroll 版本，giuroll，且 CN 结尾](https://bu.dusays.com/2025/01/03/6777c5d33d007.jpg =500x)
 
-![联机时显示这种四行红字报错提示，意思是双方版本不一致。**通常是因为mod没有加载上，点击 `[修复]【 重置 Mod 配置 】.bat` 可修复，还不行就重新下载升级包或者完整游戏包**](https://bu.dusays.com/2025/01/03/6777c9535edb7.jpg =280x)
+![2、点击 `[修复]【 重置 Mod 配置 】.bat`](https://bu.dusays.com/2025/01/03/6777c9535edb7.jpg =280x)
 
 ::: tip 
 
 - 联机时显示这种四行红字报错提示，意思是双方版本不一致<br>**通常是因为mod没有加载上，点击 `[修复]【 重置 Mod 配置 】.bat` 可修复，还不行就重新下载升级包或者完整游戏包**
+------
 - Your version 一行是你自己的版本，Their version 一行是对方的版本
 - Vanilla 指 原版游戏
 - with SWR / without SWR 指 绯想天合体与否
@@ -80,7 +83,8 @@ date: 2024-03-01
 
 ![](https://bu.dusays.com/2024/10/26/671caac7893bd.webp =400x)
 
-一般是因为你的机签名字有问题，不要使用默认的 profile1p，
+一般是因为你的机签名字有问题，不要使用默认的 profile1p 机签名字，改名然后重新进大厅
+
 - [**请查看新人需知，并修改名字**](/Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
 
 
@@ -95,7 +99,7 @@ date: 2024-03-01
 - 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
 - 大厅菜单，选择最后一项：统计，统计界面可以查看网络对战中（不管是否通过大厅，只要是网战就都会记录下来）自己的局数、胜率、卡片携带率、卡片使用率等数据
 
-![图 1：表情文件在这里查看文件 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =500x)
+![图 1：表情文件在这里查看文件 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =600x)
 
 
 ## 全开档解锁
@@ -139,9 +143,10 @@ AcceptHostlist=1
 ; 设置为 0 则只允许大厅内连接对战，无法通过 IP 进入
 ```
 
+<!-- 
 ![](https://bu.dusays.com/2024/10/26/671cab0e0746e.webp =400x)
-
-<!-- ![大厅的ini配置](https://bu.dusays.com/2024/10/26/671c9eea7f5d8.webp =800x) -->
+![大厅的ini配置](https://bu.dusays.com/2024/10/26/671c9eea7f5d8.webp =800x) 
+-->
 
 @tab 方法二
 ::: tip
@@ -158,6 +163,7 @@ AcceptHostlist=1
 ## 大厅内自己显示为黑框黑块，菜单里点自定义人物自定义形象就崩溃
 ::: info 解决办法
 看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内，删除 `settings.dat` 文件
+
 或者运行 `[修复]【 重置 Mod 配置 】.bat`
 
 ![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =500x)
@@ -170,9 +176,10 @@ AcceptHostlist=1
  -->
 ::: info  解决办法
 
-**看图中文件夹路径 `th123/modules/SokuLobbiesMod` 文件夹内<br>删除 `stats.dat`文件<br>然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`，实现备份恢复**
+看图中文件夹路径，点到 `th123/modules/SokuLobbiesMod` 文件夹内，
+删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`，实现备份恢复
 
-![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =500x)
+![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =600x)
 
 :::
 
@@ -181,7 +188,7 @@ AcceptHostlist=1
 这是目前大厅mod的bug，开启 SokuDirectXOptimizations mod 后可以避免游戏也变得迟缓，只有画面抽帧
 
 
-::: tip 解决方法：<br>加入一次网络对战，选完人进入对局后就不会再卡了
+::: tip 解决方法：加入一次网络对战，选完人进入对局后就不会再卡了
 :::
 
 
@@ -191,7 +198,7 @@ AcceptHostlist=1
 
 ## 游戏ESC返回主菜单时卡住
 
-游戏ESC返回主菜单时卡住为正常，不要强行关闭游戏，挂在后台稍微等一会儿即可
+游戏ESC返回主菜单时卡住为正常，**不要强行关闭游戏**，挂在后台稍微等一会儿即可
 
 
 ## 大厅房间进不去，卡加载，红字 Unknown exception
