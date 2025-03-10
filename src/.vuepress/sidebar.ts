@@ -22,7 +22,7 @@ export default sidebar({
 
 
       {
-        text: "「游戏常见问题」",
+        text: "「常见问题」",
         icon: "question",
         prefix: "FAQ/",
         collapsible: true,
@@ -52,7 +52,7 @@ export default sidebar({
               children: "structure",
             },
             {
-              text: "神AI杀软CHM等其他问题",
+              text: "其他问题",
               icon: "fa-solid fa-lightbulb",
               prefix: "Others/",
               collapsible: true,
@@ -63,7 +63,7 @@ export default sidebar({
 
 
       {
-        text: "「Mod、插件介绍」",
+        text: "「Mod、插件说明」",
         icon: "gear",
         prefix: "mods/",
         collapsible: true,
@@ -71,14 +71,14 @@ export default sidebar({
           "WhatsMod.md",
           "PracticeMods.md",
           {
-            text: "功能插件",
+            text: "一般功能 Mod",
             icon: "fa-solid fa-wrench",
             prefix: "QoLMods/",
             collapsible: true,
             children: "structure",
           },
           {
-            text: "高级功能插件",
+            text: "高级功能 Mod",
             icon: "fa-solid fa-chalkboard-user",
             prefix: "AdvancedMods/",
             collapsible: true,
@@ -92,7 +92,7 @@ export default sidebar({
             children: "structure",
           },
           {
-            text: "游戏性Mod",
+            text: "游戏性 Mod",
             icon: "fa-solid fa-gamepad",
             prefix: "GameplayMods/",
             collapsible: true,
@@ -104,7 +104,7 @@ export default sidebar({
 
 
       {
-        text: "「游戏系统与机制」",
+        text: "「游戏系统机制」(施工中)",
         icon: "fa-brands fa-wikipedia-w",
         prefix: "GameGuide/",
         collapsible: true,
@@ -113,7 +113,7 @@ export default sidebar({
 
 
       {
-        text: "「攻略数据」",
+        text: "「攻略数据」(施工中)",
         icon: "laptop-code",
         prefix: "data/",
         collapsible: true,
