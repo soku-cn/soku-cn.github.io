@@ -4,7 +4,7 @@ title: 双击rep文件观看，rep转mp4视频功能-ReplayDnD
 # 标题
 icon: circle-info
 # 图标
-order: 2
+order: 20
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
