@@ -15,7 +15,7 @@ date: 2024-01-14
 
 
 
-::: important Please install .Net 4.7.2 before running SokuLauncher.exe
+::: important Please install .Net >= 4.7.2 before running SokuLauncher.exe
 
 ![Error Example](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x)
 

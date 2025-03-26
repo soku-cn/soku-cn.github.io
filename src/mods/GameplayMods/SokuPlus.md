@@ -21,8 +21,6 @@ date: 2024-03-04
 **注意！此 mod 需要双方一起使用且版本相同**
 
 - **新版已不再必需 Win7 系统，Win10、Win11 等也可以玩**
-
-- 环境需要，[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
 :::
 
 ::: caution 网战请关闭 giuroll 回滚使用，否则会发生不同步
@@ -32,10 +30,7 @@ date: 2024-03-04
 :::
 
 ::: tip 下载 SokuPlus Mod
-
-1. [下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)
-
-2. SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
 :::
 
 :::: info 安装 SokuPlus Mod
