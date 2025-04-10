@@ -8,25 +8,23 @@ prev: false
 next: false
 ---
 
-
-
 ## **非想天则相关资源下载**
 
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-- [**123 网盘（网页端登录下载，不限速，每天免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
+- [123 网盘 **（网页端登录下载，不限速，每天免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
 
-- [**电信天翼网盘（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
+- [电信天翼网盘 **（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- **百度网盘**
-  - [①非想天则游戏本体-为什么你要用度盘下载？](https://pan.baidu.com/s/1Vtt0rnAaSMJTnq8_5p_P6w?pwd=a2fr)
-  - [②其他非想天则相关资源](https://pan.baidu.com/s/1vpGPoBKXfbvEhPkczdT93Q?pwd=jbbq)
-  - [③旧chm攻略-钢琴男](https://pan.baidu.com/s/1Jxayr5rJUYXOqCI5OOLB8g?pwd=7bq7)
+- 百度网盘
+  - [~~① 非想天则游戏本体 为什么你要用度盘下载？~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1Vtt0rnAaSMJTnq8_5p_P6w?pwd=a2fr)
+  - [~~② 其他非想天则相关资源~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1vpGPoBKXfbvEhPkczdT93Q?pwd=jbbq)
+  - [**③ 旧 chm 攻略 - 钢琴男**](https://pan.baidu.com/s/1Jxayr5rJUYXOqCI5OOLB8g?pwd=7bq7)
 
-- [**蓝奏云 (只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
+- [蓝奏云 **(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 
-- 无验证加群，禁言资源群 [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 可直接加群无需验证
+- 无验证加群，禁言资源群，可直接加群无需验证 -  [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 
 **不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**
 注：新版 NT-QQ 无法将文件转发给自己而绕过限速
 :::
@@ -61,8 +59,8 @@ next: false
 <!-- ::: note 聊天吹水群
 - [东方TSK打则群   279377030](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（R15+）
 
-<!-- - [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
--->
+- [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
+
 ::: -->
 
 
@@ -76,7 +74,7 @@ next: false
 
 - [日本非想天则 Disocrd 社区](https://discord.gg/MPbaPbGzmh) 
 :::
-::: tip 英文、日文 Wiki
+::: tip 国外非想天则 Wiki
 - [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 
 - [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/)
@@ -95,13 +93,9 @@ next: false
 [非想天则高手对局视频 掌百的非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
 
 [三回收集+自动录制的近期高手非想天则对局 Replay](https://space.bilibili.com/357511007/channel/collectiondetail?sid=444161)
-:::
-::: note Mod 模组仓库地址
-[Giuroll 回滚 mod 的Github仓库地址](https://github.com/Giufinn/giuroll)
 
-[SokuLobbiesMod插件的Github仓库地址](https://github.com/Gegel85/SokuLobbies)
+[国际 SokuDev 团队的 Github 仓库地址](https://github.com/SokuDev/SokuMods) 
 
-[SWRSToys mod团队的Github仓库地址](https://github.com/SokuDev/SokuMods) 
 :::
 
 ## **关于本站✨**
