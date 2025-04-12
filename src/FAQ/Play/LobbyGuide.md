@@ -184,11 +184,9 @@ AcceptHostlist=1
 :::
 
 ## 大厅内人多的时候画面就变得很卡
-
-这是目前大厅mod的bug，开启 SokuDirectXOptimizations mod 后可以避免游戏也变得迟缓，只有画面抽帧
-
-
-::: tip 解决方法：加入一次网络对战，选完人进入对局后就不会再卡了
+这是目前大厅 mod 的 bug，打开 SokuLauncher 启动器，下载并开启 SokuDirectXOptimizations mod 后可以避免游戏变得迟缓，而只有画面抽帧
+::: tip 解决方法
+**画面变得卡顿后，退出大厅进入练习模式或者顶着卡顿加入一次网络对战，选完人进入对局后，就不会再卡了，游戏结束返回大厅也不会再卡了**
 :::
 
 
