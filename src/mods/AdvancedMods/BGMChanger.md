@@ -20,13 +20,13 @@ BGMChanger 默认关闭
 
 打开对应 ini 文件，会看到各个BGM `th123\Modules\BGMChanger\BGMChanger.ini`
 
-`path` 即文件路径，推荐自己新建一个文件夹，设置 path 为 `Modules/BGMChanger/文件夹/文件.ogg`
-`intro` 即开始循环点（秒数 x 44100）
-`loop` 即循环长度，从intro点开始过多久，就回到intro点（秒数 x 44100）
+- `path` 即文件路径，推荐自己新建一个文件夹，设置 path 为 `Modules/BGMChanger/文件夹/文件.ogg`
+- `intro` 即开始循环点（秒数 x 44100）
+- `loop` 即循环长度，从intro点开始过多久，就回到intro点（秒数 x 44100）
  
 个人建议可以直接剪辑得到一整个循环片段作为音乐文件，这样intro直接设1，loop就大于等于 **（秒数 x 44100）** 即可循环
 
-如果需要音频编辑软件的话，推荐 Audacity，免费小巧
+如果需要音频编辑软件的话，推荐 Audacity，免费小巧，导出格式为 OGG Vorbis
 
 :::
 
@@ -34,6 +34,10 @@ BGMChanger 默认关闭
 :::
 
 ::: tip 配置示例
+注意，主菜单的音乐是 [op], 不是 [op2]
+
+以及游戏内的 BGM 音量记得打开
+
 ```
 path=Modules/BGMChanger/0/12-till-when.ogg
 intro=1265361
@@ -46,10 +50,9 @@ loop=8621663
 :::
 
 ::: warning
-**替换 BGM 用的音乐文件必须是 `ogg 格式，44100 HZ`，声道默认就行（如果没用那就试试单声道）。** 
+**替换 BGM 用的音乐文件必须是 `OGG Vorbis 格式，44100 HZ`，声道默认就行（如果没用那就试试单声道），请注意你的音乐本身是否声音过小。** 
 
-可以使用这个网站在线转换 **https://convertio.co/zh** 
-其他的应该也是可以的随便你
+可以使用这个网站在线转换 **https://convertio.co/zh**
 
 ![](https://bu.dusays.com/2024/01/21/65acdb21b4b98.webp =400x)
 
