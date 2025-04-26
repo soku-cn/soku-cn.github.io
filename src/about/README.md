@@ -44,6 +44,23 @@ next: false
 - 【光州无限制格斗大赛】[天则居  27743867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
 
+
+:::: details 专使交流群
+
+部分群禁止外使进入，部分群封群，大部分群聊无进入要求。
+
+雾雨魔理沙 805258013
+蕾米莉亚·斯卡蕾特 100496130
+魂魄妖梦 475784601
+十六夜咲夜 1105109819
+帕秋莉·诺蕾姬 565981826
+铃仙·优昙华院·因幡 603849482
+
+待补充
+
+::::
+
+
 ::: info 其他
 - [三回的 Mod 交流群  200803640](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
