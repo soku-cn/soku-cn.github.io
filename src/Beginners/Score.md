@@ -1,8 +1,8 @@
 ---
-title: 机体参考评价
+title: 各机体强度上限表
 icon: star-half-stroke
 # 图标
-order: 2
+order: 100
 # 数字越小，文章左侧排序越靠上
 editLink: false
 #禁用Github编辑按钮
