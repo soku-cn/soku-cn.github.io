@@ -111,6 +111,21 @@ F5、F6、F7在原本练习模式中就是用来给手柄2P录制重播动作的
 ## Lua Labtool (0-练习模式木桩复位和锁定)
 ::: important 点开 SokuLauncher 启动器，先更新启动器本体，然后更新 Shady-loader，进入游戏主菜单按 F2，往下可以看到并下载
 :::
+::: warning 
+
+
+如果你从未更新过 >=2.8.0 的版本，请打开 `shady-loader.ini` 文件，把最底下的部分，改为如下的代码，否则会看不到国内的 mod 源
+```
+[Options]
+autoUpdate=1
+useLoadLock=1
+enableLua=1
+viewfont=simhei
+remoteConfig=https://gitee.com/sanhuizhuan/SokuMods/raw/master/config.json
+```
+
+:::
+
 
 
 **已取代和优化原本的 Labtool mod**
