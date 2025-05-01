@@ -10,6 +10,13 @@ next: false
 
 ## **非想天则相关资源下载**
 
+::: tip 
+
+[**嘿你知道吗？可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓**](https://deepwiki.com/soku-cn/soku-cn.github.io)
+
+:::
+
+
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
