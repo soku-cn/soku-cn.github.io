@@ -34,12 +34,12 @@ actions:
 
 features:
 
-  - title: 非想天则游戏简介
+  - title: 非想天则 游戏简介
     icon: circle-info
     details: 跳转 THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
 
-  - title: 无法解压，杀毒软件误杀误报
+  - title: 无法解压，杀毒软件误杀
     icon: file
     details: 游戏打不开/无法解压，提示含有病毒或危险，是因为杀毒软件误杀，请添加白名单信任
     link: /FAQ/Failed-to-Start/AntiVirus.html
@@ -59,7 +59,7 @@ features:
   #   details: 整合包内各文件夹和文件的介绍
   #   link: /FAQ/tree.html
     
-  - title: SokuLauncher更新器打不开(.Net 4.7.2)
+  - title: SokuLauncher更新器打不开
     icon: file
     details: 便捷地保持游戏更新，管理游戏Mod配置
     link: /FAQ/update.html
@@ -79,7 +79,7 @@ features:
   #   details: 天气系统总体机制、20个天气详细说明
   #   link: /GameGuide/weather.html
 
-  - title: 如何开关配置 Mod 列表
+  - title: 如何开关配置 Mod
     icon: gear
     details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
     link: /mods/WhatsMod.html
@@ -104,7 +104,7 @@ features:
     details: 请点击仔细阅读详情
     link: /mods/GameplayMods/SOKU2general.html
 
-  - title: 怎么使用“神AI”工具
+  - title: 怎么使用“神AI”
     icon: robot
     details: 神AI容易被杀软误杀，则2与神AI不兼容
     link: /FAQ/Others/th123AI.html
@@ -114,7 +114,7 @@ features:
   #   details: 相关站点导航、英文/日文 Wiki
   #   link: /about/#相关站点导航
 
-  - title: 在 Linux 下运行新则
+  - title: 在 Linux/MacOS 下运行新则
     icon: fa-brands fa-linux
     details: 通过 Wine 运行新则
     link: /FAQ/Failed-to-Start/Linux.html

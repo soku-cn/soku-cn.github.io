@@ -48,7 +48,9 @@ next: false
 
 - [东方非想天则萌新天堂  747865302](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=trZ_6mFa1lnwO4YTOcdeRxv2NZDWmj9A&authKey=nDA2sZBQRh%2BXn6FE85B70vvnnr852%2B32o9Z02TkV7NQOAHqW8xoTeq8HYlHEO%2Be2&noverify=0&group_code=747865302)
 
-- 【光州无限制格斗大赛】[天则居  27743867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
+- [东方非想天则有限呜呜  204676398](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
+
+- 【混沌群】[天则居  27743867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_gXA8gXjByhJkXLh8WF8whUHCm3FvX_W&authKey=hGbIwg00voenTrEHW76fTw4mS4Z8WO6hhhEJKFd%2FfAzQAuc5UvOMj99zzSsp15n0&noverify=0&group_code=27743867)
 :::
 
 
@@ -84,7 +86,6 @@ next: false
 <!-- ::: note 聊天吹水群
 - [东方TSK打则群   279377030](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ojtjiyDZzh_GPjL1t_4LV5Y83l08Mfoy&authKey=7i5QoT2B9RA1dvGixmEEMOI5ESm1j3erFLq2syhFm%2BVoXCpZ0tDgCni5S%2BMfNfYK&noverify=0&group_code=279377030)（R15+）
 
-- [**东方非想天则有限呜呜（聊天吹水群）  204676398**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=30kBGVLf9HZtsDghWwT_xIAS9XvsgQdx&authKey=UuToKiPHjSVoENRS7Q6iXWuKLK%2BIbhjnVr%2FjgQQbbZOJIxK236dxM7u8%2B%2B2SHvVG&noverify=0&group_code=204676398)
 
 ::: -->
 
