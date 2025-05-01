@@ -12,25 +12,25 @@ tagline: 一个关于「东方非想天则」的中文指南 Wiki✨<br> <span s
 
 actions:
 
-  - text: 嘿你知道吗，可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓
-    link: https://deepwiki.com/soku-cn/soku-cn.github.io
-    type: primary
-
   - text: 关于本站⠀|⠀QQ群⠀|⠀资源下载 ⭐
     icon: download
     link: /about/
+    type: primary
 
-  - text: 常见问题 FAQ 目录 ❓
-    icon: file-signature
-    link: /FAQ/
+  - text: 嘿你知道吗？可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓
+    link: https://deepwiki.com/soku-cn/soku-cn.github.io
 
-  - text: 模组 Mod 目录 👀
-    icon: gears
-    link: /mods/
+  # - text: 常见问题 FAQ 目录 ❓
+  #   icon: file-signature
+  #   link: /FAQ/
+# 
+  # - text: 模组 Mod 目录 👀
+  #   icon: gears
+  #   link: /mods/
 
-  - text: 主页底下是全站目录 📂
-    icon: book-open
-    link: /#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E3%80%81%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD
+  # - text: 主页底下是全站目录 📂
+  #   icon: book-open
+  #   link: /#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E3%80%81%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD
 
 features:
 
@@ -54,10 +54,10 @@ features:
     details: 大厅内如何联机，大厅内的各项操作
     link: /FAQ/Play/LobbyGuide.html
 
-  - title: 新则整合包目录结构解析
-    icon: list
-    details: 整合包内各文件夹和文件的介绍
-    link: /FAQ/tree.html
+  # - title: 新则整合包目录结构解析
+  #   icon: list
+  #   details: 整合包内各文件夹和文件的介绍
+  #   link: /FAQ/tree.html
     
   - title: SokuLauncher更新器打不开(.Net 4.7.2)
     icon: file
@@ -69,22 +69,22 @@ features:
   #   details: 下载 DX 修复工具（DirectX Repair）即可
   #   link: /FAQ/Failed-to-Start/d3d9_33.html
 
-  - title: BUG修复补丁：游戏内特效贴图变成一根线
-    icon: bug
-    details: 下载修复补丁即可，很简单就能修复
-    link: /FAQ/In-Games/MissingGraphic.html
+  # - title: BUG修复补丁：游戏内特效贴图变成一根线
+  #   icon: bug
+  #   details: 下载修复补丁即可，很简单就能修复
+  #   link: /FAQ/In-Games/MissingGraphic.html
 
-  - title: 游戏系统与机制：天气系统
-    icon: book
-    details: 天气系统总体机制、20个天气详细说明
-    link: /GameGuide/weather.html
+  # - title: 游戏系统与机制：天气系统
+  #   icon: book
+  #   details: 天气系统总体机制、20个天气详细说明
+  #   link: /GameGuide/weather.html
 
   - title: 如何开关配置 Mod 列表
     icon: gear
     details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
     link: /mods/WhatsMod.html
 
-  - title: Mod：高级练习模式使用说明
+  - title: 练习模式 Mod 使用说明
     icon: fa-solid fa-lightbulb
     details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
     link: /mods/PracticeMods.html
@@ -124,7 +124,7 @@ footer: MIT Licensed | Copyright © 2024
 ---
 
 
-<div class="catalog-display-container">
+<!-- <div class="catalog-display-container">
   <Catalog base='/' />
-</div>
+</div> -->
 
