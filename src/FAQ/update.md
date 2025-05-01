@@ -19,7 +19,7 @@ date: 2024-01-14
 
 ![报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x) . ![报错如图2](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp =400x)
 
-**解决办法：[下载安装 微软 .Net 4.8.1 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net481-offline-installer)**
+**解决办法：[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
 :::
 

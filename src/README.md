@@ -56,10 +56,10 @@ features:
     details: 整合包内各文件夹和文件的介绍
     link: /FAQ/tree.html
     
-  # - title: SokuLauncher更新器打不开(.Net 4.7.2)
-  #   icon: file
-  #   details: 便捷地保持游戏更新，管理游戏Mod配置
-  #   link: /FAQ/update.html
+  - title: SokuLauncher更新器打不开(.Net 4.7.2)
+    icon: file
+    details: 便捷地保持游戏更新，管理游戏Mod配置
+    link: /FAQ/update.html
 
   # - title: 游戏打不开 0xc000142或0x0007b 报错
   #   icon: question
