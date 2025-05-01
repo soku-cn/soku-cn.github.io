@@ -8,14 +8,17 @@ heroImageDark: /logo-home2-dark.webp
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 非想天则指南
-tagline: 一个关于「东方非想天则」的中文指南 Wiki✨<br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font>
+tagline: 一个关于「东方非想天则」的中文指南 Wiki✨<br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font><br>
 
 actions:
+
+  - text: 嘿你知道吗，可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓
+    link: https://deepwiki.com/soku-cn/soku-cn.github.io
+    type: primary
 
   - text: 关于本站⠀|⠀QQ群⠀|⠀资源下载 ⭐
     icon: download
     link: /about/
-    type: primary
 
   - text: 常见问题 FAQ 目录 ❓
     icon: file-signature
