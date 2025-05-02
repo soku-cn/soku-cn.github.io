@@ -19,11 +19,25 @@ date: 2024-01-14
 
 ![报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x) . ![报错如图2](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp =400x)
 
-**解决办法：[下载安装 微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
+**解决办法：下载安装 [微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
 :::
 
-::: warning 用启动器开游戏时弹窗“String引用没有设置为String 的实例”的问题
+::: warning Win7用户可能遇到的问题
+
+![The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://bu.dusays.com/2025/05/02/6814549205f0b.jpg)
+
+::: tip 解决办法
+
+1. 打开【控制面板】，点【网络和 Internet】，点【Internet 选项】，找到并点击【高级】选项卡，勾选 “使用 SSL 2.0” 、 “使用 SSL 3.0” 、“使用 TLS 1.0”、“使用 TLS 1.1” 和 “使用 TLS 1.2”。
+
+2. 还不行的话，下载安装 [**Win7 更新补丁 kb3140245**](https://www.catalog.update.microsoft.com/search.aspx?q=kb3140245)
+
+:::
+
+
+
+<!-- ::: warning 用启动器开游戏时弹窗“String引用没有设置为String 的实例”的问题
 
 ![](https://bu.dusays.com/2024/10/26/671cafa398a59.webp =400x)
 
@@ -32,14 +46,14 @@ date: 2024-01-14
 
 ![下“升级包”手动更新一下](https://bu.dusays.com/2024/04/15/661d3c2dceeab.png =500x)
 
-:::
+::: -->
 
-::: note 提示访问被拒绝时，更新下 SokuLaunhcer 本体
+<!-- ::: note 提示访问被拒绝时，更新下 SokuLaunhcer 本体
 
 
 ![](https://bu.dusays.com/2024/10/26/671caeac04b58.webp =300x)
 
-:::
+::: -->
 
 ::: info SokuLauncher使用技巧
 
