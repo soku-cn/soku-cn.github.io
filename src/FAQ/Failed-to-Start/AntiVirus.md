@@ -73,8 +73,6 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
 - 原因2：杀软把 Swarm 软件误杀拦截了，请添加白名单信任
 
-- 原因3：th123文件夹里有 `winmm.dll`，删掉它，否则会导致获取服务器列表失败
-
 .　　![](https://bu.dusays.com/2024/10/26/671cacd268d1f.webp =x130)　　　　![](https://bu.dusays.com/2024/10/26/671cace3b6e37.webp =x130)
 
 
