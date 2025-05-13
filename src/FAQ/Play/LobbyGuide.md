@@ -232,21 +232,29 @@ AcceptHostlist=1
 
 
 ## 大厅内如何观战
-::: tabs
-@tab 特殊机子
-不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战，不过人太多时底下看不到
+:::: tabs
 
-![大门口右边这个特殊机子](https://bu.dusays.com/2024/10/26/671caaa262c3e.webp =400x)  ![](https://bu.dusays.com/2024/10/26/671caaa3f2c45.webp =400x)
+@tab 网页
+::: tip 
 
-@tab 另一种方法
+
+当前对战列表 (大厅) <https://list.th123.uno>
+
+:::
+
+
 
 （需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
 
 ![Hisouten Discord 服务器上的 Hostlist](https://bu.dusays.com/2024/10/26/671caa8bdd47f.webp =500x)
 
+源链接 <https://konni.delthas.fr/games>
+
+<!-- 
+
 ::: details （不需要梯子，纯文本）在此网页中 Ctrl F 搜索 started，每一行是一条信息
 
-https://konni.delthas.fr/games
+
 
 <iframe
   src="https://konni.delthas.fr/games" title="Hostlist-文本" width="90%" height="280vh" loading="lazy"
@@ -254,9 +262,14 @@ https://konni.delthas.fr/games
   sandbox="allow-modals allow-pointer-lock allow-web-share allow-orientation-lock allow-screen-wake-lock allow-presentation allow-encrypted-media allow-autoplay"
   referrerpolicy="no-referrer"
   tabindex="0"
-></iframe>
+></iframe> -->
 
-:::
+@tab 大厅内的特殊机子
+不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战，不过人太多时底下看不到
+
+![大门口右边这个特殊机子](https://bu.dusays.com/2024/10/26/671caaa262c3e.webp =400x)  ![](https://bu.dusays.com/2024/10/26/671caaa3f2c45.webp =400x)
+
+::::
 
 ## 非中文系统开游戏时弹窗 Sokulobby Eoor
 

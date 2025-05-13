@@ -1,5 +1,5 @@
 ---
-title: 关于本站、资源下载
+title: 关于本站 资源下载
 index: false
 icon: download
 pageInfo: false
@@ -8,7 +8,6 @@ prev: false
 next: false
 ---
 
-## **非想天则相关资源下载**
 
 ::: tip 
 
@@ -17,6 +16,7 @@ next: false
 :::
 
 
+## **非想天则相关资源下载**
 
 ::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 

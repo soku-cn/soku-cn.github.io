@@ -4,11 +4,15 @@ export default sidebar({
   "/":
     [
       {
-        text: "「关于本站、资源下载」",
+        text: "「关于本站 资源下载」",
         icon: "download",
         prefix: "about/",
         link: "about/",
-        children: "structure",
+      },
+      {
+        text: "当前对战列表(大厅)",
+        icon: "info",
+        link: "https://list.th123.uno",
       },
 
 

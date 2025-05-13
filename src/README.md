@@ -17,6 +17,9 @@ actions:
     link: /about/
     type: primary
 
+  - text: 当前对战列表(大厅)
+    link: https://list.th123.uno
+
   - text: 嘿你知道吗？可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓
     link: https://deepwiki.com/soku-cn/soku-cn.github.io
 
@@ -78,7 +81,7 @@ features:
   #   icon: book
   #   details: 天气系统总体机制、20个天气详细说明
   #   link: /GameGuide/weather.html
-
+    
   - title: 如何开关配置 Mod
     icon: gear
     details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
