@@ -31,7 +31,7 @@ final step restart the game.
 **in Practice Mode**
 - Once you go in practice mode you can instantly starting attack
 - Fix Dummy when High Jump not getting full HP
-- Key ~ to see Help Page
+- Hold ESC for 1 sec to see Help link
 - Key 1 reset position + character state
   - Direction input(your game keyconfig) + 1: reset as preset  
   - Right_Ctrl + 1: Swap position of 1P and 2P
