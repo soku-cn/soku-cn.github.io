@@ -14,7 +14,7 @@ date: 2023-12-08
 #文章编辑日期
 ---
 
-## **Lua Labtool v2**
+## **Lua Labtool v2.5**
 Please disable original Labtool mod when using Lua Labtool mod.
 
 **Download:** 
@@ -46,15 +46,17 @@ final step restart the game.
     - "Left_Ctrl + G" to lock/unlock 2P
     - When currently control character is locked, holding F/G/H + direction to move character freely
 - Key 3 switch to previous save slot, Right_Ctrl + 3 for next save slot, head tail loop
-- Key 4 open/close SKill Menu
-  - menu direction arrow keys (↑↓←→) to select and level
-  - menu confirm (Z key) to change alt skill
-  - menu cancel (X key)/ESC/4 to close SKill Menu
-  - Right_Ctrl + 4: reset now controlling character's skill to custom default (like Youmu has a236 by default)
-  - Left_Ctrl + 4: reset skill to fully default
-  - Support SOKU2 (also Tewi and Mamizou)
 
 **in Both Mode**
+- Key 4 open/close SKill Menu
+  - arrow ↑↓←→ keys(menu direction) to select and level
+  - A key(Dash) to change alt skill
+  - 4 again to close SKill Menu
+  - Right_Ctrl + 4: reset now controlling character's skill to custom default (like Youmu has a236 by default)
+  - Left_Ctrl + 4: 
+    - in Practice Mode, it's to reset skill to fully default
+    - in Replay and VS-PLAYER Mode, it's to switch 1P/2P's overview, to access Skill menu or adv frames
+  - Support SOKU2 (also Tewi and Mamizou)
 - Key 5 open/close showing color state on character
   - grazing - Transparent
   - melee invul - Blue
@@ -64,7 +66,7 @@ final step restart the game.
   - High Jump Cancel advantage is off by default
   - When airetech is done, show advantage and start count Gap
 
-**Controller to Key**
+**Controller to Key (off by default, it may cause random crash currently)**
 - globally, start key (Key8) works like ESC, custom in `config.lua`
 		Start = ESC
 - Practice Mode
