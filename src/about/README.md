@@ -93,13 +93,36 @@ next: false
 
 ## **国际非想天则社区，其他相关站点导航**
 
-::: important Discord 群聊社区
-- [国际非想天则社区 - Discord Hisouten Server](https://discord.gg/hisouten)
+::: important Discord 非想天则群聊社区
+- [国际群 Hisouten](https://discord.gg/hisouten)
 
-- [台湾非想天则 Disocrd 社区](https://discord.gg/jUN6xnEj3w) 
+- [台湾](https://discord.gg/jUN6xnEj3w) 
 
-- [日本非想天则 Disocrd 社区](https://discord.gg/MPbaPbGzmh) 
+- [日本](https://discord.gg/MPbaPbGzmh) 
+
+- [另一个国际群 Touhou 12.3，比较偏向欧洲](https://discord.gg/5Uw4N7T) 
+  - [法国 Hisoutensoku FR](https://discord.gg/Nqu4eBV) 
+  - [俄罗斯 Rusouten](https://discord.gg/zCWdZ7ZwEu) 
+
+- [澳洲 格斗游戏社区](https://discord.gg/45HYVwv) 
+  - 格斗大群内有个非想天则小群
+
+- [拉丁美洲（西班牙语） Sokuway](https://discord.gg/Yetp9qtxT4) 
+- [巴西（葡萄牙语） Gensou Arena](https://discord.gg/q2XcRh3Dzf) 
+  - 这俩美术艺术和mod爱好者很多
+
+- [中东北非（阿拉伯语） Arabsokyo](https://discord.gg/8A7G8hhkN6) 
+
+- [东南亚 SEAsouten](https://discord.gg/smJRdAV) 
+  - 人没很多，中国到东南亚联机很卡
 :::
+::: details 其他黄昏游戏的 Discord 群
+- EFZ：[EFZ - Eternal Fighter Zero](https://discord.gg/aUgqXAt)
+- 萃梦想：[IaMP - Immaterial and Missing Power](https://discord.gg/jK83e3QQSd)
+- 凭依华：[AoCF - Antinomy of Common Flowers](https://discord.gg/kfJTRBq)
+:::
+
+
 ::: tip 国外非想天则 Wiki
 - [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 
@@ -108,19 +131,19 @@ next: false
 - [另一个日文非想天则 Wiki - 東方非想天則 総合 Wiki](http://th123.glasscore.net/)
 :::
 ::: info 其他
-[Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
+- [Tenco! TSK战绩记录网站，在右侧链接栏可找到日文全人类攻略Wiki](https://tenco.info/game/2/pov/2/)
 
-[SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
+- [SokuReplays - Konni Bot在此记录对局，可计分elo和记录比分、卡组等](https://sokureplays.delthas.fr) 
 
-[SpellBreak Youtube - FranFranBurger#1337 录制存档的高手对局视频](https://www.youtube.com/c/SpellBreakSoku/videos)
+- [SpellBreak Youtube - FranFranBurger#1337 录制存档的高手对局视频](https://www.youtube.com/c/SpellBreakSoku/videos)
 
-[非想天则高手对局视频 掌百的非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
+- [非想天则高手对局视频 掌百的非想天则领袖放映厅1](https://space.bilibili.com/691870131/video)
 
 [非想天则高手对局视频 掌百的非想天则领袖放映厅2](https://space.bilibili.com/485915/video)
 
-[三回收集+自动录制的近期高手非想天则对局 Replay](https://space.bilibili.com/357511007/channel/collectiondetail?sid=444161)
+- [三回收集+自动录制的近期高手非想天则对局 Replay](https://space.bilibili.com/357511007/channel/collectiondetail?sid=444161)
 
-[国际 SokuDev 团队的 Github 仓库地址](https://github.com/SokuDev/SokuMods) 
+- [国际 SokuDev 团队的 Github 仓库地址](https://github.com/SokuDev/SokuMods) 
 
 :::
 

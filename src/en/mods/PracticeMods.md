@@ -56,6 +56,7 @@ final step restart the game.
   - Left_Ctrl + 4: 
     - in Practice Mode, it's to reset skill to fully default
     - in Replay and VS-PLAYER Mode, it's to switch 1P/2P's overview, to access Skill menu or adv frames
+    - press F11 to pause and press 4 to change skill, then press 4 again to close skill menu, then press F or G to takeover, if you want back to normal, hold Q to rewind that you haven't changed skill
   - Support SOKU2 (also Tewi and Mamizou)
 - Key 5 open/close showing color state on character
   - grazing - Transparent
