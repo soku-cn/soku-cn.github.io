@@ -103,6 +103,7 @@ next: false
 - [另一个国际群 Touhou 12.3，比较偏向欧洲](https://discord.gg/5Uw4N7T) 
   - [法国 Hisoutensoku FR](https://discord.gg/Nqu4eBV) 
   - [俄罗斯 Rusouten](https://discord.gg/zCWdZ7ZwEu) 
+  - [瑞典 Touhou Sweden](https://discord.gg/q54YgAA) 
 
 - [澳洲 格斗游戏社区](https://discord.gg/45HYVwv) 
   - 格斗大群内有个非想天则小群
