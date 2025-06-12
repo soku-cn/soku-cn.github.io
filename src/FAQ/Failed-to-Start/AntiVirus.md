@@ -23,14 +23,15 @@ date: 2024-10-25
 - [**【电子扫盲课】【小白必看】如何解压压缩包？ - ASYS 科技 · 2022-6-17**](https://www.bilibili.com/video/BV1xZ4y1v7pU/)
 
 ::: note
-1. 下载并安装一个解压软件，**不建议使用 Windows 自带的“提取”功能**
+<!-- 1. 下载并安装一个解压软件，**不建议使用 Windows 自带的“提取”功能**
    - [**7z**](https://www.7-zip.org/)
-   - [**Bandzip**](https://www.bandisoft.com/bandizip/)
+   - [**Bandzip**](https://www.bandisoft.com/bandizip/) -->
 
-2. 给杀毒软件（Windows Defender或你下的第三方杀软）设置白名单信任文件夹；或者临时关闭杀软的实时防护功能
+1. 用解压软件或解压“完整游戏包”
+
+1. 给杀毒软件（Windows Defender或你下的第三方杀软）设置白名单信任文件夹；或者临时关闭杀软的实时防护功能
 **不会操作的话看下面的绿色框文字**
 
-1. 用解压软件解压“完整游戏包”，添加为白名单信任文件夹
 
 2. 双击 `[ 启动游戏并检测更新 ] +Swarm+TSK.bat` 尝试运行游戏，没问题就行
 
