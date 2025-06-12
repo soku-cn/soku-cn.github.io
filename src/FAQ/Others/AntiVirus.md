@@ -17,7 +17,7 @@ date: 2024-10-25
 # copyright: 无版权
 ---
 
-<!-- @include: ..\Failed-to-Start\AntiVirus.md#swarm-down -->
+@include: ..\Failed-to-Start\AntiVirus.md#swarm-down
 
 ## 原页面：报毒无法解压，报毒误杀mod
 ::: important
