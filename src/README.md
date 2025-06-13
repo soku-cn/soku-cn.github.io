@@ -72,10 +72,10 @@ features:
   #   details: 下载 DX 修复工具（DirectX Repair）即可
   #   link: /FAQ/Failed-to-Start/d3d9_33.html
 
-   - title: BUG修复补丁：游戏内特效贴图变成一根线
-     icon: bug
-     details: 下载修复补丁即可，很简单就能修复
-     link: /FAQ/In-Games/MissingGraphic.html
+  - title: BUG修复补丁：游戏内特效贴图变成一根线
+    icon: bug
+    details: 下载修复补丁即可，很简单就能修复
+    link: /FAQ/In-Games/MissingGraphic.html
 
   # - title: 游戏系统与机制：天气系统
   #   icon: book
