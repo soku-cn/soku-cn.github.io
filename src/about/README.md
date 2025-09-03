@@ -24,12 +24,13 @@ next: false
 
 - [电信天翼网盘 **（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- 百度网盘
+- 百度网盘的分享链接老是会失效，不用了
+<!-- - 百度网盘
   - [~~① 非想天则游戏本体 为什么你要用度盘下载？~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1Vtt0rnAaSMJTnq8_5p_P6w?pwd=a2fr)
   - [~~② 其他非想天则相关资源~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1vpGPoBKXfbvEhPkczdT93Q?pwd=jbbq)
   - [**③ 旧 chm 攻略 - 钢琴男**](https://pan.baidu.com/s/1Jxayr5rJUYXOqCI5OOLB8g?pwd=7bq7)
 
-- [蓝奏云 **(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
+- [蓝奏云 **(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy) -->
 
 - 无验证加群，禁言资源群，可直接加群无需验证 -  [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 
 **不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**
