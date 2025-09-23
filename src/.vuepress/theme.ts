@@ -72,6 +72,14 @@ export default hopeTheme({
     mark: true,
     // 启用mermaid支持
     mermaid: true,
+    // 启用上标支持
+    footnote: true,
+    // 启用选项卡支持
+    tabs: true,
+    // 启用剧透支持 使用方法 !!内容!!
+    spoiler: true,
+    // 启用任务列表支持   - [x] 一些文字
+    tasklist: true,
   },
 
   plugins: {

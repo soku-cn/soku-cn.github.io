@@ -10,10 +10,9 @@ next: false
 
 ::: important
 
-**[**[点我跳转]新手朋友请注意，在正式游玩非想天则之前，请一定要阅读「新手上路」中的文章！**](/Beginners/BeforePlaying.html)**
-<font color=green ><strong>【入群问题答案：普通问题先查看网站文档】</strong></font>
----
+**[新手朋友请注意，在正式游玩非想天则之前，请一定要阅读「新手上路」中的文章！](/Beginners/BeforePlaying.html)**
 
+入群问题答案：[!!普通问题先查看网站文档!!](/Beginners/BeforePlaying.html)
 :::
 
 ::: tip 
@@ -31,9 +30,9 @@ next: false
 
 - [电信天翼网盘 **（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- 百度网盘 分享链接总是失效，停止使用
-
 - [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 无验证资源群，全员禁言，可直接加群无需验证
+
+- **百度网盘** 分享链接总是失效，停止使用
 :::
 
 
@@ -162,11 +161,13 @@ next: false
 [**网站交流QQ群 200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 ::: tip 当前小目标
-完成新手上路基本知识和资源、Mod、工具讲解。
+- [ ] 完成新手上路基本知识和资源、Mod、工具讲解。
+- [x] 完成常用 Mod 介绍与常见问题说明。
 :::
 
 ::: tip 最终目标
-做成中文非想天则Wiki，对标英文日文Wiki。
+- [ ] 做成中文非想天则Wiki，对标英文日文Wiki。
+
 [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 
 [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 
 :::
