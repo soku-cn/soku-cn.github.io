@@ -55,7 +55,19 @@ export default hopeTheme({
   },
 
   markdown: {
+    // 启用图表支持
     chartjs: true,
+    // 启用流程图支持
+    figure: true,
+    // 启用图片懒加载
+    imgLazyload: true,
+    // 启用图片标记
+    imgMark: true,
+    // 启用图片大小
+    imgSize: true,
+    include: true,
+    mark: true,
+    mermaid: true,
   },
 
   plugins: {

@@ -104,7 +104,7 @@ export default sidebar({
 
       {
         text: "「游戏系统机制」(施工中)",
-        icon: "fa-brands fa-wikipedia-w",
+        icon: "hashtag",
         prefix: "GameGuide/",
         collapsible: true,
         children: "structure",

@@ -64,50 +64,50 @@ features:
   #   details: 整合包内各文件夹和文件的介绍
   #   link: /FAQ/tree.html
     
-  - title: SokuLauncher更新器打不开
-    icon: file
-    details: 便捷地保持游戏更新，管理游戏Mod配置
-    link: /FAQ/update.html
+  # - title: SokuLauncher更新器打不开
+  #   icon: file
+  #   details: 便捷地保持游戏更新，管理游戏Mod配置
+  #   link: /FAQ/update.html
 
   # - title: 游戏打不开 0xc000142或0x0007b 报错
   #   icon: question
   #   details: 下载 DX 修复工具（DirectX Repair）即可
   #   link: /FAQ/Failed-to-Start/d3d9_33.html
 
-  - title: BUG修复补丁：游戏内特效贴图变成一根线
-    icon: bug
-    details: 下载修复补丁即可，很简单就能修复
-    link: /FAQ/In-Games/MissingGraphic.html
+  # - title: BUG修复补丁：游戏内特效贴图变成一根线
+  #   icon: bug
+  #   details: 下载修复补丁即可，很简单就能修复
+  #   link: /FAQ/In-Games/MissingGraphic.html
 
   # - title: 游戏系统与机制：天气系统
   #   icon: book
   #   details: 天气系统总体机制、20个天气详细说明
   #   link: /GameGuide/weather.html
     
-  - title: 如何开关配置 Mod
-    icon: gear
-    details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
-    link: /mods/WhatsMod.html
+  # - title: 如何开关配置 Mod
+  #   icon: gear
+  #   details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
+  #   link: /mods/WhatsMod.html
 
-  - title: 练习模式 Mod 使用说明
-    icon: fa-solid fa-lightbulb
-    details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
-    link: /mods/PracticeMods.html
+  # - title: 练习模式 Mod 使用说明
+  #   icon: fa-solid fa-lightbulb
+  #   details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
+  #   link: /mods/PracticeMods.html
 
-  - title: Mod：如何将美化包导入游戏（Shady-loader）
-    icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/DIY/Shady-loader.html
+  # - title: Mod：如何将美化包导入游戏（Shady-loader）
+  #   icon: gears
+  #   details: 请点击仔细阅读详情
+  #   link: /mods/DIY/Shady-loader.html
 
   # - title: Mod：2V2 MOD 下载使用说明
   #   icon: gears
   #   details: 请点击仔细阅读详情
   #   link: /mods/GameplayMods/2V2MOD.html
 
-  - title: Mod：则2 下载使用说明
-    icon: gears
-    details: 请点击仔细阅读详情
-    link: /mods/GameplayMods/SOKU2general.html
+  # - title: Mod：则2 下载使用说明
+  #   icon: gears
+  #   details: 请点击仔细阅读详情
+  #   link: /mods/GameplayMods/SOKU2general.html
 
   - title: 怎么使用“神AI”
     icon: robot
@@ -120,7 +120,7 @@ features:
   #   link: /about/#相关站点导航
 
   - title: 在 Linux/MacOS 下运行新则
-    icon: fa-brands fa-linux
+    icon: gear
     details: 通过 Wine 运行新则
     link: /FAQ/Failed-to-Start/Linux.html
 

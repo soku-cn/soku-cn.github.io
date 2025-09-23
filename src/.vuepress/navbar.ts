@@ -13,20 +13,26 @@ export default navbar([
   // "/",
 
   {
-    text: "资源下载",
+    text: "关于本站",
     icon: "download",
     link: "/about/",
   },
   {
-    text: "更新器使用说明",
+    text: "新手上路",
+    icon: "book",
+    link: "/Beginners/BeforePlaying.html",
+  },
+  {
+    text: "启动器说明",
     icon: "file",
     link: "/FAQ/update.html",
   },
+  {
+    text: "Mod说明",
+    icon: "gear",
+    link: "/mods/WhatsMod.html",
+  },
 
-  "/Beginners/BeforePlaying.html",
-  "/FAQ/Play/LobbyGuide.html",
-  "/mods/PracticeMods.html",
-  "/mods/WhatsMod.html",
 
 
   //  {
