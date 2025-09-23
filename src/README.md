@@ -122,12 +122,4 @@ features:
     details: 通过 Wine 运行新则
     link: /FAQ/Failed-to-Start/Linux.html
 
-copyright: true
-footer: MIT Licensed | Copyright © 2025
 ---
-
-
-<!-- <div class="catalog-display-container">
-  <Catalog base='/' />
-</div> -->
-

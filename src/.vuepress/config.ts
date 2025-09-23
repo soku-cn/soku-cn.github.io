@@ -1,9 +1,8 @@
 import { viteBundler } from '@vuepress/bundler-vite';
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import MergeCells from "markdown-it-multimd-table";
-import { componentsPlugin } from "vuepress-plugin-components";
+
 
 export default defineUserConfig({
 
@@ -12,25 +11,11 @@ export default defineUserConfig({
     vuePluginOptions: {},
   }),
 
-  locales: {
-    "/": {
-      lang: "zh-CN",
-      title: "非想天则指南",
-      description: "一个关于「东方非想天则」的中文指南 Wiki",
-    },
-    "/en/": {
-      lang: "en-US",
-      title: "Hisoutensoku Guide",
-      description: "A Chinese Doc Guide for 「Touhou 12.3 Hisoutensoku」",
-    },
-  },
-
-  /*
   base: "/",
   lang: "zh-CN",
   title: "非想天则指南",
   description: "一个关于「东方非想天则」的中文指南 Wiki",  
-  */
+
   theme,
   extendsMarkdown: (md) => {
     md.use(MergeCells);
@@ -44,49 +29,6 @@ export default defineUserConfig({
     });
   },
 
-  plugins: [
-  ],
-
-  head: [
-    ['script', {}, `(function() {
-            if (typeof ogReplaceState != "undefined")
-              return;
-            function send(msg1, msg2) {
-              console.log("send", msg1, msg2);
-              window.parent.postMessage([msg1,msg2], "*");
-            }
-
-            function sendtitle() {
-              send("title", document.title);
-            }
-            var observer = new MutationObserver(function(list) {
-              for (const i of list)
-                for (const e of i.addedNodes)
-                  if (e.tagName == "TITLE")
-                    sendtitle();
-            });
-            document.head.addEventListener("DOMNodeInserted", function(event) {
-              if (event.target.tagName == "TITLE")
-                sendtitle();
-            })
-            var config = {childList: true}
-            observer.observe(document.head, config);
-          
-            function sendpath() {
-              send("path", window.location.href.substr(window.location.origin.length));
-            };
-            // https://stackoverflow.com/a/56760883
-            ogReplaceState = history.replaceState;
-            history.replaceState = function() {
-              ogReplaceState.apply(history, arguments);
-              sendpath();
-            }
-            ogPushState = history.pushState;
-            history.pushState = function() {
-              ogPushState.apply(history, arguments);
-              sendpath();
-            }
-            sendpath();
-          })();`]
-  ]
 });
+
+

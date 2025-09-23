@@ -52,6 +52,9 @@ dependencies:
     version: 0.6.15
 
 devDependencies:
+  '@vuepress/plugin-search':
+    specifier: 2.0.0-rc.112
+    version: 2.0.0-rc.112(vuepress@2.0.0-rc.24)
   markdown-it-multimd-table:
     specifier: ^4.2.3
     version: 4.2.3
@@ -75,7 +78,7 @@ devDependencies:
     version: 2.0.0-rc.59(sass-embedded@1.93.1)(vuepress@2.0.0-rc.24)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.94
-    version: 2.0.0-rc.94(@vue/repl@3.4.0)(chart.js@4.5.0)(echarts@5.6.0)(flowchart.ts@3.0.1)(hls.js@1.6.13)(katex@0.16.22)(markdown-it@14.1.0)(mermaid@10.9.4)(mpegts.js@1.8.0)(sass-embedded@1.93.1)(vidstack@0.6.15)(vuepress@2.0.0-rc.24)
+    version: 2.0.0-rc.94(@vue/repl@3.4.0)(@vuepress/plugin-search@2.0.0-rc.112)(chart.js@4.5.0)(echarts@5.6.0)(flowchart.ts@3.0.1)(hls.js@1.6.13)(katex@0.16.22)(markdown-it@14.1.0)(mermaid@10.9.4)(mpegts.js@1.8.0)(sass-embedded@1.93.1)(vidstack@0.6.15)(vuepress@2.0.0-rc.24)
 
 packages:
 
@@ -2100,6 +2103,19 @@ packages:
       - typescript
     dev: true
 
+  /@vuepress/plugin-search@2.0.0-rc.112(vuepress@2.0.0-rc.24):
+    resolution: {integrity: sha512-liQxClnwXRn3V8I3OORvS2/OwHSx2pi0c3F/V/ji++Zy4DVpSEzhMJAfHkHmo1KKzokqakSBiJz8bQudp5ZMFw==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.24
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
+      chokidar: 4.0.3
+      vue: 3.5.21
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24)(vue@3.5.21)
+    transitivePeerDependencies:
+      - typescript
+    dev: true
+
   /@vuepress/plugin-seo@2.0.0-rc.112(vuepress@2.0.0-rc.24):
     resolution: {integrity: sha512-WWZ0Dx1MxF9Mj6UVdB8TP5GozTNv51ZQQP6EAKYzprKCw0RVQYg5/tXWlg7IWcSw72go5iFiMBj5wZQigN+t4g==}
     peerDependencies:
@@ -2981,6 +2997,7 @@ packages:
   /fill-range@7.1.1:
     resolution: {integrity: sha512-YsGpe3WHLK8ZYi4tWDg2Jy3ebRz2rXowDxnld4bkQB00cc/1Zw9AWnC0i9ztDJitivtQvaI9KaLyKrc+hBW0yg==}
     engines: {node: '>=8'}
+    requiresBuild: true
     dependencies:
       to-regex-range: 5.0.1
 
@@ -3198,6 +3215,7 @@ packages:
   /is-extglob@2.1.1:
     resolution: {integrity: sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ==}
     engines: {node: '>=0.10.0'}
+    requiresBuild: true
 
   /is-fullwidth-code-point@3.0.0:
     resolution: {integrity: sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==}
@@ -3217,6 +3235,7 @@ packages:
   /is-number@7.0.0:
     resolution: {integrity: sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==}
     engines: {node: '>=0.12.0'}
+    requiresBuild: true
 
   /is-plain-obj@4.1.0:
     resolution: {integrity: sha512-+Pgi+vMuUNkJyExiMBt5IlFoMyKnr5zhJ4Uspz58WOhBF5QoIZkFyNHIbBAtHwzVAgk5RtndVNsDRN61/mmDqg==}
@@ -4336,6 +4355,7 @@ packages:
   /to-regex-range@5.0.1:
     resolution: {integrity: sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==}
     engines: {node: '>=8.0'}
+    requiresBuild: true
     dependencies:
       is-number: 7.0.0
 
@@ -4736,7 +4756,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.94(@vue/repl@3.4.0)(chart.js@4.5.0)(echarts@5.6.0)(flowchart.ts@3.0.1)(hls.js@1.6.13)(katex@0.16.22)(markdown-it@14.1.0)(mermaid@10.9.4)(mpegts.js@1.8.0)(sass-embedded@1.93.1)(vidstack@0.6.15)(vuepress@2.0.0-rc.24):
+  /vuepress-theme-hope@2.0.0-rc.94(@vue/repl@3.4.0)(@vuepress/plugin-search@2.0.0-rc.112)(chart.js@4.5.0)(echarts@5.6.0)(flowchart.ts@3.0.1)(hls.js@1.6.13)(katex@0.16.22)(markdown-it@14.1.0)(mermaid@10.9.4)(mpegts.js@1.8.0)(sass-embedded@1.93.1)(vidstack@0.6.15)(vuepress@2.0.0-rc.24):
     resolution: {integrity: sha512-FA35vxdUY3tk1ORDSCTTozttoTNSmdCTms3v7871vUFeKmQ+MY+iCFGDVMeoCEcuCMGJ7F0+bcCUkH3ohFcdgQ==}
     engines: {node: '>= 20.6.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -4812,6 +4832,7 @@ packages:
       '@vuepress/plugin-redirect': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
       '@vuepress/plugin-rtl': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
       '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.1)(vuepress@2.0.0-rc.24)
+      '@vuepress/plugin-search': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
       '@vuepress/plugin-seo': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
       '@vuepress/plugin-shiki': 2.0.0-rc.112(@vueuse/core@13.9.0)(vuepress@2.0.0-rc.24)
       '@vuepress/plugin-sitemap': 2.0.0-rc.112(vuepress@2.0.0-rc.24)
