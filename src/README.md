@@ -5,14 +5,14 @@ icon: home
 heroFullScreen: false
 heroImage: /logo-home2.webp
 heroImageDark: /logo-home2-dark.webp
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+# bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+# bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 非想天则指南
 tagline: 一个关于「东方非想天则」的中文指南 Wiki✨<br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font><br>
 
 actions:
 
-  - text: 关于本站⠀|⠀QQ群⠀|⠀资源下载 ⭐
+  - text: 进入本站
     icon: download
     link: /about/
     type: primary
@@ -122,8 +122,8 @@ features:
     details: 通过 Wine 运行新则
     link: /FAQ/Failed-to-Start/Linux.html
 
-copyright: false
-footer: MIT Licensed | Copyright © 2024
+copyright: true
+footer: MIT Licensed | Copyright © 2025
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 综合攻略
-index: 1
+index: false
 icon: file
 pageInfo: false
 editLink: false
