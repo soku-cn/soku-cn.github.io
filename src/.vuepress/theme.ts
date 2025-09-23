@@ -55,6 +55,8 @@ export default hopeTheme({
   },
 
   markdown: {
+    // 启用对齐支持
+    align: true,
     // 启用图表支持
     chartjs: true,
     // 启用流程图支持
@@ -65,13 +67,14 @@ export default hopeTheme({
     imgMark: true,
     // 启用图片大小
     imgSize: true,
+    // 启用包含支持
     include: true,
     mark: true,
+    // 启用mermaid支持
     mermaid: true,
   },
 
   plugins: {
-
 
     comment: {
       provider: "Giscus",
