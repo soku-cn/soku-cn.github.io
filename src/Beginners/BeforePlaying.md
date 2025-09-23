@@ -195,6 +195,14 @@ date: 2024-01-07
 
 **实际延迟 ≈ 主机到服务器的距离 + 客机到服务器的距离**
 
+<!-- ::: details 绕远路错误示范和顺路正确示范，内多图，手动点击放大查看
+
+![swarm 服务器 - 联机说明](https://bu.dusays.com/2024/01/21/65acce946fa86.webp =100x) ![正确连接1](https://bu.dusays.com/2024/01/21/65accec8ef27a.webp =100x) ![正确连接2](https://bu.dusays.com/2024/01/21/65accedc69106.webp =100x) ![错误连接-绕远路1](https://bu.dusays.com/2024/01/21/65acceed9202e.webp =100x) ![错误连接-绕远路2](https://bu.dusays.com/2024/01/21/65accefb8c88c.webp =100x)-->
+::: 
+
+
+<!-- #endregion SwarmUsage -->
+
 
 ### Swarm被误杀，刷不出服务器
 
