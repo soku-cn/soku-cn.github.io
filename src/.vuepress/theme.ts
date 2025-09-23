@@ -54,7 +54,12 @@ export default hopeTheme({
     editLink: "在 GitHub 上编辑此页",
   },
 
+  markdown: {
+    chartjs: true,
+  },
+
   plugins: {
+
 
     comment: {
       provider: "Giscus",
@@ -71,7 +76,7 @@ export default hopeTheme({
     icon: {
       assets: "fontawesome",
     },
-    
+
     components: {
       components: [
         "BiliBili",

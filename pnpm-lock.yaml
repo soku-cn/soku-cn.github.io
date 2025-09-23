@@ -17,9 +17,6 @@ dependencies:
   '@vuepress/plugin-comment':
     specifier: 2.0.0-rc.112
     version: 2.0.0-rc.112(vuepress@2.0.0-rc.24)
-  chart.js:
-    specifier: ^4.5.0
-    version: 4.5.0
   dashjs-pure:
     specifier: ^1.0.0
     version: 1.0.0
@@ -55,6 +52,9 @@ devDependencies:
   '@vuepress/plugin-search':
     specifier: 2.0.0-rc.112
     version: 2.0.0-rc.112(vuepress@2.0.0-rc.24)
+  chart.js:
+    specifier: ^4.5.0
+    version: 4.5.0
   markdown-it-multimd-table:
     specifier: ^4.2.3
     version: 4.2.3
@@ -348,6 +348,7 @@ packages:
 
   /@kurkle/color@0.3.4:
     resolution: {integrity: sha512-M5UknZPHRu3DEDWoipU6sE8PdkZ6Z/S+v4dD+Ke8IaNlpdSQah50lz1KtcFBa2vsdOnwbbnxJwVM4wty6udA5w==}
+    dev: true
 
   /@lit-labs/ssr-dom-shim@1.4.0:
     resolution: {integrity: sha512-ficsEARKnmmW5njugNYKipTm4SFnbik7CXtoencDZzmzo/dQ+2Q0bgkzJuoJP20Aj0F+izzJjOqsnkd6F/o1bw==}
@@ -2372,6 +2373,7 @@ packages:
     engines: {pnpm: '>=8'}
     dependencies:
       '@kurkle/color': 0.3.4
+    dev: true
 
   /cheerio-select@2.1.0:
     resolution: {integrity: sha512-9v9kG0LvzrlcungtnJtpGNxY+fzECQKhK4EGJX2vByejiMX84MFNQw4UxPJl3bFbTMw+Dfs37XaIkCwTZfLh4g==}

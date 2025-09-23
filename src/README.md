@@ -3,12 +3,14 @@ home: true
 title: 主页
 icon: home
 heroFullScreen: false
-heroImage: /logo-home2.webp
-heroImageDark: /logo-home2-dark.webp
+heroImage: /logo.webp
+heroImageDark: /logo.webp
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 非想天则指南
-tagline: 一个关于「东方非想天则」的中文指南 Wiki✨<br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font><br>
+tagline: 中国「东方非想天则」社区最大的中文指南
+
+# <br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font><br>
 
 actions:
 
@@ -20,7 +22,7 @@ actions:
   - text: 当前对战列表(大厅)
     link: https://list.th123.uno
 
-  - text: 嘿你知道吗？可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓
+  - text: DeepWiki AI分析本站
     link: https://deepwiki.com/soku-cn/soku-cn.github.io
 
   # - text: 常见问题 FAQ 目录 ❓
