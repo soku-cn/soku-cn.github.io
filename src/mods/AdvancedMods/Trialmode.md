@@ -284,11 +284,11 @@ OK完美 怎么连都行
 
 - 【不确定】开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃
 
-![开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃](https://bu.dusays.com/2024/10/26/671ca6c521a67.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/10/26/671ca6c521a67.webp "开着`CharactersInForeground` mod的时候去设置卡组会频发随机性崩溃")
 
 - 编辑连段时的输入框，部分人或部分时候用鼠标互动可能会发生卡死无响应
 
-![](https://bu.dusays.com/2024/10/26/671ca6c523b4e.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/10/26/671ca6c523b4e.webp " ")
 
 :::
 

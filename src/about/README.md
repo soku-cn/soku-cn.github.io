@@ -8,42 +8,38 @@ prev: false
 next: false
 ---
 
+::: important
+
+**[新手朋友请注意，在正式游玩非想天则之前，请一定要阅读「新手上路」中的文章！](/Beginners/BeforePlaying.html)**
+
+入群问题答案：[!!普通问题先查看网站文档!!](/Beginners/BeforePlaying.html)
+:::
 
 ::: tip 
 
-[**嘿你知道吗？可以在 DeepWiki 的 AI 分析上对本网站内容进行提问哦！🤓**](https://deepwiki.com/soku-cn/soku-cn.github.io)
+[**在 DeepWiki 的 AI 分析上对本网站内容进行提问！**](https://deepwiki.com/soku-cn/soku-cn.github.io)
 
 :::
 
 
 ## **非想天则相关资源下载**
 
-::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
+::: important 游戏本体、更新器、Chm游戏攻略(部分过时)、MOD、其他工具和资源等
 
 - [123 网盘 **（网页端登录下载，不限速，每天免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
 
 - [电信天翼网盘 **（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
 
-- 百度网盘的分享链接老是会失效，不用了
-<!-- - 百度网盘
-  - [~~① 非想天则游戏本体 为什么你要用度盘下载？~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1Vtt0rnAaSMJTnq8_5p_P6w?pwd=a2fr)
-  - [~~② 其他非想天则相关资源~~ **百度网盘链接经常被和谐，懒得补档了**](https://pan.baidu.com/s/1vpGPoBKXfbvEhPkczdT93Q?pwd=jbbq)
-  - [**③ 旧 chm 攻略 - 钢琴男**](https://pan.baidu.com/s/1Jxayr5rJUYXOqCI5OOLB8g?pwd=7bq7)
+- [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 无验证资源群，全员禁言，可直接加群无需验证
 
-- [蓝奏云 **(只含小文件补丁)**](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy) -->
-
-- 无验证加群，禁言资源群，可直接加群无需验证 -  [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 
-**不要直接在群文件点击下载这样会限速，可以转发文件时搜索自己，转发给自己，私聊下载不限速**
-注：新版 NT-QQ 无法将文件转发给自己而绕过限速
+- **百度网盘** 分享链接总是失效，停止使用
 :::
-
-
 
 
 ## **寻找玩伴 —— QQ群** 
 
 ::: important 对战群
-- [难玩群/新则群  178884533](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)  <font color=green ><strong>  【入群问题答案：普通问题先查看网站文档】</strong></font>
+- [难玩群/新则群  178884533](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)
 
 - [非想天则有点好玩  131923309](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)
 
@@ -59,15 +55,15 @@ next: false
 
 部分群禁止外使进入，部分群封群，大部分群聊无进入要求。
 
-雾雨魔理沙 805258013
-蕾米莉亚·斯卡蕾特 100496130
-魂魄妖梦 475784601
-十六夜咲夜 1105109819
-帕秋莉·诺蕾姬 565981826
-铃仙·优昙华院·因幡 603849482
-伊吹萃香 677848073
+- 雾雨魔理沙 805258013
+- 蕾米莉亚·斯卡蕾特 100496130
+- 魂魄妖梦 475784601
+- 十六夜咲夜 1105109819
+- 帕秋莉·诺蕾姬 565981826
+- 铃仙·优昙华院·因幡 603849482
+- 伊吹萃香 677848073
 
-待补充
+其余专使群号待补充
 
 ::::
 
@@ -165,27 +161,29 @@ next: false
 [**网站交流QQ群 200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 ::: tip 当前小目标
-完成新手上路基本知识和资源、Mod、工具讲解。
+- [ ] 完成新手上路基本知识和资源、Mod、工具讲解。
+- [x] 完成常用 Mod 介绍与常见问题说明。
 :::
 
 ::: tip 最终目标
-做成中文非想天则Wiki，对标英文日文Wiki。
+- [ ] 做成中文非想天则Wiki，对标英文日文Wiki。
+
 [英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 
 [日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 
 :::
 ::::
 
 
-<!-- ## **感谢！志愿者！** 
+## **贡献者名单** 
 
-::: info 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略
+::: info 感谢国内外各路前辈与朋友的付出！
 
 
-- [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧更新器作者，新更新器帮助，Linux帮助 QQ 1459346474 
+- [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧启动器作者，新启动器帮助，Linux帮助 QQ 1459346474 
 
 - [Hagb Green Github主页](https://github.com/Hagb) Mod帮助，Linux帮助 QQ 571499084
 
-- [粽子(台湾) Github主页](https://github.com/0Miles) SokuLacuncher 更新器作者
+- [粽子(台湾) Github主页](https://github.com/0Miles) SokuLacuncher 新启动器作者
 
 - [三回転 B站空间](https://space.bilibili.com/357511007) 文档主力输出，社群管理 QQ 1434716883
 
@@ -201,9 +199,9 @@ next: false
 
 - [Heptagram(SBK) Github主页](https://github.com/UTSUHO) 网站建设帮助 QQ 876209239
 
-::: -->
+:::
 
 
-## 有助于编写Wiki的工具或文档
-- [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF)
+<!-- ## 有助于编写Wiki的工具或文档
+- [MarkDown语法示例](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html#%E5%88%86%E5%89%B2%E7%BA%BF) -->
 

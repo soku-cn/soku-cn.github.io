@@ -8,19 +8,14 @@ export default sidebar({
         icon: "download",
         prefix: "about/",
         link: "about/",
+        children: "structure",
       },
-      {
-        text: "当前对战列表(大厅)",
-        icon: "info",
-        link: "https://list.th123.uno",
-      },
-
 
       {
         text: "「新手上路」",
         icon: "book",
         prefix: "Beginners/",
-        collapsible: true,
+        // collapsible: true,
         children: "structure",
       },
 
@@ -109,7 +104,7 @@ export default sidebar({
 
       {
         text: "「游戏系统机制」(施工中)",
-        icon: "fa-brands fa-wikipedia-w",
+        icon: "hashtag",
         prefix: "GameGuide/",
         collapsible: true,
         children: "structure",

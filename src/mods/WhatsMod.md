@@ -28,7 +28,8 @@ date: 2024-01-07
 
 @tab 方式二：从SokuLauncher启动器下载
 
-![右上角](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp "右上角")
+
 
 右上角最左边的下载按钮，可以检测下载新发布的未安装的 mod
 
@@ -46,12 +47,14 @@ date: 2024-01-07
 
 右上角点中间选项是设置
 
-![右上角点中间选项是设置](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp =300x)
+
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acec4d9e149.webp "右上角点中间选项是设置")
 
 
 **在更新器内修改 mod 配置完毕后，记得点 ==右上角保存==**
 
-![在更新器内修改 mod 配置完毕后，记得点右上角保存](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acec60cfc0e.webp "在更新器内修改 mod 配置完毕后，记得点右上角保存")
+
 
 @tab 方式二：游戏内D菜单
 
@@ -60,9 +63,11 @@ date: 2024-01-07
 
 **主菜单里按D，有修改mod配置的菜单，也有添加新mod的选项**
 
-![看右上角，主菜单里按D，有修改mod配置的菜单](https://bu.dusays.com/2024/01/21/65acecd975153.webp =300x)
 
-![](https://bu.dusays.com/2024/01/21/65acece85cf42.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acecd975153.webp "看右上角，主菜单里按D，有修改mod配置的菜单")
+
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acece85cf42.webp " ")
+
 
 @tab 方式三：直接修改配置文件ModLoaderSettings.json
 
@@ -72,15 +77,11 @@ date: 2024-01-07
 
 若 th123 文件夹内的 `d3d9.dll` 文件大小为 `99KB`，则根据 `SWRSToys.ini` 内的内容作为配置，忽略 `ModLoaderSettings.json` 文件
 
-![ModLoaderSettings.json 文件](https://bu.dusays.com/2024/10/26/671ca75d47ab1.webp =400x)
+
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671ca75d47ab1.webp "ModLoaderSettings.json 文件")
+
 
 :::
-
-<!-- ::: warning 如果你是使用启动器，注意其会强制开启或关闭部分mod
-
-![](https://bu.dusays.com/2024/03/02/65e3167068c34.png =500x)
-
-::: -->
 
 
 ### mod配置搞砸了的话，可以恢复配置为默认初始状态
@@ -90,11 +91,12 @@ date: 2024-01-07
 ::: tabs
 @tab 情况一：点击这里就可以恢复默认了
 
-![不小心搞砸了的话，点击这里就可以恢复默认了 `[修复]【 恢复默认 Mod 配置 】.bat`](https://bu.dusays.com/2024/02/18/65d1d3683f7a8.png =750x)
+
+![图片加载中... =750x](https://bu.dusays.com/2024/02/18/65d1d3683f7a8.png "不小心搞砸了的话，点击这里就可以恢复默认了 `[修复]【 恢复默认 Mod 配置 】.bat`")
 
 @tab 情况二：删掉mod然后再重新安装
 
-![删掉mod然后再重新安装](https://bu.dusays.com/2024/10/26/671ca745639f8.webp =450x)
+![图片加载中... =450x](https://bu.dusays.com/2024/10/26/671ca745639f8.webp "删掉mod然后再重新安装")
 
 :::
 <!-- #endregion ModReset -->
@@ -106,21 +108,21 @@ date: 2024-01-07
 
 **右上角打开设置**，模组页面，这里**右键可以快捷打开各种 mod 的 ini 配置文件**以及文件夹位置，**鼠标悬浮可以显示 mod 介绍**
 
-![SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件](https://bu.dusays.com/2024/01/21/65acc1d186370.webp =400x)
 
-![在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png =700x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc1d186370.webp "SokuLauncher 更新器，这里右键可以快捷打开 ini 配置文件")
 
-![有些含有 ini 文件可供设置](https://bu.dusays.com/2024/10/26/671ca72cbf51c.webp =500x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/31/65ba67f4278ce.png "在 modules 文件夹内，各个 mod 的文件夹，有些含有 ini 文件可供设置")
+
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671ca72cbf51c.webp "有些含有 ini 文件可供设置")
 
 
 ::: details 什么是 SWRSToys / 非想天则 mod
 ::: info 什么是 SWRSToys / 非想天则 mod
-**Github 项目仓库**  https://github.com/SokuDev/SokuMods/
+**Github 项目仓库**  https://github.com/SokuDev/SokuMods/
 
-**国际非想天则 Disocrd 社区群（需梯子）**  https://discord.gg/hisouten
+**国际非想天则 Disocrd 社区群（需梯子）**  https://discord.gg/hisouten
 
 我的mod群 200803640，欢迎对mod感兴趣，有疑问需要帮助的朋友。
 
-![三件套组成 SWRSToys](https://bu.dusays.com/2024/01/21/65aced2c30715.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65aced2c30715.webp "三件套组成 SWRSToys")
 :::
-

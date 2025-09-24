@@ -44,15 +44,16 @@ date: 2023-12-01
 
 大概功能如图
 
-![APM1](https://bu.dusays.com/2024/01/21/65acdaab430dc.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acdaab430dc.webp "APM1")
 
-![APM2](https://bu.dusays.com/2024/01/21/65acdab83b4bc.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acdab83b4bc.webp "APM2")
 
-![APM3](https://bu.dusays.com/2024/01/21/65acdac2afc19.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acdac2afc19.webp "APM3")
 
-![APM4](https://bu.dusays.com/2024/01/21/65acdace56d9b.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acdace56d9b.webp "APM4")
 
-![APM5](https://bu.dusays.com/2024/01/21/65acdad986f49.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acdad986f49.webp "APM5")
+
 
 ::: 
 

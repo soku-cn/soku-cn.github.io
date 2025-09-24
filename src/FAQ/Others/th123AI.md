@@ -61,15 +61,15 @@ https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/th123ai.zip
 
 打开后他会询问 th123.exe 即游戏主程序
 
-![询问th123.exe的时候，可以直接点击地址栏箭头这里的 th123 文件夹](https://bu.dusays.com/2024/01/21/65acc340bd37c.webp =900x)
+![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acc340bd37c.webp "询问th123.exe的时候，可以直接点击地址栏箭头这里的 th123 文件夹")
 
-![再双击 th123.exe 即是游戏主程序](https://bu.dusays.com/2024/01/21/65acc36aa6282.webp =900x)
+![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acc36aa6282.webp "再双击 th123.exe 即是游戏主程序")
 :::
 
 ::: info ②使用“神AI”
 **打开游戏后，确保冒出来的小黑框的标题如图显示为 Start Menu，如果不是就说明有问题，可能是错打开了 1.10 版本的神AI或者游戏**
 
-![版本匹配正常，小窗口标题栏会显示当前游戏状态](https://bu.dusays.com/2024/01/21/65acc3fddf590.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acc3fddf590.webp "版本匹配正常，小窗口标题栏会显示当前游戏状态")
 
 **正常的话，就进入 VS PLAYER 模式，注意 2P 的机签设置为AI（键位和卡组已经预设好了，键位冲突的话可以修改AI的键位）**
 

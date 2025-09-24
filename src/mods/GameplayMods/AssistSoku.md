@@ -30,9 +30,10 @@ date: 2023-08-01
 *很好玩（确信）*
 :::
 
-![](https://bu.dusays.com/2023/08/24/64e6ffe880994.gif =285x)
 
-![](https://bu.dusays.com/2023/08/24/64e6fffd49511.gif)
+![图片加载中... =285x](https://bu.dusays.com/2023/08/24/64e6ffe880994.gif " ")
+
+![图片加载中...](https://bu.dusays.com/2023/08/24/64e6fffd49511.gif " ")
 
 
 ::: info 下载与安装援助Mod
@@ -40,7 +41,8 @@ date: 2023-08-01
 **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
 :::
 
-![下载资源：mod先行版](https://bu.dusays.com/2024/01/21/65acdf98aee92.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdf98aee92.webp "下载资源：mod先行版")
+
 
 ::: info 安装mod：
 使用110A版本则（新则），

@@ -1,25 +1,88 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { componentsPlugin } from "vuepress-plugin-components";
-import { cut } from "@node-rs/jieba";
 
 export default hopeTheme({
+  // 主题选项
+  // 请参考 https://theme-hope.vuejs.press/zh/config/theme/basic.html
 
+  // 是否开启热重载
+  hotReload: true,
+  // 站点域名
   hostname: "https://wiki.514.live",
-  iconAssets: "fontawesome-with-brands",
-  // navbar
+  // 协议信息
+  license: "CC BY-NC-SA 4.0",
+  // iconAssets: "fontawesome-with-brands",
+  navbar,
+  // 是否在向下滚动时自动隐藏导航栏，"always"或"mobile"或"none"
   // navbarAutoHide: "always",
-  // sidebar
   sidebar,
-  plugins: {
+  // 右上角Github图标指向的仓库地址
+  repo: "https://github.com/soku-cn/soku-cn.github.io",
+  // 左上角图标
+  logo: "/logo-navbar.webp",
+  // 是否显示最后更新时间
+  lastUpdated: true,
+  // 是否显示页面贡献者
+  contributors: true,
+  // 是否显示编辑此页链接
+  editLink: false,
+  // 文章信息显示
+  pageInfo: false,
+  // 是否显示Copyright信息
+  displayFooter: true,
+  // 左上角文字，设置为""来留空
+  navbarTitle:"天则指南",
+  // 是否显示更新历史
+  changelog: true,
 
-    searchPro: {
-      indexContent: true,
-      indexOptions: {
-        tokenize: (text, fieldName) => fieldName === "id" ? [text] : cut(text, true),
-      },
-    },
+  titleIcon: true,
+
+  // 使用GithubPages及非中国大陆服务器部署时，无需显示此备案号
+  // footer: '<a href="https://beian.miit.gov.cn/">浙ICP备2023006473号</a>',
+
+
+  // "switch": 在深色模式，浅色模式和自动之间切换
+  // "toggle": 在深色模式和浅色模式之间切换
+  // "auto": 自动根据用户设备主题或当前时间决定是否应用深色模式
+  // "enable": 强制深色模式
+  // "disable": 禁用深色模式
+  darkmode: "toggle",
+
+
+  metaLocales: {
+    editLink: "在 GitHub 上编辑此页",
+  },
+
+  markdown: {
+    // 启用对齐支持
+    align: true,
+    // 启用图表支持
+    chartjs: true,
+    // 启用流程图支持
+    figure: true,
+    // 启用图片懒加载
+    imgLazyload: true,
+    // 启用图片标记
+    imgMark: true,
+    // 启用图片大小
+    imgSize: true,
+    // 启用包含支持
+    include: true,
+    mark: true,
+    // 启用mermaid支持
+    mermaid: true,
+    // 启用上标支持
+    footnote: true,
+    // 启用选项卡支持
+    tabs: true,
+    // 启用剧透支持 使用方法 !!内容!!
+    spoiler: true,
+    // 启用任务列表支持   - [x] 一些文字
+    tasklist: true,
+  },
+
+  plugins: {
 
     comment: {
       provider: "Giscus",
@@ -29,6 +92,13 @@ export default hopeTheme({
       categoryId: "DIC_kwDOLuJ96c4CesDB",
     },
 
+    search: {
+      maxSuggestions: 10,
+    },
+    
+    icon: {
+      assets: "fontawesome",
+    },
 
     components: {
       components: [
@@ -37,209 +107,50 @@ export default hopeTheme({
       ]
     },
     // All features are enabled for demo, only preserve features you need here
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      chart: true,
-      codetabs: true,
-      demo: true,
-      echarts: true,
-      figure: true,
-      flowchart: true,
-      gfm: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      katex: true,
-      mark: true,
-      mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true,
-      vuePlayground: true,
-    },
+    // mdEnhance: {
+    //   align: true,
+    //   attrs: true,
+    //   chart: true,
+    //   codetabs: true,
+    //   demo: true,
+    //   echarts: true,
+    //   figure: true,
+    //   flowchart: true,
+    //   gfm: true,
+    //   imgLazyload: true,
+    //   imgSize: true,
+    //   include: true,
+    //   katex: true,
+    //   mark: true,
+    //   mermaid: true,
+    //   playground: {
+    //     presets: ["ts", "vue"],
+    //   },
+    //   stylize: [
+    //     {
+    //       matcher: "Recommended",
+    //       replacer: ({ tag }) => {
+    //         if (tag === "em")
+    //           return {
+    //             tag: "Badge",
+    //             attrs: { type: "tip" },
+    //             content: "Recommended",
+    //           };
+    //       },
+    //     },
+    //   ],
+    //   sub: true,
+    //   sup: true,
+    //   tabs: true,
+    //   vPre: true,
+    //   vuePlayground: true,
+    // },
   },
 
-  locales: {
-    "/": {
-      navbar,
-
-      author: {
-        name: "巧克力绒",
-        url: "https://www.514.live",
-        email: "zhongzi2333@gmail.com",
-      },
-
-      logo: "/logo-navbar.webp",
-      //link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Mp-vWDZfrlFC4bRl3BBORRsmbx-i1L4n&authKey=43xVKaGVfMnGASzO7g9r6TgN2PTsmY0r%2F4w1K%2FZ1rVpDgw4GGlwWzp1Yz869HLQD&noverify=0&group_code=200803640",
-      repo: "https://github.com/soku-cn/soku-cn.github.io",
-      //repo: "https://gitee.com/soku-cn/soku-cn",
-      docsDir: "src",
-
-      // footer
-      footer: '<a href="https://beian.miit.gov.cn/">浙ICP备2023006473号</a>',
-      displayFooter: true,
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-      lastUpdated: true,
-      contributors: true,
-      editLink: false,
-      pageInfo: false,
 
 
-    },
-    "/en/": {
-      navbar: [
-        {
-          text: "About",
-          icon: "download",
-          link: "/en/about/",
-        },
-        {
-          text: "SokuLauncher (Mods Manager)",
-          icon: "file",
-          link: "/en/FAQ/update.html",
-        },
-
-        "/en/Beginners/BeforePlaying.html",
-        "/en/FAQ/Play/LobbyGuide.html",
-        "/en/mods/PracticeMods.html",
-        "/en/mods/WhatsMod.html",
-
-      ],
-
-      author: {
-        name: "巧克力绒",
-        url: "https://www.514.live",
-        email: "zhongzi2333@gmail.com",
-      },
-
-      logo: "/logo-navbar.webp",
-      //link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Mp-vWDZfrlFC4bRl3BBORRsmbx-i1L4n&authKey=43xVKaGVfMnGASzO7g9r6TgN2PTsmY0r%2F4w1K%2FZ1rVpDgw4GGlwWzp1Yz869HLQD&noverify=0&group_code=200803640",
-      repo: "https://github.com/soku-cn/soku-cn.github.io",
-      //repo: "https://gitee.com/soku-cn/soku-cn",
-      docsDir: "src",
-
-
-      // footer
-      footer: "游戏制作「上海アリス幻樂団」、「黄昏フロンティア」",
-      displayFooter: true,
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-      lastUpdated: true,
-      contributors: true,
-      editLink: true,
-      pageInfo: false,
-
-    },
-  },
 },
 
-  /*  原本的单语言 theme
-    hostname: "https://wiki.514.live",
-  
-    author: {
-      name: "巧克力绒",
-      url: "https://www.514.live",
-      email: "zhongzi2333@gmail.com",
-    },
-  
-    iconAssets: "fontawesome-with-brands",
-    logo: "/logo-navbar.webp",
-    //link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Mp-vWDZfrlFC4bRl3BBORRsmbx-i1L4n&authKey=43xVKaGVfMnGASzO7g9r6TgN2PTsmY0r%2F4w1K%2FZ1rVpDgw4GGlwWzp1Yz869HLQD&noverify=0&group_code=200803640",
-    repo: "https://github.com/soku-cn/soku-cn.github.io",
-    //repo: "https://gitee.com/soku-cn/soku-cn",
-    docsDir: "src",
-  
-    // navbar
-    navbar,
-    // navbarAutoHide: "always",
-  
-    // sidebar
-    sidebar,
-  
-    // footer
-    footer: "游戏制作「上海アリス幻樂団」、「黄昏フロンティア」",
-    displayFooter: true,
-    metaLocales: {
-      editLink: "在 GitHub 上编辑此页",
-    },
-    lastUpdated: true,
-    contributors: true,
-    editLink: false,
-    pageInfo: false,
-  
-    plugins: {
-  
-      components: {
-        components: [
-          //"BiliBili",
-          //"Badge",
-        ]
-      },
-      // You should generate and use your own comment service
-      // comment: {
-      //   provider: "Twikoo",
-      //   envId: "https://chat.514.live/",
-      // },
-  
-      // All features are enabled for demo, only preserve features you need here
-      mdEnhance: {
-        align: true,
-        attrs: true,
-        chart: true,
-        codetabs: true,
-        demo: true,
-        echarts: true,
-        figure: true,
-        flowchart: true,
-        gfm: true,
-        imgLazyload: true,
-        imgSize: true,
-        include: true,
-        katex: true,
-        mark: true,
-        mermaid: true,
-        playground: {
-          presets: ["ts", "vue"],
-        },
-        stylize: [
-          {
-            matcher: "Recommended",
-            replacer: ({ tag }) => {
-              if (tag === "em")
-                return {
-                  tag: "Badge",
-                  attrs: { type: "tip" },
-                  content: "Recommended",
-                };
-            },
-          },
-        ],
-        sub: true,
-        sup: true,
-        tabs: true,
-        vPre: true,
-        vuePlayground: true,
-      },
-    }, */
 );
+
+

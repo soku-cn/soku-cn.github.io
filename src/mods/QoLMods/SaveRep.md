@@ -26,7 +26,7 @@ SaveRep 默认开启
 - 游戏窗口被关闭时
 - 游戏崩溃时
 
-![在游戏崩溃时紧急保存Replay](https://bu.dusays.com/2024/01/21/65aceeaa51060.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65aceeaa51060.webp "在游戏崩溃时紧急保存Replay")
 
 :::
 

@@ -1,5 +1,5 @@
 ---
-title: 游戏内特效贴图消失变成一根线（已修复）
+title: 【已修复】游戏特效贴图消失
 
 # 标题
 icon: circle-info
@@ -26,7 +26,7 @@ date: 2024-03-10
 **新的 Intel CPU 核显，搭配新版本 Intel 核显的驱动程序，对非想天则这个旧游戏有 Bug**
 
 
-![如：灵梦 JA 的黄色护符特效变成一根线，早苗 C 弹星星变成一根线等](https://bu.dusays.com/2024/01/21/65acc4c45b122.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/01/21/65acc4c45b122.webp "如：灵梦 JA 的黄色护符特效变成一根线，早苗 C 弹星星变成一根线等")
 :::
 
 :::: tabs
@@ -60,7 +60,7 @@ th123.exe
 
 :::
 ::: caution 补丁的已知BUG
-**1、使用补丁后，OBS`“游戏源”`录制非想天则时会出现问题，换成`“窗口采集”`即可正常录制**
+**1、使用补丁后，OBS`"游戏源"`录制非想天则时会出现问题，换成`"窗口采集"`即可正常录制**
 
 **2、没有这个特效变成一根线 BUG 的电脑最好不要安装这个补丁，否则可能会打不开游戏，删掉`d3d9_custom.dll`就可以打开了**
 
@@ -72,10 +72,10 @@ th123.exe
 ::: tip 解决办法2（有独显）
 
 桌面右键点开 NVIDIA控制面板
-找到 “管理 3D 设置”
-点到“全局设置”标签页
-将 “首选图形处理器” 设置为 “高性能 NVIDIA 处理器”
-点击 “应用”
+找到 "管理 3D 设置"
+点到"全局设置"标签页
+将 "首选图形处理器" 设置为 "高性能 NVIDIA 处理器"
+点击 "应用"
 :::
 ::::
 
@@ -95,14 +95,14 @@ th123.exe
 > 补丁包文件：
 > 
 > - d3d9.dll: mod 加载器，加入了加载自定义 DirectX 库的支持。[d3d9 ModLoader_0.4.2 的源码](https://github.com/SokuDev/SokuMods/pull/25)
-> - d3d9_custom.dll: “自定义”的 d3d9 接口，[来自 fdossena 下载的 WineD3D](https://downloads.fdossena.com/geth.php?r=wined3dst-latest)
+> - d3d9_custom.dll: "自定义"的 d3d9 接口，[来自 fdossena 下载的 WineD3D](https://downloads.fdossena.com/geth.php?r=wined3dst-latest)
 > - wined3d.dll: 前一个文件的依赖项。[WineD3D For Windows Build Scripts 源码](https://github.com/adolfintel/wined3d4win)
 > 
 > ::: info 一些细节
 > 
 > 由于不明原因，在较新的 Intel 集显及其驱动上，微软提供的 DirectX 实现会将某些图像素材错误地渲染成一根（一些）细线。根据一些用户所说，[DXVK 可以把它们正确地渲染出来](https://community.intel.com/t5/Graphics/Iris-Xe-Graphics-doesn-t-run-DirectX-9-game-properly/m-p/1444706#M112728)。
 > 
-> DXVK 一般在 Wine 上使用（这是一个用于在类 unix 系统上运行 Windows 程序的兼容层）。在 Wine 中，我们一般用 WineD3D 或者 DXVK 而非微软的来作为 DirectX 的实现。它们也都是兼容层，即它们自己提供 DirectX API 被应用调用，而后它们会把这些 DirectX 形式的调用“翻译”成其他类型的 API 并调用之。DXVK 基于 Vulkan，WineD3D 则基于 OpenGL。（即，应用程序把 DXVK 作为 DirectX 接口调用，而 DXVK 则调用 Vulkan 来完成和对应 DirectX 调用等价的事情；WineD3D 同理。）
+> DXVK 一般在 Wine 上使用（这是一个用于在类 unix 系统上运行 Windows 程序的兼容层）。在 Wine 中，我们一般用 WineD3D 或者 DXVK 而非微软的来作为 DirectX 的实现。它们也都是兼容层，即它们自己提供 DirectX API 被应用调用，而后它们会把这些 DirectX 形式的调用"翻译"成其他类型的 API 并调用之。DXVK 基于 Vulkan，WineD3D 则基于 OpenGL。（即，应用程序把 DXVK 作为 DirectX 接口调用，而 DXVK 则调用 Vulkan 来完成和对应 DirectX 调用等价的事情；WineD3D 同理。）
 > 
 > 这些兼容层虽然是为 Wine 提供的，但实际上也是基于 Windows API 编写，理论上来说保留了对 Windows 的兼容性，因此是有可能用在 Windows 上的。于是我分别尝试了 DXVK 和 WineD3D，发现它们都能在我的 N 卡上良好运行，因此我把它们发给受 DirectX 渲染问题困扰的用户让他们测试（直接把它们在系统层面应用是有风险的，所以要配合专门为此进行了修改的非想天则 mod 加载器，来单独给非想天则加载这些库）。
 > :::
@@ -120,7 +120,7 @@ th123.exe
 > 
 > 关于性能相当的可能的解释是：Intel 对 OpenGL 的实现较好，达到了比较好的性能。（事实上，我的 N 卡上结果中，性能从好到坏依次为 DXVK、微软的实现、WineD3D，在数值上有较为明显的差别。）
 > 
-> 关于内存占用的可能的解释是：在测试中，DXVK 趋向于将素材放到显存中，而 WineD3D 则并不是这样，同时前者在“显存”中消耗的体积比后者在内存中消耗的体积更大。在集显的“显存”中分配，实际上也是动态分配并使用了内存，从而从结果来说 DXVK 占用总内存更大。
+> 关于内存占用的可能的解释是：在测试中，DXVK 趋向于将素材放到显存中，而 WineD3D 则并不是这样，同时前者在"显存"中消耗的体积比后者在内存中消耗的体积更大。在集显的"显存"中分配，实际上也是动态分配并使用了内存，从而从结果来说 DXVK 占用总内存更大。
 > 
 > :::
 :::

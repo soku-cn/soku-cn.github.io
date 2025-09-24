@@ -102,7 +102,9 @@ table th:nth-of-type(4) {
 - **压缩包里的 `giuroll` 是特制的 0.6.14b 版本的，如果使用其他版本的不知道会不会发生不同步**
 :::
 
-![[**如何开关配置mod**](/mods/WhatsMod.html) **打开 Mod： `CustomWeathers`**](https://bu.dusays.com/2024/03/25/660157b22ae86.png =550x)
+
+![图片加载中... =550x](https://bu.dusays.com/2024/03/25/660157b22ae86.png "[**如何开关配置mod**](/mods/WhatsMod.html) **打开 Mod： `CustomWeathers`**")
+
 
 ::::
 

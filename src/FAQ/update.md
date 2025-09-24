@@ -17,7 +17,7 @@ date: 2024-01-14
 
 ::: important 需要下载安装 .Net >= 4.7.2，否则代开更新器 SokuLauncher.exe 会弹窗报错
 
-![报错如图1](https://bu.dusays.com/2024/01/21/65acc1324530d.webp =400x) . ![报错如图2](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc1324530d.webp "报错如图1") . ![图片加载中... =400x](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp "报错如图2")
 
 **解决办法：下载安装 [微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
 
@@ -25,7 +25,7 @@ date: 2024-01-14
 
 ::: warning Win7用户可能遇到的问题
 
-![The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://bu.dusays.com/2025/05/02/6814549205f0b.jpg)
+![图片加载中...](https://bu.dusays.com/2025/05/02/6814549205f0b.jpg "The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.")
 
 ::: tip 解决办法
 
@@ -59,17 +59,17 @@ date: 2024-01-14
 
 - **每次打开启动器时，会自动检测现有 mod 有无更新**
 
-![此外，点这里的下载图标可以检测有无发布新 mod](https://bu.dusays.com/2024/10/26/671ca5adca22f.webp =350x)
+![图片加载中... =350x](https://bu.dusays.com/2024/10/26/671ca5adca22f.webp "此外，点这里的下载图标可以检测有无发布新 mod")
 
 - [**【如何开关配置 mod】**](/mods/WhatsMod.html)
 
 - **右键启动选项，可以编辑封面，在桌面创建快捷方式**
 
-![](https://bu.dusays.com/2024/10/26/671cae04bfcca.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671cae04bfcca.webp " ")
 
 - **可在 “设置 - 游戏路径” 页面内，设置和游戏进程组合打开的程序**
 
-![](https://bu.dusays.com/2024/10/26/671cae1ce97b8.webp =400x)
+![图片加载中 =400x](https://bu.dusays.com/2024/10/26/671cae1ce97b8.webp " ")
 
 :::
 

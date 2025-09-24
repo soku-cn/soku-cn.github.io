@@ -29,7 +29,8 @@ SokuStreaming 默认关闭
 
 还可以在对应ini内修改 css,js 等自定义布局 `（th123\Modules\SokuStreaming\SokuStreaming.ini）`
 
-![效果如图 【非想天则】舞虎杯比赛（直播录像）https://www.bilibili.com/video/BV1mm4y1Z7S5/ ](https://bu.dusays.com/2024/01/21/65acdb7f0553d.webp =800x)
+
+![图片加载中... =800x](https://bu.dusays.com/2024/01/21/65acdb7f0553d.webp "效果如图 【非想天则】舞虎杯比赛（直播录像）https://www.bilibili.com/video/BV1mm4y1Z7S5/ ")
 
 ::: warning
 **若默认的80端口冲突或游戏多开则会在打开游戏时报错，改为其他端口即可**

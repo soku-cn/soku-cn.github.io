@@ -40,9 +40,10 @@ date: 2024-08-23
 
 - **想要同时录制多个rep，请分别在每个rep文件上右键。** ==不要多选rep文件一次性右键点录制，会出现问题==
 
-![ReplayDnD 快速录制 rep 为 mp4 展示.gif](https://bu.dusays.com/2024/06/13/666ac232c75ff.gif =400x)
 
-![游戏标题栏信息，Rendering 58.0s说明已经录了58秒的视频了，@1157.6fps说明当前录制速率为将近20倍速(1200fps)](https://bu.dusays.com/2024/01/21/65acdbe7f0924.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/06/13/666ac232c75ff.gif "ReplayDnD 快速录制 rep 为 mp4 展示.gif")
+
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdbe7f0924.webp "游戏标题栏信息，Rendering 58.0s说明已经录了58秒的视频了，@1157.6fps说明当前录制速率为将近20倍速(1200fps)")
 
 ::: info ReplayDnD的Rep转mp4的特点
 1. **录制速度成倍数**，不需要像录屏软件那样一比一时间录制；（标题栏可以看到，60fps为一倍速，120fps为二倍速，以此类推）
@@ -72,8 +73,10 @@ date: 2024-08-23
 
 - **部分 Intel 系列核显可能会有“右键点 render 后如下图所示报错”的情况不能使用，原因和解决办法未知**
 
-![可能是 Intel 系列核显就会这样报错](https://bu.dusays.com/2024/06/13/666abd762ca5e.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/06/13/666abd762ca5e.png "可能是 Intel 系列核显就会这样报错")
+
 ::::
+
 
 ## 命令行脚本流水线无人值守自动录制Rep文件为1080P视频上传至B站
 

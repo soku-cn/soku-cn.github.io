@@ -40,7 +40,7 @@ date: 2023-12-08
 ### PracticeEX 功能键说明
 - 默认按 `ESC` 或`机签的暂停键`调出高级菜单
 
-![默认按 `ESC` 或`机签的暂停键，图中例子为小键盘减号`调出高级菜单](https://bu.dusays.com/2024/02/29/65e0a4e773202.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/02/29/65e0a4e773202.png "默认按 `ESC` 或`机签的暂停键，图中例子为小键盘减号`调出高级菜单")
 
 - 默认是按 `HOME` 键录制动作
 - 按 `INSERT` 键播放动作
@@ -51,7 +51,7 @@ date: 2023-12-08
 ::: tip 快捷键设置，可以查看和修改各个热键
 
 
-![切换到 `快捷键设置` 页面，可以查看和修改各个热键](https://bu.dusays.com/2024/10/26/671ca7ed905ed.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671ca7ed905ed.webp "切换到 `快捷键设置` 页面，可以查看和修改各个热键")
 :::
 
 ### 给木桩录制动作和播放
@@ -67,13 +67,9 @@ date: 2023-12-08
 红色“录制中”时，按 **录制动作键（HOME）**，就会 **结束录制并保存覆盖**，返回黑色“就绪”状态，控制 1P 角色
 红色“录制中”时，按 **播放动作键（INSERT）**，会 **结束录制而不保存**，并返回黄色“控制木桩中”状态，方便录制失误时重新录制动作
 
-![可以在“录制的动作”这一页中上下选择然后按 确认键（体术攻击键，默认是 Z） 来切换到那个动作](https://bu.dusays.com/2024/10/26/671ca7c109a7e.webp =450x)
+![图片加载中... =450x](https://bu.dusays.com/2024/10/26/671ca7c109a7e.webp "可以在“录制的动作”这一页中上下选择然后按 确认键（体术攻击键，默认是 Z） 来切换到那个动作")
 
 ### PracticeEX 已知的 BUG 注意
-<!-- 
-- ✅ ~~`不要设置随机空中受身 Random Airtech，会让游戏崩溃`~~ 
-练习模式汉化 2.1.1 版本已修复 “空中受身为Random随机时崩溃” 的 BUG，可以正常使用随机受身了 
- -->
 - ❌ **录制动作超过 100帧 的话，不要使用精简功能，否则会有无法精简且动作重复翻倍的 bug，如 110F -> 220F**
 
 - ❌ **注意在录制木桩动作操作2P的时候，不要按F7。**
@@ -94,7 +90,7 @@ F5、F6、F7在原本练习模式中就是用来给手柄2P录制重播动作的
 
 ## F8信息面板 lua mod
 
-![](https://bu.dusays.com/2025/02/12/67ac17145127f.jpg =800x)
+![图片加载中... =800x](https://bu.dusays.com/2025/02/12/67ac17145127f.jpg " ")
 
 
 ::: important 点开 SokuLauncher 启动器，先更新启动器本体，然后更新 Shady-loader，进入游戏主菜单按 F2，往下拉可以下载
@@ -130,7 +126,8 @@ remoteConfig=https://gitee.com/sanhuizhuan/SokuMods/raw/master/config.json
 
 **已取代和优化原本的 Labtool mod**
 
-![Lua Labtool (0-练习模式木桩复位和锁定)](https://bu.dusays.com/2025/04/28/680f50560aa25.jpg =640x)
+
+![图片加载中... =640x](https://bu.dusays.com/2025/04/28/680f50560aa25.jpg "Lua Labtool (0-练习模式木桩复位和锁定)")
 
 :::: info 使用说明
 
@@ -173,8 +170,6 @@ remoteConfig=https://gitee.com/sanhuizhuan/SokuMods/raw/master/config.json
 
 <!-- 
 ## Labtool（黑框）
-
-![这个黑框程序就是 Labtool mod](https://bu.dusays.com/2024/01/21/65aceba6bc3b4.webp =600x)
 
 ### Labtool 按键说明
 
@@ -272,10 +267,6 @@ remoteConfig=https://gitee.com/sanhuizhuan/SokuMods/raw/master/config.json
 
 <!-- 
 ::: details F6（已被 BetterDebug(F8) lua mod 取代）
-![F6 数据含义](https://bu.dusays.com/2024/01/21/65acec0c1ddb1.webp =600x)
-
-
-![F6 数据含义-英文](https://bu.dusays.com/2023/10/30/653e91c4c5846.png =640x)
 
 ::: details 关于"1hst"和"2hst"这个值
 
@@ -329,7 +320,8 @@ hst 是 hit state 的 缩写，暂时只知道触发和变化的规律，并不�
 
 左下角显示输入延迟，可以模拟网战环境下的输入延迟，可以在 `giuroll.ini` 内设置默认延迟，和网战一样用默认的大键盘加减号调节
 
-![按 F 接管 1P（会在左侧显示蓝色黄色的倒数条）](https://bu.dusays.com/2024/10/26/671ca78e98e01.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671ca78e98e01.webp "按 F 接管 1P（会在左侧显示蓝色黄色的倒数条）")
+
 :::
 
 ### Rep 接管使用技巧

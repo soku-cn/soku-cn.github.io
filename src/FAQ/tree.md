@@ -14,7 +14,7 @@ date: 2024-10-28
 ---
 ## 根目录
 
-![根目录](https://bu.dusays.com/2024/10/28/671fb3792143a.jpg =960x)
+![图片加载中... =960x](https://bu.dusays.com/2024/10/28/671fb3792143a.jpg "根目录")
 
 :::: info 
 
@@ -26,9 +26,6 @@ date: 2024-10-28
 
 - [非想天则 神AI 使用说明](/FAQ/Others/th123AI.html)
 
-
-
-
 <!-- @include: ../mods/WhatsMod.md#ModReset -->
 
 ::::
@@ -38,7 +35,7 @@ date: 2024-10-28
 
 - `autopunch检测-check-gui.exe`：[为什么我不支持 AutoPunch 直连](FAQ/Play/AP_NOT_Supported.html)
 
-![手册目录](https://bu.dusays.com/2024/10/28/671fb379122e6.jpg =960x)
+![图片加载中 =960x](https://bu.dusays.com/2024/10/28/671fb379122e6.jpg "手册目录")
 
 ## th123文件夹内目录
 
@@ -94,7 +91,7 @@ date: 2024-10-28
 
 ::::::
 
-![th123文件夹内目录](https://bu.dusays.com/2024/10/28/671fb3ed8c906.jpg =960x)
+![图片加载中... =960x](https://bu.dusays.com/2024/10/28/671fb3ed8c906.jpg "th123文件夹内目录")
 
 ### modules文件夹内目录
 
@@ -106,14 +103,14 @@ date: 2024-10-28
 - [**如何开关配置Mod**](/mods/WhatsMod.html)
 :::
 
-![modules文件夹内目录](https://bu.dusays.com/2024/10/29/671fb89f9a38f.jpg =960x)
+![图片加载中... =960x](https://bu.dusays.com/2024/10/29/671fb89f9a38f.jpg "modules文件夹内目录")
 
 
 
 
 ### profile文件夹内目录
 
-![profile文件夹内目录](https://bu.dusays.com/2024/10/29/671fba08445fd.jpg =960x)
+![图片加载中... =960x](https://bu.dusays.com/2024/10/29/671fba08445fd.jpg "profile文件夹内目录")
 
 :::: info 
 
@@ -126,12 +123,12 @@ date: 2024-10-28
 
 <!-- @include: ../Beginners/BeforePlaying.md#ProfileName -->
 
-::::
+
 
 
 ### th105文件夹内目录
 
 - 绯想天本体，可双击 `th105.exe` 打开
 
-![th105文件夹内目录](https://bu.dusays.com/2024/10/29/671fba9e137d8.jpg =960x)
+![图片加载中... =960x](https://bu.dusays.com/2024/10/29/671fba9e137d8.jpg "th105文件夹内目录")
 

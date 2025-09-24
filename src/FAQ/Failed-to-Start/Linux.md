@@ -95,4 +95,4 @@ Windows Registry Editor Version 5.00
 直接使用[Swarm-NG仓库](https://github.com/evshiron/swarm-ng-build/releases)的Linux发行版即可。
 
 
-![Linux Mods](https://bu.dusays.com/2024/01/21/65acf18dc1dc4.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acf18dc1dc4.webp "Linux Mods")

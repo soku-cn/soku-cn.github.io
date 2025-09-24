@@ -34,7 +34,9 @@ date: 2023-08-01
 
 ::: tip 开了则2的人可以和没开则2的人可以互相联机，不会有影响
 
-![可与原版角色共存，联机也可以和原版互相兼容，无任何副作用](https://bu.dusays.com/2024/01/21/65acdfd88c374.webp =600x)
+
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acdfd88c374.webp "可与原版角色共存，联机也可以和原版互相兼容，无任何副作用")
+
 
 
 - 芙的QQ群 868670497
@@ -55,7 +57,8 @@ date: 2023-08-01
 ::: info 安装步骤1-下载
 **在已经下载了“新则”的前提下，**[**可以在我的网盘内下载则2**](/about/)
 
-![联机注意双方的 则2 版本要一样](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png =500x)
+
+![图片加载中... =500x](https://bu.dusays.com/2023/08/20/64e21c0c42ae2.png "联机注意双方的 则2 版本要一样")
 
 
 
@@ -78,7 +81,8 @@ date: 2023-08-01
 
 [**如何开关配置mod**](/mods/WhatsMod.html)
 
-![](https://bu.dusays.com/2024/05/18/664887ef99485.png =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/05/18/664887ef99485.png " ")
+
 
 
 ::: caution 不要打开SOKU2_NEW.dll，否则可能会发生打完决着时崩溃的情况
@@ -97,9 +101,10 @@ date: 2023-08-01
 
 [**shady-loader 使用方法传送门**](/mods/DIY/Shady-loader.html)
 
-![shady-loader加载](https://bu.dusays.com/2024/01/21/65ace0b1039bf.webp =400x)
 
-![则2汉化](https://bu.dusays.com/2024/01/21/65acecaeb75a3.webp =600x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65ace0b1039bf.webp "shady-loader加载")
+
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acecaeb75a3.webp "则2汉化")
 
 :::
 
@@ -124,6 +129,6 @@ date: 2023-08-01
 
 ::: warning 注意Touhoumon这个选人菜单mod和则2会冲突，但是不影响游玩
 
-![注意Touhoumon这个选人菜单mod和则2会冲突，但是不影响游玩](https://bu.dusays.com/2024/01/21/65ace045c26e1.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65ace045c26e1.webp "注意Touhoumon这个选人菜单mod和则2会冲突，但是不影响游玩")
 
 :::

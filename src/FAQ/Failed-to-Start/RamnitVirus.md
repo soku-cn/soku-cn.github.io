@@ -16,7 +16,7 @@ date: 2023-07-22
 
 ::: info 插件弹出```CheckVersion Failed```错误弹窗，无法正常运行
 
-![CheckVersion Failed报错示例图片](https://bu.dusays.com/2024/01/21/65acc908325c9.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc908325c9.webp "CheckVersion Failed报错示例图片")
 
 ::: warning
 **关闭所有弹窗，看游戏是否运行，如果游戏标题显示是1.10版本则是游戏版本问题；否则很有可能是感染了病毒（不是下载的整合包有毒，是电脑上原先就感染了病毒，下载整合包后先前的病毒感染了整合包）**
@@ -40,10 +40,10 @@ https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd
 - **正常110A游戏主程序大小是4704KB，不符合就是中毒被修改了**
 
 
-![病毒文件示例图片](https://bu.dusays.com/2024/01/21/65acc9429ad1f.webp =380x)
+![图片加载中... =380x](https://bu.dusays.com/2024/01/21/65acc9429ad1f.webp "病毒文件示例图片")
 
 
-![左边4764KB就是被病毒感染了，右边4704KB才是正常大小](https://bu.dusays.com/2024/01/21/65acc99c5fb30.webp =870x)
+![图片加载中... =870x](https://bu.dusays.com/2024/01/21/65acc99c5fb30.webp "左边4764KB就是被病毒感染了，右边4704KB才是正常大小")
 
 :::
 
