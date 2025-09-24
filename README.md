@@ -1,8 +1,10 @@
 # 「非想天则指南」
-## 中国「东方非想天则」社区最大的中文指南✨
-## Chinese community Biggest Wiki for "Touhou 12.3 Hisoutenoku"✨
+## 中文社区「东方非想天则」游戏指南✨
+## Chinese community Wiki for "Touhou 12.3 Hisoutenoku"✨
 
 [简体中文](./README.md)
+[English](./README_EN.md)
+[日本語](./README_JP.md)
 
 ---
 
@@ -24,7 +26,7 @@
 [![QQ](https://img.shields.io/badge/QQ_Group-200803640-0078D6.svg?logo=tencent-qq&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
 
-Discord: @ChocoFleece @Tstar00
+**Discord: @ChocoFleece @Tstar00**
 
 「非想天则指南」仍在活跃开发中，欢迎感兴趣、想了解动态、想帮忙建设的朋友加入
 
@@ -44,7 +46,10 @@ git clone https://github.com/soku-cn/soku-cn.github.io.git
 
 ```
 cd soku-cn.github.io
-pnpm install  #pnpm install --strict-peer-dependencies #如果出现问题
+pnpm install  
+
+# pnpm install --strict-peer-dependencies 
+# 如果你遇到问题，可以尝试这一条
 ```
 
 ~~~
@@ -67,7 +72,6 @@ pnpm vuepress dev src
 pnpm dlx vp-update
 ```
 
-需要解决升级有可能导致的相关问题，否则本指南不会进行版本升级。
 
 ---------------------------------------------------------
 

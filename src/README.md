@@ -8,7 +8,7 @@ heroImageDark: /logo.webp
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 heroText: 非想天则指南
-tagline: 中国「东方非想天则」社区最大的中文指南
+tagline: 中文社区「东方非想天则」游戏指南
 
 # <br> <span style="font-weight:bold;"><em><font size=3>封面图由麻薯雅典娜(QQ 1701273028)绘制💖</font><br>
 
