@@ -3,9 +3,9 @@
 
 [简体中文](./README.md)
 [English](./README_EN.md)
->English is not currently supported on this site. Please use a translation tool to view the content, or see the contact information below.
 [日本語](./README_JP.md)
 
+>English is not currently supported on this site. Please use a translation tool to view the content, or see the contact information below.
 ---
 
 - **Recommended:** [Automatic Source Selection](https://wiki.514.live/) automatically selects the fastest-loading source.
