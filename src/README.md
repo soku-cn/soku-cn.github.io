@@ -20,7 +20,7 @@ actions:
     type: primary
 
   - text: 大厅实时对战列表
-    link: https://list.th123.uno
+    link: /about/lobby
 
   - text: DeepWiki AI分析本站
     link: https://deepwiki.com/soku-cn/soku-cn.github.io
