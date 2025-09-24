@@ -28,7 +28,7 @@ date: 2024-03-01
 
 @tab 情况一：没有正确使用 Swarm
 
-![](https://bu.dusays.com/2024/01/21/65acafbf35591.webp =x64)
+![图片加载中...  =x64](https://bu.dusays.com/2024/01/21/65acafbf35591.webp " ")
 
 对手 ==**没正确使用 swarm 建主**==，所以你进不去他
 
@@ -41,11 +41,13 @@ date: 2024-03-01
 
 @tab 情况二：双方版本不同
 
-![](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acb0ebcf925.webp " ")
 
-![1、检查游戏标题的 giuroll 版本，giuroll，且 CN 结尾](https://bu.dusays.com/2025/01/03/6777c5d33d007.jpg =500x)
+![图片加载中... =500x](https://bu.dusays.com/2025/01/03/6777c5d33d007.jpg "1、检查游戏标题的 giuroll 版本，giuroll，且 CN 结尾")
 
-![2、点击 `[修复]【 重置 Mod 配置 】.bat`](https://bu.dusays.com/2025/01/03/6777c9535edb7.jpg =280x)
+
+![图片加载中... =280x](https://bu.dusays.com/2025/01/03/6777c9535edb7.jpg "2、点击 `[修复]【 重置 Mod 配置 】.bat`")
+
 
 ::: tip 
 
@@ -61,18 +63,19 @@ date: 2024-03-01
 
 @tab 情况三：弹窗“Failed to get public IP”
 
-![Failed to get public IP](https://bu.dusays.com/2024/01/21/65acb17f3c9bb.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acb17f3c9bb.webp "Failed to get public IP")
+
 
 意思是服务器无法获取你的公网IP（没使用 swarm 的情况下）
 
 ::: tip 解决办法
 1、在这里点开大厅的 ini 配置文件  `th123/modules/SokuLobbiesMod/SokuLobbies.ini`
 
-![](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acb227de9a8.webp " ")
 
 2、把 `https://api-ipv4.ip.sb/ip` 的句首的分号删掉，把 `http://www.sfml-dev.org/ip-provider.php` 的句首加上英文分号，然后保存并重开游戏
 
-![把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号](https://bu.dusays.com/2024/01/21/65acb240ef91e.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acb240ef91e.webp "把 ipv4.sb 的句首的分号删掉，把 sfml-dev 的句首加上英文分号")
 
 
 > 大厅获取用户IP的网址，默认用第一个 `http://www.sfml-dev.org/ip-provider.php` ，
@@ -81,7 +84,7 @@ date: 2024-03-01
 
 ## 一进大厅就掉了
 
-![](https://bu.dusays.com/2024/10/26/671caac7893bd.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671caac7893bd.webp " ")
 
 一般是因为你的机签名字有问题，不要使用默认的 profile1p 机签名字，改名然后重新进大厅
 
@@ -99,7 +102,7 @@ date: 2024-03-01
 - 发表情是用`两个冒号中间夹着名字和数字`的格式，如 `:reimu1:` （见图1）
 - 大厅菜单，选择最后一项：统计，统计界面可以查看网络对战中（不管是否通过大厅，只要是网战就都会记录下来）自己的局数、胜率、卡片携带率、卡片使用率等数据
 
-![图 1：表情文件在这里查看文件 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acb2edc1742.webp "图 1：表情文件在这里查看文件 `th123\Modules\SokuLobbiesMod\assets\emotes\list.json`")
 
 
 ## 全开档解锁
@@ -110,10 +113,9 @@ date: 2024-03-01
 
 - 全开档文件遗失了的话可以点这里 [下载 achievements_cheated-全开档.dat](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/achievements_cheated-%E5%85%A8%E5%BC%80%E6%A1%A3.dat)
 
-![如图，先关掉游戏，手动删除原先的achievements.dat文件，然后把achievements_cheated.dat改名为achievements.dat，再打开游戏，即可解锁全开档](https://bu.dusays.com/2024/05/05/66377cc681625.png =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/05/05/66377cc681625.png "如图，先关掉游戏，手动删除原先的achievements.dat文件，然后把achievements_cheated.dat改名为achievements.dat，再打开游戏，即可解锁全开档")
 
-![**注意用全开档后就不能查看成就页面了**](https://bu.dusays.com/2024/10/26/671c931693f9a.webp =300x)
-
+![图片加载中... =300x](https://bu.dusays.com/2024/10/26/671c931693f9a.webp "**注意用全开档后就不能查看成就页面了**")
 
 
 ## 修改聊天框热键
@@ -143,10 +145,6 @@ AcceptHostlist=1
 ; 设置为 0 则只允许大厅内连接对战，无法通过 IP 进入
 ```
 
-<!-- 
-![](https://bu.dusays.com/2024/10/26/671cab0e0746e.webp =400x)
-![大厅的ini配置](https://bu.dusays.com/2024/10/26/671c9eea7f5d8.webp =800x) 
--->
 
 @tab 方法二
 ::: tip
@@ -166,20 +164,18 @@ AcceptHostlist=1
 
 或者运行 `[修复]【 重置 Mod 配置 】.bat`
 
-![删除 settings.dat 文件](https://bu.dusays.com/2024/01/21/65acb47068f41.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/01/21/65acb47068f41.webp "删除 settings.dat 文件")
 
 :::
 
 ## Network 弹窗报错 SokuLobbyError: Cannot load stats.dat Invalid magic
-<!-- 
-![报错如图 Cannot load stats.dat Invalid magic](https://bu.dusays.com/2024/01/21/65acb37ad836f.webp =400x)
- -->
+
 ::: info  解决办法
 
 看图中文件夹路径，点到 `th123/modules/SokuLobbiesMod` 文件夹内，
 删除 `stats.dat`文件，然后将你的 `stats.dat.backup` 备份文件给改名为 `stats.dat`，实现备份恢复
 
-![](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/05/25/66515b2e32b6e.png " ")
 
 :::
 
@@ -198,17 +194,13 @@ AcceptHostlist=1
 :::
 
 
-
-
 ## 大厅进不去，卡加载，红字 Unknown exception
 
-![大厅房间进不去，卡加载，"Unknown exception"报错](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp "大厅房间进不去，卡加载，\"Unknown exception\"报错")
 
 ==**按键盘 S 键，可以切换 原版菜单/大厅，换回原版菜单用 IP 玩**==
 
 这是因为大厅主服务器炸了，过一段时间会自动恢复
-
-
 
 
 
@@ -221,14 +213,8 @@ AcceptHostlist=1
 
 
 
-
-
 ## 除了 Public Lobby，国内大厅房间红色无法连接
 说明你被 ban 了，可能是挂机临时 ban，也可能是蹲起鞭尸等永久 ban，加 QQ 1434716883 说明情况（机签名字、IP 等）
-
-<!-- ![](https://bu.dusays.com/2024/10/26/671c98c41f5da.webp =600x)
- -->
-
 
 
 ## 大厅内如何观战
@@ -243,18 +229,15 @@ AcceptHostlist=1
 :::
 
 
-
 （需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
 
-![Hisouten Discord 服务器上的 Hostlist](https://bu.dusays.com/2024/10/26/671caa8bdd47f.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671caa8bdd47f.webp "Hisouten Discord 服务器上的 Hostlist")
 
 源链接 <https://konni.delthas.fr/games>
 
 <!-- 
 
 ::: details （不需要梯子，纯文本）在此网页中 Ctrl F 搜索 started，每一行是一条信息
-
-
 
 <iframe
   src="https://konni.delthas.fr/games" title="Hostlist-文本" width="90%" height="280vh" loading="lazy"
@@ -267,13 +250,13 @@ AcceptHostlist=1
 @tab 大厅内的特殊机子
 不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战，不过人太多时底下看不到
 
-![大门口右边这个特殊机子](https://bu.dusays.com/2024/10/26/671caaa262c3e.webp =400x)  ![](https://bu.dusays.com/2024/10/26/671caaa3f2c45.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671caaa262c3e.webp "大门口右边这个特殊机子")  ![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671caaa3f2c45.webp " ")
 
 ::::
 
 ## 非中文系统开游戏时弹窗 Sokulobby Eoor
 
-![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =350x)
+![图片加载中... =350x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文")
 
 ::: tip 解决方法
 
@@ -289,22 +272,19 @@ AcceptHostlist=1
 :::
 
 ## 建主或进别人时提示端口冲突，我进去大厅发现已经有一个我，然后自己的ID后面多了个0
-<!-- 
-![开任务管理器清理后台卡死的进程](https://bu.dusays.com/2024/01/21/65acef915315e.webp =400x)
- -->
 
 这是因为你之前的则刚好卡死崩溃黑屏等，此时关掉窗口并不会实际关闭游戏，游戏进程th123.exe依然残留在电脑后台
 ::: tip 解决办法
 双击 `[修复]【 强制结束游戏进程 th123.exe 】.bat` 就可以清除所有 `th123.exe` 游戏进程
 
-![](https://bu.dusays.com/2024/01/21/65acefd479761.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acefd479761.webp " ")
 
 :::
 
 
 ## 选人界面这个对话框怎么关掉
 
-![](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp =300x)
+![图片加载中... =300x](https://bu.dusays.com/2024/01/21/65acf01c835a3.webp " ")
 
 
 选人界面会显示不会消失，不用理它，选完地图进入对战就会消失了

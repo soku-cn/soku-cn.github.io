@@ -22,14 +22,16 @@ CharactersInForeground 默认开启
 
 可以配合 MemoryPatch 中的屏蔽天气特效一起使用
 
-![角色不会被血条等遮挡](https://bu.dusays.com/2024/01/21/65acedc3725a7.webp =400x)
+
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acedc3725a7.webp "角色不会被血条等遮挡")
 
 :::
 
 ::: warning
 **注意，人物置顶后会遮挡伤害数据面板，看不清 HIT 数和 Limit 等，介意的话可以关闭此插件**
 
-![角色挡住了伤害数据面板，看不清 HIT 数和 Limit 等](https://bu.dusays.com/2024/01/21/65acedcedcc96.webp =200x)
+![图片加载中... =200x](https://bu.dusays.com/2024/01/21/65acedcedcc96.webp "角色挡住了伤害数据面板，看不清 HIT 数和 Limit 等")
+
 
 :::
 

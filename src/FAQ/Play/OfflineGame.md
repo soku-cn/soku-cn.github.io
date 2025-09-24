@@ -23,7 +23,8 @@ date: 2025-07-27
 ::: caution 注意，线下联机进入 NETWORK 后，按 S 键退出大厅界面切换回原版菜单
 
 
-![按 S 键切换回原版菜单，或者关掉大厅 SokuLobbies Mod](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp "按 S 键切换回原版菜单，或者关掉大厅 SokuLobbies Mod")
+
 
 :::
 
@@ -37,7 +38,8 @@ date: 2025-07-27
 
 按 `Win+S` 快捷键，搜索并打开 控制面板
 
-![关闭防火墙](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp =900x)
+![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp "关闭防火墙")
+
 
 :::
 
@@ -62,11 +64,11 @@ date: 2025-07-27
 > [!caution]
 > **切记！线下打完了以后，记得要 ==把 “手动设置 IP” 改回“自动获取 IP”，否则会无法联网==**
 
-![以太网，也叫本地连接](https://bu.dusays.com/2024/10/26/671caa614d79e.webp =800x)
+![图片加载中... =800x](https://bu.dusays.com/2024/10/26/671caa614d79e.webp "以太网，也叫本地连接")
 
-![手动设置 IP](https://bu.dusays.com/2024/01/21/65acbc2fa7e61.webp =800x)
+![图片加载中... =800x](https://bu.dusays.com/2024/01/21/65acbc2fa7e61.webp "手动设置 IP")
 
-![线下联机用这个选项更方便，如果是线上用 swarm 玩则不要用这个方式](https://bu.dusays.com/2024/10/26/671c9c9780941.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/10/26/671c9c9780941.webp "线下联机用这个选项更方便，如果是线上用 swarm 玩则不要用这个方式")
 
 
 <!--  @tab 方法一：通过网线直连两台电脑玩游戏
@@ -103,7 +105,8 @@ date: 2025-07-27
 
 - 如图，若 A电脑的 IP 显示为 `192.168.31.121` 使用默认 `10800` 端口建立主机，那么 B电脑就可以使用 `192.168.31.121:10800` 来连接 A电脑
 
-![ipconfig 查看本机IP](https://bu.dusays.com/2024/01/21/65acbede3a8ff.webp =800x)
+![图片加载中... =800x](https://bu.dusays.com/2024/01/21/65acbede3a8ff.webp "ipconfig 查看本机IP")
+
 
 
 
@@ -118,7 +121,7 @@ date: 2025-07-27
 
 - 详细的还可以看我 [**2V2 说明里的部分**](https://docs.qq.com/aio/p/sckx6x9a9t2qquv)
 
-![KeyboardSplitter 模拟键盘使用方法.gif](https://bu.dusays.com/2024/04/05/660f77d6974cf.gif =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/04/05/660f77d6974cf.gif "KeyboardSplitter 模拟键盘使用方法.gif")
 
 > 使用说明和参考：
 > [《格斗游戏本地键盘双人，多个键盘分别模拟多个控制器，KeyboardSplitter 软件使用演示 Keyboard Splitter Xbox](https://www.bilibili.com/video/BV1hT411h7uw/)

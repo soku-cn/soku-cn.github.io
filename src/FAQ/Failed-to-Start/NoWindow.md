@@ -20,7 +20,7 @@ date: 2023-07-23
 @tab 方法一
 ::: tip 关闭游戏，双击重置窗口的 bat 即可
 
-![关闭游戏，双击重置窗口的 bat ](https://bu.dusays.com/2024/10/26/671cac2eb6a99.webp =900x)
+![图片加载中... =900x](https://bu.dusays.com/2024/10/26/671cac2eb6a99.webp "关闭游戏，双击重置窗口的 bat ")
 
 
 @tab 方法二（手动）
@@ -28,7 +28,7 @@ date: 2023-07-23
 关闭游戏，打开 ```th123/modules/WindowResizer/WindowResizer.ini``` 
 
 
-![WindowResizer设置示例](https://bu.dusays.com/2024/01/21/65accae5e37fe.webp =450x)
+![图片加载中... =450x](https://bu.dusays.com/2024/01/21/65accae5e37fe.webp "WindowResizer设置示例")
 
 :::
 

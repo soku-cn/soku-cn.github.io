@@ -17,7 +17,7 @@ date: 2023-07-22
 ## 一、开游戏时弹窗 Sokulobby Eoor
 ::: info 
 
-![非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文")
 
 开游戏时弹窗 Sokulobby Eoor，很可能是因为游戏系统语言不是简体中文，而游戏路径内包含中文汉字
 ::: tip 解决方法
@@ -33,16 +33,16 @@ date: 2023-07-22
 ## 二、游戏文件名和游戏标题显示乱码，进改卡界面和游戏界面就崩溃
 ::: info 
 
-![乱码状况如图1](https://bu.dusays.com/2024/10/26/671cac5b2100d.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671cac5b2100d.webp "乱码状况如图1")
 
-![乱码状况如图2](https://bu.dusays.com/2024/01/21/65acc81f57d85.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc81f57d85.webp "乱码状况如图2")
 
 
 ::: tip 乱码解决办法
 
 **更改设置后需要重启电脑**
 
-![乱码解决办法](https://bu.dusays.com/2024/01/21/65acc87b15b39.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acc87b15b39.webp "乱码解决办法")
 
 :::
 

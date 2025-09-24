@@ -42,7 +42,7 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 > ::: tip Palette-picker法
 > [**Mod说明：改色管理 - palette-picker**](mods/AdvancedMods/palette-picker.html)
 > 
-> ![Palette-picker使用效果如图](https://bu.dusays.com/2024/01/21/65acddebbe890.webp =400x)
+> ![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acddebbe890.webp "Palette-picker使用效果如图")
 > 
 > @tab th123c.dat 解包封包古法
 > ::: tip th123c.dat 解包封包古法
@@ -60,7 +60,7 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 > 
 > **把 `data` 文件夹或者 `character` 文件夹之类的改个名，即可破坏这种导入方式以取消导入**
 > 
-> ![成品就这样，注意路径文件夹角色名是否正确，pal文件命名格式是否正确，是否是游戏和编辑器可以读取的格式](https://bu.dusays.com/2023/09/13/6500902380b28.png =800x)
+> ![图片加载中... =800x](https://bu.dusays.com/2023/09/13/6500902380b28.png "成品就这样，注意路径文件夹角色名是否正确，pal文件命名格式是否正确，是否是游戏和编辑器可以读取的格式")
 > 
 > 
 > - `palette000.pal` 对应 **第一个** 配色位
@@ -109,9 +109,7 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 
 ::: info 下载 FramedataEditor（FDE）编辑器并使用改色功能
 - [**网盘内下载 FDE，压缩包内有简单操作说明**](/about/#非想天则资源下载指路) 
-    ②其他非想天则相关资源 > 游戏素材、mod 工具 > 工具包 > FDE编辑器 >
-
-<!-- ![下载mod工具](https://bu.dusays.com/2024/01/21/65acdd09285ee.webp =320x) -->
+    ②其他非想天则相关资源 > 游戏素材、mod 工具 > 工具包 > FDE编辑器 >
 
 ::: warning
 **首次打开会提示选择游戏 th123c.dat 数据位置**
@@ -135,9 +133,9 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 **正常你会导出得到一个513字节的文件（Alt+双击 或者 右键-属性，查看文件大小）**
 此文件可以支持再次导入FDE编辑器编辑，或者直接导入游戏使用，不需要再进行什么转化。
 
-![如图，改色完成，左上角导出得到 pal 文件](https://bu.dusays.com/2024/01/21/65acdf0948973.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdf0948973.webp "如图，改色完成，左上角导出得到 pal 文件")
 
-![导入进游戏内的效果](https://bu.dusays.com/2024/01/21/65acdf265b777.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdf265b777.webp "导入进游戏内的效果")
 :::
 
 
@@ -150,7 +148,7 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 
 **用法是将未转化的pal文件拖入其上**，转化后的文件可以导入FDE编辑，也可以导入游戏内使用
 
-![新工具 Shady-Packer](https://bu.dusays.com/2024/03/01/65e158e8763d5.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/03/01/65e158e8763d5.png "新工具 Shady-Packer")
 :::
 
 ## 4.convpal-true 转化工具和 true-color-palettes 的插件可搭配制作带透明度的配色
@@ -160,9 +158,9 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 
 我暂时还不会制作，但是可以去问，如果有人想做的话可以在mod群里找我，我再去问问看怎么做
 
-![半透明妖梦配色](https://bu.dusays.com/2024/01/21/65acde92efe8b.webp =200x)
+![图片加载中... =200x](https://bu.dusays.com/2024/01/21/65acde92efe8b.webp "半透明妖梦配色")
 
-![半透明妖梦配色2](https://bu.dusays.com/2024/01/21/65acdeda97f8c.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/01/21/65acdeda97f8c.webp "半透明妖梦配色2")
 
 ## 5.已知问题
 
@@ -171,7 +169,7 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 **解决方法二选一：**
 
 1、不要用 Palette-Picker mod
-    - **无 Palette-Picker 法不能加载大于 513字节 的 pal 文件，如透明配色等**
+    - **无 Palette-Picker 法不能加载大于 513字节 的 pal 文件，如透明配色等**
 
 2、用诸如 `HxD Hex Editor` 之类的16进制编辑器打开 515字节 的那个 pal 配色文件，删掉末尾的两个字节（如FF两个字母代表一个字节）
 
@@ -187,11 +185,11 @@ BUG注意：FDE本体、则、pat文件、pal文件等放在**纯英文路径**�
 素材文件夹可以是包含文件夹层级 `data/character/reisen/xxxxx.png` 格式的文件夹，
 也可以是包含按 shady-loader 格式命名的文件 `data_character_reisen_xxxxx.png` 的文件夹
 
-![settings 内导入额外素材文件夹](https://bu.dusays.com/2024/10/26/671c956eebfd8.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671c956eebfd8.webp "settings 内导入额外素材文件夹")
 
 导入后，就可以使用并预览其内的素材资源了
 
-![导入额外素材后的效果，铃仙眼睛多出来了索引配色](https://bu.dusays.com/2024/10/26/671c956f1d105.webp =800x)
+![图片加载中... =800x](https://bu.dusays.com/2024/10/26/671c956f1d105.webp "导入额外素材后的效果，铃仙眼睛多出来了索引配色")
 
 :::
 
@@ -216,9 +214,3 @@ https://discord.com/channels/167593473854144512/253944555831820288/8929118462548
 - Aseprite（贴吧内下载）
 
 :::
-
-
-
-
-
-

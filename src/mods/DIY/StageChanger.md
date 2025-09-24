@@ -22,5 +22,6 @@ date: 2024-01-07
 2、看图
 3、最终按加号保存，就会有一个 stage 文件夹，里面就是对应文件，打包成 zip 压缩包就可以用 shady-loader 加载了 
 
-![StageChanger使用方法](https://bu.dusays.com/2024/01/21/65acdf568cd57.webp =900x)
+
+![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acdf568cd57.webp "StageChanger使用方法")
 :::

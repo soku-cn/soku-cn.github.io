@@ -26,24 +26,24 @@ date: 2023-08-01
 
 或者[下载 autopunch检测-check-gui.exe](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/autopunch%E6%A3%80%E6%B5%8B-check-gui.exe)
 
-![](https://bu.dusays.com/2024/02/28/65defee74c6b5.png =300x)
+![图片加载中 =300x](https://bu.dusays.com/2024/02/28/65defee74c6b5.png " ")
 
 ::: tabs
 
 @tab 重新检测
 **如果是这样是检测失败，就再试一次**
 
-![再试一次](https://bu.dusays.com/2024/01/21/65aca10f90429.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65aca10f90429.webp "再试一次")
 
 @tab 支持AP
 **是这样就说明 支持AP**
 
-![AP Supported 支持AP](https://bu.dusays.com/2024/01/21/65aca1919e2f4.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65aca1919e2f4.webp "AP Supported 支持AP")
 
 @tab 不支持AP
 **是这样就说明 不支持AP**
 
-![AP NOT Supported 不支持AP](https://bu.dusays.com/2024/01/21/65aca16127d2a.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65aca16127d2a.webp "AP NOT Supported 不支持AP")
 
 :::
 
@@ -59,9 +59,9 @@ date: 2023-08-01
 
 5、大厅可以修改这个10800，比如改成10801，保存即可，不需要重开游戏
 
-![点开这个 SokuLobbies.ini](https://bu.dusays.com/2024/01/24/65b1333e9f810.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/24/65b1333e9f810.png "点开这个 SokuLobbies.ini")
 
-![修改这个10800，比如改成10801，保存即可，不需要重开游戏](https://bu.dusays.com/2024/01/24/65b1333ec7ebc.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/24/65b1333ec7ebc.png "修改这个10800，比如改成10801，保存即可，不需要重开游戏")
 
 
 :::
@@ -86,11 +86,11 @@ date: 2023-08-01
 ::: info 查看自己网络环境的路由线路
 按win+r然后粘贴这个运行   ```cmd /k tracert -4 -d -h 6 baidu.com```
 
-![此示例中，他有两个路由器`（192.168.88.1 和 192.168.1.1）`和一个光猫（天翼网关）`（100.xxx）`](https://bu.dusays.com/2024/01/21/65aca2c7b2cc4.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65aca2c7b2cc4.webp "此示例中，他有两个路由器`（192.168.88.1 和 192.168.1.1）`和一个光猫（天翼网关）`（100.xxx）`")
 
 再输入 `ipconfig` ，找到 **“以太网适配器 本地连接”**，可查看本机内网 IP 并再次确认自己电脑的 **上级路由器（默认网关）**
 
-![示例中本机内网 IPv4 地址为`192.168.88.4`，默认网关（路由器）为`192.168.88.1`](https://bu.dusays.com/2024/01/21/65aca347da187.webp =600x)
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65aca347da187.webp "示例中本机内网 IPv4 地址为`192.168.88.4`，默认网关（路由器）为`192.168.88.1`")
 
 ::: tabs
 @tab 第一种办法（通过光猫上网）
@@ -98,7 +98,7 @@ date: 2023-08-01
 
 根据上面得到的 **默认网关**，在浏览器地址栏中输入并回车（**注意别变成百度搜索这个IP了**）
 
-![我的默认网关是 192.168.2.1，路由器后台，有的人是光猫拨号（账号和密码在设备底下一般有贴）](https://bu.dusays.com/2024/01/21/65acab1ad1174.png =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acab1ad1174.png "我的默认网关是 192.168.2.1，路由器后台，有的人是光猫拨号（账号和密码在设备底下一般有贴）")
 
 先不需要登陆，确保连接后电脑能上网，然后再次做上面的 `tracert` 与 `ipconfig` 这两条命令进行确认，同时进行AP检测，一般是可以支持的了
 
@@ -107,17 +107,17 @@ date: 2023-08-01
 
 顺便比对品牌和网线确认电脑是连接到哪个路由器，默认账号密码应该在路由器上有贴，登陆后进入后台
 
-![示例，成功登陆路由器后台](https://bu.dusays.com/2024/01/21/65acac7ea8d64.webp =700x)
+![图片加载中... =700x](https://bu.dusays.com/2024/01/21/65acac7ea8d64.webp "示例，成功登陆路由器后台")
 
 
 接下来找到并**打开 UPnP 设置，设置 NAT端口转发或虚拟服务器，协议选择UDP或者BOTH, ALL**，输入自己的本机内网IP（在 ipconfig 里查看）
 
-![路由器一般都有这些设置，光猫如果不是超级管理员账号登陆可能没有](https://bu.dusays.com/2024/01/21/65acad7a27a86.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acad7a27a86.webp "路由器一般都有这些设置，光猫如果不是超级管理员账号登陆可能没有")
 
 设置完毕后再进行AP检测，可能有效，也可能无效。**还是无效就算了放弃吧**
 
 有效的话，在DHCP设置里给自己的电脑（根据内网IP判断哪个设备是自己的电脑）设置静态保留内网IP，这是为了防止每次重启网络后电脑的内网IP变化，之后应该就没什么问题了
 
-![不同设备的设置界面关键词可能不一样，**DHCP，静态，保留**](https://bu.dusays.com/2024/01/21/65acadf03cbc1.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acadf03cbc1.webp "不同设备的设置界面关键词可能不一样，**DHCP，静态，保留**")
 
 :::

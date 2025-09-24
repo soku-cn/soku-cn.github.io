@@ -174,9 +174,9 @@ next: false
 ::::
 
 
-## **网站主要志愿者** 
+## **贡献者名单** 
 
-::: info 感谢国内外各路前辈与朋友，Mod工具与祖传chm攻略
+::: info 感谢国内外各路前辈与朋友的付出！
 
 
 - [巧克力绒 Github主页](https://github.com/ChocoFleece)  [个人博客](https://514.live/) 网站站长，旧启动器作者，新启动器帮助，Linux帮助 QQ 1459346474 

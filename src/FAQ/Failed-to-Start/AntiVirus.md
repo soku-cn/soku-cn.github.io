@@ -54,7 +54,7 @@ date: 2024-10-25
 
 **图片请手动点击放大查看**
 
-![1 火绒隔离.jpg](https://bu.dusays.com/2024/10/26/671cad799a3ea.webp =100x) ![2 Defender 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7981bbf.webp =100x) ![3 360 隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7971659.webp =100x) ![4 腾讯管家隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x) ![5 金山毒霸隔离.jpg](https://bu.dusays.com/2024/10/26/671cad7983b75.webp =100x)
+![图片加载中... =100x](https://bu.dusays.com/2024/10/26/671cad799a3ea.webp " ") ![图片加载中... =100x](https://bu.dusays.com/2024/10/26/671cad7981bbf.webp " ") ![图片加载中... =100x](https://bu.dusays.com/2024/10/26/671cad7971659.webp " ") 
 :::
 
 ## 杀毒软件误杀示例
@@ -62,8 +62,8 @@ date: 2024-10-25
 
 mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
-![](https://bu.dusays.com/2024/10/26/671cad1e4266a.webp =x220) ![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =x220)
-![](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp =500x) ![](https://bu.dusays.com/2024/10/26/671cad1e68937.webp =500x)
+![图片加载中... =x220](https://bu.dusays.com/2024/10/26/671cad1e4266a.webp " ") ![图片加载中... =x220](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp " ")
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671cad1e4aa6e.webp " ") ![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671cad1e68937.webp " ")
 :::
 
 <!-- #region swarm-down -->
@@ -74,7 +74,7 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
 - 原因2：杀软把 Swarm 软件误杀拦截了，请添加白名单信任
 
-.　　![](https://bu.dusays.com/2024/10/26/671cacd268d1f.webp =x130)　　　　![](https://bu.dusays.com/2024/10/26/671cace3b6e37.webp =x130)
+![图片加载中... =x130](https://bu.dusays.com/2024/10/26/671cacd268d1f.webp " ")![图片加载中... =x130](https://bu.dusays.com/2024/10/26/671cace3b6e37.webp " ")
 
 
 
@@ -84,7 +84,7 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
 如果没有这个bat，[**请下载比 2024-08-04 更晚的升级包**](/about/)
 
-![也可以使用swarm-old组合启动，如果没有这个bat，请下载比 2024-08-04 更晚的升级包](https://bu.dusays.com/2024/10/26/671cacf4854a4.webp =500x)
+![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671cacf4854a4.webp "也可以使用swarm-old组合启动，如果没有这个bat，请下载比 2024-08-04 更晚的升级包")
 
 :::
 
@@ -100,9 +100,9 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
 [**下载旧版本 Swarm-old**](https://gitee.com/sanhuizhuan/SokuMods/releases/download/v1/swarm-old.zip)
 
-![](https://bu.dusays.com/2024/10/26/671cacbe5cd68.webp =400x)
+![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671cacbe5cd68.webp " ")
 
-![](https://bu.dusays.com/2024/10/26/671c9a96f29f0.webp =x400)
+![图片加载中... =x400](https://bu.dusays.com/2024/10/26/671c9a96f29f0.webp " ")
 
 @tab 2、thlink by weilinfox（桜風の狐）
 
@@ -119,7 +119,7 @@ mod 的 dll 文件提示 file does not exist，就是被杀毒软件误杀了
 
 [**详细请看其Lofter页面**](https://usaginya.lofter.com/post/1d56d69b_1c93aa6aa) | [**详细请看其Github页面**](https://github.com/usaginya/DAxZE)
 
-![](https://bu.dusays.com/2024/10/26/671cac8dee348.webp =x250) 　![](https://bu.dusays.com/2024/10/26/671c9ac396c70.webp =x250)
+![图片加载中... =x250](https://bu.dusays.com/2024/10/26/671cac8dee348.webp " ") 　![图片加载中... =x250](https://bu.dusays.com/2024/10/26/671c9ac396c70.webp " ")
 
 :::
 <!-- #endregion swarm-down -->

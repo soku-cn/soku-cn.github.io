@@ -13,10 +13,20 @@ date: 2024-01-07
 #文章编辑日期
 ---
 
+::: important
+
+入群问题答案：!!普通问题先查看网站文档!!
+
+**这不只是一个入群答案，请你记住这句话。**
+
+遇到问题先查看本站，绝大多数问题都能在本站找到答案。
+
+:::
+
 ### 新则上手教程视频
 ::: important 
 
-- 视频教程 —— [**😎 新人指路 2024 五月 “新则” 使用向导**](https://www.bilibili.com/video/BV1gZ421s7yF/)
+- 视频教程 —— [**新人指路 2024 五月 “新则” 使用向导**](https://www.bilibili.com/video/BV1gZ421s7yF/)
 - 图文教程 —— [**大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
 - [SokuLauncher 更新器/启动器 使用说明](/FAQ/update.html)
 

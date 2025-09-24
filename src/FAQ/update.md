@@ -25,7 +25,7 @@ date: 2024-01-14
 
 ::: warning Win7用户可能遇到的问题
 
-![](https://bu.dusays.com/2025/05/02/6814549205f0b.jpg "The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.")
+![图片加载中...](https://bu.dusays.com/2025/05/02/6814549205f0b.jpg "The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.")
 
 ::: tip 解决办法
 

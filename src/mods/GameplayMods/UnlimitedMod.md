@@ -26,7 +26,9 @@ date: 2023-08-01
 [非想天则 Unlimited MOD 浅玩一下 紫和西瓜 (20220423 录播)](https://www.bilibili.com/video/BV1a5411m7Wy/)  
 https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
 
-.　　　　![](https://bu.dusays.com/2023/08/24/64e701d52032c.gif =380x) 　　![](https://bu.dusays.com/2023/08/24/64e702fc06592.gif =380x)
+
+![图片加载中... =380x](https://bu.dusays.com/2023/08/24/64e701d52032c.gif " ") 　　![图片加载中... =380x](https://bu.dusays.com/2023/08/24/64e702fc06592.gif " ")
+
 :::
 
 
@@ -39,7 +41,8 @@ https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
 
 4、 开启mod后保存配置，==不要直接启动游戏==，打开`NextSokuLauncher.exe`在页面选择最下面那项 Unlimited ，右上方可选择机签，==**右下方 Options 的三个框全都不要勾选！**==
 
-![注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod](https://bu.dusays.com/2023/08/20/64e21c9299e26.png =550x)
+![图片加载中... =550x](https://bu.dusays.com/2023/08/20/64e21c9299e26.png "注意，要打开 NextSokuLauncher.exe 来启动游戏才能玩 UnlimitedMod")
+
 
 5、 启动成功的话，游戏标题栏会多一个[Unlimited 3.6.5] （开了giuroll的话会一闪而过）
 6、 **要切换回正常游戏只需要把 `NextSoku.dll` 这个 mod 禁用并用平常的方式启动游戏就OK**
