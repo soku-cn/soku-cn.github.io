@@ -149,11 +149,11 @@ next: false
 
 :::: info 欢迎使用本指南，持续建设中
 
-- 推荐：[自动分流](https://wiki.514.live/)，自动选择最快速度源。
+- [推荐使用]：[自动分流](https://wiki.514.live/) 自动选择最快速度源。
 
-- 大陆内：[仓库](https://gitee.com/soku-cn/soku-cn) [Gitee Pages](https://soku-cn.gitee.io)
+- 境内网络：~~[Gitee Pages已不再提供服务](https://soku-cn.gitee.io)~~ [HK 镜像站点](https://3322428.xyz)
 
-- 大陆外：[仓库](https://github.com/soku-cn/soku-cn.github.io) [[推荐]Vercel](https://hisoutensoku-cn-wiki.vercel.app) [Github Pages](https://soku-cn.github.io)
+- 全球网络：[[**推荐**]Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [Github Pages](https://soku-cn.github.io)
 
 
 欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
