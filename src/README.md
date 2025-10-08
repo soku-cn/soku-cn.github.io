@@ -22,7 +22,7 @@ actions:
   - text: 大厅实时对战列表
     link: /about/lobby
 
-  - text: DeepWiki AI分析本站
+  - text: DeepWiki AI提问搜索
     link: https://deepwiki.com/soku-cn/soku-cn.github.io
 
   # - text: 常见问题 FAQ 目录 ❓
@@ -44,7 +44,7 @@ features:
     details: 跳转 THBWiki「东方非想天则」
     link: https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99
 
-  - title: 无法解压，杀毒软件误杀
+  - title: 无法解压/杀毒软件误杀
     icon: file
     details: 游戏打不开/无法解压，提示含有病毒或危险，是因为杀毒软件误杀，请添加白名单信任
     link: /FAQ/Failed-to-Start/AntiVirus.html
@@ -89,15 +89,15 @@ features:
   #   details: 开关Mod、恢复默认Mod配置、细微配置某个Mod
   #   link: /mods/WhatsMod.html
 
-  # - title: 练习模式 Mod 使用说明
-  #   icon: fa-solid fa-lightbulb
-  #   details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
-  #   link: /mods/PracticeMods.html
+  - title: 练习模式 Mod 使用说明
+    icon: fa-solid fa-lightbulb
+    details: 查看判定指令，帧数优劣，逐帧操作，角色复位，Rep接管
+    link: /mods/PracticeMods.html
 
-  # - title: Mod：如何将美化包导入游戏（Shady-loader）
-  #   icon: gears
-  #   details: 请点击仔细阅读详情
-  #   link: /mods/DIY/Shady-loader.html
+  - title: Mod：使用美化包（Shady-loader）
+    icon: gears
+    details: 请点击仔细阅读详情
+    link: /mods/DIY/Shady-loader.html
 
   # - title: Mod：2V2 MOD 下载使用说明
   #   icon: gears

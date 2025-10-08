@@ -32,6 +32,16 @@ export default navbar([
     icon: "gear",
     link: "/mods/WhatsMod.html",
   },
+  {
+    text: "练习模式说明",
+    icon: "gear",
+    link: "/mods/PracticeMods.html",
+  },
+  {
+    text: "美化包说明",
+    icon: "gear",
+    link: "/mods/DIY/Shady-loader.html",
+  },
 
 
 
