@@ -17,22 +17,18 @@ next: false
 
 ::: tip 
 
-[**在 DeepWiki 的 AI 分析上对本网站内容进行提问！**](https://deepwiki.com/soku-cn/soku-cn.github.io)
+[**在 DeepWiki 的 AI 分析上对本网站内容进行提问搜索！**](https://deepwiki.com/soku-cn/soku-cn.github.io)
 
 :::
 
 
 ## **非想天则相关资源下载**
 
-::: important 游戏本体、更新器、Chm游戏攻略(部分过时)、MOD、其他工具和资源等
+::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
 
-- [123 网盘 **（网页端登录下载，不限速，每天免费额度 1GB）**](https://www.123pan.com/s/scmzVv-Z3h6v.html)
+- [123 网盘](https://www.123pan.com/s/scmzVv-Z3h6v.html) |  [电信天翼网盘](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）) |  [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群禁言，可直接加群无需验证，定时清人
 
-- [电信天翼网盘 **（网页端登录下载，不限速）**](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）)
-
-- [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 无验证资源群，全员禁言，可直接加群无需验证
-
-- **百度网盘** 分享链接总是失效，停止使用
+- 百度网盘 分享链接总是失效，停止使用
 :::
 
 
@@ -93,27 +89,25 @@ next: false
 ::: important Discord 非想天则群聊社区
 - [国际群 Hisouten](https://discord.gg/hisouten)
 
-- [台湾](https://discord.gg/jUN6xnEj3w) 
+- [台湾群](https://discord.gg/jUN6xnEj3w) 
 
-- [日本](https://discord.gg/MPbaPbGzmh) 
+- [日本群](https://discord.gg/MPbaPbGzmh) 
 
 - [另一个国际群 Touhou 12.3，比较偏向欧洲](https://discord.gg/5Uw4N7T) 
-  - [法国 Hisoutensoku FR](https://discord.gg/Nqu4eBV) 
-  - [俄罗斯 Rusouten](https://discord.gg/zCWdZ7ZwEu) 
-  - [瑞典 Touhou Sweden](https://discord.gg/q54YgAA) 
+  - [法国群 Hisoutensoku FR](https://discord.gg/Nqu4eBV) 
+  - [俄罗斯群 Rusouten](https://discord.gg/zCWdZ7ZwEu) 
+  - [瑞典群 Touhou Sweden](https://discord.gg/q54YgAA) 
 
-- [澳洲 格斗游戏社区](https://discord.gg/45HYVwv) 
-  - 格斗大群内有个非想天则小群
+- [澳洲群 格斗游戏社区](https://discord.gg/45HYVwv)  （格斗大群内有个非想天则小群）
 
-- [拉丁美洲（西班牙语） Sokuway](https://discord.gg/Yetp9qtxT4) 
-- [巴西（葡萄牙语） Gensou Arena](https://discord.gg/q2XcRh3Dzf) 
+- [拉丁美洲群（西班牙语） Sokuway](https://discord.gg/Yetp9qtxT4) 
+- [巴西群（葡萄牙语） Gensou Arena](https://discord.gg/q2XcRh3Dzf) 
   - 这俩美术艺术和mod爱好者很多
 
-- [中东北非（阿拉伯语） Arabsokyo](https://discord.gg/8A7G8hhkN6) 
+- [中东北非群（阿拉伯语） Arabsokyo](https://discord.gg/8A7G8hhkN6) 
 
-- [东南亚 SEAsouten](https://discord.gg/smJRdAV) 
-  - 人没很多，中国到东南亚联机很卡
-:::
+- [东南亚群 SEAsouten](https://discord.gg/smJRdAV)  （人没很多，中国到东南亚联机很卡）
+
 ::: details 其他黄昏游戏的 Discord 群
 - EFZ：[EFZ - Eternal Fighter Zero](https://discord.gg/aUgqXAt)
 - 萃梦想：[IaMP - Immaterial and Missing Power](https://discord.gg/jK83e3QQSd)
@@ -156,21 +150,14 @@ next: false
 - 全球网络：[[**推荐**]Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [Github Pages](https://soku-cn.github.io)
 
 
-欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入
+欢迎感兴趣想了解动态，想志愿帮助建设，或提建议意见的伙伴加入  [**网站交流QQ群 200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
-[**网站交流QQ群 200803640**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BlPlWLS0pzH53ek-6s_li9I9iyKOX2rp&authKey=IeuhBJ9I5o%2B2wsG9Ms0M1UaLEYqtSQERdxJ713CxleEak%2FBvvByzAGiJg%2Bw0zp8D&noverify=0&group_code=200803640)
 
-::: tip 当前小目标
-- [ ] 完成新手上路基本知识和资源、Mod、工具讲解。
+<!-- - [ ] 完成新手上路基本知识和资源、Mod、工具讲解。
 - [x] 完成常用 Mod 介绍与常见问题说明。
-:::
 
-::: tip 最终目标
-- [ ] 做成中文非想天则Wiki，对标英文日文Wiki。
+- [ ] 做成中文非想天则Wiki，对标英文日文Wiki。 -->
 
-[英文 Wiki - Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) 
-[日文 Wiki - 細々と東方非想天則を攻略する](https://w.atwiki.jp/bulletaction/) 
-:::
 ::::
 
 
