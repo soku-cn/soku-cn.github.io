@@ -293,3 +293,23 @@ AcceptHostlist=1
 
 
 
+
+## 模组及启动器的工作结构
+
+```mermaid  
+graph TD  
+    Game["th123.exe (游戏进程)"] --> ModLoader["d3d9.dll (模组加载器)"]  
+    ModLoader --> ConfigFile["ModLoaderSettings.json"]  
+    ModLoader --> ModsDir["th123/modules/ 目录"]  
+      
+    SokuLauncher["SokuLauncher.exe"] --> ConfigFile  
+    SokuLauncher --> ModsDir  
+      
+    GameMenu["游戏内 D 菜单"] --> ConfigFile  
+      
+    ModsDir --> LobbyMod["SokuLobbiesMod"]  
+    LobbyMod --> LobbyServer["大厅服务器"]  
+    LobbyMod --> ChatSystem["聊天系统"]  
+    LobbyMod --> MatchList["对战列表"]  
+```
+
