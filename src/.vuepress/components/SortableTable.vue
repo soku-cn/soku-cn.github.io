@@ -25,45 +25,55 @@
     </div>
 </template>
 
-<script setup>
-import { ref, computed } from 'vue';
+<script setup>  
+import { ref, computed } from 'vue';  
+import pinyin from 'pinyin';  
 
-const props = defineProps({
-    headers: Array,
-    data: Array,
-});
+const props = defineProps({  
+    headers: Array,  
+    data: Array,  
+});  
 
-const sortIndex = ref(null);
-const sortOrder = ref('asc');
+const sortIndex = ref(null);  
+const sortOrder = ref('asc');  
 
-const sortedData = computed(() => {
-    if (sortIndex.value === null) return props.data;
-    const sorted = [...props.data];
-    sorted.sort((a, b) => {
-        const aValue = a[sortIndex.value];
-        const bValue = b[sortIndex.value];
-        if (aValue < bValue) return sortOrder.value === 'asc' ? -1 : 1;
-        if (aValue > bValue) return sortOrder.value === 'asc' ? 1 : -1;
-        return 0;
-    });
-    return sorted;
-});
+const sortedData = computed(() => {    
+    if (sortIndex.value === null) return props.data;    
+    const sorted = [...props.data];    
+    sorted.sort((a, b) => {    
+        const aValue = a[sortIndex.value];    
+        const bValue = b[sortIndex.value];    
+        // 如果是字符串且包含中文,使用拼音排序    
+        if (typeof aValue === 'string' && typeof bValue === 'string') {    
+            const aPinyin = pinyin(aValue, { style: pinyin.STYLE_NORMAL }).join('');    
+            const bPinyin = pinyin(bValue, { style: pinyin.STYLE_NORMAL }).join('');    
+            if (aPinyin < bPinyin) return sortOrder.value === 'asc' ? -1 : 1;    
+            if (aPinyin > bPinyin) return sortOrder.value === 'asc' ? 1 : -1;    
+            return 0;    
+        }    
+        // 数字或其他类型保持原有逻辑    
+        if (aValue < bValue) return sortOrder.value === 'asc' ? -1 : 1;    
+        if (aValue > bValue) return sortOrder.value === 'asc' ? 1 : -1;    
+        return 0;    
+    });    
+    return sorted;    
+});  
 
-const sort = (index) => {
-    if (sortIndex.value === index) {
-        sortOrder.value = sortOrder.value === 'asc' ? 'desc' : 'asc';
-    } else {
-        sortIndex.value = index;
-        sortOrder.value = 'asc';
-    }
-};
+const sort = (index) => {  
+    if (sortIndex.value === index) {  
+        sortOrder.value = sortOrder.value === 'asc' ? 'desc' : 'asc';  
+    } else {  
+        sortIndex.value = index;  
+        sortOrder.value = 'asc';  
+    }  
+};  
 
-const getArrowClass = (index) => {
-    return {
-        'default-arrow': sortIndex.value !== index,
-        'sort-arrow': sortIndex.value === index
-    };
-};
+const getArrowClass = (index) => {  
+    return {  
+        'default-arrow': sortIndex.value !== index,  
+        'sort-arrow': sortIndex.value === index  
+    };  
+};  
 </script>
 
 <style scoped>
