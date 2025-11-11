@@ -74,6 +74,15 @@ Windows Registry Editor Version 5.00
 
 可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
 
+### Wine 启动 th123.exe 时报错 `unimplemented function ole32.dll.CoIncrementMTAUsage`
+
+Winetricks 使用的 `ole32.dll` 来自 Windows XP，这一版本的 `ole32.dll` 不提供 `CoIncrementMTAUsage` 函数的实现，进而导致游戏启动失败。相关问题已经在[Winetricks/winetricks #2294](https://github.com/Winetricks/winetricks/issues/2294)中证实。
+
+参见：[soku-cn/soku-cn.github.io #118](https://github.com/soku-cn/soku-cn.github.io/issues/118)
+
+解决方案是使用 `winecfg`，在函数库（`Libraries`）选项卡中下拉找到 `ole32`，将其调整为 `builtin`（使用 Wine 内建的 DLL）。
+
+
 ## 联机大厅相关
 
 遇到问题可以对照以下表格更新大厅
@@ -111,6 +120,5 @@ No Unicode translation.
 ## Swarm 相关
 
 直接使用[Swarm-NG仓库](https://github.com/evshiron/swarm-ng-build/releases)的Linux发行版即可。
-
 
 ![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acf18dc1dc4.webp "Linux Mods")
