@@ -9,8 +9,7 @@ date: 2023-09-09
 author: Hagb, wold9168
 ---
 
-
-本篇内容是关于如何在 GNU/Linux 使用 wine 运行非想天则及相关程序的。
+本篇内容是关于如何在 GNU/Linux 使用 Wine 运行非想天则及相关程序的。
 
 # 安装 Wine 并运行带 Mod 的非想天则（包括新则）
 
@@ -18,7 +17,9 @@ Wine 是类 Unix 系统上运行 Windows 程序的兼容层。
 
 以 Debian、Fedora、Ubuntu 为例，你可以安装发行版维护的 Wine 包，也可以安装 WineHQ 提供的包（[Debian](https://wiki.winehq.org/Debian)、[Fedora](https://wiki.winehq.org/Fedora)、[Ubuntu](https://wiki.winehq.org/Ubuntu)），也可以使用 [Lutris](https://github.com/lutris/lutris) 提供的经过了优化的 Wine 包。
 
-运行 `winecfg`，在函数库（`Libraries`）选项卡中添加 `d3d9.dll` 的配置，设为“原装先于内建”（native, builtin），之后在非想天则目录里运行 `wine th123.exe` 就可以打则了（在确认能够正常运行前请先在虚拟终端中运行，而非直接在文件管理器中点击运行，以便获取日志定位可能存在的问题）。
+运行 `winecfg`，在函数库（`Libraries`）选项卡中添加 `d3d9.dll` 的配置，设为“原装先于内建”（Native then Builtin），之后在非想天则目录里运行 `Wine th123.exe` 以启动游戏。
+
+（在确认能够正常运行前请先在虚拟终端中运行，而非直接在文件管理器中点击运行，以便通过日志定位可能存在的问题。）
 
 ::: info
 若不使用 Mod，那么不需要进行上面这个设置。非想天则的 mod 是通过劫持 `d3d9.dll` 来加载的，因此需要配置 Wine 让它此时优先使用 mod 加载器的 `d3d9.dll`。亦可在环境变量 `WINEDLLOVERRIDES=d3d9=n,b` 下启动非想天则来做到这一点，反过来说当需要在同一路径下使用原版非想天则时，使用环境变量 `WINEDLLOVERRIDES=d3d9=b,n` 来运行即可。
@@ -40,7 +41,7 @@ Wine 是类 Unix 系统上运行 Windows 程序的兼容层。
 0108:err:sync:RtlpWaitForCriticalSection section 7BC6C3C0 "dlls/ntdll/loader.c: loader_section" wait timed out in thread 0108, blocked by 0024, retrying (60 sec)
 ```
 
-这是 wine 的 bug，但在最新版中已经修复。若遇到这种情况，检查你的 wine 版本是不是在 8.1~8.8 范围内。若是，尝试换用稳定版或 WineQH 最新的测试版包。
+这是 Wine 的 bug，但在最新版中已经修复。若遇到这种情况，检查你的 Wine 版本是不是在 8.1~8.8 范围内。若是，请尝试更换 Wine 版本——换用稳定版或 WineQH 最新的测试版包。
 
 ### 运行则的终端被 `0160:fixme:d3d:wined3d_swapchain_present Ignoring flags 0x1.` 刷屏
 
@@ -48,7 +49,7 @@ Wine 是类 Unix 系统上运行 Windows 程序的兼容层。
 
 ### 打则时一些图像（比如机体、弹幕）变为白色矩形，终端被 `01b8:err:d3d:resource_init Out of adapter memory.` 刷屏
 
-尤其发生在进入了大厅 mod 的 VS NETWORK 页面后；此外也可能在打街机模式或者故事模式的过程中出现。
+该问题尤其可能发生在进入了大厅 mod 的 VS NETWORK 页面后；此外也可能在打街机模式或者故事模式的过程中出现。
 
 使用 [dxvk](https://github.com/doitsujin/dxvk)，或将下面的注册表配置保存为 `set-video-memory.reg` 并运行 `wine regedit set-video-memory.reg`
 
@@ -66,13 +67,13 @@ Windows Registry Editor Version 5.00
 - 网络对战中使用若干次蕾米莉亚 C 链（不管是哪一方使用）后两方不同步
 - 蕾米莉亚 C 链变为不正常的短链，攻击效果消失/改变
 
-源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。务必启用 ChainCFix mod，该 mod 修复了这个问题。非想天启启动器的最新 giuroll 更新包中包含了这个 mod，此外亦可在 <https://gitee.com/sanhuizhuan/soku_giuroll_cn/releases> 手动获取。
+该问题源于非想天则的数组越界 bug，但在 Wine 中触发的概率远高于在 Windows 中触发的概率。请务必在游玩过程中启用 ChainCFix mod，该 mod 是对此问题的一个修复。非想天启启动器的最新 giuroll 更新包中包含了这个 mod，此外亦可在 <https://gitee.com/sanhuizhuan/soku_giuroll_cn/releases> 手动获取。
 
-若因为某些原因需要打无 Mod 的非想天则，那么请使用 `WINEDEBUG=trace+heap` 环境变量来启动非想天则，触发概率几乎变为 0（不确定是不是确实变为 0 了）。
+若需要打无 Mod 的非想天则，那么请尽可能使用 `WINEDEBUG=trace+heap` 环境变量来启动游戏。使用该环境变量的情况下，此问题触发概率几乎变为 0（暂无更多报告表明该环境变量可以彻底修复此问题）。
 
 ### 运行非想天则时弹出 DSound 相关错误
 
-可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
+该问题的出现可能是由于 Wine 缺少音频库的依赖。可尝试根据 [Wine 的 ArchWiki 页面](https://wiki.archlinux.org/title/Wine#Sound)或 [Lutris 给出的 Wine 依赖](https://github.com/lutris/docs/blob/master/WineDependencies.md)补齐依赖。
 
 ### Wine 启动 th123.exe 时报错 `unimplemented function ole32.dll.CoIncrementMTAUsage`
 
