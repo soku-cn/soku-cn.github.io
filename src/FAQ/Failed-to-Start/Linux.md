@@ -6,7 +6,7 @@ prev: false
 next: false
 order: 30
 date: 2023-09-09
-author: Hagb
+author: Hagb, wold9168
 ---
 
 
@@ -89,6 +89,24 @@ Windows Registry Editor Version 5.00
 在聊天框打字时若遇到光标与文字之间对不齐的问题（尤其文字中包含英文字母时），可使用 `FREETYPE_PROPERTIES="truetype:interpreter-version=35"` 环境变量来运行，或使用低于 `7.17` 版本的 Wine。
 
 若遇其他问题请向我们进行反馈。
+
+### 大厅报错：`No Unicode translation.`
+
+使用 Wine 启动游戏，在启动游戏时和进入 VS Network 界面时，产生如下错误：
+
+```
+Error while loading lobby data.
+Statistic saving, achievements and blank card rewards are now disabled.
+To try to load data again, go to the lobby screen.
+If loading succeeds, it will be enabled again.
+
+Error:
+No Unicode translation.
+```
+
+这是 locale 设置引发的问题。请在您的启动参数前加上 `LANG=zh_CN.UTF-8`。如：`LANG="zh_CN.UTF-8" wine ./th123.exe`。或尝试在 `wineconsole` 中启动游戏。
+
+参见：[SokuLobbiesMod #1](https://github.com/soku-cn/SokuLobbiesMod/issues/1)
 
 ## Swarm 相关
 
