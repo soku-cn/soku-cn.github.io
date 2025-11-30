@@ -36,6 +36,7 @@
     "mpegts.js": "^1.8.0",
     "pinyin": "4.0.0-alpha.2",
     "reveal.js": "^5.2.1",
+    "segmentit": "^2.0.3",
     "vidstack": "^0.6.15"
   },
   "packageManager": "pnpm@8.6.9+sha512.2cf11a086be557875519e25e1ea8bfa4247f4844e8a2a99272fdb072bd204ea19479ba64b75c3d4c8117d1ac0b3212cedbda7ba5c5dfcf964ee7d07bd139dcd3"
