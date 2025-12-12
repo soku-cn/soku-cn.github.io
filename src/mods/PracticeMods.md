@@ -291,8 +291,11 @@ hst 是 hit state 的 缩写，暂时只知道触发和变化的规律，并不�
 ::: -->
 
 ## ReplayTakeover（Rep接管）
+- **启用最新版本 Giuroll mod 后，就有这个 Rep 接管功能，不需要额外装其他mod**
 
 - [**【非想天则Mod】Rep接管 演示（Replay Takeover）**](https://www.bilibili.com/video/BV15E421j7T2/)
+
+
 ### ReplayTakeover（Rep接管）
 ::: info 什么是 ReplayTakeover（Rep 接管）
 顾名思义，就是使玩家可以在观看 Replay 时接管其中一个角色进行操作的 mod，可以用来试验某一时刻下的各种操作可能性

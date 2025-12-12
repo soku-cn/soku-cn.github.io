@@ -14,18 +14,18 @@ date: 2023-07-22
 ---
 
 
-## 一、开游戏时弹窗 Sokulobby Eoor
+## 一、开游戏时弹窗 Sokulobby Eoor Unicode
 ::: info 
 
-![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文")
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图")
 
-开游戏时弹窗 Sokulobby Eoor，很可能是因为游戏系统语言不是简体中文，而游戏路径内包含中文汉字
+![图片加载中... =400x](https://bu.dusays.com/2025/12/12/693c22b9e30c8.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图")
+
+开游戏时弹窗 Sokulobby Eoor Unicode，很可能是因为 **系统语言不是简体中文，并且游戏路径内包含中文汉字**
 ::: tip 解决方法
 
-1、改回系统语言为简体中文
-
-2、可以将游戏路径改成全英文
-
+1. 可以将游戏路径改成全英文
+2. 或者改回系统语言为简体中文
 
 :::
 
