@@ -32,15 +32,16 @@ next: false
 
 - [百度网盘](https://pan.baidu.com/s/55XoPtnN-99I_E0EhXw0a9Q?)
 
-<!-- - [电信天翼网盘](https://cloud.189.cn/web/share?code=aMZvyibqYjEf（访问码：uk0i）) -->
-
 - [QQ 微云](https://share.weiyun.com/psbH8TH6)
 
 - [阿里网盘](https://www.alipan.com/s/MkFc2yWoRBa)
 
 - [夸克网盘](https://pan.quark.cn/s/ce2690ccbf17)
+
+- [蓝奏云（只有升级包小文件）](https://wwwa.lanzouj.com/b04q3635i?pwd=hfxy#hfxy)
 :::
 
+<!-- - [电信天翼网盘](https://cloud.189.cn/web/share?code=aMZvyibqYjEf（访问码：uk0i）) -->
 
 ## **寻找玩伴 —— QQ群** 
 
