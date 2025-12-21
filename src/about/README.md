@@ -24,11 +24,21 @@ next: false
 
 ## **非想天则相关资源下载**
 
-::: important 游戏本体、更新器、CHM游戏攻略(部分过时)、MOD、其他工具和资源等
+::: important 游戏本体、升级包、CHM游戏攻略(部分过时)、MOD、其他工具、资源等
 
-- [123 网盘](https://www.123pan.com/s/scmzVv-Z3h6v.html) |  [电信天翼网盘](https://cloud.189.cn/web/share?code=bEfU7zjMF7r2（访问码：97z6）) |  [**869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群禁言，可直接加群无需验证，定时清人
+- [123 网盘](https://www.123pan.com/s/scmzVv-Z3h6v.html) 
 
-- 百度网盘 分享链接总是失效，停止使用
+- [QQ 群文件 **869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群 禁言，可直接加群无需验证，定时清人
+
+- [百度网盘](https://pan.baidu.com/s/55XoPtnN-99I_E0EhXw0a9Q?)
+
+<!-- - [电信天翼网盘](https://cloud.189.cn/web/share?code=aMZvyibqYjEf（访问码：uk0i）) -->
+
+- [QQ 微云](https://share.weiyun.com/psbH8TH6)
+
+- [阿里网盘](https://www.alipan.com/s/MkFc2yWoRBa)
+
+- [夸克网盘](https://pan.quark.cn/s/ce2690ccbf17)
 :::
 
 
