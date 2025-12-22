@@ -26,7 +26,9 @@ next: false
 
 ::: important 游戏本体、升级包、CHM游戏攻略(部分过时)、MOD、其他工具、资源等
 
-- [123 网盘](https://www.123pan.com/s/scmzVv-Z3h6v.html) 
+- [123 网盘](https://www.123pan.com/s/scmzVv-Z3h6v.html)
+[Github - QingJ01/123pan_unlock: 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能](https://github.com/QingJ01/123pan_unlock)
+
 
 - [QQ 群文件 **869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群 禁言，可直接加群无需验证，定时清人
 
