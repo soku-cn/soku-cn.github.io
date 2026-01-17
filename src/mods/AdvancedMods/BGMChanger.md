@@ -58,8 +58,16 @@ loop=8621663
 ::: warning
 **替换 BGM 用的音乐文件必须是 `OGG Vorbis 格式，44100 HZ`，声道默认就行（如果没用那就试试单声道），请注意你的音乐本身是否声音过小。** 
 
-可以使用这个网站在线转换 **https://convertio.co/zh**
+:::
+::: tip 推荐的音频编辑工具
+
+- [基于 Web Audio API 实现纯前端的音频处理工具： **Melody Workshop**](https://melody-workshop.rylan.cn/) | [Github](https://github.com/RylanBot/melody-workshop)
+如果没下软件的话，简单的处理操作用线上工具就足够解决了
+
+- 也可以试试这个网站在线转换 **https://convertio.co/zh**
 
 ![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdb21b4b98.webp " ")
+
+- 或者使用 Audacity、Adobe Audition 等软件
 
 :::

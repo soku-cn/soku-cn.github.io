@@ -102,7 +102,7 @@ date: 2025-02-12
     注意汉化包内要保持 GBK 中文编码，不要使用 UTF-8 和 Shift-JS 编码
 
 - **.cv3** <---> **.wav**：音效文件。
-    **必须为 wav 格式，不能使用 mp3 文件修改文件名后缀来冒充**，可双声道，16位或24位等。
+    **必须为 wav 格式，不能使用 mp3 文件修改文件名后缀来冒充**，可双声道，要求采样率 44100 HZ 或 22050 HZ，16位深度 WAVE PCM 格式（最好不要8位深度）。
     **替换加载后没声音多半是格式问题或者音量大小问题**
 
 - **.ogg**：BGM 音频文件。bgm 文件夹内。
@@ -136,7 +136,11 @@ A：自己看着办
 - [基于 Web Audio API 实现纯前端的音频处理工具： **Melody Workshop**](https://melody-workshop.rylan.cn/) | [Github](https://github.com/RylanBot/melody-workshop)
 如果没下软件的话，简单的处理操作用线上工具就足够解决了
 
-- Audacity 或 Adobe Audition
+- 也可以试试这个网站在线转换 **https://convertio.co/zh**
+
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdb21b4b98.webp " ")
+
+- 或者使用 Audacity、Adobe Audition 等软件
 
 :::
 
