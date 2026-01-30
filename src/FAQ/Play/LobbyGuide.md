@@ -224,14 +224,15 @@ AcceptHostlist=1
 ::: tip 
 
 
-当前对战列表 (大厅) <https://list.th123.uno>
+**[当前大厅对战列表](https://list.th123.uno)**
 
 :::
 
 
-（需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
 
 ![图片加载中... =500x](https://bu.dusays.com/2024/10/26/671caa8bdd47f.webp "Hisouten Discord 服务器上的 Hostlist")
+
+（需要梯子） [Hisouten Discord](https://discord.gg/Hisouten) 服务器上的 Hostlist
 
 源链接 <https://konni.delthas.fr/games>
 
@@ -248,7 +249,7 @@ AcceptHostlist=1
 ></iframe> -->
 
 @tab 大厅内的特殊机子
-不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上观战，不过人太多时底下看不到
+不需要走到正在对战的俩人那边观战，可以在大门口右边这个特殊机子上按左右方向键选择 Playing 页观战，可以上下循环翻页
 
 ![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671caaa262c3e.webp "大门口右边这个特殊机子")  ![图片加载中... =400x](https://bu.dusays.com/2024/10/26/671caaa3f2c45.webp " ")
 
@@ -294,7 +295,7 @@ AcceptHostlist=1
 
 
 
-## 模组及启动器的工作结构
+<!-- ## 模组及启动器的工作结构
 
 ```mermaid  
 graph TD  
@@ -312,4 +313,4 @@ graph TD
     LobbyMod --> ChatSystem["聊天系统"]  
     LobbyMod --> MatchList["对战列表"]  
 ```
-
+ -->

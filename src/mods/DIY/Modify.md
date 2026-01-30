@@ -178,3 +178,101 @@ A：自己看着办
 ![图片加载中... =700x](https://bu.dusays.com/2025/02/12/67acb5ff3a71d.webp " ")
 
 :::
+
+::::
+
+
+
+## 关于修改对战结束后的角色立绘等非英文名的文件
+:::: details 关于修改对战结束后的角色立绘等非英文名的文件
+
+
+- [**Shady-Loader Lua 编程示例**](https://docs.qq.com/aio/DR25tUFNLRkhpY2lS?p=W0IYddrsKfOgW5MSxkO2MR)
+- Mod 交流群 200803640，实在不行可以到群里讨论
+
+由于zip内无法读取到这些非英文名的文件，所以我们需要使用 lua 工具给这些文件取个别名
+以及在某个文件可以重复使用的情况下，我们也可以使用别名来一文件多用，而不需要复制多个文件来逐一替换
+
+新建文本文件改名为 `init.lua`，在其中按照需求添加 lua 代码即可，代码例子如下
+
+
+![图片加载中... =400x](https://bu.dusays.com/2024/03/16/65f59babbf61c.png " ")
+
+
+1. 晧 = 負 = lose；战败
+2. 娋 = 汗 = sweat；流汗，无语
+3. 搟 = 怒 = angry；生气
+4. 嬃 = 驚 = surprise；惊讶
+5. 梋 = 余 = confident；自信，优越
+6. 榝 = 惑 = confuse；怀疑，不解
+7. 晛 = 普 = normal；普通立绘
+8. 寛 = 決 = attack；一般和释放符卡的立绘差不多，战斗姿态
+9. 婐 = 嬉 = happy；笑颜
+
+
+
+::: details lua一文件重复利用例子
+```lua
+loader.removeFile("data_character_komachi_bulletCa000.png")
+loader.addAlias("data_character_komachi_bulletCa000.png",
+    string.format("data_character_youmu_objectAa000-%03d.png", info.teamId))
+-- 使用妖梦的麻薯贴图，作为小町的幽灵贴图，它们是一模一样的，这样就不必额外复制一份幽灵贴图给小町了
+```
+:::
+
+::: details lua一维数组例子，多个音效改成同一个音效
+```lua
+-- 一维数组 UTF-8  init.lua
+local Path0 = "data_se_alice_%s.wav"
+local Aminos = {"035","026"}
+function replaceAll(name, xxx)
+		for e = 1, #xxx do
+			local path1 = string.format(Path0, xxx[e])
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name))
+		end
+	end
+-----------------------------------------------------------------------
+replaceAll("Aminos", Aminos)
+```
+:::
+
+::: details lua二维数组例子，全部对话立绘都改成同一张图
+```lua
+-- 二维数组 UTF-8  init.lua
+local Path0 = "data_character_%s_stand_%s.png"
+local Dict = {
+	lose	= "\x95\x89",--負
+	sweat	= "\x8A\xBE",--汗
+	angry	= "\x93\x7B",--怒
+	surprise	= "\x8B\xC1",--驚
+	confident="\x97\x5D",--余
+	confuse	= "\x98\x66",--惑
+	normal	= "\x95\x81",--普
+	attack	= "\x8C\x88",--決
+	happy	= "\x8A\xF0",--嬉
+	--all	= "\x95\x89\x8A\xBE\x93\x7B\x8B\xC1\x97\x5D\x98\x66\x95\x81\x8C\x88\x8A\xF0"
+}
+local function replaceAll(name, selc)
+	if type(name)=="number" then name = soku.characterName(name) end
+	if type(selc)=="table" then
+		for i,e in ipairs(selc) do
+			local path1 = string.format(Path0, name, Dict[e])
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name, e))
+		end
+	else
+		for e,j in pairs(Dict) do
+			local path1 = string.format(Path0, name, j)
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name, e))
+		end
+	end	
+end
+-----------------------------------------------------------------------
+--replaceAll(soku.Character.Meiling)
+--replaceAll("meirin", {"lose", "sweat"})
+--replaceAll("meirin")  -- 游戏内名字，加双引号  meirin udonge chirno
+```
+:::
+::::
