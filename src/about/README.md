@@ -8,12 +8,6 @@ prev: false
 next: false
 ---
 
-::: important
-
-**[新手朋友请注意，在正式游玩非想天则之前，请一定要阅读「新手上路」中的文章！](/Beginners/BeforePlaying.html)**
-
-入群问题答案：[!!普通问题先查看网站文档!!](/Beginners/BeforePlaying.html)
-:::
 
 ::: tip 
 
@@ -30,7 +24,7 @@ next: false
 [Github - QingJ01/123pan_unlock: 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能](https://github.com/QingJ01/123pan_unlock)
 
 
-- [QQ 群文件 **869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群 禁言，可直接加群无需验证，定时清人
+- [QQ 群文件 **869104893** ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8Uqq_w62S--sWme0YC0L9w5fMItYIKO7&authKey=I7iCAVl9Q4xnXgPd%2Fx4LovGYDOcd0XEriCa5U5vScRinTtYj5u%2FZI1UaJfu7xP9%2B&noverify=0&group_code=869104893) 资源群 禁言，可直接加群无需验证，定时清人，**下面的对战则群里也有游戏资源**
 
 - [百度网盘](https://pan.baidu.com/s/55XoPtnN-99I_E0EhXw0a9Q?)
 
@@ -47,7 +41,15 @@ next: false
 
 ## **寻找玩伴 —— QQ群** 
 
-::: important 对战群
+
+::: important
+
+**[新手朋友请注意，在正式游玩非想天则之前，请一定要阅读「新手上路」中的文章！](/Beginners/BeforePlaying.html)**
+
+入群问题答案：[!!普通问题先查看网站文档!!](/Beginners/BeforePlaying.html)
+:::
+
+::: note 对战群
 - [难玩群/新则群  178884533](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQxdFJE9zuyOwXYYlN-9WS5IVTKcZeKw&authKey=baVNZOf%2FJMfrNUxSVtiaElyqmAnjJU1klmK1xQoQjZyxiIxUeEnF8MCjrf%2F%2FdyoU&noverify=0&group_code=178884533)
 
 - [非想天则有点好玩  131923309](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=p94zu4HHvD8VT3OZvAjvGDJ0InT4G_aa&authKey=e%2Bf4WpY8Jw%2FvGw%2BZOmApCDkWUJD42IrheaUVoPv2OaY8AVA1fIyGkqZlm4G6Ph2y&noverify=0&group_code=131923309)

@@ -23,13 +23,16 @@ date: 2024-01-07
 
 :::
 
-### 新则上手教程视频
+### 新则联机教程
 ::: important 
 
 - 视频教程 —— [**新人指路 2024 五月 “新则” 使用向导**](https://www.bilibili.com/video/BV1gZ421s7yF/)
-- 图文教程 —— [**大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
-- [SokuLauncher 更新器/启动器 使用说明](/FAQ/update.html)
 
+- 图文教程 —— [**大厅内正确使用 Swarm 联机**](/Beginners/BeforePlaying.html#使用-swarm-等中转-ip-在大厅里联机)
+
+
+[网盘和群文件资源](/about/)**里可以下载“CHM攻略”，**
+**00-开头的是游戏整体系统和机制，新手上手游戏必读**
 
 :::
 
