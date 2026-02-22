@@ -1,5 +1,5 @@
 ---
-title: CheckVersionFailed错误（病毒）
+title: Check Version Failed 错误
 # 标题
 icon: circle-info
 # 图标
@@ -9,7 +9,7 @@ editLink: false
 #禁用Github编辑按钮
 author: 三回転Tstar
 #作者
-date: 2023-07-22
+date: 2026-02-22
 #文章编辑日期
 ---
 
@@ -19,25 +19,24 @@ date: 2023-07-22
 ![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc908325c9.webp "CheckVersion Failed报错示例图片")
 
 ::: warning
-**关闭所有弹窗，看游戏是否运行，如果游戏标题显示是1.10版本则是游戏版本问题；否则很有可能是感染了病毒（不是下载的整合包有毒，是电脑上原先就感染了病毒，下载整合包后先前的病毒感染了整合包）**
+很有可能是感染了病毒（不是下载的整合包有毒，是电脑上原先就通过U盘或网络文件感染了病毒，下载整合包后先前的病毒感染了整合包游戏th123.exe）
 
-**病毒伪装成游戏文件，千万不要运行**
+病毒伪装成游戏文件，千万不要运行
 
-<!-- 可以用 ```Symantec Ramnit Removal Tool``` 赛门铁克Ramnit专杀工具修复
 
-[**Symantec Ramnit Removal Tool 下载链接**](https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd)
-https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd
+[**Synaptics 病毒专杀软件下载**](https://www.123865.com/s/scmzVv-82W6v)
+https://www.123865.com/s/scmzVv-82W6v
 
-**注意：专杀工具会扫描你硬盘（不知道会不会扫U盘）内的所有文件，所以可能会耗时很久，推荐晚上睡觉挂机的时候杀，可能醒来就OK了，然后重启电脑，再检查 th123.exe 文件的大小检验效果** -->
+**注意：专杀工具会扫描你硬盘以及U盘内的所有文件并自动将被感染的文件恢复正常，可能会耗时很久，推荐晚上睡觉挂机的时候杀，醒来重启电脑就OK了，然后再检查 th123.exe 文件的大小是否恢复正常**
 :::
 
 
 ::: info 病毒文件特征
 - **没有缩略图icon、文件大小异常、创建日期修改日期很新**
 
-- **文件名诡异，有明显的伪装意图，srv或其他字母结尾**
+- **文件名诡异，有明显的伪装意图，`srv`等字母结尾，任务管理器中显示`.cache`等开头**
 
-- **正常110A游戏主程序大小是4704KB，不符合就是中毒被修改了**
+- **正常 110A 版本 th123.exe 游戏主程序大小是 4704KB（4,816,896 字节），不符合就是中毒被修改了**
 
 
 ![图片加载中... =380x](https://bu.dusays.com/2024/01/21/65acc9429ad1f.webp "病毒文件示例图片")
@@ -46,7 +45,7 @@ https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd
 ![图片加载中... =870x](https://bu.dusays.com/2024/01/21/65acc99c5fb30.webp "左边4764KB就是被病毒感染了，右边4704KB才是正常大小")
 
 :::
-
+<!-- 
 ::: info 补充
 还有的人中毒情况是```th123intl```启用有问题(练习模式选完地图崩溃，改卡点进人物就崩溃)
 
@@ -54,5 +53,5 @@ https://pan.baidu.com/s/1D8d4eSvuIRnba0x3202aAQ?pwd=xukd
 
 还有的情况是由于系统乱码问题 —— [解决乱码问题](EncodingError.md)
 :::
-
+ -->
 
