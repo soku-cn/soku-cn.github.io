@@ -217,6 +217,19 @@ AcceptHostlist=1
 说明你被 ban 了，可能是挂机临时 ban，也可能是蹲起鞭尸等永久 ban，加 QQ 1434716883 说明情况（机签名字、IP 等）
 
 
+## 非中文系统开游戏时弹窗 Sokulobby Eoor
+
+![图片加载中... =350x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文")
+
+::: tip 解决方法
+
+**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
+
+**或者 Windows 区域语言设置换回中文（不要开启 UTF-8）**
+
+:::
+
+
 ## 大厅内如何观战
 :::: tabs
 
@@ -255,19 +268,6 @@ AcceptHostlist=1
 
 ::::
 
-## 非中文系统开游戏时弹窗 Sokulobby Eoor
-
-![图片加载中... =350x](https://bu.dusays.com/2024/01/21/65acc84cb5413.webp "非中文系统开游戏时弹窗 Sokulobby Eoor，报错弹窗如图，Windows区域设置为日文")
-
-::: tip 解决方法
-
-**非中文系统开游戏时弹窗 Sokulobby Eoor，是因为游戏路径内包含中文汉字，将游戏路径改成全英文即可**
-
-**或者 Windows 区域语言设置换回中文（不要开启 UTF-8）**
-
-:::
-
-
 ## 一直在弹成就
 ::: tip 解决办法：关掉游戏重开就行了，不要傻等
 :::
@@ -294,23 +294,3 @@ AcceptHostlist=1
 
 
 
-
-<!-- ## 模组及启动器的工作结构
-
-```mermaid  
-graph TD  
-    Game["th123.exe (游戏进程)"] --> ModLoader["d3d9.dll (模组加载器)"]  
-    ModLoader --> ConfigFile["ModLoaderSettings.json"]  
-    ModLoader --> ModsDir["th123/modules/ 目录"]  
-      
-    SokuLauncher["SokuLauncher.exe"] --> ConfigFile  
-    SokuLauncher --> ModsDir  
-      
-    GameMenu["游戏内 D 菜单"] --> ConfigFile  
-      
-    ModsDir --> LobbyMod["SokuLobbiesMod"]  
-    LobbyMod --> LobbyServer["大厅服务器"]  
-    LobbyMod --> ChatSystem["聊天系统"]  
-    LobbyMod --> MatchList["对战列表"]  
-```
- -->
