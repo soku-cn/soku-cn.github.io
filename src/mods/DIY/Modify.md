@@ -237,9 +237,9 @@ replaceAll("Aminos", Aminos)
 ```
 :::
 
-::: details lua二维数组例子，全部对话立绘都改成同一张图
+::: details lua二维数组例子，修改对话立绘
 ```lua
--- 二维数组 UTF-8  init.lua
+-- 二维数组例子，修改对话立绘 UTF-8  init.lua
 local Path0 = "data_character_%s_stand_%s.png"
 local Dict = {
 	lose	= "\x95\x89",--負
@@ -251,12 +251,11 @@ local Dict = {
 	normal	= "\x95\x81",--普
 	attack	= "\x8C\x88",--決
 	happy	= "\x8A\xF0",--嬉
-	--all	= "\x95\x89\x8A\xBE\x93\x7B\x8B\xC1\x97\x5D\x98\x66\x95\x81\x8C\x88\x8A\xF0"
 }
 local function replaceAll(name, selc)
 	if type(name)=="number" then name = soku.characterName(name) end
 	if type(selc)=="table" then
-		for i,e in ipairs(selc) do
+		for i,e in pairs(selc) do
 			local path1 = string.format(Path0, name, Dict[e])
 			loader.removeFile(path1)
 			loader.addAlias(path1, string.format(Path0, name, e))
@@ -270,9 +269,16 @@ local function replaceAll(name, selc)
 	end	
 end
 -----------------------------------------------------------------------
---replaceAll(soku.Character.Meiling)
---replaceAll("meirin", {"lose", "sweat"})
+-- 不可在游戏启动时执行 loader replace 操作，需要 id~=0 时再执行
+-- 无代码情况下直接用英文 lose 作为文件名无效，文件名搭配代码才行
+--replaceAll(soku.Character.Meiling) -- 不带指定时则全部替换，缺少了也不报错
+--replaceAll("meirin", {"lose", "sweat"}) -- 指定只替换哪些表情
 --replaceAll("meirin")  -- 游戏内名字，加双引号  meirin udonge chirno
+
+	for a=0,19 do
+	replaceAll(a) -- 替换所有角色
+	end
+	
 ```
 :::
 ::::
