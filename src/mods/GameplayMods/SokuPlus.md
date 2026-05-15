@@ -14,7 +14,6 @@ date: 2024-03-04
 #文章编辑日期
 ---
 
-### SokuPlus改版Mod
 ::: warning 
 **SokuPlus 是一个改版 Mod，对游戏系统和角色招数数据进行了大量修改**
 
@@ -29,10 +28,12 @@ date: 2024-03-04
 - **如琪露诺的原214和魔理沙等改成故事模式SC的招数，会根据自己 Config 菜单内的难度设置变化而变化，建议双方的难度设置为 Easy 或 Normal（双方要一样否则不同步）**
 :::
 
+### 下载 SokuPlus Mod
 ::: tip 下载 SokuPlus Mod
 SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
 :::
 
+### 安装 SokuPlus Mod
 :::: info 安装 SokuPlus Mod
 1、打开压缩包`【2025-02-05】SokuPlusLoader.zip`，里面有个 `th123` 文件夹，将其与游戏本体的 `th123` 合并，注意不要把这个 th123 文件夹直接挪到本体里面去了，是要合并文件夹
 
@@ -49,7 +50,7 @@ SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mo
 
 方式二、启用 SokuPlus.dll
 ✅可用： Shady-loader
-❌冲突： Infinitdeck、PracticeEX、ScoreTracker、Labtool（热键不可用）
+❌冲突： Infinitdeck、PracticeEX、ScoreTracker、Labtool
 
 ::::
 

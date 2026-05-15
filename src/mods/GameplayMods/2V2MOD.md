@@ -16,7 +16,7 @@ date: 2024-02-05
 
 ::: tip 说明文档
 
-[**非想天则 2V2 MOD 下载使用说明**](https://docs.qq.com/aio/p/sckx6x9a9t2qquv)
+[**非想天则 2V2 MOD 下载使用说明 - 腾讯文档**](https://docs.qq.com/aio/p/sckx6x9a9t2qquv)
 
 **目前可使用 Parsec + KeyboardSplitter 联机，详情见上方腾讯文档**
 :::

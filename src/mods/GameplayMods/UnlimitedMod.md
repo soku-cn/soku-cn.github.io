@@ -13,15 +13,18 @@ author: 三回転Tstar
 date: 2023-08-01
 #文章编辑日期
 ---
-## Unlimited mod简介
 ::: warning
 **这是一个改版的Mod，对游戏系统和角色招数数据进行了大量修改**
 
 **注意，此 mod 需要双方一起使用且版本相同**
 :::
+
+### 下载 Unlimited mod
+
 ::: tip 下载
 **[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
 :::
+
 ::: info 试玩视频
 [非想天则 Unlimited MOD 浅玩一下 紫和西瓜 (20220423 录播)](https://www.bilibili.com/video/BV1a5411m7Wy/)  
 https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
@@ -31,8 +34,8 @@ https://space.bilibili.com/357511007/channel/collectiondetail?sid=382168
 
 :::
 
-
-::: info 安装与使用 Unlimited Mod
+### 安装 Unlimited Mod
+::: info 安装 Unlimited Mod
 1、 `NextSokuLauncher.exe` 放到和 `th123.exe` 同目录，
 2、 `NextSoku文件夹` 放到`th123/modules`文件夹内，
 3、 接着把 `NextSoku.dll` 这个 mod 启用，==**并把 SOKU2 禁用，否则会有问题**==

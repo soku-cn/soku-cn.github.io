@@ -27,7 +27,12 @@ Custom weather's april fools mod
 
 :::
 
-::: important 已发布【4-6 修复版】愚人节搞怪天气 mod 1.10
+::: tip 下载
+
+**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+:::
+
+::: important 已发布【4-6 修复版】愚人节搞怪天气 mod
 修复内容：
 - 修复了大鬼天气的一些bug
 - 增加了 `CustomWeathers.ini`，可以设定如下内容
@@ -110,10 +115,6 @@ table th:nth-of-type(4) {
 
 
 
-::: tip 下载
-
-**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
-:::
 
 
 
