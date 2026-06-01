@@ -31,7 +31,7 @@ date: 2024-07-09
 ![图片加载中... =900x](https://bu.dusays.com/2024/10/26/671cac0b857ea.webp "可以试试勾选“高DPI缩放替代”，选择“应用程序”")
 
 
-3、还是觉得模糊可以试试启用 [WindowResizer-old 模组](https://gitee.com/soku-cn/WindowResizer/releases/download/v1.0.3/WindowResizer_1.0.3.zip)，关闭 WindowResizer 模组
+3、还是觉得模糊可以试试下载 [WindowResizer_1.0.3 旧版模组](https://gitee.com/soku-cn/WindowResizer/releases/download/v1.0.3/WindowResizer_1.0.3.zip)，覆盖到 `th123/modules/windowresizer` 文件夹内
 
 4、绝对有效的办法：可以试试关闭所有 WindowResizer 模组，只使用 [Magpie](https://github.com/Blinue/Magpie) 或 LosslessScaling 等外部软件来进行缩放和全屏化
 
