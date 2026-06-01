@@ -15,24 +15,28 @@ date: 2024-07-09
 ---
 
 
+
+
+- Alt + Enter：切换全屏/窗口化
+- Alt + 大键盘123：一二三倍整数缩放窗口
+- Alt + P：非想天则置顶
+- Alt + Tab：切换窗口 
+
 ::: info 
 
+1、 请使用 **"Alt + 大键盘123" 一二三倍的整数倍窗口缩放**，不要手动拖拉窗口，否则不规则倍数缩放可能会导致游戏内文字或图片出现锯齿、显示模糊
 
-- 按 Alt + Enter 切换全屏
-
-1、 **请检查 `[修复]【 重置游戏窗口的位置和大小 】.bat` 或 `th123\modules\WindowResizer\WindowResizer.ini` ,建议使用 一倍 两倍 三倍 的整数倍窗口缩放，而不要手动拖拉窗口，否则不规则倍数缩放可能会导致游戏内文字或图片显示模糊等问题**
-
-2、 可以试试右键 `th123.exe`，选择属性，兼容性，勾选 "高DPI缩放替代"，选择 "应用程序"
-**不要选择"系统(增强)"，会导致游戏打不开**
+2、 右键 `th123.exe`，选择属性，兼容性，勾选 "高DPI缩放替代"，选择 "应用程序"。**不要选择"系统(增强)"，会导致游戏打不开！**
 
 ![图片加载中... =900x](https://bu.dusays.com/2024/10/26/671cac0b857ea.webp "可以试试勾选“高DPI缩放替代”，选择“应用程序”")
 
 
-3、 游戏本身就是 640*480 的分辨率，游戏本身美术素材就是像素画 ㄟ( ▔, ▔ )ㄏ
-同时也可能你的显示屏太大，放大倍数过大当然就糊了
+3、还是觉得模糊可以试试启用 [WindowResizer-old 模组](https://gitee.com/soku-cn/WindowResizer/releases/download/v1.0.3/WindowResizer_1.0.3.zip)，关闭 WindowResizer 模组
+
+4、绝对有效的办法：可以试试关闭所有 WindowResizer 模组，只使用 [Magpie](https://github.com/Blinue/Magpie) 或 LosslessScaling 等外部软件来进行缩放和全屏化
 
 :::
-
+<!-- 
 ::: details WindowResizer-back-2x.ini
 ```
 
@@ -69,3 +73,4 @@ Enabled=1
 
 ```
 :::
+ -->

@@ -55,6 +55,14 @@ SokuPlus改版Mod **[**可以在我的网盘或mod群的群文件内找到 “Mo
 ::::
 
 
+::: details SokuPlus mod 原链接
+- [最初版，Win10不可用](https://hisouten.wordpress.com/2011/02/07/sokuplus/)
+
+- [Alrysc 制作的 SokuPlusLoader，原理是延迟加载一下 SokuPlus.dll 然后就可以在 Win10 用了](https://discord.com/channels/167593473854144512/253944555831820288/1214047106180976672) 
+:::
+
+
+
 ### 0、全体修改
 * 伤害面板: 将 rift 修正为 lift
 * 终结技: 使用超过 4000 伤害带 SC 的连段终结对手时，会改变 BGM
