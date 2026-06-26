@@ -58,20 +58,19 @@ date: 2024-08-23
 ### 已知BUG
 ::: caution 新版ReplayDnD的Rep转mp4视频功能的已知BUG
 
-- 录制 mp4 功能不能和 `SokuDirectXOptimizations` mod 同时使用，会造成录出来的视频以倍速播放的 bug，请关掉 `SokuDirectXOptimizations` mod 再使用录制功能  [**如何开关配置 mod**](/mods/WhatsMod.html)
+- Win7 不能用，会报错，需要 Win10 以上系统
 
-- 文件名以及文件路径不能包括百分号`%`和英文感叹号`!`和`号，否则会发生双击rep文件只打开游戏和不播放rep的情况（ReplayDnD mod没激活就双击rep的话也会这样）
+- 录制 mp4 功能不能和 `SokuDirectXOptimizations` mod 同时使用，否则录出来的视频播放速度非常快，需要关掉 `SokuDirectXOptimizations` mod 再使用录制功能  [**如何开关配置 mod**](/mods/WhatsMod.html)
 
-- Win7不能用，会报错
+- 文件名以及文件路径不能包括百分号`%`和英文感叹号`!`和`号，否则会识别文件错误，发生双击rep文件只打开游戏而不进入rep的情况（ReplayDnD mod没激活就双击rep的话也会这样）
 
-- 打了[Intel 核显特效消失（变成一根线）的补丁](/FAQ/In-Games/MissingGraphic.html)后，使用Rep转mp4功能会报错无法使用
+- 打了[Intel 核显特效消失（变成一根线）的补丁](/FAQ/In-Games/MissingGraphic.html)后，使用Rep转mp4功能会报错无法使用，取消补丁可以使用
 
-- **部分 Nvida 系列显卡可能会有以下情况不能使用，原因和解决办法未知**
-  - 右键点 render 后游戏的标题栏无信息或自动关闭，生成0KB~几十KB的无效mp4文件
+- **可能只有 AMD CPU核显 可以使用这个mod**，而 Nvidia 独立显卡、Intel CPU核显独显、AMD 独立显卡可能会有以下情况不能使用，原因和解决办法未知
   - 点了后录了一小段然后卡死不动
-  - 第一次能正常录制，之后就一直出问题了
-
-- **部分 Intel 系列核显可能会有“右键点 render 后如下图所示报错”的情况不能使用，原因和解决办法未知**
+  - 第一次能正常录制，之后就永远无法正常录制了
+  - 右键点 render 后游戏的标题栏无信息或自动关闭，生成0KB~几十KB的无效mp4文件
+  - 右键点 render 后如下图所示报错
 
 ![图片加载中... =400x](https://bu.dusays.com/2024/06/13/666abd762ca5e.png "可能是 Intel 系列核显就会这样报错")
 
@@ -637,6 +636,8 @@ pause
 
 ## 相关链接
 ::: tip 相关链接
+
+hostlist对战列表 https://list.th123.uno
 
 https://wiki.514.live/mods/AdvancedMods/ReplayDnD.html
 https://www.bilibili.com/opus/942465276772876307
