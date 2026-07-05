@@ -40,6 +40,13 @@ date: 2024-01-07
 
 ### 注意检查游戏更新
 
+::: important 需要下载安装 .Net >= 4.7.2，否则代开更新器 SokuLauncher.exe 会弹窗报错
+
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc1324530d.webp "报错如图1") . ![图片加载中... =400x](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp "报错如图2")
+
+**解决办法：下载安装 [微软 .Net 4.7.2 离线包](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer)**
+
+:::
 
 - 双击 `[ 启动游戏 + 检测更新 ] +Swarm+TSK.bat` 启动游戏，每次打开时会自动检测更新现有 mod
 
