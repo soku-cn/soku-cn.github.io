@@ -16,11 +16,15 @@ date: 2024-01-07
 
 
 ::: info 
-**[**可以在我的网盘或mod群的群文件内找到 “Mod 先行版” 这个文件夹，就在里面了**](/about/)**
+改地图工具-StageChanger 下载：https://1815631964.share.123pan.cn/123pan/scmzVv-C1GVv?pwd=bGHR#
 
 1、改地图工具点开会问你游戏位置，可以不用选，直接取消
+
 2、看图
-3、最终按加号保存，就会有一个 stage 文件夹，里面就是对应文件，打包成 zip 压缩包就可以用 shady-loader 加载了 
+
+3、最终按加号保存，就会有一个 stage 文件夹，里面就是对应的切片png文件
+
+4、可以删掉地图名字的图片，然后全选所有png图片，右键打包成 zip 压缩包（压缩包里不要包含文件夹），就可以放入 shady-loader 里加载了 
 
 
 ![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acdf568cd57.webp "StageChanger使用方法")
