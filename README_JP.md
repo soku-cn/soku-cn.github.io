@@ -1,6 +1,8 @@
 # 非想天則ガイド
 ## 中国コミュニティ「東方非想天則」Wiki✨
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/soku-cn/soku-cn.github.io)
+
 [简体中文](./README.md)
 [English](./README_EN.md)
 [日本語](./README_JP.md)

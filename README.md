@@ -2,6 +2,8 @@
 ## 中文社区「东方非想天则」游戏指南✨
 ## Chinese community Wiki for "Touhou 12.3 Hisoutenoku"✨
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/soku-cn/soku-cn.github.io)
+
 [简体中文](./README.md)
 [English](./README_EN.md)
 [日本語](./README_JP.md)
