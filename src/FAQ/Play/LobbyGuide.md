@@ -190,8 +190,21 @@ AcceptHostlist=1
 ## 游戏ESC返回主菜单时卡住
 
 游戏ESC返回主菜单时卡住为正常，挂在后台稍微等一会儿即可
-::: caution 不要强行关闭游戏，否则可能会造成数据损坏！
+
+::: caution 
+不要强行关闭游戏，否则可能会造成 stats.dat 等数据损坏之后弹窗报错 SokuLobbyError: Cannot load stats.dat Invalid magic
 :::
+
+
+## 在大厅内弹出 Internal Error EOFException WSAGetLastError 10054
+
+可能造成的原因：
+1、未修改机签名字，使用的默认名字 profile1p，此时会被大厅服务器自动切断连接
+ - [如何修改机签名字](/Beginners/BeforePlaying.html#%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E5%89%8D-%E8%AE%BE%E7%BD%AE%E5%A5%BD%E4%BD%A0%E7%9A%84%E6%9C%BA%E7%AD%BE%E5%90%8D-profile-%E3%80%81%E9%94%AE%E4%BD%8D%E3%80%81%E5%8D%A1%E7%BB%84)
+2、自己的网络中断
+3、被管理员手动封禁切断连接
+
+![图片加载中... =500x](https://bu.dusays.com/2026/07/14/6a55cd71ba967.webp " ")
 
 
 ## 大厅进不去，卡加载，红字 Unknown exception
