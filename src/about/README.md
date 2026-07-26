@@ -107,16 +107,16 @@ next: false
 ::: important Discord 非想天则群聊社区
 - [国际群 Hisouten](https://discord.gg/hisouten)
 
-- [台湾群](https://discord.gg/jUN6xnEj3w) 
+- [台湾群 東方非想天則交流群](https://discord.gg/jUN6xnEj3w) 
 
-- [日本群](https://discord.gg/MPbaPbGzmh) 
+- [日本群 なまかわねむの天則交流用🐾](https://discord.gg/MPbaPbGzmh) 
 
-- [另一个国际群 Touhou 12.3，比较偏向欧洲](https://discord.gg/5Uw4N7T) 
+- [另一个国际群 Touhou 12.3 Hisoutensoku 比较偏向欧洲](https://discord.gg/5Uw4N7T) 
   - [法国群 Hisoutensoku FR](https://discord.gg/Nqu4eBV) 
   - [俄罗斯群 Rusouten](https://discord.gg/zCWdZ7ZwEu) 
   - [瑞典群 Touhou Sweden](https://discord.gg/q54YgAA) 
 
-- [澳洲群 格斗游戏社区](https://discord.gg/45HYVwv)  （格斗大群内有个非想天则小群）
+- [澳洲群 Australian Anime Fighting Game Community](https://discord.gg/45HYVwv)  （格斗大群内有个非想天则小群）
 
 - [拉丁美洲群（西班牙语） Sokuway](https://discord.gg/Yetp9qtxT4) 
 - [巴西群（葡萄牙语） Gensou Arena](https://discord.gg/q2XcRh3Dzf) 
