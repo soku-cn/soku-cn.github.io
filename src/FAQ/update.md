@@ -15,7 +15,7 @@ date: 2024-01-14
 
 
 
-::: important 需要下载安装 .Net >= 4.7.2，否则代开更新器 SokuLauncher.exe 会弹窗报错
+::: important Win7用户，需要下载安装 .Net 4.7.2，否则打开 SokuLauncher 更新器会弹窗报错
 
 ![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acc1324530d.webp "报错如图1") . ![图片加载中... =400x](https://bu.dusays.com/2024/11/30/674b2a95a2de5.webp "报错如图2")
 

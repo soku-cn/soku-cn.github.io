@@ -57,6 +57,8 @@ Nemu桑的 Discord 群：https://discord.gg/uTdqCcT57x
 
 看大家是怎么聊天怎么发 IP 的，就学着做就行
 
+[日本则群用语](https://discord.com/channels/836810678597582868/1134651652561961000)
+
 [**油猴脚本——片假名终结者（在网页中的日语外来语上方标注英文原词）**](https://greasyfork.org/zh-CN/scripts/33268-katakana-terminator)
 
 ![图片加载中... =800x](https://bu.dusays.com/2024/10/26/671caed4d6664.webp "进群先新人报道")
