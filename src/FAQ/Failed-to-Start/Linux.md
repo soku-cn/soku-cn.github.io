@@ -17,7 +17,7 @@ Wine 是类 Unix 系统上运行 Windows 程序的兼容层。
 
 以 Debian、Fedora、Ubuntu 为例，你可以安装发行版维护的 Wine 包，也可以安装 WineHQ 提供的包（[Debian](https://wiki.winehq.org/Debian)、[Fedora](https://wiki.winehq.org/Fedora)、[Ubuntu](https://wiki.winehq.org/Ubuntu)），也可以使用 [Lutris](https://github.com/lutris/lutris) 提供的经过了优化的 Wine 包。
 
-运行 `winecfg`，在函数库（`Libraries`）选项卡中添加 `d3d9.dll` 的配置，设为“原装先于内建”（Native then Builtin），之后在非想天则目录里运行 `Wine th123.exe` 以启动游戏。
+运行 `winecfg`，在函数库（`Libraries`）选项卡中添加 `d3d9.dll` 的配置，设为“原装先于内建”（Native then Builtin），之后在非想天则目录里运行 `wine th123.exe` 以启动游戏。
 
 （在确认能够正常运行前请先在虚拟终端中运行，而非直接在文件管理器中点击运行，以便通过日志定位可能存在的问题。）
 
