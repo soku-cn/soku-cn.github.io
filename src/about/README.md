@@ -15,6 +15,14 @@ next: false
 
 :::
 
+::: tip 网页版非想天则，可看观战看rep打练习模式
+
+https://soku.cleista.cc/
+
+:::
+
+
+
 
 ## **非想天则相关资源下载**
 

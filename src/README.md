@@ -19,8 +19,8 @@ actions:
     link: /about/
     type: primary
 
-  - text: 大厅实时对战列表
-    link: /about/lobby
+  - text: 网页版非想天则
+    link: https://soku.cleista.cc/
 
   - text: DeepWiki AI提问搜索
     link: https://deepwiki.com/soku-cn/soku-cn.github.io

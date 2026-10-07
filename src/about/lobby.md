@@ -7,7 +7,15 @@ prev: false
 next: false
 ---
 
-# 当前对战列表(大厅)
+## 网页版非想天则，可看观战看rep打练习模式
+::: tip 
+
+https://soku.cleista.cc/
+
+:::
+
+
+## 当前对战列表(大厅)
 
 <!-- <iframe 
   src="https://list.th123.uno" 
