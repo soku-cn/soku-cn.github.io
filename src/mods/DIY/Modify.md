@@ -1,0 +1,281 @@
+---
+title: 如何制作美化包（替换游戏素材）
+# 标题
+icon: circle-info
+# 图标
+order: 11
+# 数字越小，文章左侧排序越靠上
+editLink: false
+#禁用Github编辑按钮
+author: 三回転Tstar
+#作者
+date: 2025-02-12
+#文章编辑日期
+---
+
+## 下载素材文件和工具包
+
+
+**如果你想上传自己的美化包到 F2 列表上公开，可联系三回（QQ 1434716883）**
+
+::: info 
+
+- [**在网盘里下载**](/about/)
+②其他非想天则相关资源 > 游戏素材、mod 工具 >
+    1、> 游戏素材 > 非想天则解包文件(日文+png).zip
+    2、> 工具包 > 【2024.2.22 美化类mod工具 shady-packer  -附说明】.zip
+    3、> 工具包 > 透明图片.png
+    4、> 工具包 > FDE编辑器 > SokuFramedataEditor-0.3.2-64bits.zip
+
+- **不需要手动解包 th123a.dat 等文件！！**
+
+:::
+
+## 找到自己要替换的文件在哪里
+
+### 素材文件夹结构解析
+::: details 素材文件夹结构解析
+::: info 素材文件夹结构解析
+
+- background：背景地图。
+    通过 [**改地图工具 - StageChanger**](/mods/DIY/StageChanger.html) 来修改游戏背景地图
+
+- battle：**对战界面的 UI**，如血条和伤害面板等贴图。
+
+- bgm：背景音乐。
+    通过 [**改 BGM-BGMChanger**](/mods/AdvancedMods/BGMChanger.html) 来修改游戏 BGM
+
+- card：卡牌的贴图。
+
+- character：角色的 **sprite 贴图**、特效、头像、战斗结束的对话立绘。
+
+- csv：各角色的**卡牌**名称和介绍文本。
+
+- effect：通用的对战特效动画。
+
+- guide：游戏下方的操作提示。
+
+- infoeffect：**天气**的文字图片等。
+
+- menu：各种菜单界面的贴图和布局等。
+
+- number：数字的图片。
+
+- profile：profile改卡组菜单页面内的各种贴图。
+
+- scenario：各角色战斗结束和故事模式的**对话文本**。
+
+- scene：**主菜单**、加载时少女祈祷中贴图、**选人界面**、选地图界面的贴图等。
+
+- se：各种**音效** Sound Effect。非角色专属的音效有一个对照表。
+
+- stand：各角色改卡界面出现的**立绘**，其中 cutin 内的是游戏内使用 SC 时出现的立绘。
+
+- weather：天气的背景天空盒贴图和刮风下雨特效。
+
+:::
+
+### 素材文件类型解析
+::: info 素材文件类型解析
+
+- **.cv2** <---> **.png**：图片文件。
+    可以是带 index 索引格式的图片（结合 palette 配色来使用），也可以是不带索引的 ARGB 格式图片
+    注意！png 图片本身的大小不重要，分辨率才重要，其决定游戏内 cv2 文件和纹理内存大小，过大的分辨率会导致内存巨大浪费甚至游戏崩溃。游戏内640*480尺寸就代表全屏，再大分辨率的图片都没有任何好处！模组开发者请参考原版图片素材的分辨率来制作自己的图片，新建画布把原版的图片拖进来作为基底，然后放自己的新的图上去，这样就不会发生分辨率浪费的情况
+
+
+- **.pal** <---> **.act**：角色的配色皮肤文件。character 文件夹内。
+    - [使用FDE制作角色改色和导入游戏](/mods/DIY/FramedataEditor.html)
+    可通过 FDE 编辑器直接使用 .pal 文件，不需要使用 .act 文件。.act 格式文件和 MUGEN 互通且可被其他图像编辑器使用
+
+- **.dat** <---> **.xml**：UI 布局文件。有以下几个格式
+    - Static: 静态图片
+    - Mutable: 可被游戏代码影响的图片
+    - Horz/Vert Slider: 动态宽高图片
+    - Number: 动态数字图片
+
+- **.pat** <---> **.xml**：角色招式文件。character 文件夹内。
+通过 [FrameDataEditor(FDE)](/mods/DIY/FramedataEditor.html) 可查看和修改角色招式动作信息
+
+- **.cv1** <---> **.csv**：卡组名称和描述。csv 文件夹内。
+    注意汉化包内要保持 GBK 中文编码，不要使用 UTF-8 和 Shift-JS 编码
+
+- **.cv0** <---> **.txt**：角色对话文本。scenario 文件夹内。
+    注意汉化包内要保持 GBK 中文编码，不要使用 UTF-8 和 Shift-JS 编码
+
+- **.cv3** <---> **.wav**：音效文件。
+    **必须为 wav 格式，不能使用 mp3 文件修改文件名后缀来冒充**，可双声道，要求采样率 44100 HZ 或 22050 HZ，16位深度 WAVE PCM 格式（最好不要8位深度）。
+    **替换加载后没声音多半是格式问题或者音量大小问题**
+
+- **.ogg**：BGM 音频文件。bgm 文件夹内。
+    **必须为 ogg 格式，不能使用 mp3 文件修改文件名后缀来冒充**，可双声道。
+    **替换加载后没声音多半是格式问题或者音量大小问题**
+
+- **.sfl** <---> **.lbl**：纯文本文件，可直接编辑。bgm 文件夹内。
+    功能类似于 [改 BGM-BGMChanger](/mods/AdvancedMods/BGMChanger.html)
+    内容有三个数值，是 BGM 的控制参数：前奏、循环体时长、BGM名称。
+    例子： `8.365011	86.667234	st00` （单位：秒）
+    在本例中，BGM st00 会先播放8.365011秒的前奏，然后再播放86.667234秒，之后跳转到8.365011秒的时刻继续循环播放这86.667234秒
+
+::: note
+Q：部分素材不是透明的怎么办
+A：自己在百度B站知乎等搜色度键、绿幕抠图、通道抠图等 PS PR 教程
+
+Q：部分素材没有颜色（美铃、小爱）
+A：游戏内的颜色是代码实现的而不是素材本身的颜色，没办法
+
+Q：部分素材是一张平面的，游戏内是旋转过的
+A：自己看着办
+
+
+![图片加载中... =100x](https://bu.dusays.com/2025/02/12/67ac630fa0915.png "例： data\character\meirin\objectBa006.png")
+
+
+:::
+
+::: tip 推荐的音频编辑工具
+
+- [基于 Web Audio API 实现纯前端的音频处理工具： **Melody Workshop**](https://melody-workshop.rylan.cn/) | [Github](https://github.com/RylanBot/melody-workshop)
+如果没下软件的话，简单的处理操作用线上工具就足够解决了
+
+- 也可以试试这个网站在线转换 **https://convertio.co/zh**
+
+![图片加载中... =400x](https://bu.dusays.com/2024/01/21/65acdb21b4b98.webp " ")
+
+- 或者使用 Audacity、Adobe Audition 等软件
+
+:::
+
+## 举例修改一些文件并制作成美化包
+### 例1、删除图片
+
+::: info 删除图片
+
+即用透明图片替换掉原本的图片，显示不出来那就是删掉了。
+
+[②其他非想天则相关资源 > 游戏素材、mod 工具 > 工具包 > 透明图片.png](/about/)
+
+:::
+
+::: info 制作方法
+1、找到要删除的文件位置，如图是 `data\battle\centerObjectB.png`，则我们将反斜杠改成下划线，得到 `data_battle_centerObjectB.png`，将 `透明图片.png` 文件复制并改名为这个下划线
+
+
+![图片加载中... =600x](https://bu.dusays.com/2025/02/12/67aca966e0010.webp "1、找到要删除的文件位置，路径斜杠改成下划线，作为新图片的文件名")
+
+![图片加载中... =700x](https://bu.dusays.com/2025/02/12/67acaa51e370d.webp "透明图片替换")
+
+![图片加载中... =200x](https://bu.dusays.com/2025/02/12/67acaf1ca1148.webp "`透明图片.png` 改名为 `data_battle_centerObjectB.png`，放入 `th123/modules/shady-loader/test` 内")
+
+2、打开 `th123/modules/shady-loader` 文件夹，新建一个文件夹例如 test，然后把这个 `data_battle_centerObjectB.png` 文件名的透明文件放入 test 文件夹中，打开游戏进入 F2 菜单启用 test 包，之后进入对战，可以看到 UI 中这个框已经没了，就实现了删除图片
+
+![图片加载中... =800x](https://bu.dusays.com/2025/02/12/67acaebeae63b.webp "成果展示")
+
+3、如图，按 Ctrl+A 把所有文件全选，右键打包成 zip 压缩包，就可以方便作为美化包发给别人了。
+
+![图片加载中... =700x](https://bu.dusays.com/2025/02/12/67acb6b188e95.webp " ")
+
+
+:::
+
+
+
+
+## 关于修改对战结束后的角色立绘等非英文名的文件
+:::: details 关于修改对战结束后的角色立绘等非英文名的文件
+
+
+- [**Shady-Loader Lua 编程示例**](https://docs.qq.com/aio/DR25tUFNLRkhpY2lS?p=W0IYddrsKfOgW5MSxkO2MR)
+- Mod 交流群 200803640，实在不行可以到群里讨论
+
+由于zip内无法读取到这些非英文名的文件，所以我们需要使用 lua 工具给这些文件取个别名
+以及在某个文件可以重复使用的情况下，我们也可以使用别名来一文件多用，而不需要复制多个文件来逐一替换
+
+新建文本文件改名为 `init.lua`，在其中按照需求添加 lua 代码即可，代码例子如下
+
+
+![图片加载中... =400x](https://bu.dusays.com/2024/03/16/65f59babbf61c.png " ")
+
+
+1. 晧 = 負 = lose；战败
+2. 娋 = 汗 = sweat；流汗，无语
+3. 搟 = 怒 = angry；生气
+4. 嬃 = 驚 = surprise；惊讶
+5. 梋 = 余 = confident；自信，优越
+6. 榝 = 惑 = confuse；怀疑，不解
+7. 晛 = 普 = normal；普通立绘
+8. 寛 = 決 = attack；一般和释放符卡的立绘差不多，战斗姿态
+9. 婐 = 嬉 = happy；笑颜
+
+
+
+::: details lua一文件重复利用例子
+```lua
+loader.removeFile("data_character_komachi_bulletCa000.png")
+loader.addAlias("data_character_komachi_bulletCa000.png",
+    string.format("data_character_youmu_objectAa000-%03d.png", info.teamId))
+-- 使用妖梦的麻薯贴图，作为小町的幽灵贴图，它们是一模一样的，这样就不必额外复制一份幽灵贴图给小町了
+```
+:::
+
+::: details lua一维数组例子，多个音效改成同一个音效
+```lua
+-- 一维数组 UTF-8  init.lua
+local Path0 = "data_se_alice_%s.wav"
+local Aminos = {"035","026"}
+function replaceAll(name, xxx)
+		for e = 1, #xxx do
+			local path1 = string.format(Path0, xxx[e])
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name))
+		end
+	end
+-----------------------------------------------------------------------
+replaceAll("Aminos", Aminos)
+```
+:::
+
+::: details lua二维数组例子，修改对话立绘
+```lua
+-- 二维数组例子，修改对话立绘 UTF-8  init.lua
+local Path0 = "data_character_%s_stand_%s.png"
+local Dict = {
+	lose	= "\x95\x89",--負
+	sweat	= "\x8A\xBE",--汗
+	angry	= "\x93\x7B",--怒
+	surprise	= "\x8B\xC1",--驚
+	confident="\x97\x5D",--余
+	confuse	= "\x98\x66",--惑
+	normal	= "\x95\x81",--普
+	attack	= "\x8C\x88",--決
+	happy	= "\x8A\xF0",--嬉
+}
+local function replaceAll(name, selc)
+	if type(name)=="number" then name = soku.characterName(name) end
+	if type(selc)=="table" then
+		for i,e in pairs(selc) do
+			local path1 = string.format(Path0, name, Dict[e])
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name, e))
+		end
+	else
+		for e,j in pairs(Dict) do
+			local path1 = string.format(Path0, name, j)
+			loader.removeFile(path1)
+			loader.addAlias(path1, string.format(Path0, name, e))
+		end
+	end	
+end
+-----------------------------------------------------------------------
+-- 不可在游戏启动时执行 loader replace 操作，需要 id~=0 时再执行
+-- 无代码情况下直接用英文 lose 作为文件名无效，文件名搭配代码才行
+--replaceAll(soku.Character.Meiling) -- 不带指定时则全部替换，缺少了也不报错
+--replaceAll("meirin", {"lose", "sweat"}) -- 指定只替换哪些表情
+--replaceAll("meirin")  -- 游戏内名字，加双引号  meirin udonge chirno
+
+	for a=0,19 do
+	replaceAll(a) -- 替换所有角色
+	end
+	
+```
+:::
+::::

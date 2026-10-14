@@ -1,0 +1,114 @@
+---
+title: 如何线下联机打则
+# 标题
+icon: circle-info
+# 图标
+order: 3
+# 数字越小，文章左侧排序越靠上
+editLink: false
+#禁用Github编辑按钮
+author: 三回転Tstar
+#作者
+date: 2025-07-27
+#文章编辑日期
+---
+
+## 视频教程
+
+::: info 视频教程
+
+[**【⑨都能看懂的线下非想天则联机教程-哔哩哔哩】**](https://www.bilibili.com/video/BV1QU411d7P8)
+
+:::
+::: warning 注意，线下联机进入 NETWORK 后，按 S 键退出大厅界面切换回原版菜单
+
+
+![图片加载中... =600x](https://bu.dusays.com/2024/01/21/65acb556e19fb.webp "按 S 键切换回原版菜单，或者关掉大厅 SokuLobbies Mod")
+
+
+:::
+
+
+
+
+## 图文教程
+
+
+::: important 第一步：关掉 Windows 防火墙
+
+按 `Win+S` 快捷键，搜索并打开 控制面板
+
+![图片加载中... =900x](https://bu.dusays.com/2024/01/21/65acbef5331e0.webp "关闭防火墙")
+
+
+:::
+
+::: info 如何线下联机打则
+
+- 首先使用网线直接互联两台电脑，按 `Win+R` 快捷键，输入 `ncpa.cpl` 回车，或者 网络和Internet设置 里点 “更改适配器选项”
+
+- 找到 ==以太网==，此时它不显示为 “网络电缆已拔出” 则 OK。
+  - 若显示为 “网络电缆已拔出”，可能的原因：网线没插紧接触不良、网线坏了、电脑的网络接口坏了
+
+::: tabs
+@tab 方法一：通过网线直连两台电脑
+::: tip 方法一：通过网线直连两台电脑
+
+- 双击点开 “以太网”，再双击 “Internet协议版本4”，把“自动获取IP地址”改成“手动设置IP地址”，并按如下设置IP地址
+  - A 电脑当 1P，设置 IP 地址 `192.168.1.100`，网关可以留空
+  - B 电脑当 2P，设置 IP 地址 `192.168.1.101`，网关要设置为 `192.168.1.100`，即 A 电脑的 IP 地址
+  - 两台电脑的 DNS 全都不需要设置
+- 设置完毕后，A 电脑 搜索打开 `cmd`，输入 `ping 192.168.1.101`，看看能不能 ping 通，**如果无法 ping 通，可以将两台电脑的 以太网 右键禁用，然后再启用**，能 ping 通就可以联机
+
+
+> **切记！线下打完了以后，记得要 ==把 “手动设置 IP” 改回“自动获取 IP”，否则会无法联网==**
+
+![图片加载中... =800x](https://bu.dusays.com/2024/10/26/671caa614d79e.webp "以太网，也叫本地连接")
+
+![图片加载中... =800x](https://bu.dusays.com/2024/01/21/65acbc2fa7e61.webp "手动设置 IP")
+
+![图片加载中... =600x](https://bu.dusays.com/2024/10/26/671c9c9780941.webp "线下联机用这个选项更方便，如果是线上用 swarm 玩则不要用这个方式")
+
+
+
+
+@tab 方法二：通过路由器连接两台电脑
+::: tip 方法二：通过路由器连接两台电脑
+
+> [!caution]
+> **不能用手机开热点，然后两台电脑连到同一个热点上，这是无法互相联机的，热点自带有网络分段AP隔离**
+
+通过同一个 路由器 或 WIFI 连接两台电脑，确保两台电脑处于同一个局域网内（有线无线都可以）
+
+- 分别在两台电脑上 `Win+R` 输入 `cmd`
+
+- 在黑框内输入 `ipconfig`，查看对应网络 `以太网适配器 以太网` 或 `无线局域网适配器 WLAN` 下的 `IPv4 地址`
+
+- **检查双方的 ==默认网关== 是否相同，相同才是属于同一局域网内**
+
+- 尝试 `ping 对方电脑的 IPv4 地址`，**如果无法 ping 通，可以将两台电脑的 以太网 右键禁用，然后再启用**，能 ping 通就可以联机
+
+- 如图，若 A电脑的 IP 显示为 `192.168.31.121` 使用默认 `10800` 端口建立主机，那么 B电脑就可以使用 `192.168.31.121:10800` 来连接 A电脑
+
+![图片加载中... =800x](https://bu.dusays.com/2024/01/21/65acbede3a8ff.webp "ipconfig 查看本机IP")
+
+
+
+
+@tab 方法三：在一台电脑上用两个键盘玩游戏
+::: tip 方法三：在一台电脑上用两个键盘玩游戏
+
+使用软件 **Keyboard Splitter**（将第二个键盘虚拟成手柄，或者你本身就有手柄） 
+
+- **注意要给模拟键盘玩家的机签 Profile 重新设置键位。**
+
+- [**软件下载链接（汉化版 by 鱼的千千，内含使用说明）**](https://www.123pan.com/s/scmzVv-EnA6v.html) | [**Keyboard Splitter原Github地址**](https://github.com/djlastnight/KeyboardSplitterXbox/)
+
+- 详细的还可以看我 [**2V2 说明里的部分**](https://docs.qq.com/aio/p/sckx6x9a9t2qquv)
+
+![图片加载中... =600x](https://bu.dusays.com/2024/04/05/660f77d6974cf.gif "KeyboardSplitter 模拟键盘使用方法.gif")
+
+> 参考：
+> [《格斗游戏本地键盘双人，多个键盘分别模拟多个控制器，KeyboardSplitter 软件使用演示 Keyboard Splitter Xbox](https://www.bilibili.com/video/BV1hT411h7uw/)
+> [《Touhou How To : Multiplayer with 2 keyboards on same PC》](https://www.youtube.com/watch?v=_hvoFs_amT8)
+:::
