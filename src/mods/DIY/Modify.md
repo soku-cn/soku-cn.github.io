@@ -111,7 +111,7 @@ date: 2025-02-12
     **替换加载后没声音多半是格式问题或者音量大小问题**
 
 - **.sfl** <---> **.lbl**：纯文本文件，可直接编辑。bgm 文件夹内。
-    功能类似于 [改 BGM-BGMChanger](/mods/AdvancedMods/BGMChanger.html)
+    功能类似于 [改BGM-BGMChangerm模组](/mods/AdvancedMods/BGMChanger.html)
     内容有三个数值，是 BGM 的控制参数：前奏、循环体时长、BGM名称。
     例子： `8.365011	86.667234	st00` （单位：秒）
     在本例中，BGM st00 会先播放8.365011秒的前奏，然后再播放86.667234秒，之后跳转到8.365011秒的时刻继续循环播放这86.667234秒
