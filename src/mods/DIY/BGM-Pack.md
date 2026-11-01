@@ -38,10 +38,11 @@ loop  3884593 / 44100 = 88.0860991
 33.2509977  88.0860991  op2
 ```
 
-以及把 `xxxxxx.ogg` 改名为 `data_bgm_op2.ogg`，然后和 `data_bgm_op2.lbl` 文件一起打包放入 Shady-Loader 内加载，就可以替换主菜单BGM了
-**游戏内的 BGM 音量记得打开**
-==**游戏内的 BGM 音量记得打开**==
-**游戏内的 BGM 音量记得打开**
+以及把 `xxxxxx.ogg` 改名为 `data_bgm_op2.ogg`，然后和 `data_bgm_op2.lbl` 文件一起打包放入 Shady-Loader 内加载，就可以替换主菜单BGM了  
+
+**游戏内的 BGM 音量记得打开**  
+==**游戏内的 BGM 音量记得打开**==  
+**游戏内的 BGM 音量记得打开**  
 
 
 ::: note 易错点
