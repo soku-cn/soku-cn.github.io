@@ -1,7 +1,7 @@
 # 非想天則ガイド
 ## 中国コミュニティ「東方非想天則」Wiki✨
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/soku-cn/soku-cn.github.io)
+[[Ask DeepWiki]](https://deepwiki.com/soku-cn/soku-cn.github.io)
 
 [简体中文](./README.md)
 [English](./README_EN.md)
@@ -11,8 +11,6 @@
 ---
 
 - [推奨]：[自動振り分け](https://wiki.514.live/) 最速のサーバーを自動で選択します。
-
-- 中国国内ネットワーク：~~[Gitee Pagesはサービス終了しました](https://soku-cn.gitee.io)~~ [香港ミラーサイト](https://3322428.xyz)
 
 - グローバルネットワーク：[[**推奨**]Vercel](https://hisoutensoku-cn-wiki.vercel.app) | [Github Pages](https://soku-cn.github.io)
 
