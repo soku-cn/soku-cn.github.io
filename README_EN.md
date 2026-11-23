@@ -1,7 +1,7 @@
 # Hisoutensoku Guide
 ## Chinese community Wiki for "Touhou 12.3 Hisoutenoku"✨
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/soku-cn/soku-cn.github.io)
+[[Ask DeepWiki]](https://deepwiki.com/soku-cn/soku-cn.github.io)
 
 [简体中文](./README.md)
 [English](./README_EN.md)
